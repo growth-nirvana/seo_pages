@@ -54,3 +54,9 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - bin/
+  - Procfile.dev
+  - package.json
+  - postcss.config.js
+  - tailwind.config.js
+  - yarn.lock
+  - yarn-error.log

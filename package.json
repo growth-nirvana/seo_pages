@@ -1,7 +1,6 @@
 {
   "name": "seo_pages",
   "version": "1.0.0",
-  "main": "index.js",
   "repository": "git@github.com:growth-nirvana/seo_pages.git",
   "author": "Juan Manuel Ramallo <juanmanuelramallo@hey.com>",
   "license": "MIT",

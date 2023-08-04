@@ -1,0 +1,35 @@
+- name: Why Growth Nirvana
+  links:
+    - name: Full funnel reporting
+      url: /full-funnel-reporting/
+    - name: Customized white label dashboards/
+      url: /customized-white-label-dashboards/
+    - name: Custom connectors
+      url: /custom-connectors/
+    - name: Bad data detection
+      url: /bad-data-detection/
+- name: Solutions
+  links:
+    - name: By Role
+    - name: PPC
+      url: /ppc/
+    - name: SEO
+      url: /seo/
+    - name: Social Media
+      url: /social-media/
+
+    - name: By Industry
+    - name: Marketing Agencies
+      url: /marketing-agencies/
+    - name: SaaS
+      url: /saas/
+    - name: eCommerce
+      url: /ecommerce/
+- name: Resources
+  links:
+    - name: Blog
+      url: /blog/
+    - name: Glossary
+      url: /glossary/
+    - name: Case Studies
+      url: /case-studies/

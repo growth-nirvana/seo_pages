@@ -3,7 +3,11 @@ module.exports = {
     "_site/**/*.html",
     "_site/*.html"
   ],
-  theme: {},
+  theme: {
+    fontFamily: {
+      'sans': ['Rubik', 'sans-serif', 'system-ui']
+    }
+  },
   plugins: [
     require('@tailwindcss/typography')
   ],

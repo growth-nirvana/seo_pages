@@ -3,6 +3,15 @@ layout: connector
 title:  "LinkedIn Connector"
 date:   2023-08-04 12:33:59 -0300
 categories: connectors
----
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+sections:
+  overview:
+    title: |
+      LinkedIn Data
+      Connector
+    description: >-
+      Create in-depth user engagement report on your posts, comments,
+      and company updates on your LinkedIn channels. Generate reports
+      to measure LinkedIn ads performance.
+    image_url: /assets/images/data-studio-connector-to-linkedin.webp
+---

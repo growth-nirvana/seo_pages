@@ -2,23 +2,50 @@
 layout: default
 ---
 
-<div class="bg-white py-20 px-8 container mx-auto">
-  <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-    <div class="flex flex-col justify-center">
-      <h1 class="font-bold text-6xl">
-        {{ page.sections.overview.title | newline_to_br }}
-      </h1>
+<div class="bg-white">
+  <div class="py-20 px-8 container mx-auto">
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+      <div class="flex flex-col justify-center">
+        <h1 class="font-bold text-6xl text-gray-800">
+          {{ page.sections.overview.title | newline_to_br }}
+        </h1>
 
-      <p class="mt-6 text-lg">
-        {{ page.sections.overview.description | newline_to_br }}
-      </p>
+        <p class="mt-6 text-lg">
+          {{ page.sections.overview.description | newline_to_br }}
+        </p>
 
-      <p class="mt-10">
+        <p class="mt-10">
         <a href="/schedule-demo" class="btn btn-primary">Schedule Demo</a>
-      </p>
+        </p>
+      </div>
+      <div class="flex flex-row justify-center">
+        <img src="{{ page.sections.overview.image_url }}" alt="Overview" class="max-h-[570px]">
+      </div>
     </div>
-    <div class="flex flex-row justify-center">
-      <img src="{{ page.sections.overview.image_url }}" alt="Overview" class="max-h-[570px]">
+  </div>
+</div>
+
+<div class="bg-neutral-100">
+  <div class="py-20 px-8 container mx-auto">
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+      <div class="flex flex-row justify-center">
+        <img src="{{ page.sections.body.image_url }}" alt="Body" class="max-h-[570px]">
+      </div>
+      <div class="flex flex-col justify-center">
+        <h1 class="font-semibold text-5xl text-gray-800">
+          {{ page.sections.body.title | newline_to_br }}
+        </h1>
+
+        <p class="mt-6 text-lg">
+          {{ page.sections.body.description | newline_to_br }}
+        </p>
+
+        <p class="mt-10">
+          <a href="/schedule-demo" class="btn-underline btn-underline-primary">
+            Book a Demo {% include icons/chevron-right.svg class="inline" %}
+          </a>
+        </p>
+      </div>
     </div>
   </div>
 </div>

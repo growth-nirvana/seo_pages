@@ -10,4 +10,12 @@
   .btn-primary {
     @apply bg-[#ff008a];
   }
+
+  .btn-underline {
+    @apply border-b-2 border-blue-500 text-blue-500 py-3 font-semibold inline-block;
+  }
+
+  .btn-underline-primary {
+    @apply border-[#ff008a] text-[#ff008a];
+  }
 }

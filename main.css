@@ -8,7 +8,7 @@
   }
 
   .btn-primary {
-    @apply bg-[#ff008a];
+    @apply bg-primary;
   }
 
   .btn-underline {
@@ -16,6 +16,6 @@
   }
 
   .btn-underline-primary {
-    @apply border-[#ff008a] text-[#ff008a];
+    @apply border-primary text-primary;
   }
 }

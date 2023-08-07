@@ -23,7 +23,7 @@ email: jesse.ocon@growthnirvana.com
 description: >- # this means to ignore newlines until "baseurl:"
   Stop waiting for other departments to get the data you need to make critical business decisions.
   Take control of the insights that will grow your business.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/connectors" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
 github_username: ""

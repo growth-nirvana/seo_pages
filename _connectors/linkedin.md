@@ -1,5 +1,6 @@
 ---
 layout: connector
+permalink: linkedin
 title:  "LinkedIn Connector"
 date:   2023-08-04 12:33:59 -0300
 categories: connectors
@@ -12,7 +13,7 @@ sections:
       Create in-depth user engagement report on your posts, comments,
       and company updates on your LinkedIn channels. Generate reports
       to measure LinkedIn ads performance.
-    image_url: /assets/images/linkedin-overview.webp
+    image_url: /connectors/assets/images/linkedin-overview.webp
 
   body:
     title: >-
@@ -21,7 +22,5 @@ sections:
     description: >-
       Track number of followers, follower industry, page views, leads,
       cost per lead (CPL), and much, much more.
-    image_url: /assets/images/linkedin-body.webp
-
-
+    image_url: /connectors/assets/images/linkedin-body.webp
 ---

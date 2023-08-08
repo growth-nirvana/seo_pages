@@ -1,31 +1,33 @@
-<header class="py-3 px-8 shadow-sm z-10">
-  <div class="container mx-auto flex flex-row justify-between ">
-    <div>
+<header class="py-2.5 px-8 shadow-sm z-10">
+  <div class="container mx-auto flex max-w-7xl mx-auto">
+    <div class="flex items-center">
       <a href="/">
-        <img src="{{ site.baseurl }}/assets/images/logo-dark.png" alt="Growht Nirvana" class="h-9">
+        <img src="{{ site.baseurl }}/assets/images/logo-dark.png" alt="Growth Nirvana" class="h-10">
       </a>
     </div>
 
-    <div class="gap-4 flex flex-row">
-      {% for item in site.data.navigation %}
-        <div class="flex flex-col justify-center group">
-          <p class="text-gray-800 font-semibold">{{ item.name }}</p>
+    <div class="flex w-4/5 justify-end">
+      <div class="gap-4 flex flex-row">
+        {% for item in site.data.navigation %}
+          <div class="flex flex-col justify-center group">
+            <p class="text-gray-800 font-semibold">{{ item.name }}</p>
 
-          <div class="opacity-0 hidden group-hover:block group-hover:opacity-100 absolute top-14 bg-white shadow-md rounded">
-            <div class="p-3 flex flex-col gap-4">
-              {% for link in item.links %}
-                {% if link.url %}
-                  <a href="{{ link.url }}" class="text-gray-800 font-semibold">{{ link.name }}</a>
-                {% else %}
-                  <p class="font-bold">{{ link.name }}</p>
-                {% endif %}
-              {% endfor %}
+            <div class="opacity-0 hidden group-hover:block group-hover:opacity-100 absolute top-14 bg-white shadow-md rounded">
+              <div class="p-3 flex flex-col gap-4">
+                {% for link in item.links %}
+                  {% if link.url %}
+                    <a href="{{ link.url }}" class="text-gray-800 font-semibold">{{ link.name }}</a>
+                  {% else %}
+                    <p class="font-bold">{{ link.name }}</p>
+                  {% endif %}
+                {% endfor %}
+              </div>
             </div>
           </div>
-        </div>
-      {% endfor %}
+        {% endfor %}
 
-      <a href="/schedule-demo" class="btn btn-primary">Start Your 30-day Free Trial</a>
+        <a href="/schedule-demo" class="btn btn-primary">Start Your 30-day Free Trial</a>
+      </div>
     </div>
   </div>
 </header>

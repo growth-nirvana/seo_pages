@@ -6,6 +6,11 @@ module.exports = {
   theme: {
     fontFamily: {
       'sans': ['Rubik', 'sans-serif', 'system-ui']
+    },
+    extend: {
+      colors: {
+        'primary': '#ff008a',
+      }
     }
   },
   plugins: [

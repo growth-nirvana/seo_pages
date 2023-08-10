@@ -11,9 +11,9 @@ class Run
     @connectors.keys.each do |connector|
       Generator.new(
         connector,
-        connector["fivetran_id"],
-        connector["overview"]["description"],
-        connector["body"]["description"]
+        @connectors[connector]["fivetran_id"],
+        @connectors[connector]["overview"]["description"],
+        @connectors[connector]["body"]["description"]
       ).generate
     end
   end

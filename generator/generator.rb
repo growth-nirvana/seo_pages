@@ -1,4 +1,6 @@
 require "json"
+require "erb"
+require "date"
 
 class Generator
   attr_reader :name, :fivetran_id, :permalink, :destination_path, :overview_description, :body_description
@@ -10,7 +12,6 @@ class Generator
   def initialize(name, fivetran_id, overview_description, body_description)
     @name = name
     @fivetran_id = fivetran_id
-    # path where the connector will be generated. i.e. google_ads.md, facebook_ads.md
     @destination_path = "../_connectors/#{fivetran_id}.md"
     @overview_description = overview_description
     @body_description = body_description
@@ -24,13 +25,14 @@ class Generator
       puts "File #{destination_path} already exists"
     else
       File.open(destination_path, 'w') do |f|
-        ERB.new(File.read("./templates.md.erb")).result_with_hash(
-          name: name,
-          # permalink of the connector to generate. i.e. gads, facebook_ads
-          permalink: fivetran_id,
-          destination_path: destination_path,
-          overview_description: overview_description,
-          body_description: body_description
+        f.write(
+          ERB.new(File.read("./template.md.erb")).result_with_hash(
+            name: name,
+            date: Date.today,
+            permalink: fivetran_id,
+            overview_description: overview_description,
+            body_description: body_description
+          )
         )
       end
     end

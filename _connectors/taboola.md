@@ -1,0 +1,42 @@
+---
+layout: connector
+title:  "Taboola Connector"
+date:   2023-08-10
+categories: connectors
+permalink: connectors/taboola
+
+sections:
+  overview:
+    title: >-
+      Taboola Data Connector
+    description: Enhance your content discovery insights with Taboola integration. Seamlessly merge content discovery data from Taboola with Looker Studio's analytical capabilities, unlocking insights that shape content strategies, audience engagement, and operational excellence.
+    image_url: /assets/images/overview.webp
+
+  body:
+    title: >-
+      Visualize Your Taboola channel data with Growth Nirvana's
+      Taboola Connector
+    description: Amplify your content discovery strategies with Taboola insights integrated into Looker Studio.
+    image_url: /assets/images/body.webp
+  steps_to_connect:
+    title: Steps to connect
+    steps:
+      - title: "Step 1"
+        description: Login to your Taboola account
+      - title: "Step 2"
+        description: Authorize the Taboola connection to send data to Growth Nirvana
+      - title: "Step 3"
+        description: Share your dashboard requirements with our data team. We will build the report for you.
+    image_url: /assets/images/steps-to-connect.webp
+  faq:
+    title: FAQs
+    questions:
+      - title: How can I connect my Taboola data to Google Data Studio/Looker Studio?
+        answer: Growth Nirvana offers a straightforward no-code interface to connect to Taboola data sources.
+      - title: How can I generate Taboola data reports in Looker Studio?
+        answer: >-
+          With the help of Growth Nirvana, you can import live data from Taboola into Looker Studio. These data can be viewed in charts, tables, and dashboards to generate branded reports that can be shared instantly.
+      - title: What are the requirements for connecting Taboola and Looker Studio?
+        answer: >-
+          For connecting the two platforms, you should have: Growth Nirvana Account and Taboola Ads Account
+---

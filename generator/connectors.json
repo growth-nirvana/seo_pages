@@ -5,7 +5,8 @@
     },
     "body": {
       "description": "Unleash the potential of 360Learning's insights in Looker Studio, forging a path to enhanced learning strategies."
-    }
+    },
+    "fivetran_id": "360learning"
   },
   "ActiveCampaign": {
     "overview": {
@@ -13,7 +14,8 @@
     },
     "body": {
       "description": "Empower your marketing initiatives through ActiveCampaign insights harnessed within Looker Studio's analytical environment."
-    }
+    },
+    "fivetran_id": "activecampaign"
   },
   "Ada": {
     "overview": {
@@ -21,7 +23,8 @@
     },
     "body": {
       "description": "Ada and Looker Studio converge to redefine customer support, where AI meets insights for unparalleled service."
-    }
+    },
+    "fivetran_id": "ada"
   },
   "Adjust": {
     "overview": {
@@ -29,7 +32,8 @@
     },
     "body": {
       "description": "Empower your app strategy through Adjust's data integrated seamlessly into Looker Studio's analytical landscape."
-    }
+    },
+    "fivetran_id": "adjust"
   },
   "Adobe Analytics": {
     "overview": {
@@ -37,7 +41,8 @@
     },
     "body": {
       "description": "Experience the synergy of Adobe Analytics and Looker Studio, where data-driven decisions become the cornerstone of your success."
-    }
+    },
+    "fivetran_id": "adobe_analytics"
   },
   "Adobe Analytics Data Feed": {
     "overview": {
@@ -45,7 +50,8 @@
     },
     "body": {
       "description": "Merge the dynamic insights from Adobe Analytics Data Feed with Looker Studio, and supercharge your decision-making."
-    }
+    },
+    "fivetran_id": "adobe_analytics_data_feed"
   },
   "ADP Workforce Now": {
     "overview": {
@@ -53,7 +59,8 @@
     },
     "body": {
       "description": "Unlock the true potential of your workforce insights by integrating ADP Workforce Now with Looker Studio's data-driven capabilities."
-    }
+    },
+    "fivetran_id": "adp_workforce_now"
   },
   "AdRoll": {
     "overview": {
@@ -61,7 +68,8 @@
     },
     "body": {
       "description": "Amplify your marketing strategies with AdRoll data seamlessly integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "adroll"
   },
   "Aircall": {
     "overview": {
@@ -69,7 +77,8 @@
     },
     "body": {
       "description": "Elevate communication intelligence as Aircall's insights converge with Looker Studio's analytical capabilities."
-    }
+    },
+    "fivetran_id": "aircall"
   },
   "Airtable": {
     "overview": {
@@ -77,7 +86,8 @@
     },
     "body": {
       "description": "Unlock the potential of organized data by integrating Airtable with Looker Studio, where insights transform into actions."
-    }
+    },
+    "fivetran_id": "airtable"
   },
   "Alchemer": {
     "overview": {
@@ -85,7 +95,8 @@
     },
     "body": {
       "description": "Uncover deeper insights from customer feedback by integrating Alchemer with Looker Studio's analytical power."
-    }
+    },
+    "fivetran_id": "alchemer"
   },
   "Amazon Ads": {
     "overview": {
@@ -93,7 +104,8 @@
     },
     "body": {
       "description": "Fuel your marketing campaigns with Amazon Ads insights integrated seamlessly into Looker Studio."
-    }
+    },
+    "fivetran_id": "amazon_ads"
   },
   "Amazon CloudFront": {
     "overview": {
@@ -101,7 +113,8 @@
     },
     "body": {
       "description": "Empower web performance insights by integrating Amazon CloudFront with Looker Studio's analytical prowess."
-    }
+    },
+    "fivetran_id": "cloudfront"
   },
   "Amazon DocumentDB": {
     "overview": {
@@ -109,7 +122,8 @@
     },
     "body": {
       "description": "Unlock the potential of your data storage with Amazon DocumentDB integrated into Looker Studio's analytics environment."
-    }
+    },
+    "fivetran_id": "documentdb"
   },
   "Amazon Kinesis Firehose": {
     "overview": {
@@ -117,7 +131,8 @@
     },
     "body": {
       "description": "Integrate Amazon Kinesis Firehose with Looker Studio for a real-time data experience that fuels instant decision-making."
-    }
+    },
+    "fivetran_id": "kinesis"
   },
   "Amazon S3": {
     "overview": {
@@ -125,7 +140,8 @@
     },
     "body": {
       "description": "Unleash the potential of Amazon S3 data within Looker Studio, for data-driven strategies that make an impact."
-    }
+    },
+    "fivetran_id": "s3"
   },
   "Amplitude": {
     "overview": {
@@ -133,7 +149,8 @@
     },
     "body": {
       "description": "Combine Amplitude with Looker Studio to create a data-driven foundation for decision-making."
-    }
+    },
+    "fivetran_id": "amplitude"
   },
   "Analytics": {
     "overview": {
@@ -141,7 +158,8 @@
     },
     "body": {
       "description": "Maximize the potential of your analytical insights by integrating Analytics with Looker Studio's data visualization prowess."
-    }
+    },
+    "fivetran_id": "fivetran_log"
   },
   "Anaplan": {
     "overview": {
@@ -149,7 +167,8 @@
     },
     "body": {
       "description": "Integrate Anaplan with Looker Studio to pave the way for strategic planning powered by data insights."
-    }
+    },
+    "fivetran_id": "anaplan"
   },
   "Apache Kafka": {
     "overview": {
@@ -157,7 +176,8 @@
     },
     "body": {
       "description": "Amplify your real-time insights by integrating Apache Kafka with Looker Studio's analytical capabilities."
-    }
+    },
+    "fivetran_id": "apache_kafka"
   },
   "Apple App Store": {
     "overview": {
@@ -165,7 +185,8 @@
     },
     "body": {
       "description": "Harness the power of Apple App Store insights within Looker Studio to drive informed decisions and app success."
-    }
+    },
+    "fivetran_id": "itunes_connect"
   },
   "Apple Search Ads": {
     "overview": {
@@ -173,7 +194,8 @@
     },
     "body": {
       "description": "Boost app visibility and performance through the convergence of Apple Search Ads and Looker Studio insights."
-    }
+    },
+    "fivetran_id": "apple_search_ads"
   },
   "AppsFlyer": {
     "overview": {
@@ -181,7 +203,8 @@
     },
     "body": {
       "description": "Supercharge your app's success by integrating AppsFlyer data with Looker Studio's analytical capabilities."
-    }
+    },
+    "fivetran_id": "appsflyer"
   },
   "Asana": {
     "overview": {
@@ -189,7 +212,8 @@
     },
     "body": {
       "description": "Elevate your project management through the integration of Asana with Looker Studio's analytical capabilities."
-    }
+    },
+    "fivetran_id": "asana"
   },
   "Assembled": {
     "overview": {
@@ -197,7 +221,8 @@
     },
     "body": {
       "description": "Integrate Assembled with Looker Studio for data-driven scheduling and performance analysis that drives operational excellence."
-    }
+    },
+    "fivetran_id": "assembled"
   },
   "Aurora MySQL": {
     "overview": {
@@ -205,7 +230,8 @@
     },
     "body": {
       "description": "Unleash the potential of your database with Aurora MySQL integrated into Looker Studio's analytics environment."
-    }
+    },
+    "fivetran_id": "aurora"
   },
   "Aurora Postgres": {
     "overview": {
@@ -213,7 +239,8 @@
     },
     "body": {
       "description": "Integrate Aurora Postgres with Looker Studio for comprehensive database insights that shape your strategies."
-    }
+    },
+    "fivetran_id": "aurora_postgres"
   },
   "AWS CloudTrail": {
     "overview": {
@@ -221,7 +248,8 @@
     },
     "body": {
       "description": "Empower your AWS management through the integration of AWS CloudTrail with Looker Studio's analytical capabilities."
-    }
+    },
+    "fivetran_id": "aws_cloudtrail"
   },
   "AWS Inventory": {
     "overview": {
@@ -229,7 +257,8 @@
     },
     "body": {
       "description": "Harness the power of AWS Inventory insights integrated into Looker Studio, where cloud resource management meets data-driven strategies."
-    }
+    },
+    "fivetran_id": "aws_inventory"
   },
   "AWS Lambda": {
     "overview": {
@@ -237,7 +266,8 @@
     },
     "body": {
       "description": "Integrate AWS Lambda insights into Looker Studio for comprehensive serverless analytics that shape your operational strategies."
-    }
+    },
+    "fivetran_id": "aws_lambda"
   },
   "AWS MSK": {
     "overview": {
@@ -245,7 +275,8 @@
     },
     "body": {
       "description": "Integrate AWS MSK with Looker Studio for real-time data experiences that fuel rapid decision-making."
-    }
+    },
+    "fivetran_id": "aws_msk"
   },
   "Azure Blob Storage": {
     "overview": {
@@ -253,7 +284,8 @@
     },
     "body": {
       "description": "Unleash the potential of Azure Blob Storage data within Looker Studio, for data-driven strategies that make an impact."
-    }
+    },
+    "fivetran_id": "azure_blob_storage"
   },
   "Azure Cosmos DB - NoSQL API": {
     "overview": {
@@ -261,7 +293,8 @@
     },
     "body": {
       "description": "Integrate Azure Cosmos DB with Looker Studio to pave the way for data-driven strategies in a NoSQL world."
-    }
+    },
+    "fivetran_id": "cosmos"
   },
   "Azure Event Hubs": {
     "overview": {
@@ -269,7 +302,8 @@
     },
     "body": {
       "description": "Amplify real-time insights by integrating Azure Event Hubs with Looker Studio's analytical prowess."
-    }
+    },
+    "fivetran_id": "azure_event_hub"
   },
   "Azure Functions": {
     "overview": {
@@ -277,7 +311,8 @@
     },
     "body": {
       "description": "Integrate Azure Functions insights into Looker Studio for comprehensive serverless analytics that shape your operational strategies."
-    }
+    },
+    "fivetran_id": "azure_function"
   },
   "Azure MariaDB": {
     "overview": {
@@ -285,7 +320,8 @@
     },
     "body": {
       "description": "Unlock the potential of your database with Azure MariaDB integrated into Looker Studio's analytics environment."
-    }
+    },
+    "fivetran_id": "maria_azure"
   },
   "Azure MySQL": {
     "overview": {
@@ -293,7 +329,8 @@
     },
     "body": {
       "description": "Integrate Azure MySQL with Looker Studio for comprehensive database insights that shape your strategies."
-    }
+    },
+    "fivetran_id": "mysql_azure"
   },
   "Azure PostgreSQL Database": {
     "overview": {
@@ -301,7 +338,8 @@
     },
     "body": {
       "description": "Empower your decision-making by integrating Azure PostgreSQL Database with Looker Studio's analytical capabilities."
-    }
+    },
+    "fivetran_id": "azure_postgres"
   },
   "Azure Service Bus": {
     "overview": {
@@ -309,7 +347,8 @@
     },
     "body": {
       "description": "Amplify messaging insights by integrating Azure Service Bus with Looker Studio's analytical prowess."
-    }
+    },
+    "fivetran_id": "azure_service_bus"
   },
   "Azure SQL Database": {
     "overview": {
@@ -317,7 +356,8 @@
     },
     "body": {
       "description": "Unlock the potential of Azure SQL Database data within Looker Studio, for data-driven strategies that make an impact."
-    }
+    },
+    "fivetran_id": "azure_sql_db"
   },
   "Azure SQL Managed Instance": {
     "overview": {
@@ -325,7 +365,8 @@
     },
     "body": {
       "description": "Integrate Azure SQL Managed Instance with Looker Studio and amplify your decision-making capabilities."
-    }
+    },
+    "fivetran_id": "azure_sql_managed_db"
   },
   "Bamboo HR": {
     "overview": {
@@ -333,7 +374,8 @@
     },
     "body": {
       "description": "Integrate Bamboo HR with Looker Studio for data-driven HR analytics that shape your people strategies."
-    }
+    },
+    "fivetran_id": "bamboohr"
   },
   "Big Commerce": {
     "overview": {
@@ -341,7 +383,8 @@
     },
     "body": {
       "description": "Supercharge your e-commerce strategies with Big Commerce data seamlessly integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "big_commerce"
   },
   "BigQuery": {
     "overview": {
@@ -349,7 +392,8 @@
     },
     "body": {
       "description": "Maximize the potential of your analytical insights by integrating BigQuery with Looker Studio's data visualization prowess."
-    }
+    },
+    "fivetran_id": "bigquery_db"
   },
   "Box": {
     "overview": {
@@ -357,7 +401,8 @@
     },
     "body": {
       "description": "Harness the power of Box content insights integrated into Looker Studio for strategic content management decisions."
-    }
+    },
+    "fivetran_id": "box"
   },
   "Braintree": {
     "overview": {
@@ -365,7 +410,8 @@
     },
     "body": {
       "description": "Integrate Braintree with Looker Studio for comprehensive payment analytics that drive financial excellence."
-    }
+    },
+    "fivetran_id": "braintree"
   },
   "Braintree Sandbox": {
     "overview": {
@@ -373,7 +419,8 @@
     },
     "body": {
       "description": "Integrate Braintree Sandbox with Looker Studio for a secure payment testing environment that informs payment strategies."
-    }
+    },
+    "fivetran_id": "braintree_sandbox"
   },
   "Branch": {
     "overview": {
@@ -381,7 +428,8 @@
     },
     "body": {
       "description": "Integrate Branch insights into Looker Studio for comprehensive deep linking analytics that guide your app strategies."
-    }
+    },
+    "fivetran_id": "branch"
   },
   "Braze": {
     "overview": {
@@ -389,7 +437,8 @@
     },
     "body": {
       "description": "Empower your marketing efforts through Braze insights integrated into Looker Studio's analytics environment."
-    }
+    },
+    "fivetran_id": "braze"
   },
   "Brex": {
     "overview": {
@@ -397,7 +446,8 @@
     },
     "body": {
       "description": "Integrate Brex with Looker Studio for comprehensive financial analytics that drive financial excellence."
-    }
+    },
+    "fivetran_id": "brex"
   },
   "Buildkite": {
     "overview": {
@@ -405,7 +455,8 @@
     },
     "body": {
       "description": "Amplify your CI/CD strategies with Buildkite insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "buildkite"
   },
   "Calendly": {
     "overview": {
@@ -413,7 +464,8 @@
     },
     "body": {
       "description": "Integrate Calendly with Looker Studio for data-driven scheduling analytics that shape your customer interactions."
-    }
+    },
+    "fivetran_id": "calendly"
   },
   "Campaign Monitor": {
     "overview": {
@@ -421,7 +473,8 @@
     },
     "body": {
       "description": "Empower your email marketing efforts with Campaign Monitor insights integrated into Looker Studio's analytics environment."
-    }
+    },
+    "fivetran_id": "campaignmonitor"
   },
   "Chameleon": {
     "overview": {
@@ -429,7 +482,8 @@
     },
     "body": {
       "description": "Integrate Chameleon with Looker Studio for comprehensive user onboarding analytics that guide your product strategies."
-    }
+    },
+    "fivetran_id": "chameleon"
   },
   "ChannelAdvisor": {
     "overview": {
@@ -437,7 +491,8 @@
     },
     "body": {
       "description": "Amplify your e-commerce efforts with ChannelAdvisor insights integrated into Looker Studio's analytics environment."
-    }
+    },
+    "fivetran_id": "channel_advisor"
   },
   "Chargebee Product Catalog 1.0": {
     "overview": {
@@ -445,7 +500,8 @@
     },
     "body": {
       "description": "Integrate Chargebee Product Catalog 1.0 with Looker Studio for comprehensive subscription analytics that guide your growth strategies."
-    }
+    },
+    "fivetran_id": "chargebee_product_catalog_1"
   },
   "Chargebee Product Catalog 2.0": {
     "overview": {
@@ -453,7 +509,8 @@
     },
     "body": {
       "description": "Integrate Chargebee Product Catalog 2.0 with Looker Studio for comprehensive subscription analytics that guide your growth strategies."
-    }
+    },
+    "fivetran_id": "chargebee_product_catalog_2"
   },
   "ChartMogul": {
     "overview": {
@@ -461,7 +518,8 @@
     },
     "body": {
       "description": "Empower your subscription efforts with ChartMogul insights integrated into Looker Studio's analytics environment."
-    }
+    },
+    "fivetran_id": "chartmogul"
   },
   "Chorus": {
     "overview": {
@@ -469,7 +527,8 @@
     },
     "body": {
       "description": "Integrate Chorus with Looker Studio for data-driven sales analytics that guide your revenue strategies."
-    }
+    },
+    "fivetran_id": "chorusai"
   },
   "Cin7": {
     "overview": {
@@ -477,7 +536,8 @@
     },
     "body": {
       "description": "Harness the power of Cin7 inventory insights integrated into Looker Studio for strategic inventory management decisions."
-    }
+    },
+    "fivetran_id": "cin7"
   },
   "ClickUp": {
     "overview": {
@@ -485,7 +545,8 @@
     },
     "body": {
       "description": "Amplify your project management through ClickUp insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "clickup"
   },
   "Close": {
     "overview": {
@@ -493,7 +554,8 @@
     },
     "body": {
       "description": "Integrate Close with Looker Studio for data-driven sales analytics that guide your revenue strategies."
-    }
+    },
+    "fivetran_id": "close"
   },
   "Confluent Cloud": {
     "overview": {
@@ -501,7 +563,8 @@
     },
     "body": {
       "description": "Integrate Confluent Cloud with Looker Studio for real-time data experiences that fuel rapid decision-making."
-    }
+    },
+    "fivetran_id": "confluent_cloud"
   },
   "Consumer Dropbox": {
     "overview": {
@@ -509,7 +572,8 @@
     },
     "body": {
       "description": "Harness the power of Consumer Dropbox content insights integrated into Looker Studio for strategic content management decisions."
-    }
+    },
+    "fivetran_id": "dropbox_consumer"
   },
   "Coupa": {
     "overview": {
@@ -517,7 +581,8 @@
     },
     "body": {
       "description": "Integrate Coupa with Looker Studio for data-driven procurement analytics that guide your purchasing strategies."
-    }
+    },
+    "fivetran_id": "coupa"
   },
   "Criteo": {
     "overview": {
@@ -525,7 +590,8 @@
     },
     "body": {
       "description": "Empower your advertising efforts with Criteo insights integrated into Looker Studio's analytics environment."
-    }
+    },
+    "fivetran_id": "criteo"
   },
   "Crossbeam": {
     "overview": {
@@ -533,7 +599,8 @@
     },
     "body": {
       "description": "Integrate Crossbeam with Looker Studio for data-driven partner analytics that shape your partnership strategies."
-    }
+    },
+    "fivetran_id": "crossbeam"
   },
   "Delighted": {
     "overview": {
@@ -541,7 +608,8 @@
     },
     "body": {
       "description": "Amplify your customer feedback efforts with Delighted insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "delighted"
   },
   "Dixa": {
     "overview": {
@@ -549,7 +617,8 @@
     },
     "body": {
       "description": "Integrate Dixa with Looker Studio for comprehensive customer support analytics that guide your support strategies."
-    }
+    },
+    "fivetran_id": "dixa"
   },
   "Drift": {
     "overview": {
@@ -557,7 +626,8 @@
     },
     "body": {
       "description": "Empower your conversational efforts with Drift insights integrated into Looker Studio's analytics environment."
-    }
+    },
+    "fivetran_id": "drift"
   },
   "Drip": {
     "overview": {
@@ -565,7 +635,8 @@
     },
     "body": {
       "description": "Integrate Drip with Looker Studio for data-driven marketing automation analytics that guide your growth strategies."
-    }
+    },
+    "fivetran_id": "drip"
   },
   "Dropbox": {
     "overview": {
@@ -573,7 +644,8 @@
     },
     "body": {
       "description": "Harness the power of Dropbox content insights integrated into Looker Studio for strategic content management decisions."
-    }
+    },
+    "fivetran_id": "dropbox"
   },
   "DynamoDB": {
     "overview": {
@@ -581,7 +653,8 @@
     },
     "body": {
       "description": "Integrate DynamoDB with Looker Studio to unleash the potential of NoSQL data for strategic decision-making."
-    }
+    },
+    "fivetran_id": "dynamodb"
   },
   "EasyPost": {
     "overview": {
@@ -589,7 +662,8 @@
     },
     "body": {
       "description": "Integrate EasyPost with Looker Studio for comprehensive shipping analytics that guide your fulfillment strategies."
-    }
+    },
+    "fivetran_id": "easypost"
   },
   "Elastic Cloud": {
     "overview": {
@@ -597,7 +671,8 @@
     },
     "body": {
       "description": "Integrate Elastic Cloud with Looker Studio to harness the power of search insights for data-driven strategies."
-    }
+    },
+    "fivetran_id": "elastic_cloud"
   },
   "Eloqua": {
     "overview": {
@@ -605,7 +680,8 @@
     },
     "body": {
       "description": "Empower your marketing efforts with Eloqua insights integrated into Looker Studio's analytics environment."
-    }
+    },
+    "fivetran_id": "eloqua"
   },
   "Email": {
     "overview": {
@@ -613,7 +689,8 @@
     },
     "body": {
       "description": "Integrate Email insights into Looker Studio for comprehensive communication analytics that guide your engagement strategies."
-    }
+    },
+    "fivetran_id": "email"
   },
   "Eventbrite": {
     "overview": {
@@ -621,7 +698,8 @@
     },
     "body": {
       "description": "Amplify your event strategies with Eventbrite insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "eventbrite"
   },
   "Facebook Ad Account": {
     "overview": {
@@ -629,7 +707,8 @@
     },
     "body": {
       "description": "Empower your advertising efforts with Facebook Ad Account insights integrated into Looker Studio's analytics environment."
-    }
+    },
+    "fivetran_id": "facebook_ad_account"
   },
   "Facebook Ad Insights": {
     "overview": {
@@ -637,7 +716,8 @@
     },
     "body": {
       "description": "Integrate Facebook Ad Insights into Looker Studio for comprehensive advertising analytics that guide your campaign strategies."
-    }
+    },
+    "fivetran_id": "facebook"
   },
   "Facebook Ads": {
     "overview": {
@@ -645,7 +725,8 @@
     },
     "body": {
       "description": "Harness the power of Facebook Ads insights integrated into Looker Studio for strategic advertising decisions."
-    }
+    },
+    "fivetran_id": "facebook_ads"
   },
   "Facebook Pages": {
     "overview": {
@@ -653,7 +734,8 @@
     },
     "body": {
       "description": "Integrate Facebook Pages with Looker Studio for data-driven social media analytics that guide your engagement strategies."
-    }
+    },
+    "fivetran_id": "facebook_pages"
   },
   "FinancialForce": {
     "overview": {
@@ -661,7 +743,8 @@
     },
     "body": {
       "description": "Amplify your financial efforts with FinancialForce insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "financial_force"
   },
   "Firebase": {
     "overview": {
@@ -669,7 +752,8 @@
     },
     "body": {
       "description": "Integrate Firebase insights into Looker Studio for comprehensive app analytics that guide your app strategies."
-    }
+    },
+    "fivetran_id": "firebase"
   },
   "Fountain": {
     "overview": {
@@ -677,7 +761,8 @@
     },
     "body": {
       "description": "Harness the power of Fountain hiring insights integrated into Looker Studio for strategic hiring decisions."
-    }
+    },
+    "fivetran_id": "fountain"
   },
   "Freightview": {
     "overview": {
@@ -685,7 +770,8 @@
     },
     "body": {
       "description": "Amplify your shipping strategies with Freightview insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "freightview"
   },
   "Freshdesk": {
     "overview": {
@@ -693,7 +779,8 @@
     },
     "body": {
       "description": "Integrate Freshdesk with Looker Studio for comprehensive customer support analytics that guide your support strategies."
-    }
+    },
+    "fivetran_id": "freshdesk"
   },
   "Freshservice": {
     "overview": {
@@ -701,7 +788,8 @@
     },
     "body": {
       "description": "Harness the power of Freshservice IT service insights integrated into Looker Studio for strategic IT management decisions."
-    }
+    },
+    "fivetran_id": "freshservice"
   },
   "Freshservice_lite": {
     "overview": {
@@ -709,7 +797,8 @@
     },
     "body": {
       "description": "Harness the power of Freshservice Lite IT service insights integrated into Looker Studio for strategic IT management decisions."
-    }
+    },
+    "fivetran_id": "freshservice_lite"
   },
   "Front": {
     "overview": {
@@ -717,7 +806,8 @@
     },
     "body": {
       "description": "Integrate Front with Looker Studio for data-driven team communication analytics that guide your collaboration strategies."
-    }
+    },
+    "fivetran_id": "front"
   },
   "FTP": {
     "overview": {
@@ -725,7 +815,8 @@
     },
     "body": {
       "description": "Integrate FTP with Looker Studio for streamlined data transfer and analysis that fuels data-driven strategies."
-    }
+    },
+    "fivetran_id": "ftp"
   },
   "Gainsight": {
     "overview": {
@@ -733,7 +824,8 @@
     },
     "body": {
       "description": "Harness the power of Gainsight customer success insights integrated into Looker Studio for strategic customer relationship decisions."
-    }
+    },
+    "fivetran_id": "gainsight"
   },
   "Gainsight Customer Success": {
     "overview": {
@@ -741,7 +833,8 @@
     },
     "body": {
       "description": "Harness the power of Gainsight Customer Success insights integrated into Looker Studio for strategic customer relationship decisions."
-    }
+    },
+    "fivetran_id": "gainsight_customer_success"
   },
   "GitHub": {
     "overview": {
@@ -749,7 +842,8 @@
     },
     "body": {
       "description": "Integrate GitHub insights into Looker Studio for comprehensive code analytics that guide your development strategies."
-    }
+    },
+    "fivetran_id": "github"
   },
   "GoCardless": {
     "overview": {
@@ -757,7 +851,8 @@
     },
     "body": {
       "description": "Integrate GoCardless with Looker Studio for data-driven payment analytics that guide your financial strategies."
-    }
+    },
+    "fivetran_id": "gocardless"
   },
   "Gong": {
     "overview": {
@@ -765,7 +860,8 @@
     },
     "body": {
       "description": "Harness the power of Gong conversation insights integrated into Looker Studio for strategic sales decisions."
-    }
+    },
+    "fivetran_id": "gongio"
   },
   "Google Ad Manager": {
     "overview": {
@@ -773,7 +869,8 @@
     },
     "body": {
       "description": "Amplify your ad management efforts with Google Ad Manager insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "double_click_publishers"
   },
   "Google Ads": {
     "overview": {
@@ -781,7 +878,8 @@
     },
     "body": {
       "description": "Harness the power of Google Ads insights integrated into Looker Studio for strategic advertising decisions."
-    }
+    },
+    "fivetran_id": "google_ads"
   },
   "Google Ads Account": {
     "overview": {
@@ -789,7 +887,8 @@
     },
     "body": {
       "description": "Integrate Google Ads Account insights into Looker Studio for comprehensive advertising analytics that guide your campaign strategies."
-    }
+    },
+    "fivetran_id": "google_ads_account"
   },
   "Google Ads (AdWords)": {
     "overview": {
@@ -797,7 +896,8 @@
     },
     "body": {
       "description": "Amplify your ad strategies with Google Ads (AdWords) insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "adwords"
   },
   "Google Analytics": {
     "overview": {
@@ -805,7 +905,8 @@
     },
     "body": {
       "description": "Empower your web strategies with Google Analytics insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "google_analytics"
   },
   "Google Analytics 360": {
     "overview": {
@@ -813,7 +914,8 @@
     },
     "body": {
       "description": "Integrate Google Analytics 360 with Looker Studio for enterprise-grade web analytics that guide your strategic decisions."
-    }
+    },
+    "fivetran_id": "google_analytics_360"
   },
   "Google Analytics 4": {
     "overview": {
@@ -821,7 +923,8 @@
     },
     "body": {
       "description": "Amplify your digital strategies with Google Analytics 4 insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "google_analytics_4"
   },
   "Google Analytics 4 Export": {
     "overview": {
@@ -829,7 +932,8 @@
     },
     "body": {
       "description": "Integrate Google Analytics 4 Export with Looker Studio for event-driven analytics that shape your digital strategies."
-    }
+    },
+    "fivetran_id": "google_analytics_4_export"
   },
   "Google Analytics (MCF)": {
     "overview": {
@@ -837,7 +941,8 @@
     },
     "body": {
       "description": "Harness the power of Google Analytics (MCF) insights integrated into Looker Studio for strategic marketing decisions."
-    }
+    },
+    "fivetran_id": "google_analytics_mcf"
   },
   "Google Campaign Manager 360": {
     "overview": {
@@ -845,7 +950,8 @@
     },
     "body": {
       "description": "Integrate Google Campaign Manager 360 insights into Looker Studio for comprehensive campaign analytics that guide your advertising strategies."
-    }
+    },
+    "fivetran_id": "double_click_campaign_manager"
   },
   "Google Cloud Functions": {
     "overview": {
@@ -853,7 +959,8 @@
     },
     "body": {
       "description": "Amplify your cloud function strategies with Google Cloud Functions insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "google_cloud_function"
   },
   "Google Cloud MySQL": {
     "overview": {
@@ -861,7 +968,8 @@
     },
     "body": {
       "description": "Integrate Google Cloud MySQL with Looker Studio for comprehensive database analytics that guide your database management strategies."
-    }
+    },
+    "fivetran_id": "google_cloud_mysql"
   },
   "Google Cloud PostgreSQL": {
     "overview": {
@@ -869,7 +977,8 @@
     },
     "body": {
       "description": "Harness the power of Google Cloud PostgreSQL insights integrated into Looker Studio for strategic database management decisions."
-    }
+    },
+    "fivetran_id": "google_cloud_postgresql"
   },
   "Google Cloud SQL - SQL Server": {
     "overview": {
@@ -877,7 +986,8 @@
     },
     "body": {
       "description": "Integrate Google Cloud SQL - SQL Server with Looker Studio for comprehensive database analytics that guide your SQL Server strategies."
-    }
+    },
+    "fivetran_id": "google_cloud_sqlserver"
   },
   "Google Cloud Storage": {
     "overview": {
@@ -885,7 +995,8 @@
     },
     "body": {
       "description": "Amplify your cloud storage strategies with Google Cloud Storage insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "gcs"
   },
   "Google Display & Video 360": {
     "overview": {
@@ -893,7 +1004,8 @@
     },
     "body": {
       "description": "Harness the power of Google Display & Video 360 insights integrated into Looker Studio for strategic advertising decisions."
-    }
+    },
+    "fivetran_id": "google_display_and_video_360"
   },
   "Google Drive": {
     "overview": {
@@ -901,7 +1013,8 @@
     },
     "body": {
       "description": "Integrate Google Drive insights into Looker Studio for comprehensive cloud storage analytics that guide your collaboration strategies."
-    }
+    },
+    "fivetran_id": "google_drive"
   },
   "Google Play": {
     "overview": {
@@ -909,7 +1022,8 @@
     },
     "body": {
       "description": "Amplify your app strategies with Google Play insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "google_play"
   },
   "Google Search Console": {
     "overview": {
@@ -917,7 +1031,8 @@
     },
     "body": {
       "description": "Harness the power of Google Search Console insights integrated into Looker Studio for strategic SEO decisions."
-    }
+    },
+    "fivetran_id": "google_search_console"
   },
   "Google Sheets": {
     "overview": {
@@ -925,7 +1040,8 @@
     },
     "body": {
       "description": "Integrate Google Sheets insights into Looker Studio for comprehensive spreadsheet analytics that guide your data-driven strategies."
-    }
+    },
+    "fivetran_id": "google_sheets"
   },
   "Gorgias": {
     "overview": {
@@ -933,7 +1049,8 @@
     },
     "body": {
       "description": "Amplify your customer support strategies with Gorgias insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "gorgias"
   },
   "Greenhouse": {
     "overview": {
@@ -941,7 +1058,8 @@
     },
     "body": {
       "description": "Harness the power of Greenhouse recruiting insights integrated into Looker Studio for strategic hiring decisions."
-    }
+    },
+    "fivetran_id": "greenhouse"
   },
   "Guru": {
     "overview": {
@@ -949,7 +1067,8 @@
     },
     "body": {
       "description": "Integrate Guru insights into Looker Studio for data-driven knowledge management analytics that guide your content strategies."
-    }
+    },
+    "fivetran_id": "guru"
   },
   "Harvest": {
     "overview": {
@@ -957,7 +1076,8 @@
     },
     "body": {
       "description": "Amplify your time tracking strategies with Harvest insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "harvest"
   },
   "Heap": {
     "overview": {
@@ -965,7 +1085,8 @@
     },
     "body": {
       "description": "Harness the power of Heap user analytics insights integrated into Looker Studio for strategic user-centric decisions."
-    }
+    },
+    "fivetran_id": "heap"
   },
   "Height": {
     "overview": {
@@ -973,7 +1094,8 @@
     },
     "body": {
       "description": "Integrate Height insights into Looker Studio for comprehensive supply chain analytics that guide your operational strategies."
-    }
+    },
+    "fivetran_id": "height"
   },
   "Help Scout": {
     "overview": {
@@ -981,7 +1103,8 @@
     },
     "body": {
       "description": "Amplify your customer support strategies with Help Scout insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "helpscout"
   },
   "Heroku Kafka": {
     "overview": {
@@ -989,7 +1112,8 @@
     },
     "body": {
       "description": "Harness the power of Heroku Kafka insights integrated into Looker Studio for strategic data streaming decisions."
-    }
+    },
+    "fivetran_id": "heroku_kafka"
   },
   "Heroku Postgres": {
     "overview": {
@@ -997,7 +1121,8 @@
     },
     "body": {
       "description": "Integrate Heroku Postgres insights into Looker Studio for comprehensive database analytics that guide your database management strategies."
-    }
+    },
+    "fivetran_id": "heroku_postgres"
   },
   "High Volume Agent Db2 for i": {
     "overview": {
@@ -1005,7 +1130,8 @@
     },
     "body": {
       "description": "Harness the power of High Volume Agent Db2 for i insights integrated into Looker Studio for strategic database management decisions."
-    }
+    },
+    "fivetran_id": "db2i_hva"
   },
   "High-Volume Agent SQL Server": {
     "overview": {
@@ -1013,7 +1139,8 @@
     },
     "body": {
       "description": "Harness the power of High-Volume Agent SQL Server insights integrated into Looker Studio for strategic database management decisions."
-    }
+    },
+    "fivetran_id": "sql_server_hva"
   },
   "HubSpot": {
     "overview": {
@@ -1021,7 +1148,8 @@
     },
     "body": {
       "description": "Amplify your marketing strategies with HubSpot insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "hubspot"
   },
   "Impact": {
     "overview": {
@@ -1029,7 +1157,8 @@
     },
     "body": {
       "description": "Integrate Impact insights into Looker Studio for comprehensive partnership analytics that guide your strategic decisions."
-    }
+    },
+    "fivetran_id": "impact"
   },
   "Instagram Business": {
     "overview": {
@@ -1037,7 +1166,8 @@
     },
     "body": {
       "description": "Harness the power of Instagram Business insights integrated into Looker Studio for strategic social media decisions."
-    }
+    },
+    "fivetran_id": "instagram_business"
   },
   "Intercom": {
     "overview": {
@@ -1045,7 +1175,8 @@
     },
     "body": {
       "description": "Amplify your customer communication strategies with Intercom insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "intercom"
   },
   "Ironclad": {
     "overview": {
@@ -1053,7 +1184,8 @@
     },
     "body": {
       "description": "Integrate Ironclad insights into Looker Studio for comprehensive contract analytics that guide your legal and operational decisions."
-    }
+    },
+    "fivetran_id": "ironclad"
   },
   "Iterable": {
     "overview": {
@@ -1061,7 +1193,8 @@
     },
     "body": {
       "description": "Harness the power of Iterable marketing automation insights integrated into Looker Studio for strategic customer engagement decisions."
-    }
+    },
+    "fivetran_id": "iterable"
   },
   "Jira": {
     "overview": {
@@ -1069,7 +1202,8 @@
     },
     "body": {
       "description": "Amplify your project management strategies with Jira insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "jira"
   },
   "Khoros Care": {
     "overview": {
@@ -1077,7 +1211,8 @@
     },
     "body": {
       "description": "Integrate Khoros Care insights into Looker Studio for comprehensive customer support analytics that guide your customer care strategies."
-    }
+    },
+    "fivetran_id": "khoros_care"
   },
   "Klaviyo": {
     "overview": {
@@ -1085,7 +1220,8 @@
     },
     "body": {
       "description": "Harness the power of Klaviyo email marketing insights integrated into Looker Studio for strategic email campaign decisions."
-    }
+    },
+    "fivetran_id": "klaviyo"
   },
   "Kustomer": {
     "overview": {
@@ -1093,7 +1229,8 @@
     },
     "body": {
       "description": "Amplify your customer service strategies with Kustomer insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "kustomer"
   },
   "Lattice": {
     "overview": {
@@ -1101,7 +1238,8 @@
     },
     "body": {
       "description": "Integrate Lattice insights into Looker Studio for comprehensive people management analytics that guide your HR strategies."
-    }
+    },
+    "fivetran_id": "lattice"
   },
   "Lessonly": {
     "overview": {
@@ -1109,7 +1247,8 @@
     },
     "body": {
       "description": "Harness the power of Lessonly training insights integrated into Looker Studio for strategic learning and development decisions."
-    }
+    },
+    "fivetran_id": "lessonly"
   },
   "Lever": {
     "overview": {
@@ -1117,7 +1256,8 @@
     },
     "body": {
       "description": "Integrate Lever insights into Looker Studio for comprehensive hiring analytics that guide your talent acquisition strategies."
-    }
+    },
+    "fivetran_id": "lever"
   },
   "Lightspeed Retail": {
     "overview": {
@@ -1125,7 +1265,8 @@
     },
     "body": {
       "description": "Harness the power of Lightspeed Retail insights integrated into Looker Studio for strategic retail decisions."
-    }
+    },
+    "fivetran_id": "light_speed_retail"
   },
   "LinkedIn Ad Analytics": {
     "overview": {
@@ -1133,7 +1274,8 @@
     },
     "body": {
       "description": "Amplify your LinkedIn ad strategies with LinkedIn Ad Analytics insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "linkedin_ads"
   },
   "LinkedIn Company Pages": {
     "overview": {
@@ -1141,7 +1283,8 @@
     },
     "body": {
       "description": "Integrate LinkedIn Company Pages insights into Looker Studio for comprehensive branding analytics that guide your corporate strategies."
-    }
+    },
+    "fivetran_id": "linkedin_company_pages"
   },
   "Lob": {
     "overview": {
@@ -1149,7 +1292,8 @@
     },
     "body": {
       "description": "Amplify your direct mail strategies with Lob insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "lob"
   },
   "Magento MySQL": {
     "overview": {
@@ -1157,7 +1301,8 @@
     },
     "body": {
       "description": "Integrate Magento MySQL insights into Looker Studio for comprehensive e-commerce analytics that guide your digital retail strategies."
-    }
+    },
+    "fivetran_id": "magento_mysql"
   },
   "Magento MySQL RDS": {
     "overview": {
@@ -1165,7 +1310,8 @@
     },
     "body": {
       "description": "Integrate Magento MySQL RDS insights into Looker Studio for comprehensive e-commerce analytics that guide your digital retail strategies."
-    }
+    },
+    "fivetran_id": "magento_mysql_rds"
   },
   "Mailchimp": {
     "overview": {
@@ -1173,7 +1319,8 @@
     },
     "body": {
       "description": "Harness the power of Mailchimp email marketing insights integrated into Looker Studio for strategic email campaign decisions."
-    }
+    },
+    "fivetran_id": "mailchimp"
   },
   "Mailgun": {
     "overview": {
@@ -1181,7 +1328,8 @@
     },
     "body": {
       "description": "Amplify your email delivery strategies with Mailgun insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "mailgun"
   },
   "Mandrill": {
     "overview": {
@@ -1189,7 +1337,8 @@
     },
     "body": {
       "description": "Amplify your email performance strategies with Mandrill insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "mandrill"
   },
   "MariaDB": {
     "overview": {
@@ -1197,7 +1346,8 @@
     },
     "body": {
       "description": "Harness the power of MariaDB insights integrated into Looker Studio for strategic database management decisions."
-    }
+    },
+    "fivetran_id": "maria"
   },
   "MariaDB RDS": {
     "overview": {
@@ -1205,7 +1355,8 @@
     },
     "body": {
       "description": "Integrate MariaDB RDS insights into Looker Studio for comprehensive database analytics that guide your database management strategies."
-    }
+    },
+    "fivetran_id": "maria_rds"
   },
   "Marin Software": {
     "overview": {
@@ -1213,7 +1364,8 @@
     },
     "body": {
       "description": "Amplify your advertising strategies with Marin Software insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "marin"
   },
   "Marketo": {
     "overview": {
@@ -1221,7 +1373,8 @@
     },
     "body": {
       "description": "Harness the power of Marketo marketing automation insights integrated into Looker Studio for strategic marketing decisions."
-    }
+    },
+    "fivetran_id": "marketo"
   },
   "Mavenlink": {
     "overview": {
@@ -1229,7 +1382,8 @@
     },
     "body": {
       "description": "Amplify your project management strategies with Mavenlink insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "mavenlink"
   },
   "Medallia": {
     "overview": {
@@ -1237,7 +1391,8 @@
     },
     "body": {
       "description": "Harness the power of Medallia customer experience insights integrated into Looker Studio for strategic customer-centric decisions."
-    }
+    },
+    "fivetran_id": "medallia"
   },
   "Microsoft Advertising": {
     "overview": {
@@ -1245,7 +1400,8 @@
     },
     "body": {
       "description": "Amplify your advertising strategies with Microsoft Advertising insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "bingads"
   },
   "Microsoft Dynamics 365 CRM": {
     "overview": {
@@ -1253,7 +1409,8 @@
     },
     "body": {
       "description": "Integrate Microsoft Dynamics 365 CRM insights into Looker Studio for comprehensive CRM analytics that guide your customer-centric strategies."
-    }
+    },
+    "fivetran_id": "dynamics_365"
   },
   "Microsoft Dynamics 365 F/O": {
     "overview": {
@@ -1261,7 +1418,8 @@
     },
     "body": {
       "description": "Integrate Microsoft Dynamics 365 F/O insights into Looker Studio for comprehensive ERP analytics that guide your operational strategies."
-    }
+    },
+    "fivetran_id": "dynamics_365_fo"
   },
   "Microsoft Dynamics 365 F/O ADLS": {
     "overview": {
@@ -1269,7 +1427,8 @@
     },
     "body": {
       "description": "Integrate Microsoft Dynamics 365 F/O ADLS insights into Looker Studio for comprehensive ERP analytics that guide your operational strategies."
-    }
+    },
+    "fivetran_id": "microsoft_dynamics_365_fo"
   },
   "Microsoft Lists": {
     "overview": {
@@ -1277,7 +1436,8 @@
     },
     "body": {
       "description": "Harness the power of Microsoft Lists insights integrated into Looker Studio for strategic data tracking decisions."
-    }
+    },
+    "fivetran_id": "microsoft_lists"
   },
   "Mixpanel": {
     "overview": {
@@ -1285,7 +1445,8 @@
     },
     "body": {
       "description": "Amplify your user analytics strategies with Mixpanel insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "mixpanel"
   },
   "Monday.com": {
     "overview": {
@@ -1293,7 +1454,8 @@
     },
     "body": {
       "description": "Harness the power of Monday.com insights integrated into Looker Studio for strategic work management decisions."
-    }
+    },
+    "fivetran_id": "monday"
   },
   "MongoDB": {
     "overview": {
@@ -1301,7 +1463,8 @@
     },
     "body": {
       "description": "Amplify your NoSQL database strategies with MongoDB insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "mongo"
   },
   "MongoDB Sharded": {
     "overview": {
@@ -1309,7 +1472,8 @@
     },
     "body": {
       "description": "Amplify your sharded NoSQL database strategies with MongoDB Sharded insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "mongo_sharded"
   },
   "MySQL": {
     "overview": {
@@ -1317,7 +1481,8 @@
     },
     "body": {
       "description": "Harness the power of MySQL insights integrated into Looker Studio for strategic database management decisions."
-    }
+    },
+    "fivetran_id": "mysql"
   },
   "MySQL RDS": {
     "overview": {
@@ -1325,7 +1490,8 @@
     },
     "body": {
       "description": "Integrate MySQL RDS insights into Looker Studio for comprehensive database analytics that guide your database management strategies."
-    }
+    },
+    "fivetran_id": "mysql_rds"
   },
   "NetSuite SuiteAnalytics": {
     "overview": {
@@ -1333,7 +1499,8 @@
     },
     "body": {
       "description": "Amplify your ERP strategies with NetSuite SuiteAnalytics insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "netsuite_suiteanalytics"
   },
   "Notion": {
     "overview": {
@@ -1341,7 +1508,8 @@
     },
     "body": {
       "description": "Harness the power of Notion collaboration insights integrated into Looker Studio for strategic teamwork decisions."
-    }
+    },
+    "fivetran_id": "notion"
   },
   "Okta": {
     "overview": {
@@ -1349,7 +1517,8 @@
     },
     "body": {
       "description": "Amplify your identity and access management strategies with Okta insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "okta"
   },
   "OneDrive": {
     "overview": {
@@ -1357,7 +1526,8 @@
     },
     "body": {
       "description": "Harness the power of OneDrive cloud storage insights integrated into Looker Studio for strategic document management decisions."
-    }
+    },
+    "fivetran_id": "one_drive"
   },
   "Open Data DC": {
     "overview": {
@@ -1365,7 +1535,8 @@
     },
     "body": {
       "description": "Harness the power of Open Data DC insights integrated into Looker Studio for strategic public data exploration."
-    }
+    },
+    "fivetran_id": "open_data_dc"
   },
   "Open Distro": {
     "overview": {
@@ -1373,7 +1544,8 @@
     },
     "body": {
       "description": "Integrate Open Distro insights into Looker Studio for comprehensive Elasticsearch analytics that guide your search strategies."
-    }
+    },
+    "fivetran_id": "opendistro"
   },
   "Open Exchange Rates": {
     "overview": {
@@ -1381,7 +1553,8 @@
     },
     "body": {
       "description": "Harness the power of Open Exchange Rates insights integrated into Looker Studio for strategic currency exchange decisions."
-    }
+    },
+    "fivetran_id": "open_exchange_rates"
   },
   "Opensearch": {
     "overview": {
@@ -1389,7 +1562,8 @@
     },
     "body": {
       "description": "Integrate Opensearch insights into Looker Studio for comprehensive search engine analytics that guide your data discovery strategies."
-    }
+    },
+    "fivetran_id": "opensearch"
   },
   "Optimizely": {
     "overview": {
@@ -1397,7 +1571,8 @@
     },
     "body": {
       "description": "Amplify your experimentation strategies with Optimizely insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "optimizely"
   },
   "Oracle": {
     "overview": {
@@ -1405,7 +1580,8 @@
     },
     "body": {
       "description": "Integrate Oracle insights into Looker Studio for comprehensive database analytics that guide your data management strategies."
-    }
+    },
+    "fivetran_id": "oracle"
   },
   "Oracle EBS": {
     "overview": {
@@ -1413,7 +1589,8 @@
     },
     "body": {
       "description": "Integrate Oracle EBS insights into Looker Studio for comprehensive enterprise analytics that guide your operational strategies."
-    }
+    },
+    "fivetran_id": "oracle_ebs"
   },
   "Oracle Fusion Cloud Applications - CRM": {
     "overview": {
@@ -1421,7 +1598,8 @@
     },
     "body": {
       "description": "Integrate Oracle Fusion Cloud Applications - CRM insights into Looker Studio for comprehensive CRM analytics that guide your customer-centric strategies."
-    }
+    },
+    "fivetran_id": "oracle_fusion_cloud_apps_crm"
   },
   "Oracle Fusion Cloud Applications - FSCM(ERP & SCM)": {
     "overview": {
@@ -1429,7 +1607,8 @@
     },
     "body": {
       "description": "Integrate Oracle Fusion Cloud Applications - FSCM insights into Looker Studio for comprehensive ERP and SCM analytics that guide your operational strategies."
-    }
+    },
+    "fivetran_id": "oracle_fusion_cloud_apps_fscm"
   },
   "Oracle Fusion Cloud Applications - HCM": {
     "overview": {
@@ -1437,7 +1616,8 @@
     },
     "body": {
       "description": "Integrate Oracle Fusion Cloud Applications - HCM insights into Looker Studio for comprehensive HCM analytics that guide your workforce strategies."
-    }
+    },
+    "fivetran_id": "oracle_fusion_cloud_apps_hcm"
   },
   "Oracle RAC": {
     "overview": {
@@ -1445,7 +1625,8 @@
     },
     "body": {
       "description": "Integrate Oracle RAC insights into Looker Studio for comprehensive database analytics that guide your data management strategies."
-    }
+    },
+    "fivetran_id": "oracle_rac"
   },
   "Oracle RDS": {
     "overview": {
@@ -1453,7 +1634,8 @@
     },
     "body": {
       "description": "Integrate Oracle RDS insights into Looker Studio for comprehensive database analytics that guide your data management strategies."
-    }
+    },
+    "fivetran_id": "oracle_rds"
   },
   "Orbit": {
     "overview": {
@@ -1461,7 +1643,8 @@
     },
     "body": {
       "description": "Harness the power of Orbit community insights integrated into Looker Studio for strategic community engagement decisions."
-    }
+    },
+    "fivetran_id": "orbit"
   },
   "Outbrain": {
     "overview": {
@@ -1469,7 +1652,8 @@
     },
     "body": {
       "description": "Amplify your content distribution strategies with Outbrain insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "outbrain"
   },
   "Outreach": {
     "overview": {
@@ -1477,7 +1661,8 @@
     },
     "body": {
       "description": "Amplify your sales engagement strategies with Outreach insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "outreach"
   },
   "Pardot": {
     "overview": {
@@ -1485,7 +1670,8 @@
     },
     "body": {
       "description": "Harness the power of Pardot marketing automation insights integrated into Looker Studio for strategic marketing decisions."
-    }
+    },
+    "fivetran_id": "pardot"
   },
   "Paypal": {
     "overview": {
@@ -1493,7 +1679,8 @@
     },
     "body": {
       "description": "Amplify your payment processing strategies with Paypal insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "paypal"
   },
   "Paypal Sandbox": {
     "overview": {
@@ -1501,7 +1688,8 @@
     },
     "body": {
       "description": "Amplify your payment processing strategies with Paypal Sandbox insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "paypal_sandbox"
   },
   "Pendo": {
     "overview": {
@@ -1509,7 +1697,8 @@
     },
     "body": {
       "description": "Harness the power of Pendo product analytics insights integrated into Looker Studio for strategic product optimization decisions."
-    }
+    },
+    "fivetran_id": "pendo"
   },
   "Pinterest Ads": {
     "overview": {
@@ -1517,7 +1706,8 @@
     },
     "body": {
       "description": "Amplify your advertising strategies with Pinterest Ads insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "pinterest_ads"
   },
   "Pipedrive": {
     "overview": {
@@ -1525,7 +1715,8 @@
     },
     "body": {
       "description": "Harness the power of Pipedrive sales insights integrated into Looker Studio for strategic sales decisions."
-    }
+    },
+    "fivetran_id": "pipedrive"
   },
   "Postgres": {
     "overview": {
@@ -1533,7 +1724,8 @@
     },
     "body": {
       "description": "Harness the power of Postgres insights integrated into Looker Studio for strategic database management decisions."
-    }
+    },
+    "fivetran_id": "postgres"
   },
   "Postgres RDS": {
     "overview": {
@@ -1541,7 +1733,8 @@
     },
     "body": {
       "description": "Integrate Postgres RDS insights into Looker Studio for comprehensive database analytics that guide your database management strategies."
-    }
+    },
+    "fivetran_id": "postgres_rds"
   },
   "Productboard": {
     "overview": {
@@ -1549,7 +1742,8 @@
     },
     "body": {
       "description": "Amplify your product management strategies with Productboard insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "productboard"
   },
   "Qualtrics": {
     "overview": {
@@ -1557,7 +1751,8 @@
     },
     "body": {
       "description": "Harness the power of Qualtrics survey insights integrated into Looker Studio for strategic feedback decisions."
-    }
+    },
+    "fivetran_id": "qualtrics"
   },
   "QuickBooks": {
     "overview": {
@@ -1565,7 +1760,8 @@
     },
     "body": {
       "description": "Harness the power of QuickBooks accounting insights integrated into Looker Studio for strategic financial decisions."
-    }
+    },
+    "fivetran_id": "quickbooks"
   },
   "Rarible": {
     "overview": {
@@ -1573,7 +1769,8 @@
     },
     "body": {
       "description": "Amplify your digital art marketplace strategies with Rarible insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "rarible"
   },
   "Recharge": {
     "overview": {
@@ -1581,7 +1778,8 @@
     },
     "body": {
       "description": "Harness the power of Recharge subscription management insights integrated into Looker Studio for strategic subscription decisions."
-    }
+    },
+    "fivetran_id": "recharge"
   },
   "Recurly": {
     "overview": {
@@ -1589,7 +1787,8 @@
     },
     "body": {
       "description": "Harness the power of Recurly subscription billing insights integrated into Looker Studio for strategic revenue decisions."
-    }
+    },
+    "fivetran_id": "recurly"
   },
   "Reddit Ads": {
     "overview": {
@@ -1597,7 +1796,8 @@
     },
     "body": {
       "description": "Amplify your advertising strategies with Reddit Ads insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "reddit_ads"
   },
   "RetailNext": {
     "overview": {
@@ -1605,7 +1805,8 @@
     },
     "body": {
       "description": "Harness the power of RetailNext retail analytics insights integrated into Looker Studio for strategic store management decisions."
-    }
+    },
+    "fivetran_id": "retailnext"
   },
   "Retently": {
     "overview": {
@@ -1613,7 +1814,8 @@
     },
     "body": {
       "description": "Amplify your customer feedback strategies with Retently insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "retently"
   },
   "RingCentral": {
     "overview": {
@@ -1621,7 +1823,8 @@
     },
     "body": {
       "description": "Amplify your communication strategies with RingCentral insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "ringcentral"
   },
   "Rollbar": {
     "overview": {
@@ -1629,7 +1832,8 @@
     },
     "body": {
       "description": "Harness the power of Rollbar error tracking insights integrated into Looker Studio for strategic software quality decisions."
-    }
+    },
+    "fivetran_id": "rollbar"
   },
   "Sage Intacct": {
     "overview": {
@@ -1637,7 +1841,8 @@
     },
     "body": {
       "description": "Harness the power of Sage Intacct accounting insights integrated into Looker Studio for strategic financial decisions."
-    }
+    },
+    "fivetran_id": "sage_intacct"
   },
   "Sailthru": {
     "overview": {
@@ -1645,7 +1850,8 @@
     },
     "body": {
       "description": "Amplify your customer engagement strategies with Sailthru insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "sailthru"
   },
   "Salesforce": {
     "overview": {
@@ -1653,7 +1859,8 @@
     },
     "body": {
       "description": "Integrate Salesforce insights into Looker Studio for comprehensive CRM analytics that guide your customer-centric strategies."
-    }
+    },
+    "fivetran_id": "salesforce"
   },
   "Salesforce Commerce Cloud": {
     "overview": {
@@ -1661,7 +1868,8 @@
     },
     "body": {
       "description": "Integrate Salesforce Commerce Cloud insights into Looker Studio for comprehensive e-commerce analytics that guide your online retail strategies."
-    }
+    },
+    "fivetran_id": "salesforce_commerce_cloud"
   },
   "Salesforce Marketing Cloud": {
     "overview": {
@@ -1669,7 +1877,8 @@
     },
     "body": {
       "description": "Integrate Salesforce Marketing Cloud insights into Looker Studio for comprehensive marketing analytics that guide your customer-centric strategies."
-    }
+    },
+    "fivetran_id": "salesforce_marketing_cloud"
   },
   "Salesforce sandbox": {
     "overview": {
@@ -1677,7 +1886,8 @@
     },
     "body": {
       "description": "Amplify your development strategies with Salesforce sandbox insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "salesforce_sandbox"
   },
   "Salesloft": {
     "overview": {
@@ -1685,7 +1895,8 @@
     },
     "body": {
       "description": "Amplify your sales engagement strategies with Salesloft insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "salesloft"
   },
   "Samsara": {
     "overview": {
@@ -1693,7 +1904,8 @@
     },
     "body": {
       "description": "Harness the power of Samsara fleet management insights integrated into Looker Studio for strategic fleet management decisions."
-    }
+    },
+    "fivetran_id": "samsara"
   },
   "SAP Business ByDesign": {
     "overview": {
@@ -1701,7 +1913,8 @@
     },
     "body": {
       "description": "Harness the power of SAP Business ByDesign ERP insights integrated into Looker Studio for strategic operational decisions."
-    }
+    },
+    "fivetran_id": "sap_business_by_design"
   },
   "SAP Concur": {
     "overview": {
@@ -1709,7 +1922,8 @@
     },
     "body": {
       "description": "Amplify your travel and expense management strategies with SAP Concur insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "concur"
   },
   "SAP HANA": {
     "overview": {
@@ -1717,7 +1931,8 @@
     },
     "body": {
       "description": "Integrate SAP HANA insights into Looker Studio for comprehensive database analytics that guide your data management strategies."
-    }
+    },
+    "fivetran_id": "sap_hana"
   },
   "SAP S/4HANA": {
     "overview": {
@@ -1725,7 +1940,8 @@
     },
     "body": {
       "description": "Integrate SAP S/4HANA insights into Looker Studio for comprehensive ERP analytics that guide your operational strategies."
-    }
+    },
+    "fivetran_id": "sap_s4hana"
   },
   "SCORM": {
     "overview": {
@@ -1733,7 +1949,8 @@
     },
     "body": {
       "description": "Amplify your e-learning strategies with SCORM insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "scorm"
   },
   "Segment": {
     "overview": {
@@ -1741,7 +1958,8 @@
     },
     "body": {
       "description": "Harness the power of Segment customer data insights integrated into Looker Studio for strategic personalization decisions."
-    }
+    },
+    "fivetran_id": "segment"
   },
   "Self Hosted Elasticsearch": {
     "overview": {
@@ -1749,7 +1967,8 @@
     },
     "body": {
       "description": "Harness the power of Self Hosted Elasticsearch insights integrated into Looker Studio for strategic search optimization decisions."
-    }
+    },
+    "fivetran_id": "es_self_hosted"
   },
   "SendGrid": {
     "overview": {
@@ -1757,7 +1976,8 @@
     },
     "body": {
       "description": "Amplify your email delivery strategies with SendGrid insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "sendgrid"
   },
   "Sendinblue": {
     "overview": {
@@ -1765,7 +1985,8 @@
     },
     "body": {
       "description": "Amplify your marketing automation strategies with Sendinblue insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "sendinblue"
   },
   "ServiceNow": {
     "overview": {
@@ -1773,7 +1994,8 @@
     },
     "body": {
       "description": "Integrate ServiceNow insights into Looker Studio for comprehensive IT service management analytics that guide your operational strategies."
-    }
+    },
+    "fivetran_id": "servicenow"
   },
   "SFTP": {
     "overview": {
@@ -1781,7 +2003,8 @@
     },
     "body": {
       "description": "Amplify your data transfer strategies with SFTP insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "sftp"
   },
   "SharePoint": {
     "overview": {
@@ -1789,7 +2012,8 @@
     },
     "body": {
       "description": "Amplify your collaboration strategies with SharePoint insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "share_point"
   },
   "ShipStation": {
     "overview": {
@@ -1797,7 +2021,8 @@
     },
     "body": {
       "description": "Harness the power of ShipStation shipping insights integrated into Looker Studio for strategic shipping decisions."
-    }
+    },
+    "fivetran_id": "shipstation"
   },
   "Shopify": {
     "overview": {
@@ -1805,7 +2030,8 @@
     },
     "body": {
       "description": "Integrate Shopify insights into Looker Studio for comprehensive e-commerce analytics that guide your online retail strategies."
-    }
+    },
+    "fivetran_id": "shopify"
   },
   "SkuVault": {
     "overview": {
@@ -1813,7 +2039,8 @@
     },
     "body": {
       "description": "Amplify your inventory management strategies with SkuVault insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "skuvault"
   },
   "Slack": {
     "overview": {
@@ -1821,7 +2048,8 @@
     },
     "body": {
       "description": "Amplify your communication strategies with Slack insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "slack"
   },
   "Snapchat Ads": {
     "overview": {
@@ -1829,7 +2057,8 @@
     },
     "body": {
       "description": "Amplify your social media advertising strategies with Snapchat Ads insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "snapchat_ads"
   },
   "Snowflake": {
     "overview": {
@@ -1837,7 +2066,8 @@
     },
     "body": {
       "description": "Harness the power of Snowflake cloud data platform insights integrated into Looker Studio for strategic data management decisions."
-    }
+    },
+    "fivetran_id": "snowflake_db"
   },
   "Snowplow": {
     "overview": {
@@ -1845,7 +2075,8 @@
     },
     "body": {
       "description": "Harness the power of Snowplow event data insights integrated into Looker Studio for strategic event tracking decisions."
-    }
+    },
+    "fivetran_id": "snowplow"
   },
   "SonarQube": {
     "overview": {
@@ -1853,7 +2084,8 @@
     },
     "body": {
       "description": "Harness the power of SonarQube code quality insights integrated into Looker Studio for strategic code management decisions."
-    }
+    },
+    "fivetran_id": "sonarqube"
   },
   "Split": {
     "overview": {
@@ -1861,7 +2093,8 @@
     },
     "body": {
       "description": "Amplify your feature flagging strategies with Split insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "splitio"
   },
   "Splunk": {
     "overview": {
@@ -1869,7 +2102,8 @@
     },
     "body": {
       "description": "Harness the power of Splunk operational intelligence insights integrated into Looker Studio for strategic monitoring decisions."
-    }
+    },
+    "fivetran_id": "splunk"
   },
   "Sprout Social": {
     "overview": {
@@ -1877,7 +2111,8 @@
     },
     "body": {
       "description": "Amplify your social media management strategies with Sprout Social insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "sprout"
   },
   "SQL Server": {
     "overview": {
@@ -1885,7 +2120,8 @@
     },
     "body": {
       "description": "Harness the power of SQL Server database insights integrated into Looker Studio for strategic data management decisions."
-    }
+    },
+    "fivetran_id": "sql_server"
   },
   "SQL Server RDS": {
     "overview": {
@@ -1893,7 +2129,8 @@
     },
     "body": {
       "description": "Harness the power of SQL Server RDS database insights integrated into Looker Studio for strategic data management decisions."
-    }
+    },
+    "fivetran_id": "sql_server_rds"
   },
   "Square": {
     "overview": {
@@ -1901,7 +2138,8 @@
     },
     "body": {
       "description": "Integrate Square payment insights into Looker Studio for comprehensive payment analytics that guide your transactional strategies."
-    }
+    },
+    "fivetran_id": "square"
   },
   "Squarespace": {
     "overview": {
@@ -1909,7 +2147,8 @@
     },
     "body": {
       "description": "Integrate Squarespace website analytics insights into Looker Studio for comprehensive web strategy analytics."
-    }
+    },
+    "fivetran_id": "squarespace"
   },
   "Statsig": {
     "overview": {
@@ -1917,7 +2156,8 @@
     },
     "body": {
       "description": "Harness the power of Statsig feature management insights integrated into Looker Studio for strategic feature optimization decisions."
-    }
+    },
+    "fivetran_id": "statsig"
   },
   "Stripe": {
     "overview": {
@@ -1925,7 +2165,8 @@
     },
     "body": {
       "description": "Harness the power of Stripe payment insights integrated into Looker Studio for strategic payment decisions."
-    }
+    },
+    "fivetran_id": "stripe"
   },
   "Stripe test mode": {
     "overview": {
@@ -1933,7 +2174,8 @@
     },
     "body": {
       "description": "Harness the power of Stripe test mode payment insights integrated into Looker Studio for strategic payment testing decisions."
-    }
+    },
+    "fivetran_id": "stripe_test"
   },
   "Subscript": {
     "overview": {
@@ -1941,7 +2183,8 @@
     },
     "body": {
       "description": "Amplify your subscription management strategies with Subscript insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "subscript"
   },
   "SurveyMonkey": {
     "overview": {
@@ -1949,7 +2192,8 @@
     },
     "body": {
       "description": "Amplify your survey strategies with SurveyMonkey insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "survey_monkey"
   },
   "Survicate": {
     "overview": {
@@ -1957,7 +2201,8 @@
     },
     "body": {
       "description": "Amplify your customer feedback strategies with Survicate insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "survicate"
   },
   "Taboola": {
     "overview": {
@@ -1965,7 +2210,8 @@
     },
     "body": {
       "description": "Amplify your content discovery strategies with Taboola insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "taboola"
   },
   "Talkdesk": {
     "overview": {
@@ -1973,7 +2219,8 @@
     },
     "body": {
       "description": "Harness the power of Talkdesk customer support insights integrated into Looker Studio for strategic support management decisions."
-    }
+    },
+    "fivetran_id": "talkdesk"
   },
   "The Trade Desk": {
     "overview": {
@@ -1981,7 +2228,8 @@
     },
     "body": {
       "description": "Amplify your programmatic advertising strategies with The Trade Desk insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "the_trade_desk"
   },
   "Tiktok Ads": {
     "overview": {
@@ -1989,7 +2237,8 @@
     },
     "body": {
       "description": "Amplify your social media advertising strategies with Tiktok Ads insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "tiktok_ads"
   },
   "Twilio": {
     "overview": {
@@ -1997,7 +2246,8 @@
     },
     "body": {
       "description": "Harness the power of Twilio communication insights integrated into Looker Studio for strategic messaging decisions."
-    }
+    },
+    "fivetran_id": "twilio"
   },
   "Twitter Ads": {
     "overview": {
@@ -2005,7 +2255,8 @@
     },
     "body": {
       "description": "Amplify your social media advertising strategies with Twitter Ads insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "twitter_ads"
   },
   "Twitter Organic": {
     "overview": {
@@ -2013,7 +2264,8 @@
     },
     "body": {
       "description": "Amplify your social media strategies with Twitter Organic insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "twitter"
   },
   "Typeform": {
     "overview": {
@@ -2021,7 +2273,8 @@
     },
     "body": {
       "description": "Amplify your survey strategies with Typeform insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "typeform"
   },
   "UserVoice": {
     "overview": {
@@ -2029,7 +2282,8 @@
     },
     "body": {
       "description": "Harness the power of UserVoice customer feedback insights integrated into Looker Studio for strategic feedback management decisions."
-    }
+    },
+    "fivetran_id": "uservoice"
   },
   "Verizon Media": {
     "overview": {
@@ -2037,7 +2291,8 @@
     },
     "body": {
       "description": "Amplify your advertising strategies with Verizon Media insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "yahoo_gemini"
   },
   "Webhooks": {
     "overview": {
@@ -2045,7 +2300,8 @@
     },
     "body": {
       "description": "Amplify your custom data strategies with Webhooks insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "webhooks"
   },
   "When I Work": {
     "overview": {
@@ -2053,7 +2309,8 @@
     },
     "body": {
       "description": "Harness the power of When I Work workforce insights integrated into Looker Studio for strategic workforce management decisions."
-    }
+    },
+    "fivetran_id": "when_i_work"
   },
   "WooCommerce": {
     "overview": {
@@ -2061,7 +2318,8 @@
     },
     "body": {
       "description": "Integrate WooCommerce insights into Looker Studio for comprehensive e-commerce analytics that guide your online retail strategies."
-    }
+    },
+    "fivetran_id": "woocommerce"
   },
   "Workday HCM": {
     "overview": {
@@ -2069,7 +2327,8 @@
     },
     "body": {
       "description": "Integrate Workday HCM insights into Looker Studio for comprehensive HR analytics that guide your workforce strategies."
-    }
+    },
+    "fivetran_id": "workday_hcm"
   },
   "Workday RaaS": {
     "overview": {
@@ -2077,7 +2336,8 @@
     },
     "body": {
       "description": "Harness the power of Workday RaaS financial insights integrated into Looker Studio for strategic financial management decisions."
-    }
+    },
+    "fivetran_id": "workday"
   },
   "Wrike": {
     "overview": {
@@ -2085,7 +2345,8 @@
     },
     "body": {
       "description": "Harness the power of Wrike project management insights integrated into Looker Studio for strategic project planning decisions."
-    }
+    },
+    "fivetran_id": "wrike"
   },
   "Xero": {
     "overview": {
@@ -2093,7 +2354,8 @@
     },
     "body": {
       "description": "Harness the power of Xero accounting insights integrated into Looker Studio for strategic financial management decisions."
-    }
+    },
+    "fivetran_id": "xero"
   },
   "YouTube Analytics": {
     "overview": {
@@ -2101,7 +2363,8 @@
     },
     "body": {
       "description": "Amplify your video content strategies with YouTube Analytics insights integrated into Looker Studio."
-    }
+    },
+    "fivetran_id": "youtube_analytics"
   },
   "Zendesk Chat": {
     "overview": {
@@ -2109,7 +2372,8 @@
     },
     "body": {
       "description": "Harness the power of Zendesk Chat customer support insights integrated into Looker Studio for strategic chat management decisions."
-    }
+    },
+    "fivetran_id": "zendesk_chat"
   },
   "Zendesk Sell": {
     "overview": {
@@ -2117,7 +2381,8 @@
     },
     "body": {
       "description": "Harness the power of Zendesk Sell sales insights integrated into Looker Studio for strategic sales management decisions."
-    }
+    },
+    "fivetran_id": "zendesk_sell"
   },
   "Zendesk Sunshine": {
     "overview": {
@@ -2125,7 +2390,8 @@
     },
     "body": {
       "description": "Harness the power of Zendesk Sunshine customer data insights integrated into Looker Studio for strategic customer engagement decisions."
-    }
+    },
+    "fivetran_id": "zendesk_sunshine"
   },
   "Zendesk Support": {
     "overview": {
@@ -2133,7 +2399,8 @@
     },
     "body": {
       "description": "Harness the power of Zendesk Support customer support insights integrated into Looker Studio for strategic support management decisions."
-    }
+    },
+    "fivetran_id": "zendesk"
   },
   "Zoho CRM": {
     "overview": {
@@ -2141,7 +2408,8 @@
     },
     "body": {
       "description": "Integrate Zoho CRM insights into Looker Studio for comprehensive CRM analytics that guide your customer relationship strategies."
-    }
+    },
+    "fivetran_id": "zoho_crm"
   },
   "Zuora": {
     "overview": {
@@ -2149,7 +2417,8 @@
     },
     "body": {
       "description": "Harness the power of Zuora subscription insights integrated into Looker Studio for strategic subscription management decisions."
-    }
+    },
+    "fivetran_id": "zuora"
   },
   "Zuora Sandbox": {
     "overview": {
@@ -2157,6 +2426,7 @@
     },
     "body": {
       "description": "Harness the power of Zuora Sandbox subscription insights integrated into Looker Studio for strategic subscription testing decisions."
-    }
+    },
+    "fivetran_id": "zuora_sandbox"
   }
 }

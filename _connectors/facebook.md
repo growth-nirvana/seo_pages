@@ -10,14 +10,14 @@ sections:
     title: >-
       Facebook Ad Insights Data Connector
     description: Enhance your advertising insights with Facebook Ad Insights integration. Seamlessly merge ad performance data from Facebook with Looker Studio's analytical prowess, unlocking insights that shape ad strategies, customer engagement, and campaign success.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your Facebook Ad Insights channel data with Growth Nirvana's
       Facebook Ad Insights Connector
     description: Integrate Facebook Ad Insights into Looker Studio for comprehensive advertising analytics that guide your campaign strategies.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the Facebook Ad Insights connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

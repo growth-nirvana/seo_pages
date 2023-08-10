@@ -10,14 +10,14 @@ sections:
     title: >-
       Microsoft Dynamics 365 CRM Data Connector
     description: Elevate your CRM insights with Microsoft Dynamics 365 CRM integration. Seamlessly merge customer relationship data from Microsoft Dynamics 365 CRM with Looker Studio's analytical capabilities, unlocking insights that drive customer engagement strategies, sales performance, and operational excellence.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your Microsoft Dynamics 365 CRM channel data with Growth Nirvana's
       Microsoft Dynamics 365 CRM Connector
     description: Integrate Microsoft Dynamics 365 CRM insights into Looker Studio for comprehensive CRM analytics that guide your customer-centric strategies.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the Microsoft Dynamics 365 CRM connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

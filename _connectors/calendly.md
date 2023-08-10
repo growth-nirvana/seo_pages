@@ -10,14 +10,14 @@ sections:
     title: >-
       Calendly Data Connector
     description: Elevate your scheduling insights with Calendly integration. Seamlessly merge event data from Calendly with Looker Studio's analytical capabilities, unlocking a comprehensive view of scheduling trends, customer engagement, and operational efficiency.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your Calendly channel data with Growth Nirvana's
       Calendly Connector
     description: Integrate Calendly with Looker Studio for data-driven scheduling analytics that shape your customer interactions.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the Calendly connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

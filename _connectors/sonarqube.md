@@ -10,14 +10,14 @@ sections:
     title: >-
       SonarQube Data Connector
     description: Optimize your code quality insights with SonarQube integration. Seamlessly merge code quality data from SonarQube with Looker Studio's analytical capabilities, unlocking insights that drive software development strategies, code optimization, and operational excellence.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your SonarQube channel data with Growth Nirvana's
       SonarQube Connector
     description: Harness the power of SonarQube code quality insights integrated into Looker Studio for strategic code management decisions.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the SonarQube connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

@@ -10,14 +10,14 @@ sections:
     title: >-
       Google Ads (AdWords) Data Connector
     description: Elevate your advertising insights with Google Ads (AdWords) integration. Seamlessly merge ad data from Google Ads with Looker Studio's analytical capabilities, unlocking insights that power ad strategies, customer engagement, and campaign performance.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your Google Ads (AdWords) channel data with Growth Nirvana's
       Google Ads (AdWords) Connector
     description: Amplify your ad strategies with Google Ads (AdWords) insights integrated into Looker Studio.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the Google Ads (AdWords) connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

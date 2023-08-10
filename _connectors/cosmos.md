@@ -10,14 +10,14 @@ sections:
     title: >-
       Azure Cosmos DB - NoSQL API Data Connector
     description: Unlock your NoSQL insights with Azure Cosmos DB integration. Seamlessly merge Cosmos DB's data capabilities with Looker Studio's analytical prowess, translating raw data into actionable insights that drive strategic decisions.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your Azure Cosmos DB - NoSQL API channel data with Growth Nirvana's
       Azure Cosmos DB - NoSQL API Connector
     description: Integrate Azure Cosmos DB with Looker Studio to pave the way for data-driven strategies in a NoSQL world.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the Azure Cosmos DB - NoSQL API connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

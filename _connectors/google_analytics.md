@@ -10,14 +10,14 @@ sections:
     title: >-
       Google Analytics Data Connector
     description: Revolutionize your web analytics with Google Analytics integration. Seamlessly merge website data from Google Analytics with Looker Studio's analytical capabilities, unlocking insights that shape online strategies, user experiences, and operational excellence.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your Google Analytics channel data with Growth Nirvana's
       Google Analytics Connector
     description: Empower your web strategies with Google Analytics insights integrated into Looker Studio.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the Google Analytics connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

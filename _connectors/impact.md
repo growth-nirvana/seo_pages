@@ -10,14 +10,14 @@ sections:
     title: >-
       Impact Data Connector
     description: Elevate your partnership insights with Impact integration. Seamlessly merge partnership data from Impact with Looker Studio's analytical capabilities, unlocking insights that drive partnership strategies, affiliate performance, and operational excellence.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your Impact channel data with Growth Nirvana's
       Impact Connector
     description: Integrate Impact insights into Looker Studio for comprehensive partnership analytics that guide your strategic decisions.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the Impact connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

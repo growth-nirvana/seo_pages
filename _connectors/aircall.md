@@ -10,14 +10,14 @@ sections:
     title: >-
       Aircall Data Connector
     description: Transform communication analytics with Aircall integration. Combine Aircall's insightful call data with Looker Studio's analytics, unveiling patterns, trends, and performance metrics that elevate your communication strategies and customer interactions.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your Aircall channel data with Growth Nirvana's
       Aircall Connector
     description: Elevate communication intelligence as Aircall's insights converge with Looker Studio's analytical capabilities.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the Aircall connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

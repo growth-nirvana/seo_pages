@@ -10,14 +10,14 @@ sections:
     title: >-
       360Learning Data Connector
     description: Elevate your learning analytics to new heights with 360Learning integration. Seamlessly blend the power of comprehensive training insights and Looker Studio's analytical prowess, creating a holistic learning ecosystem that drives growth and excellence.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your 360Learning channel data with Growth Nirvana's
       360Learning Connector
     description: Unleash the potential of 360Learning's insights in Looker Studio, forging a path to enhanced learning strategies.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the 360Learning connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

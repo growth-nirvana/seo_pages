@@ -10,14 +10,14 @@ sections:
     title: >-
       MariaDB RDS Data Connector
     description: Optimize your MariaDB database insights with MariaDB RDS integration. Seamlessly merge MariaDB database data from RDS with Looker Studio's analytical capabilities, unlocking insights that drive database performance, optimization strategies, and operational excellence.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your MariaDB RDS channel data with Growth Nirvana's
       MariaDB RDS Connector
     description: Integrate MariaDB RDS insights into Looker Studio for comprehensive database analytics that guide your database management strategies.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the MariaDB RDS connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

@@ -10,14 +10,14 @@ sections:
     title: >-
       Campaign Monitor Data Connector
     description: Transform your email marketing with Campaign Monitor integration. Seamlessly merge email engagement data from Campaign Monitor with Looker Studio's analytical capabilities, unlocking insights that power email strategies, customer interactions, and campaign performance.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your Campaign Monitor channel data with Growth Nirvana's
       Campaign Monitor Connector
     description: Empower your email marketing efforts with Campaign Monitor insights integrated into Looker Studio's analytics environment.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the Campaign Monitor connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

@@ -10,14 +10,14 @@ sections:
     title: >-
       Adobe Analytics Data Feed Data Connector
     description: Fuel your insights with Adobe Analytics Data Feed integration. Tap into the heartbeat of your digital presence by seamlessly streaming Adobe's real-time data directly into Looker Studio, empowering your strategies with instant, actionable intelligence.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your Adobe Analytics Data Feed channel data with Growth Nirvana's
       Adobe Analytics Data Feed Connector
     description: Merge the dynamic insights from Adobe Analytics Data Feed with Looker Studio, and supercharge your decision-making.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the Adobe Analytics Data Feed connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

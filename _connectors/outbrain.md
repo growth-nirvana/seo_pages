@@ -10,14 +10,14 @@ sections:
     title: >-
       Outbrain Data Connector
     description: Enhance your content discovery insights with Outbrain integration. Seamlessly merge content engagement data from Outbrain with Looker Studio's analytical capabilities, unlocking insights that shape content distribution strategies, audience engagement, and operational excellence.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your Outbrain channel data with Growth Nirvana's
       Outbrain Connector
     description: Amplify your content distribution strategies with Outbrain insights integrated into Looker Studio.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the Outbrain connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

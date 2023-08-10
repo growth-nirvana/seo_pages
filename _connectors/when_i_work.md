@@ -10,14 +10,14 @@ sections:
     title: >-
       When I Work Data Connector
     description: Optimize your workforce management insights with When I Work integration. Seamlessly merge workforce data from When I Work with Looker Studio's analytical capabilities, unlocking insights that drive scheduling strategies, labor analysis, and operational excellence.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your When I Work channel data with Growth Nirvana's
       When I Work Connector
     description: Harness the power of When I Work workforce insights integrated into Looker Studio for strategic workforce management decisions.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the When I Work connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

@@ -10,14 +10,14 @@ sections:
     title: >-
       Azure SQL Database Data Connector
     description: Empower your database insights with Azure SQL Database integration. Seamlessly blend Azure SQL Database's capabilities with Looker Studio's analytical prowess, enabling you to transform raw data into actionable insights.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your Azure SQL Database channel data with Growth Nirvana's
       Azure SQL Database Connector
     description: Unlock the potential of Azure SQL Database data within Looker Studio, for data-driven strategies that make an impact.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the Azure SQL Database connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

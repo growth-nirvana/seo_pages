@@ -10,14 +10,14 @@ sections:
     title: >-
       Stripe test mode Data Connector
     description: Optimize your payment testing insights with Stripe test mode integration. Seamlessly merge payment test data from Stripe with Looker Studio's analytical capabilities, unlocking insights that drive testing strategies, transaction analysis, and operational excellence.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your Stripe test mode channel data with Growth Nirvana's
       Stripe test mode Connector
     description: Harness the power of Stripe test mode payment insights integrated into Looker Studio for strategic payment testing decisions.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the Stripe test mode connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

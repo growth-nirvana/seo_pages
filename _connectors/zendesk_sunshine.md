@@ -10,14 +10,14 @@ sections:
     title: >-
       Zendesk Sunshine Data Connector
     description: Optimize your customer data insights with Zendesk Sunshine integration. Seamlessly merge customer data from Zendesk Sunshine with Looker Studio's analytical capabilities, unlocking insights that drive customer engagement strategies, behavior analysis, and operational excellence.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your Zendesk Sunshine channel data with Growth Nirvana's
       Zendesk Sunshine Connector
     description: Harness the power of Zendesk Sunshine customer data insights integrated into Looker Studio for strategic customer engagement decisions.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the Zendesk Sunshine connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

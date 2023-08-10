@@ -10,14 +10,14 @@ sections:
     title: >-
       RingCentral Data Connector
     description: Enhance your communication insights with RingCentral integration. Seamlessly merge communication data from RingCentral with Looker Studio's analytical capabilities, unlocking insights that shape collaboration strategies, call analytics, and operational excellence.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your RingCentral channel data with Growth Nirvana's
       RingCentral Connector
     description: Amplify your communication strategies with RingCentral insights integrated into Looker Studio.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the RingCentral connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

@@ -10,14 +10,14 @@ sections:
     title: >-
       Close Data Connector
     description: Elevate your sales insights with Close integration. Seamlessly merge sales and communication data from Close with Looker Studio's analytical capabilities, unlocking insights that power sales strategies, customer interactions, and deal performance.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your Close channel data with Growth Nirvana's
       Close Connector
     description: Integrate Close with Looker Studio for data-driven sales analytics that guide your revenue strategies.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the Close connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

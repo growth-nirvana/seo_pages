@@ -10,14 +10,14 @@ sections:
     title: >-
       Help Scout Data Connector
     description: Enhance your customer support insights with Help Scout integration. Seamlessly merge customer interaction data from Help Scout with Looker Studio's analytical capabilities, unlocking insights that shape support strategies, agent performance, and operational excellence.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your Help Scout channel data with Growth Nirvana's
       Help Scout Connector
     description: Amplify your customer support strategies with Help Scout insights integrated into Looker Studio.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the Help Scout connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

@@ -10,14 +10,14 @@ sections:
     title: >-
       Monday.com Data Connector
     description: Optimize your work management insights with Monday.com integration. Seamlessly merge project data from Monday.com with Looker Studio's analytical capabilities, unlocking insights that drive task management strategies, team performance, and operational excellence.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your Monday.com channel data with Growth Nirvana's
       Monday.com Connector
     description: Harness the power of Monday.com insights integrated into Looker Studio for strategic work management decisions.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the Monday.com connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

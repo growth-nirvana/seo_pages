@@ -10,14 +10,14 @@ sections:
     title: >-
       Oracle Fusion Cloud Applications - FSCM(ERP & SCM) Data Connector
     description: Elevate your ERP and SCM insights with Oracle Fusion Cloud Applications - FSCM integration. Seamlessly merge enterprise resource planning and supply chain data from Oracle Fusion Cloud Applications - FSCM with Looker Studio's analytical capabilities, unlocking insights that drive operational strategies, resource allocation, and operational excellence.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your Oracle Fusion Cloud Applications - FSCM(ERP & SCM) channel data with Growth Nirvana's
       Oracle Fusion Cloud Applications - FSCM(ERP & SCM) Connector
     description: Integrate Oracle Fusion Cloud Applications - FSCM insights into Looker Studio for comprehensive ERP and SCM analytics that guide your operational strategies.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the Oracle Fusion Cloud Applications - FSCM(ERP & SCM) connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

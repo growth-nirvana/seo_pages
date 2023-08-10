@@ -10,14 +10,14 @@ sections:
     title: >-
       RetailNext Data Connector
     description: Optimize your retail analytics insights with RetailNext integration. Seamlessly merge retail performance data from RetailNext with Looker Studio's analytical capabilities, unlocking insights that drive store strategies, foot traffic analysis, and operational excellence.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your RetailNext channel data with Growth Nirvana's
       RetailNext Connector
     description: Harness the power of RetailNext retail analytics insights integrated into Looker Studio for strategic store management decisions.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the RetailNext connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

@@ -10,14 +10,14 @@ sections:
     title: >-
       Google Sheets Data Connector
     description: Elevate your spreadsheet insights with Google Sheets integration. Seamlessly merge spreadsheet data from Google Sheets with Looker Studio's analytical capabilities, unlocking insights that drive data analysis, reporting strategies, and operational excellence.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your Google Sheets channel data with Growth Nirvana's
       Google Sheets Connector
     description: Integrate Google Sheets insights into Looker Studio for comprehensive spreadsheet analytics that guide your data-driven strategies.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the Google Sheets connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

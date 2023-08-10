@@ -10,14 +10,14 @@ sections:
     title: >-
       FTP Data Connector
     description: Optimize your data transfer insights with FTP integration. Seamlessly transfer data from FTP into Looker Studio's analytical environment, empowering you to analyze and interpret data with precision for better decision-making.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your FTP channel data with Growth Nirvana's
       FTP Connector
     description: Integrate FTP with Looker Studio for streamlined data transfer and analysis that fuels data-driven strategies.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the FTP connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

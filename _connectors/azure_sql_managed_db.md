@@ -10,14 +10,14 @@ sections:
     title: >-
       Azure SQL Managed Instance Data Connector
     description: Elevate your database insights with Azure SQL Managed Instance integration. Seamlessly merge Azure SQL Managed Instance's capabilities with Looker Studio's analytical prowess, transforming raw data into actionable insights that drive strategic decisions.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your Azure SQL Managed Instance channel data with Growth Nirvana's
       Azure SQL Managed Instance Connector
     description: Integrate Azure SQL Managed Instance with Looker Studio and amplify your decision-making capabilities.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the Azure SQL Managed Instance connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

@@ -10,14 +10,14 @@ sections:
     title: >-
       Eloqua Data Connector
     description: Transform your marketing insights with Eloqua integration. Seamlessly merge marketing automation data from Eloqua with Looker Studio's analytical capabilities, unlocking insights that power marketing strategies, customer engagement, and campaign performance.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your Eloqua channel data with Growth Nirvana's
       Eloqua Connector
     description: Empower your marketing efforts with Eloqua insights integrated into Looker Studio's analytics environment.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the Eloqua connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

@@ -10,14 +10,14 @@ sections:
     title: >-
       SendGrid Data Connector
     description: Enhance your email delivery insights with SendGrid integration. Seamlessly merge email delivery data from SendGrid with Looker Studio's analytical capabilities, unlocking insights that shape email campaigns, engagement rates, and operational excellence.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your SendGrid channel data with Growth Nirvana's
       SendGrid Connector
     description: Amplify your email delivery strategies with SendGrid insights integrated into Looker Studio.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the SendGrid connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

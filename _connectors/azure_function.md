@@ -10,14 +10,14 @@ sections:
     title: >-
       Azure Functions Data Connector
     description: Empower your serverless insights with Azure Functions integration. Seamlessly blend Functions' data with Looker Studio's analytical prowess, unlocking insights into usage, performance, and operational efficiency.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your Azure Functions channel data with Growth Nirvana's
       Azure Functions Connector
     description: Integrate Azure Functions insights into Looker Studio for comprehensive serverless analytics that shape your operational strategies.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the Azure Functions connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

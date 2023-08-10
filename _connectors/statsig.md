@@ -10,14 +10,14 @@ sections:
     title: >-
       Statsig Data Connector
     description: Optimize your feature management insights with Statsig integration. Seamlessly merge feature management data from Statsig with Looker Studio's analytical capabilities, unlocking insights that drive software release strategies, feature adoption, and operational excellence.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your Statsig channel data with Growth Nirvana's
       Statsig Connector
     description: Harness the power of Statsig feature management insights integrated into Looker Studio for strategic feature optimization decisions.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the Statsig connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

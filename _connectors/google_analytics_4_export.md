@@ -10,14 +10,14 @@ sections:
     title: >-
       Google Analytics 4 Export Data Connector
     description: Enhance your event-based analytics with Google Analytics 4 Export integration. Seamlessly export event data from Google Analytics 4 to Looker Studio's analytical environment, enabling advanced analysis for data-driven strategies.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your Google Analytics 4 Export channel data with Growth Nirvana's
       Google Analytics 4 Export Connector
     description: Integrate Google Analytics 4 Export with Looker Studio for event-driven analytics that shape your digital strategies.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the Google Analytics 4 Export connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

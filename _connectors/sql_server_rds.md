@@ -10,14 +10,14 @@ sections:
     title: >-
       SQL Server RDS Data Connector
     description: Optimize your cloud database insights with SQL Server RDS integration. Seamlessly merge SQL Server RDS database data with Looker Studio's analytical capabilities, unlocking insights that drive database performance strategies, data optimization, and operational excellence.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your SQL Server RDS channel data with Growth Nirvana's
       SQL Server RDS Connector
     description: Harness the power of SQL Server RDS database insights integrated into Looker Studio for strategic data management decisions.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the SQL Server RDS connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

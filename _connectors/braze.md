@@ -10,14 +10,14 @@ sections:
     title: >-
       Braze Data Connector
     description: Transform your marketing insights with Braze integration. Seamlessly merge Braze's engagement data with Looker Studio's analytical capabilities, unlocking insights that drive personalized customer experiences, campaigns, and growth.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your Braze channel data with Growth Nirvana's
       Braze Connector
     description: Empower your marketing efforts through Braze insights integrated into Looker Studio's analytics environment.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the Braze connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

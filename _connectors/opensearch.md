@@ -10,14 +10,14 @@ sections:
     title: >-
       Opensearch Data Connector
     description: Elevate your search engine insights with Opensearch integration. Seamlessly merge search engine data from Opensearch with Looker Studio's analytical capabilities, unlocking insights that drive search performance strategies, data discovery, and operational excellence.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your Opensearch channel data with Growth Nirvana's
       Opensearch Connector
     description: Integrate Opensearch insights into Looker Studio for comprehensive search engine analytics that guide your data discovery strategies.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the Opensearch connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

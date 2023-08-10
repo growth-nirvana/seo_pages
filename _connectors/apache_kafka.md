@@ -10,14 +10,14 @@ sections:
     title: >-
       Apache Kafka Data Connector
     description: Enhance your data pipeline with Apache Kafka integration. Seamlessly channel real-time data streams from Apache Kafka into Looker Studio's analytical engine, empowering you with immediate insights for informed decision-making.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your Apache Kafka channel data with Growth Nirvana's
       Apache Kafka Connector
     description: Amplify your real-time insights by integrating Apache Kafka with Looker Studio's analytical capabilities.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the Apache Kafka connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

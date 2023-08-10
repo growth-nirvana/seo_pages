@@ -10,14 +10,14 @@ sections:
     title: >-
       Reddit Ads Data Connector
     description: Enhance your online advertising insights with Reddit Ads integration. Seamlessly merge advertising performance data from Reddit Ads with Looker Studio's analytical capabilities, unlocking insights that shape ad strategies, audience engagement, and campaign success.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your Reddit Ads channel data with Growth Nirvana's
       Reddit Ads Connector
     description: Amplify your advertising strategies with Reddit Ads insights integrated into Looker Studio.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the Reddit Ads connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

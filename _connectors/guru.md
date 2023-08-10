@@ -10,14 +10,14 @@ sections:
     title: >-
       Guru Data Connector
     description: Elevate your knowledge management insights with Guru integration. Seamlessly merge knowledge data from Guru with Looker Studio's analytical capabilities, unlocking insights that shape content strategies, user interactions, and operational excellence.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your Guru channel data with Growth Nirvana's
       Guru Connector
     description: Integrate Guru insights into Looker Studio for data-driven knowledge management analytics that guide your content strategies.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the Guru connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

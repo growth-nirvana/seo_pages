@@ -10,14 +10,14 @@ sections:
     title: >-
       Freightview Data Connector
     description: Elevate your shipping insights with Freightview integration. Seamlessly merge shipping data from Freightview with Looker Studio's analytical capabilities, unlocking insights that drive shipping strategies, freight performance, and operational efficiency.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your Freightview channel data with Growth Nirvana's
       Freightview Connector
     description: Amplify your shipping strategies with Freightview insights integrated into Looker Studio.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the Freightview connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

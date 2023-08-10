@@ -10,14 +10,14 @@ sections:
     title: >-
       Alchemer Data Connector
     description: Merge feedback and analytics with Alchemer integration. Seamlessly integrate Alchemer's insightful survey data with Looker Studio's analytical capabilities, offering a comprehensive view of customer sentiment and feedback-driven strategies.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your Alchemer channel data with Growth Nirvana's
       Alchemer Connector
     description: Uncover deeper insights from customer feedback by integrating Alchemer with Looker Studio's analytical power.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the Alchemer connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

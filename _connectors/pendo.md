@@ -10,14 +10,14 @@ sections:
     title: >-
       Pendo Data Connector
     description: Optimize your product analytics insights with Pendo integration. Seamlessly merge user behavior data from Pendo with Looker Studio's analytical capabilities, unlocking insights that drive product optimization strategies, user experiences, and operational excellence.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your Pendo channel data with Growth Nirvana's
       Pendo Connector
     description: Harness the power of Pendo product analytics insights integrated into Looker Studio for strategic product optimization decisions.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the Pendo connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

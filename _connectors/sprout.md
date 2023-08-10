@@ -10,14 +10,14 @@ sections:
     title: >-
       Sprout Social Data Connector
     description: Enhance your social media management insights with Sprout Social integration. Seamlessly merge social media data from Sprout Social with Looker Studio's analytical capabilities, unlocking insights that shape social media strategies, audience engagement, and operational excellence.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your Sprout Social channel data with Growth Nirvana's
       Sprout Social Connector
     description: Amplify your social media management strategies with Sprout Social insights integrated into Looker Studio.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the Sprout Social connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

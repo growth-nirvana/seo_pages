@@ -10,14 +10,14 @@ sections:
     title: >-
       Branch Data Connector
     description: Optimize your deep linking insights with Branch integration. Seamlessly merge Branch's data with Looker Studio's analytical prowess, unlocking insights into user journeys, conversion paths, and app performance.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your Branch channel data with Growth Nirvana's
       Branch Connector
     description: Integrate Branch insights into Looker Studio for comprehensive deep linking analytics that guide your app strategies.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the Branch connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

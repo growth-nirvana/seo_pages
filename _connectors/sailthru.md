@@ -10,14 +10,14 @@ sections:
     title: >-
       Sailthru Data Connector
     description: Enhance your customer engagement insights with Sailthru integration. Seamlessly merge customer behavior data from Sailthru with Looker Studio's analytical capabilities, unlocking insights that shape personalized marketing strategies, user experiences, and operational excellence.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your Sailthru channel data with Growth Nirvana's
       Sailthru Connector
     description: Amplify your customer engagement strategies with Sailthru insights integrated into Looker Studio.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the Sailthru connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

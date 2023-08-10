@@ -10,14 +10,14 @@ sections:
     title: >-
       SAP S/4HANA Data Connector
     description: Elevate your ERP insights with SAP S/4HANA integration. Seamlessly merge ERP data from SAP S/4HANA with Looker Studio's analytical capabilities, unlocking insights that drive operational strategies, financial planning, and operational excellence.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your SAP S/4HANA channel data with Growth Nirvana's
       SAP S/4HANA Connector
     description: Integrate SAP S/4HANA insights into Looker Studio for comprehensive ERP analytics that guide your operational strategies.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the SAP S/4HANA connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

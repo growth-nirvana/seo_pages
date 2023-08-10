@@ -10,14 +10,14 @@ sections:
     title: >-
       Zoho CRM Data Connector
     description: Elevate your customer relationship insights with Zoho CRM integration. Seamlessly merge CRM data from Zoho CRM with Looker Studio's analytical capabilities, unlocking insights that drive customer engagement strategies, sales analysis, and operational excellence.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your Zoho CRM channel data with Growth Nirvana's
       Zoho CRM Connector
     description: Integrate Zoho CRM insights into Looker Studio for comprehensive CRM analytics that guide your customer relationship strategies.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the Zoho CRM connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

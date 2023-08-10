@@ -10,14 +10,14 @@ sections:
     title: >-
       Bamboo HR Data Connector
     description: Elevate your HR insights with Bamboo HR integration. Seamlessly merge employee data from Bamboo HR with Looker Studio's analytical capabilities, unlocking a comprehensive view of workforce trends and insights that drive operational excellence.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your Bamboo HR channel data with Growth Nirvana's
       Bamboo HR Connector
     description: Integrate Bamboo HR with Looker Studio for data-driven HR analytics that shape your people strategies.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the Bamboo HR connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

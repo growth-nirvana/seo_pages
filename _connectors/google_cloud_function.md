@@ -10,14 +10,14 @@ sections:
     title: >-
       Google Cloud Functions Data Connector
     description: Elevate your cloud function insights with Google Cloud Functions integration. Seamlessly merge cloud function data from Google Cloud Functions with Looker Studio's analytical capabilities, unlocking insights that drive operational strategies, performance improvements, and operational excellence.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your Google Cloud Functions channel data with Growth Nirvana's
       Google Cloud Functions Connector
     description: Amplify your cloud function strategies with Google Cloud Functions insights integrated into Looker Studio.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the Google Cloud Functions connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

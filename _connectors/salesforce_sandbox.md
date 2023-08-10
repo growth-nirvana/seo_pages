@@ -10,14 +10,14 @@ sections:
     title: >-
       Salesforce sandbox Data Connector
     description: Enhance your development insights with Salesforce sandbox integration. Seamlessly merge sandbox data from Salesforce with Looker Studio's analytical capabilities, unlocking insights that shape development strategies, testing processes, and operational excellence.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your Salesforce sandbox channel data with Growth Nirvana's
       Salesforce sandbox Connector
     description: Amplify your development strategies with Salesforce sandbox insights integrated into Looker Studio.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the Salesforce sandbox connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

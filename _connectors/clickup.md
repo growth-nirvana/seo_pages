@@ -10,14 +10,14 @@ sections:
     title: >-
       ClickUp Data Connector
     description: Enhance your project management insights with ClickUp integration. Seamlessly merge task and project data from ClickUp with Looker Studio's analytical capabilities, unlocking insights that shape project strategies, team collaboration, and operational excellence.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your ClickUp channel data with Growth Nirvana's
       ClickUp Connector
     description: Amplify your project management through ClickUp insights integrated into Looker Studio.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the ClickUp connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

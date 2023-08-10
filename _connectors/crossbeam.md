@@ -10,14 +10,14 @@ sections:
     title: >-
       Crossbeam Data Connector
     description: Elevate your partner insights with Crossbeam integration. Seamlessly merge partner data from Crossbeam with Looker Studio's analytical capabilities, unlocking a comprehensive view of partnership trends, collaboration opportunities, and strategic growth.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your Crossbeam channel data with Growth Nirvana's
       Crossbeam Connector
     description: Integrate Crossbeam with Looker Studio for data-driven partner analytics that shape your partnership strategies.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the Crossbeam connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

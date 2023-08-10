@@ -10,14 +10,14 @@ sections:
     title: >-
       Amazon CloudFront Data Connector
     description: Enhance your web performance with Amazon CloudFront integration. Seamlessly merge the power of content delivery insights with Looker Studio's analytical capabilities, unveiling performance patterns and optimizing web strategies.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your Amazon CloudFront channel data with Growth Nirvana's
       Amazon CloudFront Connector
     description: Empower web performance insights by integrating Amazon CloudFront with Looker Studio's analytical prowess.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the Amazon CloudFront connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

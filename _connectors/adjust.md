@@ -10,14 +10,14 @@ sections:
     title: >-
       Adjust Data Connector
     description: Optimize your app's performance with Adjust integration. Channel the power of Adjust's data insights directly into Looker Studio, unlocking the secrets behind user behavior, app performance, and conversion patterns.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your Adjust channel data with Growth Nirvana's
       Adjust Connector
     description: Empower your app strategy through Adjust's data integrated seamlessly into Looker Studio's analytical landscape.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the Adjust connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

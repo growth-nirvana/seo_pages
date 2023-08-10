@@ -10,14 +10,14 @@ sections:
     title: >-
       NetSuite SuiteAnalytics Data Connector
     description: Enhance your ERP insights with NetSuite SuiteAnalytics integration. Seamlessly merge ERP data from NetSuite SuiteAnalytics with Looker Studio's analytical capabilities, unlocking insights that shape operational strategies, financial planning, and operational excellence.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your NetSuite SuiteAnalytics channel data with Growth Nirvana's
       NetSuite SuiteAnalytics Connector
     description: Amplify your ERP strategies with NetSuite SuiteAnalytics insights integrated into Looker Studio.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the NetSuite SuiteAnalytics connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

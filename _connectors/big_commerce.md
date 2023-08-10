@@ -10,14 +10,14 @@ sections:
     title: >-
       Big Commerce Data Connector
     description: Maximize your e-commerce potential with Big Commerce integration. Seamlessly blend Big Commerce's data insights with Looker Studio's analytical prowess, transforming raw sales and customer data into strategic brilliance that fuels your business growth.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your Big Commerce channel data with Growth Nirvana's
       Big Commerce Connector
     description: Supercharge your e-commerce strategies with Big Commerce data seamlessly integrated into Looker Studio.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the Big Commerce connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

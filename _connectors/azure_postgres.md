@@ -10,14 +10,14 @@ sections:
     title: >-
       Azure PostgreSQL Database Data Connector
     description: Elevate your database insights with Azure PostgreSQL Database integration. Seamlessly merge Azure PostgreSQL's data capabilities with Looker Studio's analytical prowess, transforming raw data into actionable insights that drive strategic decisions.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your Azure PostgreSQL Database channel data with Growth Nirvana's
       Azure PostgreSQL Database Connector
     description: Empower your decision-making by integrating Azure PostgreSQL Database with Looker Studio's analytical capabilities.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the Azure PostgreSQL Database connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

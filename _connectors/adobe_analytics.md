@@ -10,14 +10,14 @@ sections:
     title: >-
       Adobe Analytics Data Connector
     description: Empower your analytics with Adobe Analytics integration. Unveil the hidden gems within your digital interactions by seamlessly merging Adobe's comprehensive insights with Looker Studio's data visualization capabilities.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your Adobe Analytics channel data with Growth Nirvana's
       Adobe Analytics Connector
     description: Experience the synergy of Adobe Analytics and Looker Studio, where data-driven decisions become the cornerstone of your success.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the Adobe Analytics connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

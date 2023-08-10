@@ -10,14 +10,14 @@ sections:
     title: >-
       Zendesk Chat Data Connector
     description: Optimize your customer support insights with Zendesk Chat integration. Seamlessly merge customer chat data from Zendesk Chat with Looker Studio's analytical capabilities, unlocking insights that drive support strategies, chat analysis, and operational excellence.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your Zendesk Chat channel data with Growth Nirvana's
       Zendesk Chat Connector
     description: Harness the power of Zendesk Chat customer support insights integrated into Looker Studio for strategic chat management decisions.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the Zendesk Chat connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

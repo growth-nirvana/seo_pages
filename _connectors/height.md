@@ -10,14 +10,14 @@ sections:
     title: >-
       Height Data Connector
     description: Elevate your supply chain insights with Height integration. Seamlessly merge supply chain data from Height with Looker Studio's analytical capabilities, unlocking insights that drive inventory strategies, logistics performance, and operational excellence.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your Height channel data with Growth Nirvana's
       Height Connector
     description: Integrate Height insights into Looker Studio for comprehensive supply chain analytics that guide your operational strategies.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the Height connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

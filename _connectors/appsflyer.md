@@ -10,14 +10,14 @@ sections:
     title: >-
       AppsFlyer Data Connector
     description: Elevate your app analytics with AppsFlyer integration. Seamlessly merge user behavior and engagement data from AppsFlyer with Looker Studio's analytical prowess, uncovering insights that shape your data-driven app strategies.
-    image_url: /assets/images/overview.webp
+    image_url: /assets/images/seo_pages/overview.webp
 
   body:
     title: >-
       Visualize Your AppsFlyer channel data with Growth Nirvana's
       AppsFlyer Connector
     description: Supercharge your app's success by integrating AppsFlyer data with Looker Studio's analytical capabilities.
-    image_url: /assets/images/body.webp
+    image_url: /assets/images/seo_pages/body.webp
   steps_to_connect:
     title: Steps to connect
     steps:
@@ -27,7 +27,7 @@ sections:
         description: Authorize the AppsFlyer connection to send data to Growth Nirvana
       - title: "Step 3"
         description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/steps-to-connect.webp
+    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

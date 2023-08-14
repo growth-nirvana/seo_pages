@@ -3,18 +3,18 @@ layout: default
 ---
 
 <div class="bg-white">
-  <div class="pt-16 pb-8 px-8 container mx-auto">
+  <div class="pt-8 lg:pt-16 pb-8 px-8 container mx-auto">
     <div class="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-7xl mx-auto">
       <div class="flex flex-col justify-center">
-        <h1 class="font-semibold text-6xl text-gray-800 tracking-tight">
+        <h1 class="font-semibold text-4xl lg:text-6xl text-gray-800 tracking-tight">
           {{ page.sections.overview.title | newline_to_br }}
         </h1>
 
-        <p class="mt-6 text-lg">
+        <p class="mt-6 text-base lg:text-lg">
           {{ page.sections.overview.description | newline_to_br }}
         </p>
 
-        <p class="mt-10">
+        <p class="mt-10 flex justify-center lg:justify-normal">
           <a href="/schedule-demo" class="btn btn-primary">Start Your 30-day Free Trial</a>
         </p>
       </div>
@@ -26,21 +26,21 @@ layout: default
 </div>
 
 <div class="bg-neutral-100">
-  <div class="pt-16 pb-8 px-8 container mx-auto">
+  <div class="pt-8 lg:pt-16 pb-8 px-8 container mx-auto">
     <div class="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-7xl mx-auto">
       <div class="flex flex-row justify-center">
         <img src="{{ page.sections.body.image_url }}" alt="Body" class="max-h-[570px]">
       </div>
       <div class="flex flex-col justify-center">
-        <h1 class="font-semibold text-5xl text-gray-800">
+        <h1 class="font-semibold text-3xl lg:text-5xl text-gray-800">
           {{ page.sections.body.title | newline_to_br }}
         </h1>
 
-        <p class="mt-6 text-lg">
+        <p class="mt-6 text-base lg:text-lg">
           {{ page.sections.body.description | newline_to_br }}
         </p>
 
-        <p class="mt-10">
+        <p class="mt-10 flex justify-center lg:justify-normal">
           <a href="/schedule-demo" class="btn-underline btn-underline-primary">
             Book a Demo {% include icons/chevron-right.svg class="inline" %}
           </a>
@@ -51,16 +51,16 @@ layout: default
 </div>
 
 <div class="bg-neutral-100">
-  <div class="pt-16 pb-8 px-8 container mx-auto">
+  <div class="pt-8 lg:pt-16 pb-8 px-8 container mx-auto">
     <div class="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-7xl mx-auto">
       <div class="flex flex-col justify-center">
-        <h1 class="font-semibold text-5xl text-gray-800">
+        <h1 class="font-semibold text-3xl lg:text-5xl text-gray-800">
           {{ page.sections.steps_to_connect.title | newline_to_br }}
         </h1>
         <div class="mt-6 space-y-4">
           {% for step in page.sections.steps_to_connect.steps %}
             <div>
-              <h4 class="text-xl font-semibold text-primary">{{ step.title }}</h4>
+              <h4 class="text-lg lg:text-xl font-semibold text-primary">{{ step.title }}</h4>
               <span class="text-gray-500 mt-2">{{ step.description }}</span>
             </div>
           {% endfor %}
@@ -74,10 +74,10 @@ layout: default
 </div>
 
 <div class="bg-white">
-  <div class="pt-16 pb-8 px-8 container mx-auto">
+  <div class="pt-8 lg:pt-16 pb-8 px-8 container mx-auto">
     <div class="max-w-4xl mx-auto">
       <div class="flex justify-center">
-        <h1 class="font-semibold text-5xl text-gray-800">
+        <h1 class="font-semibold text-3xl lg:text-5xl text-gray-800">
           {{ page.sections.faq.title | newline_to_br }}
         </h1>
       </div>
@@ -85,8 +85,8 @@ layout: default
         <div class="mt-6 space-y-3">
           {% for question in page.sections.faq.questions %}
           <div class="flex flex-col">
-            <h4 class="text-xl font-semibold p-4 bg-gray-100">{{ question.title }}</h4>
-            <span class="text-gray-500 text-lg py-4 px-6">{{ question.answer }}</span>
+            <h4 class="text-lg lg:text-xl font-semibold p-4 bg-gray-100">{{ question.title }}</h4>
+            <span class="text-gray-500 text-base lg:text-lg py-4 px-6">{{ question.answer }}</span>
           </div>
           {% endfor %}
         </div>

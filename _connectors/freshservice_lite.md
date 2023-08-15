@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Freshservice_lite Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/freshservice_lite
+icon_url: /assets/images/seo_pages/connectors/freshservice_lite
 
 sections:
   overview:

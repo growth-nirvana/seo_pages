@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Microsoft Lists Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/microsoft_lists
+icon_url: /assets/images/seo_pages/connectors/microsoft_lists
 
 sections:
   overview:

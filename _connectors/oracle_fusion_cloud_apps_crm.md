@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Oracle Fusion Cloud Applications - CRM Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/oracle_fusion_cloud_apps_crm
+icon_url: /assets/images/seo_pages/connectors/oracle_fusion_cloud_apps_crm
 
 sections:
   overview:

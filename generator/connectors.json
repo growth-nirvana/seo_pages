@@ -890,15 +890,6 @@
     },
     "fivetran_id": "google_ads_account"
   },
-  "Google Ads (AdWords)": {
-    "overview": {
-      "description": "Elevate your advertising insights with Google Ads (AdWords) integration. Seamlessly merge ad data from Google Ads with Looker Studio's analytical capabilities, unlocking insights that power ad strategies, customer engagement, and campaign performance."
-    },
-    "body": {
-      "description": "Amplify your ad strategies with Google Ads (AdWords) insights integrated into Looker Studio."
-    },
-    "fivetran_id": "adwords"
-  },
   "Google Analytics": {
     "overview": {
       "description": "Revolutionize your web analytics with Google Analytics integration. Seamlessly merge website data from Google Analytics with Looker Studio's analytical capabilities, unlocking insights that shape online strategies, user experiences, and operational excellence."

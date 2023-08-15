@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "SurveyMonkey Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/survey_monkey
+icon_url: /assets/images/seo_pages/connectors/survey_monkey
 
 sections:
   overview:

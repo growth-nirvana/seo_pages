@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Microsoft Dynamics 365 F/O ADLS Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/microsoft_dynamics_365_fo
+icon_url: /assets/images/seo_pages/connectors/microsoft_dynamics_365_fo
 
 sections:
   overview:

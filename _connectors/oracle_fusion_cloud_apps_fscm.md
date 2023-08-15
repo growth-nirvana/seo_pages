@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Oracle Fusion Cloud Applications - FSCM(ERP & SCM) Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/oracle_fusion_cloud_apps_fscm
+icon_url: /assets/images/seo_pages/connectors/oracle_fusion_cloud_apps_fscm
 
 sections:
   overview:

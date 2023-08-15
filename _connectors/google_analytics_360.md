@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Google Analytics 360 Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/google_analytics_360
+icon_url: /assets/images/seo_pages/connectors/google_analytics_360
 
 sections:
   overview:

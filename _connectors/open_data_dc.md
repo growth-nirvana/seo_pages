@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Open Data DC Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/open_data_dc
+icon_url: /assets/images/seo_pages/connectors/open_data_dc
 
 sections:
   overview:

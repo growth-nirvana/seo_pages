@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Confluent Cloud Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/confluent_cloud
+icon_url: /assets/images/seo_pages/connectors/confluent_cloud
 
 sections:
   overview:

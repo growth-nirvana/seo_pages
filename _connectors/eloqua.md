@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Eloqua Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/eloqua
+icon_url: /assets/images/seo_pages/connectors/eloqua
 
 sections:
   overview:

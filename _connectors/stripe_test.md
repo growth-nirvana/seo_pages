@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Stripe test mode Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/stripe_test
+icon_url: /assets/images/seo_pages/connectors/stripe_test
 
 sections:
   overview:

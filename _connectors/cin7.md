@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Cin7 Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/cin7
+icon_url: /assets/images/seo_pages/connectors/cin7
 
 sections:
   overview:

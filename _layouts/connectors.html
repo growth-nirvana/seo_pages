@@ -27,20 +27,31 @@ layout: default
 </div>
 
 <div class="bg-neutral-50 border-t">
-  <ul role="list" class="grid grid-cols-1 gap-6 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 mx-auto max-w-7xl px-6 py-10 lg:px-8">
+  <div class="mx-auto max-w-7xl px-8 pt-5">
+    <div class="mt-2">
+      <input type="text" name="connector-filter-name" id="connector-filter-name"
+        class="px-2 block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-1 focus:ring-inset focus:ring-primary sm:text-sm sm:leading-6"
+        placeholder="Search for specific connector">
+    </div>
+  </div>
+  <ul role="list" class="grid grid-cols-1 gap-6 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 mx-auto max-w-7xl px-6 pt-5 pb-10 lg:px-8">
     {% for connector in site.connectors %}
-      <li class="col-span-1 flex flex-col divide-y divide-gray-200 rounded-lg bg-white text-center shadow">
+      <li class="connector-card col-span-1 flex flex-col divide-y divide-gray-200 rounded-lg bg-white text-center shadow hover:shadow-lg hover:border-primary hover:border">
         <div class="flex flex-1 flex-col p-8">
-          <img class="mx-auto h-32 w-32 flex-shrink-0"
-            src="{{ site.baseurl }}/assets/images/seo_pages/instagram.png"
-            alt="">
-          <h3 class="mt-6 text-sm font-medium text-gray-900">{{ connector.title }}</h3>
+          <img src="{{ connector.icon_url }}.svg"
+            loading="lazy"
+            class="mx-auto h-32 w-32 flex-shrink-0"
+            onerror="this.onerror=null; this.src='{{ connector.icon_url }}.png'" />
+          <h3 class="card-title mt-6 text-sm font-medium text-gray-900">{{ connector.title }}</h3>
           <dl class="mt-1 flex flex-grow flex-col justify-between">
             <dd class="text-sm text-gray-500">{{ connector.sections.body.description }}</dd>
           </dl>
         </div>
       </li>
     {% endfor %}
+    <li class="hidden no-results col-span-1 sm:col-span-2 md:col-span-3 lg:col-span-4 p-5 rounded-md border border-gray-200 italic text-sm bg-gray-50">
+      No results
+    </li>
   </ul>
 </div>
 

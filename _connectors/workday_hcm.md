@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Workday HCM Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/workday_hcm
+icon_url: /assets/images/seo_pages/connectors/workday_hcm
 
 sections:
   overview:

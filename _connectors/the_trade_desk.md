@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "The Trade Desk Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/the_trade_desk
+icon_url: /assets/images/seo_pages/connectors/the_trade_desk
 
 sections:
   overview:

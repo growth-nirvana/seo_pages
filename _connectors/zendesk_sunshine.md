@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Zendesk Sunshine Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/zendesk_sunshine
+icon_url: /assets/images/seo_pages/connectors/zendesk_sunshine
 
 sections:
   overview:

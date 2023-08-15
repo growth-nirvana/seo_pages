@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "SAP Business ByDesign Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/sap_business_by_design
+icon_url: /assets/images/seo_pages/connectors/sap_business_by_design
 
 sections:
   overview:

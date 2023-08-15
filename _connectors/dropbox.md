@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Dropbox Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/dropbox
+icon_url: /assets/images/seo_pages/connectors/dropbox
 
 sections:
   overview:

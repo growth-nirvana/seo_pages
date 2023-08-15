@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Apache Kafka Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/apache_kafka
+icon_url: /assets/images/seo_pages/connectors/apache_kafka
 
 sections:
   overview:

@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Self Hosted Elasticsearch Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/es_self_hosted
+icon_url: /assets/images/seo_pages/connectors/es_self_hosted
 
 sections:
   overview:

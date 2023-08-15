@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Kustomer Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/kustomer
+icon_url: /assets/images/seo_pages/connectors/kustomer
 
 sections:
   overview:

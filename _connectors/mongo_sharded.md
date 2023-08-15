@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "MongoDB Sharded Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/mongo_sharded
+icon_url: /assets/images/seo_pages/connectors/mongo_sharded
 
 sections:
   overview:

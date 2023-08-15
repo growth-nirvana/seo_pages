@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Zoho CRM Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/zoho_crm
+icon_url: /assets/images/seo_pages/connectors/zoho_crm
 
 sections:
   overview:

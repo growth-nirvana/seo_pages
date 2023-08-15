@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Azure MySQL Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/mysql_azure
+icon_url: /assets/images/seo_pages/connectors/mysql_azure
 
 sections:
   overview:

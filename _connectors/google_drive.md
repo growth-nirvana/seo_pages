@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Google Drive Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/google_drive
+icon_url: /assets/images/seo_pages/connectors/google_drive
 
 sections:
   overview:

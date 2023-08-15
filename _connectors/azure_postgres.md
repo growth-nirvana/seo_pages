@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Azure PostgreSQL Database Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/azure_postgres
+icon_url: /assets/images/seo_pages/connectors/azure_postgres
 
 sections:
   overview:

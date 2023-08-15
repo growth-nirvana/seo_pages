@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Facebook Pages Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/facebook_pages
+icon_url: /assets/images/seo_pages/connectors/facebook_pages
 
 sections:
   overview:

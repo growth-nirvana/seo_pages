@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Drift Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/drift
+icon_url: /assets/images/seo_pages/connectors/drift
 
 sections:
   overview:

@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Calendly Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/calendly
+icon_url: /assets/images/seo_pages/connectors/calendly
 
 sections:
   overview:

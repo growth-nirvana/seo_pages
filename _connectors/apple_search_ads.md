@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Apple Search Ads Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/apple_search_ads
+icon_url: /assets/images/seo_pages/connectors/apple_search_ads
 
 sections:
   overview:

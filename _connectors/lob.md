@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Lob Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/lob
+icon_url: /assets/images/seo_pages/connectors/lob
 
 sections:
   overview:

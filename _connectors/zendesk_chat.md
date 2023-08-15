@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Zendesk Chat Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/zendesk_chat
+icon_url: /assets/images/seo_pages/connectors/zendesk_chat
 
 sections:
   overview:

@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "High Volume Agent Db2 for i Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/db2i_hva
+icon_url: /assets/images/seo_pages/connectors/db2i_hva
 
 sections:
   overview:

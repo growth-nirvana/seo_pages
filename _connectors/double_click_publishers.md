@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Google Ad Manager Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/double_click_publishers
+icon_url: /assets/images/seo_pages/connectors/double_click_publishers
 
 sections:
   overview:

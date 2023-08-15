@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Snowflake Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/snowflake_db
+icon_url: /assets/images/seo_pages/connectors/snowflake_db
 
 sections:
   overview:

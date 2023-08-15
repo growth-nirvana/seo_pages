@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Open Exchange Rates Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/open_exchange_rates
+icon_url: /assets/images/seo_pages/connectors/open_exchange_rates
 
 sections:
   overview:

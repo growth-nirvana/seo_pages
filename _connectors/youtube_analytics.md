@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "YouTube Analytics Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/youtube_analytics
+icon_url: /assets/images/seo_pages/connectors/youtube_analytics
 
 sections:
   overview:

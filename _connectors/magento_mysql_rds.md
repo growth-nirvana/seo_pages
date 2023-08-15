@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Magento MySQL RDS Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/magento_mysql_rds
+icon_url: /assets/images/seo_pages/connectors/magento_mysql_rds
 
 sections:
   overview:

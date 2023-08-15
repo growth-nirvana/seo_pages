@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Google Search Console Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/google_search_console
+icon_url: /assets/images/seo_pages/connectors/google_search_console
 
 sections:
   overview:

@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "ChannelAdvisor Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/channel_advisor
+icon_url: /assets/images/seo_pages/connectors/channel_advisor
 
 sections:
   overview:

@@ -7,3 +7,20 @@ First build jekyll `bundle exec jekyll build` then build the stylesheet `yarn ru
 
 ## Development
 Run `./bin/dev` to start jekyll and tailwind processes.
+
+## How to download connector icons
+
+1. Download the CSV for all the sources: https://docs.google.com/spreadsheets/d/1MC28CSdgBk8nKcvwQ_put-3QI7P0mZxB9kKtyP5guWA/edit#gid=526148982
+2. Remove the current images within `assets/images/seo_pages/connectors/`
+3. Open an IRB session and run:
+
+```ruby
+require "csv"
+
+csv = CSV.read("downloaded-sources.csv", headers: true)
+
+csv.map do |row|
+  ext = Pathname(row["icon_url"]).extname
+  `curl '#{row["icon_url"]}' -o assets/images/seo_pages/connectors/#{row["schema_name"]}#{ext} -s`
+end
+```

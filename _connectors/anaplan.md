@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Anaplan Connector"
-date:   2023-08-15
+title:  "Anaplan Connector - Growth Nirvana"
+description: Integrate Anaplan with Looker Studio to pave the way for strategic planning powered by data insights.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/anaplan
 icon_url: /assets/images/seo_pages/connectors/anaplan

@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Elastic Cloud Connector"
-date:   2023-08-15
+title:  "Elastic Cloud Connector - Growth Nirvana"
+description: Integrate Elastic Cloud with Looker Studio to harness the power of search insights for data-driven strategies.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/elastic_cloud
 icon_url: /assets/images/seo_pages/connectors/elastic_cloud

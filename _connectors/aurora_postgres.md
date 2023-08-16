@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Aurora Postgres Connector"
-date:   2023-08-15
+title:  "Aurora Postgres Connector - Growth Nirvana"
+description: Integrate Aurora Postgres with Looker Studio for comprehensive database insights that shape your strategies.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/aurora_postgres
 icon_url: /assets/images/seo_pages/connectors/aurora_postgres

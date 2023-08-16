@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Ironclad Connector"
-date:   2023-08-15
+title:  "Ironclad Connector - Growth Nirvana"
+description: Integrate Ironclad insights into Looker Studio for comprehensive contract analytics that guide your legal and operational decisions.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/ironclad
 icon_url: /assets/images/seo_pages/connectors/ironclad

@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Postgres Connector"
-date:   2023-08-15
+title:  "Postgres Connector - Growth Nirvana"
+description: Harness the power of Postgres insights integrated into Looker Studio for strategic database management decisions.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/postgres
 icon_url: /assets/images/seo_pages/connectors/postgres

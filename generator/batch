@@ -1,0 +1,18 @@
+#!/usr/bin/env ruby
+
+require_relative "generator"
+
+override = ARGV[0] == "--override"
+
+connectors = JSON.parse(File.read("./generator/connectors.json"))
+connectors.keys.each do |connector|
+  Generator.new(
+    connector,
+    connectors[connector]["fivetran_id"],
+    connectors[connector]["overview"]["description"],
+    connectors[connector]["body"]["description"]
+  ).generate(override)
+  print "."
+end
+
+puts "\nDone!"

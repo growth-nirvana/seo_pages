@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "RetailNext Connector"
-date:   2023-08-15
+title:  "RetailNext Connector - Growth Nirvana"
+description: Harness the power of RetailNext retail analytics insights integrated into Looker Studio for strategic store management decisions.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/retailnext
 icon_url: /assets/images/seo_pages/connectors/retailnext

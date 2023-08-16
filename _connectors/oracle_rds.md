@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Oracle RDS Connector"
-date:   2023-08-15
+title:  "Oracle RDS Connector - Growth Nirvana"
+description: Integrate Oracle RDS insights into Looker Studio for comprehensive database analytics that guide your data management strategies.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/oracle_rds
 icon_url: /assets/images/seo_pages/connectors/oracle_rds

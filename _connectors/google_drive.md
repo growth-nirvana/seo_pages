@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Google Drive Connector"
-date:   2023-08-15
+title:  "Google Drive Connector - Growth Nirvana"
+description: Integrate Google Drive insights into Looker Studio for comprehensive cloud storage analytics that guide your collaboration strategies.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/google_drive
 icon_url: /assets/images/seo_pages/connectors/google_drive

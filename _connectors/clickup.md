@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "ClickUp Connector"
-date:   2023-08-15
+title:  "ClickUp Connector - Growth Nirvana"
+description: Amplify your project management through ClickUp insights integrated into Looker Studio.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/clickup
 icon_url: /assets/images/seo_pages/connectors/clickup

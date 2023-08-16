@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Amazon DocumentDB Connector"
-date:   2023-08-15
+title:  "Amazon DocumentDB Connector - Growth Nirvana"
+description: Unlock the potential of your data storage with Amazon DocumentDB integrated into Looker Studio's analytics environment.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/documentdb
 icon_url: /assets/images/seo_pages/connectors/documentdb

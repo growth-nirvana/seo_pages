@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Alchemer Connector"
-date:   2023-08-15
+title:  "Alchemer Connector - Growth Nirvana"
+description: Uncover deeper insights from customer feedback by integrating Alchemer with Looker Studio's analytical power.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/alchemer
 icon_url: /assets/images/seo_pages/connectors/alchemer

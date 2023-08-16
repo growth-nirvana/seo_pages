@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Google Campaign Manager 360 Connector"
-date:   2023-08-15
+title:  "Google Campaign Manager 360 Connector - Growth Nirvana"
+description: Integrate Google Campaign Manager 360 insights into Looker Studio for comprehensive campaign analytics that guide your advertising strategies.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/double_click_campaign_manager
 icon_url: /assets/images/seo_pages/connectors/double_click_campaign_manager

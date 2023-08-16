@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Self Hosted Elasticsearch Connector"
-date:   2023-08-15
+title:  "Self Hosted Elasticsearch Connector - Growth Nirvana"
+description: Harness the power of Self Hosted Elasticsearch insights integrated into Looker Studio for strategic search optimization decisions.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/es_self_hosted
 icon_url: /assets/images/seo_pages/connectors/es_self_hosted

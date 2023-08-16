@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Drift Connector"
-date:   2023-08-15
+title:  "Drift Connector - Growth Nirvana"
+description: Empower your conversational efforts with Drift insights integrated into Looker Studio's analytics environment.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/drift
 icon_url: /assets/images/seo_pages/connectors/drift

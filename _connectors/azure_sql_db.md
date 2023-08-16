@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Azure SQL Database Connector"
-date:   2023-08-15
+title:  "Azure SQL Database Connector - Growth Nirvana"
+description: Unlock the potential of Azure SQL Database data within Looker Studio, for data-driven strategies that make an impact.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/azure_sql_db
 icon_url: /assets/images/seo_pages/connectors/azure_sql_db

@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Pardot Connector"
-date:   2023-08-15
+title:  "Pardot Connector - Growth Nirvana"
+description: Harness the power of Pardot marketing automation insights integrated into Looker Studio for strategic marketing decisions.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/pardot
 icon_url: /assets/images/seo_pages/connectors/pardot

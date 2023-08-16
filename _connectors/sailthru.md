@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Sailthru Connector"
-date:   2023-08-15
+title:  "Sailthru Connector - Growth Nirvana"
+description: Amplify your customer engagement strategies with Sailthru insights integrated into Looker Studio.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/sailthru
 icon_url: /assets/images/seo_pages/connectors/sailthru

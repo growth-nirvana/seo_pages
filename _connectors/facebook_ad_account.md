@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Facebook Ad Account Connector"
-date:   2023-08-15
+title:  "Facebook Ad Account Connector - Growth Nirvana"
+description: Empower your advertising efforts with Facebook Ad Account insights integrated into Looker Studio's analytics environment.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/facebook_ad_account
 icon_url: /assets/images/seo_pages/connectors/facebook_ad_account

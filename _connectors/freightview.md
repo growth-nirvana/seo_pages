@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Freightview Connector"
-date:   2023-08-15
+title:  "Freightview Connector - Growth Nirvana"
+description: Amplify your shipping strategies with Freightview insights integrated into Looker Studio.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/freightview
 icon_url: /assets/images/seo_pages/connectors/freightview

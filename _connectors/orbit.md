@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Orbit Connector"
-date:   2023-08-15
+title:  "Orbit Connector - Growth Nirvana"
+description: Harness the power of Orbit community insights integrated into Looker Studio for strategic community engagement decisions.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/orbit
 icon_url: /assets/images/seo_pages/connectors/orbit

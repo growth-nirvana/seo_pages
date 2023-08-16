@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Google Cloud SQL - SQL Server Connector"
-date:   2023-08-15
+title:  "Google Cloud SQL - SQL Server Connector - Growth Nirvana"
+description: Integrate Google Cloud SQL - SQL Server with Looker Studio for comprehensive database analytics that guide your SQL Server strategies.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/google_cloud_sqlserver
 icon_url: /assets/images/seo_pages/connectors/google_cloud_sqlserver

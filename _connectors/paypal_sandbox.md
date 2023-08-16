@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Paypal Sandbox Connector"
-date:   2023-08-15
+title:  "Paypal Sandbox Connector - Growth Nirvana"
+description: Amplify your payment processing strategies with Paypal Sandbox insights integrated into Looker Studio.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/paypal_sandbox
 icon_url: /assets/images/seo_pages/connectors/paypal_sandbox

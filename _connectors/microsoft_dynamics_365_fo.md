@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Microsoft Dynamics 365 F/O ADLS Connector"
-date:   2023-08-15
+title:  "Microsoft Dynamics 365 F/O ADLS Connector - Growth Nirvana"
+description: Integrate Microsoft Dynamics 365 F/O ADLS insights into Looker Studio for comprehensive ERP analytics that guide your operational strategies.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/microsoft_dynamics_365_fo
 icon_url: /assets/images/seo_pages/connectors/microsoft_dynamics_365_fo

@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Adobe Analytics Data Feed Connector"
-date:   2023-08-15
+title:  "Adobe Analytics Data Feed Connector - Growth Nirvana"
+description: Merge the dynamic insights from Adobe Analytics Data Feed with Looker Studio, and supercharge your decision-making.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/adobe_analytics_data_feed
 icon_url: /assets/images/seo_pages/connectors/adobe_analytics_data_feed

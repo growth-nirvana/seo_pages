@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Outbrain Connector"
-date:   2023-08-15
+title:  "Outbrain Connector - Growth Nirvana"
+description: Amplify your content distribution strategies with Outbrain insights integrated into Looker Studio.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/outbrain
 icon_url: /assets/images/seo_pages/connectors/outbrain

@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Iterable Connector"
-date:   2023-08-15
+title:  "Iterable Connector - Growth Nirvana"
+description: Harness the power of Iterable marketing automation insights integrated into Looker Studio for strategic customer engagement decisions.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/iterable
 icon_url: /assets/images/seo_pages/connectors/iterable

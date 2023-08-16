@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Outreach Connector"
-date:   2023-08-15
+title:  "Outreach Connector - Growth Nirvana"
+description: Amplify your sales engagement strategies with Outreach insights integrated into Looker Studio.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/outreach
 icon_url: /assets/images/seo_pages/connectors/outreach

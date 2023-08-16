@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Brex Connector"
-date:   2023-08-15
+title:  "Brex Connector - Growth Nirvana"
+description: Integrate Brex with Looker Studio for comprehensive financial analytics that drive financial excellence.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/brex
 icon_url: /assets/images/seo_pages/connectors/brex

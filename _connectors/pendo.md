@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Pendo Connector"
-date:   2023-08-15
+title:  "Pendo Connector - Growth Nirvana"
+description: Harness the power of Pendo product analytics insights integrated into Looker Studio for strategic product optimization decisions.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/pendo
 icon_url: /assets/images/seo_pages/connectors/pendo

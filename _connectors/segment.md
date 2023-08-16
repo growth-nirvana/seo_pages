@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Segment Connector"
-date:   2023-08-15
+title:  "Segment Connector - Growth Nirvana"
+description: Harness the power of Segment customer data insights integrated into Looker Studio for strategic personalization decisions.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/segment
 icon_url: /assets/images/seo_pages/connectors/segment

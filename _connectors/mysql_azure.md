@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Azure MySQL Connector"
-date:   2023-08-15
+title:  "Azure MySQL Connector - Growth Nirvana"
+description: Integrate Azure MySQL with Looker Studio for comprehensive database insights that shape your strategies.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/mysql_azure
 icon_url: /assets/images/seo_pages/connectors/mysql_azure

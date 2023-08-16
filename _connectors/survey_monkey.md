@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "SurveyMonkey Connector"
-date:   2023-08-15
+title:  "SurveyMonkey Connector - Growth Nirvana"
+description: Amplify your survey strategies with SurveyMonkey insights integrated into Looker Studio.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/survey_monkey
 icon_url: /assets/images/seo_pages/connectors/survey_monkey

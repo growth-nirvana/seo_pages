@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Bamboo HR Connector"
-date:   2023-08-15
+title:  "Bamboo HR Connector - Growth Nirvana"
+description: Integrate Bamboo HR with Looker Studio for data-driven HR analytics that shape your people strategies.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/bamboohr
 icon_url: /assets/images/seo_pages/connectors/bamboohr

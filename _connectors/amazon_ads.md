@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Amazon Ads Connector"
-date:   2023-08-15
+title:  "Amazon Ads Connector - Growth Nirvana"
+description: Fuel your marketing campaigns with Amazon Ads insights integrated seamlessly into Looker Studio.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/amazon_ads
 icon_url: /assets/images/seo_pages/connectors/amazon_ads

@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Braze Connector"
-date:   2023-08-15
+title:  "Braze Connector - Growth Nirvana"
+description: Empower your marketing efforts through Braze insights integrated into Looker Studio's analytics environment.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/braze
 icon_url: /assets/images/seo_pages/connectors/braze

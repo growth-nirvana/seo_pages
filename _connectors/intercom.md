@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Intercom Connector"
-date:   2023-08-15
+title:  "Intercom Connector - Growth Nirvana"
+description: Amplify your customer communication strategies with Intercom insights integrated into Looker Studio.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/intercom
 icon_url: /assets/images/seo_pages/connectors/intercom

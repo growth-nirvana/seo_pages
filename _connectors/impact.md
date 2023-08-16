@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Impact Connector"
-date:   2023-08-15
+title:  "Impact Connector - Growth Nirvana"
+description: Integrate Impact insights into Looker Studio for comprehensive partnership analytics that guide your strategic decisions.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/impact
 icon_url: /assets/images/seo_pages/connectors/impact

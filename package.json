@@ -6,8 +6,8 @@
   "author": "Juan Manuel Ramallo <juanmanuelramallo@hey.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "postcss -w seo_pages.css -o _site/assets/seo_pages.css",
-    "build": "postcss seo_pages.css -o _site/assets/seo_pages.css"
+    "dev": "postcss -w main.css -o _site/assets/seo_pages/main.css",
+    "build": "postcss main.css -o _site/assets/seo_pages/main.css"
   },
   "dependencies": {
     "@tailwindcss/typography": "^0.5.9",

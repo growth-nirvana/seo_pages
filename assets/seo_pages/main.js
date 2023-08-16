@@ -10,29 +10,31 @@ document.addEventListener("DOMContentLoaded", function () {
 
   let delayTimer;
 
-  filterInput.addEventListener("input", function () {
-    clearTimeout(delayTimer);
+  if (filterInput) {
+    filterInput.addEventListener("input", function () {
+      clearTimeout(delayTimer);
 
-    delayTimer = setTimeout(function () {
-      const filterValue = filterInput.value.toLowerCase();
-      let anyVisible = false;
+      delayTimer = setTimeout(function () {
+        const filterValue = filterInput.value.toLowerCase();
+        let anyVisible = false;
 
-      cards.forEach(function (card) {
-        const cardTitle = card.querySelector(".card-title").textContent.toLowerCase();
+        cards.forEach(function (card) {
+          const cardTitle = card.querySelector(".card-title").textContent.toLowerCase();
 
-        if (cardTitle.includes(filterValue)) {
-          card.style.display = "block";
-          anyVisible = true;
+          if (cardTitle.includes(filterValue)) {
+            card.style.display = "block";
+            anyVisible = true;
+          } else {
+            card.style.display = "none";
+          }
+        });
+
+        if (anyVisible) {
+          noResultsMessage.classList.add("hidden");
         } else {
-          card.style.display = "none";
+          noResultsMessage.classList.remove("hidden");
         }
-      });
-
-      if (anyVisible) {
-        noResultsMessage.classList.add("hidden");
-      } else {
-        noResultsMessage.classList.remove("hidden");
-      }
-    }, 300);
-  });
+      }, 300);
+    });
+  }
 });

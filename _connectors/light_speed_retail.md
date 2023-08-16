@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Lightspeed Retail Connector"
-date:   2023-08-15
+title:  "Lightspeed Retail Connector - Growth Nirvana"
+description: Harness the power of Lightspeed Retail insights integrated into Looker Studio for strategic retail decisions.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/light_speed_retail
 icon_url: /assets/images/seo_pages/connectors/light_speed_retail

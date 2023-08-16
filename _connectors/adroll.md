@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "AdRoll Connector"
-date:   2023-08-15
+title:  "AdRoll Connector - Growth Nirvana"
+description: Amplify your marketing strategies with AdRoll data seamlessly integrated into Looker Studio.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/adroll
 icon_url: /assets/images/seo_pages/connectors/adroll

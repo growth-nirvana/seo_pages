@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Tiktok Ads Connector"
-date:   2023-08-15
+title:  "Tiktok Ads Connector - Growth Nirvana"
+description: Amplify your social media advertising strategies with Tiktok Ads insights integrated into Looker Studio.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/tiktok_ads
 icon_url: /assets/images/seo_pages/connectors/tiktok_ads

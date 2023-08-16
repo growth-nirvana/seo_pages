@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "AppsFlyer Connector"
-date:   2023-08-15
+title:  "AppsFlyer Connector - Growth Nirvana"
+description: Supercharge your app's success by integrating AppsFlyer data with Looker Studio's analytical capabilities.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/appsflyer
 icon_url: /assets/images/seo_pages/connectors/appsflyer

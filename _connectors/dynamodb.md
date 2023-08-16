@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "DynamoDB Connector"
-date:   2023-08-15
+title:  "DynamoDB Connector - Growth Nirvana"
+description: Integrate DynamoDB with Looker Studio to unleash the potential of NoSQL data for strategic decision-making.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/dynamodb
 icon_url: /assets/images/seo_pages/connectors/dynamodb

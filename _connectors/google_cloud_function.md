@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Google Cloud Functions Connector"
-date:   2023-08-15
+title:  "Google Cloud Functions Connector - Growth Nirvana"
+description: Amplify your cloud function strategies with Google Cloud Functions insights integrated into Looker Studio.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/google_cloud_function
 icon_url: /assets/images/seo_pages/connectors/google_cloud_function

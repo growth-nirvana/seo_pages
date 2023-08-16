@@ -12,7 +12,7 @@ class Generator
   def initialize(name, fivetran_id, overview_description, body_description)
     @name = name
     @fivetran_id = fivetran_id
-    @destination_path = "../_connectors/#{fivetran_id}.md"
+    @destination_path = "./_connectors/#{fivetran_id}.md"
     @overview_description = overview_description
     @body_description = body_description
   end
@@ -26,7 +26,7 @@ class Generator
     else
       File.open(destination_path, 'w') do |f|
         f.write(
-          ERB.new(File.read("./template.md.erb")).result_with_hash(
+          ERB.new(File.read("./generator/template.md.erb")).result_with_hash(
             name: name,
             date: Date.today,
             permalink: fivetran_id,

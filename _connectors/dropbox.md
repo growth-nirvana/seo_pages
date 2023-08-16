@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Dropbox Connector"
-date:   2023-08-15
+title:  "Dropbox Connector - Growth Nirvana"
+description: Harness the power of Dropbox content insights integrated into Looker Studio for strategic content management decisions.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/dropbox
 icon_url: /assets/images/seo_pages/connectors/dropbox

@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Wrike Connector"
-date:   2023-08-15
+title:  "Wrike Connector - Growth Nirvana"
+description: Harness the power of Wrike project management insights integrated into Looker Studio for strategic project planning decisions.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/wrike
 icon_url: /assets/images/seo_pages/connectors/wrike

@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Recurly Connector"
-date:   2023-08-15
+title:  "Recurly Connector - Growth Nirvana"
+description: Harness the power of Recurly subscription billing insights integrated into Looker Studio for strategic revenue decisions.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/recurly
 icon_url: /assets/images/seo_pages/connectors/recurly

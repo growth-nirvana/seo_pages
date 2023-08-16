@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Google Ad Manager Connector"
-date:   2023-08-15
+title:  "Google Ad Manager Connector - Growth Nirvana"
+description: Amplify your ad management efforts with Google Ad Manager insights integrated into Looker Studio.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/double_click_publishers
 icon_url: /assets/images/seo_pages/connectors/double_click_publishers

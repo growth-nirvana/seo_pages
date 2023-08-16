@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "HubSpot Connector"
-date:   2023-08-15
+title:  "HubSpot Connector - Growth Nirvana"
+description: Amplify your marketing strategies with HubSpot insights integrated into Looker Studio.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/hubspot
 icon_url: /assets/images/seo_pages/connectors/hubspot

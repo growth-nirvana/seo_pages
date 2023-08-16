@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Google Analytics Connector"
-date:   2023-08-15
+title:  "Google Analytics Connector - Growth Nirvana"
+description: Empower your web strategies with Google Analytics insights integrated into Looker Studio.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/google_analytics
 icon_url: /assets/images/seo_pages/connectors/google_analytics

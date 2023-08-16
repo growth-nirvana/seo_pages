@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "AWS CloudTrail Connector"
-date:   2023-08-15
+title:  "AWS CloudTrail Connector - Growth Nirvana"
+description: Empower your AWS management through the integration of AWS CloudTrail with Looker Studio's analytical capabilities.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/aws_cloudtrail
 icon_url: /assets/images/seo_pages/connectors/aws_cloudtrail

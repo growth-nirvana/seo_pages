@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Zendesk Sell Connector"
-date:   2023-08-15
+title:  "Zendesk Sell Connector - Growth Nirvana"
+description: Harness the power of Zendesk Sell sales insights integrated into Looker Studio for strategic sales management decisions.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/zendesk_sell
 icon_url: /assets/images/seo_pages/connectors/zendesk_sell

@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Subscript Connector"
-date:   2023-08-15
+title:  "Subscript Connector - Growth Nirvana"
+description: Amplify your subscription management strategies with Subscript insights integrated into Looker Studio.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/subscript
 icon_url: /assets/images/seo_pages/connectors/subscript

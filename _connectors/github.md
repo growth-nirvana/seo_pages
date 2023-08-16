@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "GitHub Connector"
-date:   2023-08-15
+title:  "GitHub Connector - Growth Nirvana"
+description: Integrate GitHub insights into Looker Studio for comprehensive code analytics that guide your development strategies.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/github
 icon_url: /assets/images/seo_pages/connectors/github

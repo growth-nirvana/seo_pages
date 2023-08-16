@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Guru Connector"
-date:   2023-08-15
+title:  "Guru Connector - Growth Nirvana"
+description: Integrate Guru insights into Looker Studio for data-driven knowledge management analytics that guide your content strategies.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/guru
 icon_url: /assets/images/seo_pages/connectors/guru

@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "NetSuite SuiteAnalytics Connector"
-date:   2023-08-15
+title:  "NetSuite SuiteAnalytics Connector - Growth Nirvana"
+description: Amplify your ERP strategies with NetSuite SuiteAnalytics insights integrated into Looker Studio.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/netsuite_suiteanalytics
 icon_url: /assets/images/seo_pages/connectors/netsuite_suiteanalytics

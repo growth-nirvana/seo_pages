@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Zoho CRM Connector"
-date:   2023-08-15
+title:  "Zoho CRM Connector - Growth Nirvana"
+description: Integrate Zoho CRM insights into Looker Studio for comprehensive CRM analytics that guide your customer relationship strategies.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/zoho_crm
 icon_url: /assets/images/seo_pages/connectors/zoho_crm

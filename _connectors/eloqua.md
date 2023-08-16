@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Eloqua Connector"
-date:   2023-08-15
+title:  "Eloqua Connector - Growth Nirvana"
+description: Empower your marketing efforts with Eloqua insights integrated into Looker Studio's analytics environment.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/eloqua
 icon_url: /assets/images/seo_pages/connectors/eloqua

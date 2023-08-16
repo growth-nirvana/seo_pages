@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Typeform Connector"
-date:   2023-08-15
+title:  "Typeform Connector - Growth Nirvana"
+description: Amplify your survey strategies with Typeform insights integrated into Looker Studio.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/typeform
 icon_url: /assets/images/seo_pages/connectors/typeform

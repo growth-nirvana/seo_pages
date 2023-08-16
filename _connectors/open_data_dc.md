@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Open Data DC Connector"
-date:   2023-08-15
+title:  "Open Data DC Connector - Growth Nirvana"
+description: Harness the power of Open Data DC insights integrated into Looker Studio for strategic public data exploration.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/open_data_dc
 icon_url: /assets/images/seo_pages/connectors/open_data_dc

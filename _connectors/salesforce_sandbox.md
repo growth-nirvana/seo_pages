@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Salesforce sandbox Connector"
-date:   2023-08-15
+title:  "Salesforce sandbox Connector - Growth Nirvana"
+description: Amplify your development strategies with Salesforce sandbox insights integrated into Looker Studio.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/salesforce_sandbox
 icon_url: /assets/images/seo_pages/connectors/salesforce_sandbox

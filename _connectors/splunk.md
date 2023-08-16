@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Splunk Connector"
-date:   2023-08-15
+title:  "Splunk Connector - Growth Nirvana"
+description: Harness the power of Splunk operational intelligence insights integrated into Looker Studio for strategic monitoring decisions.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/splunk
 icon_url: /assets/images/seo_pages/connectors/splunk

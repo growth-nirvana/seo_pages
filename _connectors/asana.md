@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Asana Connector"
-date:   2023-08-15
+title:  "Asana Connector - Growth Nirvana"
+description: Elevate your project management through the integration of Asana with Looker Studio's analytical capabilities.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/asana
 icon_url: /assets/images/seo_pages/connectors/asana

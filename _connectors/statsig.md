@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Statsig Connector"
-date:   2023-08-15
+title:  "Statsig Connector - Growth Nirvana"
+description: Harness the power of Statsig feature management insights integrated into Looker Studio for strategic feature optimization decisions.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/statsig
 icon_url: /assets/images/seo_pages/connectors/statsig

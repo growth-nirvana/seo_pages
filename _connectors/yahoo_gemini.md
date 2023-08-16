@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Verizon Media Connector"
-date:   2023-08-15
+title:  "Verizon Media Connector - Growth Nirvana"
+description: Amplify your advertising strategies with Verizon Media insights integrated into Looker Studio.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/yahoo_gemini
 icon_url: /assets/images/seo_pages/connectors/yahoo_gemini

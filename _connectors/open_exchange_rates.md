@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Open Exchange Rates Connector"
-date:   2023-08-15
+title:  "Open Exchange Rates Connector - Growth Nirvana"
+description: Harness the power of Open Exchange Rates insights integrated into Looker Studio for strategic currency exchange decisions.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/open_exchange_rates
 icon_url: /assets/images/seo_pages/connectors/open_exchange_rates

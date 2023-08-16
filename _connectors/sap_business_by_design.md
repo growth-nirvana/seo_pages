@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "SAP Business ByDesign Connector"
-date:   2023-08-15
+title:  "SAP Business ByDesign Connector - Growth Nirvana"
+description: Harness the power of SAP Business ByDesign ERP insights integrated into Looker Studio for strategic operational decisions.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/sap_business_by_design
 icon_url: /assets/images/seo_pages/connectors/sap_business_by_design

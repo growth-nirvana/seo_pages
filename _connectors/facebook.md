@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Facebook Ad Insights Connector"
-date:   2023-08-15
+title:  "Facebook Ad Insights Connector - Growth Nirvana"
+description: Integrate Facebook Ad Insights into Looker Studio for comprehensive advertising analytics that guide your campaign strategies.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/facebook
 icon_url: /assets/images/seo_pages/connectors/facebook

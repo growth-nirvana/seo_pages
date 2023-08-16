@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Oracle EBS Connector"
-date:   2023-08-15
+title:  "Oracle EBS Connector - Growth Nirvana"
+description: Integrate Oracle EBS insights into Looker Studio for comprehensive enterprise analytics that guide your operational strategies.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/oracle_ebs
 icon_url: /assets/images/seo_pages/connectors/oracle_ebs

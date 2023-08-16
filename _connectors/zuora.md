@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Zuora Connector"
-date:   2023-08-15
+title:  "Zuora Connector - Growth Nirvana"
+description: Harness the power of Zuora subscription insights integrated into Looker Studio for strategic subscription management decisions.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/zuora
 icon_url: /assets/images/seo_pages/connectors/zuora

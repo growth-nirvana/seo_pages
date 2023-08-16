@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Consumer Dropbox Connector"
-date:   2023-08-15
+title:  "Consumer Dropbox Connector - Growth Nirvana"
+description: Harness the power of Consumer Dropbox content insights integrated into Looker Studio for strategic content management decisions.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/dropbox_consumer
 icon_url: /assets/images/seo_pages/connectors/dropbox_consumer

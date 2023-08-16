@@ -27,8 +27,8 @@ layout: default
 
 <div class="bg-neutral-100">
   <div class="pt-8 lg:pt-16 pb-8 px-8 container mx-auto">
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-7xl mx-auto">
-      <div class="flex flex-row justify-center">
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-y-6 gap-x-8 max-w-7xl mx-auto">
+      <div class="my-auto">
         <img src="{{ page.sections.body.image_url }}" alt="Body" class="max-h-[570px]">
       </div>
       <div class="flex flex-col justify-center">
@@ -46,29 +46,6 @@ layout: default
           {% endcapture %}
           {% include calendly_link.html class="btn-underline btn-underline-primary" utm_content=page.permalink text=cta_html %}
         </p>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="bg-neutral-100">
-  <div class="pt-8 lg:pt-16 pb-8 px-8 container mx-auto">
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-7xl mx-auto">
-      <div class="flex flex-col justify-center">
-        <h1 class="font-semibold text-3xl lg:text-5xl text-gray-800">
-          {{ page.sections.steps_to_connect.title | newline_to_br }}
-        </h1>
-        <div class="mt-6 space-y-4">
-          {% for step in page.sections.steps_to_connect.steps %}
-            <div>
-              <h4 class="text-lg lg:text-xl font-semibold text-primary">{{ step.title }}</h4>
-              <span class="text-gray-500 mt-2">{{ step.description }}</span>
-            </div>
-          {% endfor %}
-        </div>
-      </div>
-      <div class="flex flex-row justify-center">
-        <img src="{{ page.sections.steps_to_connect.image_url }}" alt="Body" class="max-h-[570px]">
       </div>
     </div>
   </div>

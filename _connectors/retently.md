@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Retently Connector"
-date:   2023-08-15
+title:  "Retently Connector - Growth Nirvana"
+description: Amplify your customer feedback strategies with Retently insights integrated into Looker Studio.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/retently
 icon_url: /assets/images/seo_pages/connectors/retently

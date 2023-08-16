@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Salesloft Connector"
-date:   2023-08-15
+title:  "Salesloft Connector - Growth Nirvana"
+description: Amplify your sales engagement strategies with Salesloft insights integrated into Looker Studio.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/salesloft
 icon_url: /assets/images/seo_pages/connectors/salesloft

@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Notion Connector"
-date:   2023-08-15
+title:  "Notion Connector - Growth Nirvana"
+description: Harness the power of Notion collaboration insights integrated into Looker Studio for strategic teamwork decisions.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/notion
 icon_url: /assets/images/seo_pages/connectors/notion

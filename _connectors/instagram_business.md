@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Instagram Business Connector"
-date:   2023-08-15
+title:  "Instagram Business Connector - Growth Nirvana"
+description: Harness the power of Instagram Business insights integrated into Looker Studio for strategic social media decisions.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/instagram_business
 icon_url: /assets/images/seo_pages/connectors/instagram_business

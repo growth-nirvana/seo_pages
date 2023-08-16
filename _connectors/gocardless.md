@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "GoCardless Connector"
-date:   2023-08-15
+title:  "GoCardless Connector - Growth Nirvana"
+description: Integrate GoCardless with Looker Studio for data-driven payment analytics that guide your financial strategies.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/gocardless
 icon_url: /assets/images/seo_pages/connectors/gocardless

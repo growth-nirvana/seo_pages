@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Postgres RDS Connector"
-date:   2023-08-15
+title:  "Postgres RDS Connector - Growth Nirvana"
+description: Integrate Postgres RDS insights into Looker Studio for comprehensive database analytics that guide your database management strategies.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/postgres_rds
 icon_url: /assets/images/seo_pages/connectors/postgres_rds

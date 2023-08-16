@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Salesforce Connector"
-date:   2023-08-15
+title:  "Salesforce Connector - Growth Nirvana"
+description: Integrate Salesforce insights into Looker Studio for comprehensive CRM analytics that guide your customer-centric strategies.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/salesforce
 icon_url: /assets/images/seo_pages/connectors/salesforce

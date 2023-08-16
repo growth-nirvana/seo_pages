@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Snowflake Connector"
-date:   2023-08-15
+title:  "Snowflake Connector - Growth Nirvana"
+description: Harness the power of Snowflake cloud data platform insights integrated into Looker Studio for strategic data management decisions.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/snowflake_db
 icon_url: /assets/images/seo_pages/connectors/snowflake_db

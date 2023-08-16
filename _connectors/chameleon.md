@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Chameleon Connector"
-date:   2023-08-15
+title:  "Chameleon Connector - Growth Nirvana"
+description: Integrate Chameleon with Looker Studio for comprehensive user onboarding analytics that guide your product strategies.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/chameleon
 icon_url: /assets/images/seo_pages/connectors/chameleon

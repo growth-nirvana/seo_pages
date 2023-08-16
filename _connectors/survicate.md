@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Survicate Connector"
-date:   2023-08-15
+title:  "Survicate Connector - Growth Nirvana"
+description: Amplify your customer feedback strategies with Survicate insights integrated into Looker Studio.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/survicate
 icon_url: /assets/images/seo_pages/connectors/survicate

@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Google Analytics 4 Connector"
-date:   2023-08-15
+title:  "Google Analytics 4 Connector - Growth Nirvana"
+description: Amplify your digital strategies with Google Analytics 4 insights integrated into Looker Studio.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/google_analytics_4
 icon_url: /assets/images/seo_pages/connectors/google_analytics_4

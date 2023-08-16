@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "ADP Workforce Now Connector"
-date:   2023-08-15
+title:  "ADP Workforce Now Connector - Growth Nirvana"
+description: Unlock the true potential of your workforce insights by integrating ADP Workforce Now with Looker Studio's data-driven capabilities.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/adp_workforce_now
 icon_url: /assets/images/seo_pages/connectors/adp_workforce_now

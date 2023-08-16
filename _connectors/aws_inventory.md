@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "AWS Inventory Connector"
-date:   2023-08-15
+title:  "AWS Inventory Connector - Growth Nirvana"
+description: Harness the power of AWS Inventory insights integrated into Looker Studio, where cloud resource management meets data-driven strategies.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/aws_inventory
 icon_url: /assets/images/seo_pages/connectors/aws_inventory

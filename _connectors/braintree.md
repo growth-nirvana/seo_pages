@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Braintree Connector"
-date:   2023-08-15
+title:  "Braintree Connector - Growth Nirvana"
+description: Integrate Braintree with Looker Studio for comprehensive payment analytics that drive financial excellence.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/braintree
 icon_url: /assets/images/seo_pages/connectors/braintree

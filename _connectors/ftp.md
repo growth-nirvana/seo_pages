@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "FTP Connector"
-date:   2023-08-15
+title:  "FTP Connector - Growth Nirvana"
+description: Integrate FTP with Looker Studio for streamlined data transfer and analysis that fuels data-driven strategies.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/ftp
 icon_url: /assets/images/seo_pages/connectors/ftp

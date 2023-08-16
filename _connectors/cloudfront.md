@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Amazon CloudFront Connector"
-date:   2023-08-15
+title:  "Amazon CloudFront Connector - Growth Nirvana"
+description: Empower web performance insights by integrating Amazon CloudFront with Looker Studio's analytical prowess.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/cloudfront
 icon_url: /assets/images/seo_pages/connectors/cloudfront

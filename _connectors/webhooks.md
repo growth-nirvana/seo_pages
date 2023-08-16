@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Webhooks Connector"
-date:   2023-08-15
+title:  "Webhooks Connector - Growth Nirvana"
+description: Amplify your custom data strategies with Webhooks insights integrated into Looker Studio.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/webhooks
 icon_url: /assets/images/seo_pages/connectors/webhooks

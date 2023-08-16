@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Snowplow Connector"
-date:   2023-08-15
+title:  "Snowplow Connector - Growth Nirvana"
+description: Harness the power of Snowplow event data insights integrated into Looker Studio for strategic event tracking decisions.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/snowplow
 icon_url: /assets/images/seo_pages/connectors/snowplow

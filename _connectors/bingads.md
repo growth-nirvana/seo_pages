@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Microsoft Advertising Connector"
-date:   2023-08-15
+title:  "Microsoft Advertising Connector - Growth Nirvana"
+description: Amplify your advertising strategies with Microsoft Advertising insights integrated into Looker Studio.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/bingads
 icon_url: /assets/images/seo_pages/connectors/bingads

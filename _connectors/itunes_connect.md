@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Apple App Store Connector"
-date:   2023-08-15
+title:  "Apple App Store Connector - Growth Nirvana"
+description: Harness the power of Apple App Store insights within Looker Studio to drive informed decisions and app success.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/itunes_connect
 icon_url: /assets/images/seo_pages/connectors/itunes_connect

@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Google Ads Connector"
-date:   2023-08-15
+title:  "Google Ads Connector - Growth Nirvana"
+description: Harness the power of Google Ads insights integrated into Looker Studio for strategic advertising decisions.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/google_ads
 icon_url: /assets/images/seo_pages/connectors/google_ads

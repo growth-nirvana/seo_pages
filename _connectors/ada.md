@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Ada Connector"
-date:   2023-08-15
+title:  "Ada Connector - Growth Nirvana"
+description: Ada and Looker Studio converge to redefine customer support, where AI meets insights for unparalleled service.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/ada
 icon_url: /assets/images/seo_pages/connectors/ada

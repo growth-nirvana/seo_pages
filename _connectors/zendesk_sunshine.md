@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Zendesk Sunshine Connector"
-date:   2023-08-15
+title:  "Zendesk Sunshine Connector - Growth Nirvana"
+description: Harness the power of Zendesk Sunshine customer data insights integrated into Looker Studio for strategic customer engagement decisions.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/zendesk_sunshine
 icon_url: /assets/images/seo_pages/connectors/zendesk_sunshine

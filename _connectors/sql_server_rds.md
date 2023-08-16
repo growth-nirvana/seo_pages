@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "SQL Server RDS Connector"
-date:   2023-08-15
+title:  "SQL Server RDS Connector - Growth Nirvana"
+description: Harness the power of SQL Server RDS database insights integrated into Looker Studio for strategic data management decisions.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/sql_server_rds
 icon_url: /assets/images/seo_pages/connectors/sql_server_rds

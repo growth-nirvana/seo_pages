@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Assembled Connector"
-date:   2023-08-15
+title:  "Assembled Connector - Growth Nirvana"
+description: Integrate Assembled with Looker Studio for data-driven scheduling and performance analysis that drives operational excellence.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/assembled
 icon_url: /assets/images/seo_pages/connectors/assembled

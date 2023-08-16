@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Drip Connector"
-date:   2023-08-15
+title:  "Drip Connector - Growth Nirvana"
+description: Integrate Drip with Looker Studio for data-driven marketing automation analytics that guide your growth strategies.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/drip
 icon_url: /assets/images/seo_pages/connectors/drip

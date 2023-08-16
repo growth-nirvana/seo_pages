@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "High Volume Agent Db2 for i Connector"
-date:   2023-08-15
+title:  "High Volume Agent Db2 for i Connector - Growth Nirvana"
+description: Harness the power of High Volume Agent Db2 for i insights integrated into Looker Studio for strategic database management decisions.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/db2i_hva
 icon_url: /assets/images/seo_pages/connectors/db2i_hva

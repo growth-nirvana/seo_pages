@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Google Analytics 360 Connector"
-date:   2023-08-15
+title:  "Google Analytics 360 Connector - Growth Nirvana"
+description: Integrate Google Analytics 360 with Looker Studio for enterprise-grade web analytics that guide your strategic decisions.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/google_analytics_360
 icon_url: /assets/images/seo_pages/connectors/google_analytics_360

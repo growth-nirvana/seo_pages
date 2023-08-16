@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Azure MariaDB Connector"
-date:   2023-08-15
+title:  "Azure MariaDB Connector - Growth Nirvana"
+description: Unlock the potential of your database with Azure MariaDB integrated into Looker Studio's analytics environment.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/maria_azure
 icon_url: /assets/images/seo_pages/connectors/maria_azure

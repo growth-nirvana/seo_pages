@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Oracle RAC Connector"
-date:   2023-08-15
+title:  "Oracle RAC Connector - Growth Nirvana"
+description: Integrate Oracle RAC insights into Looker Studio for comprehensive database analytics that guide your data management strategies.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/oracle_rac
 icon_url: /assets/images/seo_pages/connectors/oracle_rac

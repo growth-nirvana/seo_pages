@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Salesforce Marketing Cloud Connector"
-date:   2023-08-15
+title:  "Salesforce Marketing Cloud Connector - Growth Nirvana"
+description: Integrate Salesforce Marketing Cloud insights into Looker Studio for comprehensive marketing analytics that guide your customer-centric strategies.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/salesforce_marketing_cloud
 icon_url: /assets/images/seo_pages/connectors/salesforce_marketing_cloud

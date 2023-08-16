@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Dixa Connector"
-date:   2023-08-15
+title:  "Dixa Connector - Growth Nirvana"
+description: Integrate Dixa with Looker Studio for comprehensive customer support analytics that guide your support strategies.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/dixa
 icon_url: /assets/images/seo_pages/connectors/dixa

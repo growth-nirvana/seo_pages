@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Rollbar Connector"
-date:   2023-08-15
+title:  "Rollbar Connector - Growth Nirvana"
+description: Harness the power of Rollbar error tracking insights integrated into Looker Studio for strategic software quality decisions.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/rollbar
 icon_url: /assets/images/seo_pages/connectors/rollbar

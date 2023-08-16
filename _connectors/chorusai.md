@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Chorus Connector"
-date:   2023-08-15
+title:  "Chorus Connector - Growth Nirvana"
+description: Integrate Chorus with Looker Studio for data-driven sales analytics that guide your revenue strategies.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/chorusai
 icon_url: /assets/images/seo_pages/connectors/chorusai

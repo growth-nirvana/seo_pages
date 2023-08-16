@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "AWS Lambda Connector"
-date:   2023-08-15
+title:  "AWS Lambda Connector - Growth Nirvana"
+description: Integrate AWS Lambda insights into Looker Studio for comprehensive serverless analytics that shape your operational strategies.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/aws_lambda
 icon_url: /assets/images/seo_pages/connectors/aws_lambda

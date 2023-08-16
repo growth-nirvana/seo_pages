@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Aircall Connector"
-date:   2023-08-15
+title:  "Aircall Connector - Growth Nirvana"
+description: Elevate communication intelligence as Aircall's insights converge with Looker Studio's analytical capabilities.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/aircall
 icon_url: /assets/images/seo_pages/connectors/aircall

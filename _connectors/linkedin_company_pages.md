@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "LinkedIn Company Pages Connector"
-date:   2023-08-15
+title:  "LinkedIn Company Pages Connector - Growth Nirvana"
+description: Integrate LinkedIn Company Pages insights into Looker Studio for comprehensive branding analytics that guide your corporate strategies.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/linkedin_company_pages
 icon_url: /assets/images/seo_pages/connectors/linkedin_company_pages

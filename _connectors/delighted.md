@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Delighted Connector"
-date:   2023-08-15
+title:  "Delighted Connector - Growth Nirvana"
+description: Amplify your customer feedback efforts with Delighted insights integrated into Looker Studio.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/delighted
 icon_url: /assets/images/seo_pages/connectors/delighted

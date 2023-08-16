@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Help Scout Connector"
-date:   2023-08-15
+title:  "Help Scout Connector - Growth Nirvana"
+description: Amplify your customer support strategies with Help Scout insights integrated into Looker Studio.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/helpscout
 icon_url: /assets/images/seo_pages/connectors/helpscout

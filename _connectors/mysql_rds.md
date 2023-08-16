@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "MySQL RDS Connector"
-date:   2023-08-15
+title:  "MySQL RDS Connector - Growth Nirvana"
+description: Integrate MySQL RDS insights into Looker Studio for comprehensive database analytics that guide your database management strategies.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/mysql_rds
 icon_url: /assets/images/seo_pages/connectors/mysql_rds

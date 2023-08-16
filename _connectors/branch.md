@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Branch Connector"
-date:   2023-08-15
+title:  "Branch Connector - Growth Nirvana"
+description: Integrate Branch insights into Looker Studio for comprehensive deep linking analytics that guide your app strategies.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/branch
 icon_url: /assets/images/seo_pages/connectors/branch

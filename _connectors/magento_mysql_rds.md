@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Magento MySQL RDS Connector"
-date:   2023-08-15
+title:  "Magento MySQL RDS Connector - Growth Nirvana"
+description: Integrate Magento MySQL RDS insights into Looker Studio for comprehensive e-commerce analytics that guide your digital retail strategies.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/magento_mysql_rds
 icon_url: /assets/images/seo_pages/connectors/magento_mysql_rds

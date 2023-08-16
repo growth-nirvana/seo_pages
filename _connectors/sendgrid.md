@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "SendGrid Connector"
-date:   2023-08-15
+title:  "SendGrid Connector - Growth Nirvana"
+description: Amplify your email delivery strategies with SendGrid insights integrated into Looker Studio.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/sendgrid
 icon_url: /assets/images/seo_pages/connectors/sendgrid

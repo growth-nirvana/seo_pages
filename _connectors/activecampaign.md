@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "ActiveCampaign Connector"
-date:   2023-08-15
+title:  "ActiveCampaign Connector - Growth Nirvana"
+description: Empower your marketing initiatives through ActiveCampaign insights harnessed within Looker Studio's analytical environment.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/activecampaign
 icon_url: /assets/images/seo_pages/connectors/activecampaign

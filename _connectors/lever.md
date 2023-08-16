@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Lever Connector"
-date:   2023-08-15
+title:  "Lever Connector - Growth Nirvana"
+description: Integrate Lever insights into Looker Studio for comprehensive hiring analytics that guide your talent acquisition strategies.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/lever
 icon_url: /assets/images/seo_pages/connectors/lever

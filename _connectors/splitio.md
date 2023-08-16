@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Split Connector"
-date:   2023-08-15
+title:  "Split Connector - Growth Nirvana"
+description: Amplify your feature flagging strategies with Split insights integrated into Looker Studio.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/splitio
 icon_url: /assets/images/seo_pages/connectors/splitio

@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "ServiceNow Connector"
-date:   2023-08-15
+title:  "ServiceNow Connector - Growth Nirvana"
+description: Integrate ServiceNow insights into Looker Studio for comprehensive IT service management analytics that guide your operational strategies.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/servicenow
 icon_url: /assets/images/seo_pages/connectors/servicenow

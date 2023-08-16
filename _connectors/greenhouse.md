@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Greenhouse Connector"
-date:   2023-08-15
+title:  "Greenhouse Connector - Growth Nirvana"
+description: Harness the power of Greenhouse recruiting insights integrated into Looker Studio for strategic hiring decisions.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/greenhouse
 icon_url: /assets/images/seo_pages/connectors/greenhouse

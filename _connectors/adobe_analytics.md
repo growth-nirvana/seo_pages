@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Adobe Analytics Connector"
-date:   2023-08-15
+title:  "Adobe Analytics Connector - Growth Nirvana"
+description: Experience the synergy of Adobe Analytics and Looker Studio, where data-driven decisions become the cornerstone of your success.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/adobe_analytics
 icon_url: /assets/images/seo_pages/connectors/adobe_analytics

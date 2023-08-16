@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Google Analytics (MCF) Connector"
-date:   2023-08-15
+title:  "Google Analytics (MCF) Connector - Growth Nirvana"
+description: Harness the power of Google Analytics (MCF) insights integrated into Looker Studio for strategic marketing decisions.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/google_analytics_mcf
 icon_url: /assets/images/seo_pages/connectors/google_analytics_mcf

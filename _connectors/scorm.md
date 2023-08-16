@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "SCORM Connector"
-date:   2023-08-15
+title:  "SCORM Connector - Growth Nirvana"
+description: Amplify your e-learning strategies with SCORM insights integrated into Looker Studio.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/scorm
 icon_url: /assets/images/seo_pages/connectors/scorm

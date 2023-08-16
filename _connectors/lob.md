@@ -1,7 +1,9 @@
 ---
 layout: connector
-title:  "Lob Connector"
-date:   2023-08-15
+title:  "Lob Connector - Growth Nirvana"
+description: Amplify your direct mail strategies with Lob insights integrated into Looker Studio.
+image: /assets/images/seo_pages/body.webp
+date: 2023-08-16
 categories: connectors
 permalink: connectors/lob
 icon_url: /assets/images/seo_pages/connectors/lob

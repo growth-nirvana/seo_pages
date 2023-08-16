@@ -15,7 +15,7 @@ layout: default
         </p>
 
         <p class="mt-10 flex justify-center lg:justify-normal">
-          <a href="/schedule-demo" class="btn btn-primary">Start Your 30-day Free Trial</a>
+          {% include calendly_link.html class="btn btn-primary" utm_content=page.permalink %}
         </p>
       </div>
       <div class="flex flex-row justify-center">
@@ -41,9 +41,10 @@ layout: default
         </p>
 
         <p class="mt-10 flex justify-center lg:justify-normal">
-          <a href="/schedule-demo" class="btn-underline btn-underline-primary">
+          {% capture cta_html %}
             Book a Demo {% include icons/chevron-right.svg class="inline" %}
-          </a>
+          {% endcapture %}
+          {% include calendly_link.html class="btn-underline btn-underline-primary" utm_content=page.permalink text=cta_html %}
         </p>
       </div>
     </div>
@@ -91,7 +92,7 @@ layout: default
           {% endfor %}
         </div>
         <p class="mt-5 flex justify-center">
-          <a href="/schedule-demo" class="btn btn-primary">Book a demo</a>
+          {% include calendly_link.html class="btn btn-primary" utm_content=page.permalink %}
         </p>
       </div>
     </div>

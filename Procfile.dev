@@ -1,2 +1,1 @@
-css: yarn run dev
 web: bundle exec jekyll serve --open-url --host=0.0.0.0

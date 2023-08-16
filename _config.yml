@@ -67,3 +67,4 @@ exclude:
   - .env.sample
   - .env
   - generator/
+  - main.css

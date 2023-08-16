@@ -1,0 +1,16 @@
+<a href="" onclick="var urlParams = new URLSearchParams(window.location.search);
+  Calendly.initPopupWidget(
+    {
+      url: 'https://calendly.com/{{ site.data.calendly.user_name }}/{{ site.data.calendly.event_link }}',
+      utm: {
+        utmCampaign: urlParams.get('utm_campaign') || urlParams.get('campaignid') || 'None',
+        utmSource: urlParams.get('utm_source') || 'google',
+        utmMedium: urlParams.get('utm_medium') || 'cpc',
+        utmTerm: urlParams.get('utm_term') || urlParams.get('keyword') || 'None',
+        utmContent: '{{ include.utm_content }}'
+      }
+    }
+  );return false;"
+  class="{{ include.class }}">
+    {{ include.text | default: site.data.calendly.text }}
+</a>

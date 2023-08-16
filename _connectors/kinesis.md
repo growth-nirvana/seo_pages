@@ -21,16 +21,6 @@ sections:
       Amazon Kinesis Firehose Connector
     description: Integrate Amazon Kinesis Firehose with Looker Studio for a real-time data experience that fuels instant decision-making.
     image_url: /assets/images/seo_pages/body.webp
-  steps_to_connect:
-    title: Steps to connect
-    steps:
-      - title: "Step 1"
-        description: Login to your Amazon Kinesis Firehose account
-      - title: "Step 2"
-        description: Authorize the Amazon Kinesis Firehose connection to send data to Growth Nirvana
-      - title: "Step 3"
-        description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

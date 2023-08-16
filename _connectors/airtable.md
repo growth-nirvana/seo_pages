@@ -21,16 +21,6 @@ sections:
       Airtable Connector
     description: Unlock the potential of organized data by integrating Airtable with Looker Studio, where insights transform into actions.
     image_url: /assets/images/seo_pages/body.webp
-  steps_to_connect:
-    title: Steps to connect
-    steps:
-      - title: "Step 1"
-        description: Login to your Airtable account
-      - title: "Step 2"
-        description: Authorize the Airtable connection to send data to Growth Nirvana
-      - title: "Step 3"
-        description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

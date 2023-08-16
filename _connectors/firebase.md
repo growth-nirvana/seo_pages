@@ -21,16 +21,6 @@ sections:
       Firebase Connector
     description: Integrate Firebase insights into Looker Studio for comprehensive app analytics that guide your app strategies.
     image_url: /assets/images/seo_pages/body.webp
-  steps_to_connect:
-    title: Steps to connect
-    steps:
-      - title: "Step 1"
-        description: Login to your Firebase account
-      - title: "Step 2"
-        description: Authorize the Firebase connection to send data to Growth Nirvana
-      - title: "Step 3"
-        description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

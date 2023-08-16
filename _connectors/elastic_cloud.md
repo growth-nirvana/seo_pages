@@ -21,16 +21,6 @@ sections:
       Elastic Cloud Connector
     description: Integrate Elastic Cloud with Looker Studio to harness the power of search insights for data-driven strategies.
     image_url: /assets/images/seo_pages/body.webp
-  steps_to_connect:
-    title: Steps to connect
-    steps:
-      - title: "Step 1"
-        description: Login to your Elastic Cloud account
-      - title: "Step 2"
-        description: Authorize the Elastic Cloud connection to send data to Growth Nirvana
-      - title: "Step 3"
-        description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

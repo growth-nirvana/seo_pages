@@ -21,16 +21,6 @@ sections:
       Open Data DC Connector
     description: Harness the power of Open Data DC insights integrated into Looker Studio for strategic public data exploration.
     image_url: /assets/images/seo_pages/body.webp
-  steps_to_connect:
-    title: Steps to connect
-    steps:
-      - title: "Step 1"
-        description: Login to your Open Data DC account
-      - title: "Step 2"
-        description: Authorize the Open Data DC connection to send data to Growth Nirvana
-      - title: "Step 3"
-        description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

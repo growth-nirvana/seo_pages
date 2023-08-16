@@ -21,16 +21,6 @@ sections:
       Coupa Connector
     description: Integrate Coupa with Looker Studio for data-driven procurement analytics that guide your purchasing strategies.
     image_url: /assets/images/seo_pages/body.webp
-  steps_to_connect:
-    title: Steps to connect
-    steps:
-      - title: "Step 1"
-        description: Login to your Coupa account
-      - title: "Step 2"
-        description: Authorize the Coupa connection to send data to Growth Nirvana
-      - title: "Step 3"
-        description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

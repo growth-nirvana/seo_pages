@@ -21,16 +21,6 @@ sections:
       Amazon DocumentDB Connector
     description: Unlock the potential of your data storage with Amazon DocumentDB integrated into Looker Studio's analytics environment.
     image_url: /assets/images/seo_pages/body.webp
-  steps_to_connect:
-    title: Steps to connect
-    steps:
-      - title: "Step 1"
-        description: Login to your Amazon DocumentDB account
-      - title: "Step 2"
-        description: Authorize the Amazon DocumentDB connection to send data to Growth Nirvana
-      - title: "Step 3"
-        description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

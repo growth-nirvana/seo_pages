@@ -21,16 +21,6 @@ sections:
       Salesforce Marketing Cloud Connector
     description: Integrate Salesforce Marketing Cloud insights into Looker Studio for comprehensive marketing analytics that guide your customer-centric strategies.
     image_url: /assets/images/seo_pages/body.webp
-  steps_to_connect:
-    title: Steps to connect
-    steps:
-      - title: "Step 1"
-        description: Login to your Salesforce Marketing Cloud account
-      - title: "Step 2"
-        description: Authorize the Salesforce Marketing Cloud connection to send data to Growth Nirvana
-      - title: "Step 3"
-        description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

@@ -26,10 +26,10 @@
           </div>
         {% endfor %}
 
-        <a href="/schedule-demo" class="btn btn-primary text-base hidden lg:flex">Start Your 30-day Free Trial</a>
+        {% include calendly_link.html class="btn btn-primary text-base hidden lg:flex" utm_content=page.permalink %}
       </div>
     </div>
-  
+
     <div class="lg:hidden">
       <button type="button" class="lg:hidden inline-flex items-center justify-center pt-2.5 rounded-md text-gray-700" onclick="toggleMobileMenu()">
         <span class="sr-only">Open main menu</span>
@@ -73,7 +73,7 @@
                 {% endfor %}
               </div>
               <div class="py-6">
-                <a href="/schedule-demo" class="flex justify-center btn btn-primary text-base">Start Your 30-day Free Trial</a>
+                {% include calendly_link.html class="btn btn-primary flex justify-center text-base" utm_content=page.permalink %}
               </div>
             </div>
           </div>

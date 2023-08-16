@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Adobe Analytics Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/adobe_analytics
+icon_url: /assets/images/seo_pages/connectors/adobe_analytics
 
 sections:
   overview:

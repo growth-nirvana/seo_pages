@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "SharePoint Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/share_point
+icon_url: /assets/images/seo_pages/connectors/share_point
 
 sections:
   overview:

@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Verizon Media Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/yahoo_gemini
+icon_url: /assets/images/seo_pages/connectors/yahoo_gemini
 
 sections:
   overview:

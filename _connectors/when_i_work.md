@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "When I Work Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/when_i_work
+icon_url: /assets/images/seo_pages/connectors/when_i_work
 
 sections:
   overview:

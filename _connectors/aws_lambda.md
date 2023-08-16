@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "AWS Lambda Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/aws_lambda
+icon_url: /assets/images/seo_pages/connectors/aws_lambda
 
 sections:
   overview:

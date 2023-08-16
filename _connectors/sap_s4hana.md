@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "SAP S/4HANA Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/sap_s4hana
+icon_url: /assets/images/seo_pages/connectors/sap_s4hana
 
 sections:
   overview:

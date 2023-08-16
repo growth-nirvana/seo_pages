@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Oracle EBS Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/oracle_ebs
+icon_url: /assets/images/seo_pages/connectors/oracle_ebs
 
 sections:
   overview:

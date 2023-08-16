@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Heroku Postgres Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/heroku_postgres
+icon_url: /assets/images/seo_pages/connectors/heroku_postgres
 
 sections:
   overview:

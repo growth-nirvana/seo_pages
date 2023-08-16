@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Fountain Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/fountain
+icon_url: /assets/images/seo_pages/connectors/fountain
 
 sections:
   overview:

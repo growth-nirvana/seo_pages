@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Khoros Care Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/khoros_care
+icon_url: /assets/images/seo_pages/connectors/khoros_care
 
 sections:
   overview:

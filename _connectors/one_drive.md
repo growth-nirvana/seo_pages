@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "OneDrive Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/one_drive
+icon_url: /assets/images/seo_pages/connectors/one_drive
 
 sections:
   overview:

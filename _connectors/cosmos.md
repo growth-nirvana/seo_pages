@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Azure Cosmos DB - NoSQL API Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/cosmos
+icon_url: /assets/images/seo_pages/connectors/cosmos
 
 sections:
   overview:

@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Heroku Kafka Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/heroku_kafka
+icon_url: /assets/images/seo_pages/connectors/heroku_kafka
 
 sections:
   overview:

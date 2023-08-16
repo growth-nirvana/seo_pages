@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Sailthru Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/sailthru
+icon_url: /assets/images/seo_pages/connectors/sailthru
 
 sections:
   overview:

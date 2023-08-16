@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Facebook Ad Insights Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/facebook
+icon_url: /assets/images/seo_pages/connectors/facebook
 
 sections:
   overview:

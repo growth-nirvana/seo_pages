@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Klaviyo Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/klaviyo
+icon_url: /assets/images/seo_pages/connectors/klaviyo
 
 sections:
   overview:

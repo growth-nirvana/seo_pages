@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Survicate Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/survicate
+icon_url: /assets/images/seo_pages/connectors/survicate
 
 sections:
   overview:

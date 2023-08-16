@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Twitter Organic Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/twitter
+icon_url: /assets/images/seo_pages/connectors/twitter
 
 sections:
   overview:

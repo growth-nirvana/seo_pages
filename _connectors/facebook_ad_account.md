@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Facebook Ad Account Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/facebook_ad_account
+icon_url: /assets/images/seo_pages/connectors/facebook_ad_account
 
 sections:
   overview:

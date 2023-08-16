@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Postgres RDS Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/postgres_rds
+icon_url: /assets/images/seo_pages/connectors/postgres_rds
 
 sections:
   overview:

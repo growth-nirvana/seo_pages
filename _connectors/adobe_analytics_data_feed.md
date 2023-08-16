@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Adobe Analytics Data Feed Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/adobe_analytics_data_feed
+icon_url: /assets/images/seo_pages/connectors/adobe_analytics_data_feed
 
 sections:
   overview:

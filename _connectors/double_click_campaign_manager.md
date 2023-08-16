@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Google Campaign Manager 360 Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/double_click_campaign_manager
+icon_url: /assets/images/seo_pages/connectors/double_click_campaign_manager
 
 sections:
   overview:

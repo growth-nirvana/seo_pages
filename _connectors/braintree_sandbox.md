@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Braintree Sandbox Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/braintree_sandbox
+icon_url: /assets/images/seo_pages/connectors/braintree_sandbox
 
 sections:
   overview:

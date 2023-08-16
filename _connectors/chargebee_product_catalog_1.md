@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Chargebee Product Catalog 1.0 Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/chargebee_product_catalog_1
+icon_url: /assets/images/seo_pages/connectors/chargebee_product_catalog_1
 
 sections:
   overview:

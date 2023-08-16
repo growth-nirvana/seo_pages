@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Google Play Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/google_play
+icon_url: /assets/images/seo_pages/connectors/google_play
 
 sections:
   overview:

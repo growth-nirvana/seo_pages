@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Microsoft Dynamics 365 CRM Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/dynamics_365
+icon_url: /assets/images/seo_pages/connectors/dynamics_365
 
 sections:
   overview:

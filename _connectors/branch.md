@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Branch Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/branch
+icon_url: /assets/images/seo_pages/connectors/branch
 
 sections:
   overview:

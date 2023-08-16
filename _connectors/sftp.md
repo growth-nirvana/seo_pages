@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "SFTP Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/sftp
+icon_url: /assets/images/seo_pages/connectors/sftp
 
 sections:
   overview:

@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Pardot Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/pardot
+icon_url: /assets/images/seo_pages/connectors/pardot
 
 sections:
   overview:

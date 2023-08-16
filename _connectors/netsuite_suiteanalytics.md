@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "NetSuite SuiteAnalytics Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/netsuite_suiteanalytics
+icon_url: /assets/images/seo_pages/connectors/netsuite_suiteanalytics
 
 sections:
   overview:

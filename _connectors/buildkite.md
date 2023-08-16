@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Buildkite Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/buildkite
+icon_url: /assets/images/seo_pages/connectors/buildkite
 
 sections:
   overview:

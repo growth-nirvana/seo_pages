@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Salesforce sandbox Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/salesforce_sandbox
+icon_url: /assets/images/seo_pages/connectors/salesforce_sandbox
 
 sections:
   overview:

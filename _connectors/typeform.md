@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Typeform Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/typeform
+icon_url: /assets/images/seo_pages/connectors/typeform
 
 sections:
   overview:

@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Apple App Store Connector"
-date:   2023-08-10
+date:   2023-08-15
 categories: connectors
 permalink: connectors/itunes_connect
+icon_url: /assets/images/seo_pages/connectors/itunes_connect
 
 sections:
   overview:

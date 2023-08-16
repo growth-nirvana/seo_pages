@@ -21,16 +21,6 @@ sections:
       Outreach Connector
     description: Amplify your sales engagement strategies with Outreach insights integrated into Looker Studio.
     image_url: /assets/images/seo_pages/body.webp
-  steps_to_connect:
-    title: Steps to connect
-    steps:
-      - title: "Step 1"
-        description: Login to your Outreach account
-      - title: "Step 2"
-        description: Authorize the Outreach connection to send data to Growth Nirvana
-      - title: "Step 3"
-        description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

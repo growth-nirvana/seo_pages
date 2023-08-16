@@ -21,16 +21,6 @@ sections:
       Postgres RDS Connector
     description: Integrate Postgres RDS insights into Looker Studio for comprehensive database analytics that guide your database management strategies.
     image_url: /assets/images/seo_pages/body.webp
-  steps_to_connect:
-    title: Steps to connect
-    steps:
-      - title: "Step 1"
-        description: Login to your Postgres RDS account
-      - title: "Step 2"
-        description: Authorize the Postgres RDS connection to send data to Growth Nirvana
-      - title: "Step 3"
-        description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

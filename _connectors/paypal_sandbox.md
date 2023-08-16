@@ -21,16 +21,6 @@ sections:
       Paypal Sandbox Connector
     description: Amplify your payment processing strategies with Paypal Sandbox insights integrated into Looker Studio.
     image_url: /assets/images/seo_pages/body.webp
-  steps_to_connect:
-    title: Steps to connect
-    steps:
-      - title: "Step 1"
-        description: Login to your Paypal Sandbox account
-      - title: "Step 2"
-        description: Authorize the Paypal Sandbox connection to send data to Growth Nirvana
-      - title: "Step 3"
-        description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

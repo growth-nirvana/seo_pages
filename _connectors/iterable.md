@@ -21,16 +21,6 @@ sections:
       Iterable Connector
     description: Harness the power of Iterable marketing automation insights integrated into Looker Studio for strategic customer engagement decisions.
     image_url: /assets/images/seo_pages/body.webp
-  steps_to_connect:
-    title: Steps to connect
-    steps:
-      - title: "Step 1"
-        description: Login to your Iterable account
-      - title: "Step 2"
-        description: Authorize the Iterable connection to send data to Growth Nirvana
-      - title: "Step 3"
-        description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/seo_pages/steps-to-connect.webp
   faq:
     title: FAQs
     questions:

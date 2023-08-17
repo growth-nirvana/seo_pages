@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Fountain Connector - Growth Nirvana"
+name: "Fountain"
 description: Harness the power of Fountain hiring insights integrated into Looker Studio for strategic hiring decisions.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/fountain
 icon_url: /assets/images/seo_pages/connectors/fountain

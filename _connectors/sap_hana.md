@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "SAP HANA Connector - Growth Nirvana"
+name: "SAP HANA"
 description: Integrate SAP HANA insights into Looker Studio for comprehensive database analytics that guide your data management strategies.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/sap_hana
 icon_url: /assets/images/seo_pages/connectors/sap_hana

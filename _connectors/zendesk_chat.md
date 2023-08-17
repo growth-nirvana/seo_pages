@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Zendesk Chat Connector - Growth Nirvana"
+name: "Zendesk Chat"
 description: Harness the power of Zendesk Chat customer support insights integrated into Looker Studio for strategic chat management decisions.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/zendesk_chat
 icon_url: /assets/images/seo_pages/connectors/zendesk_chat

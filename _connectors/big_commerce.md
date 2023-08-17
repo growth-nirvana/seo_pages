@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Big Commerce Connector - Growth Nirvana"
+name: "Big Commerce"
 description: Supercharge your e-commerce strategies with Big Commerce data seamlessly integrated into Looker Studio.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/big_commerce
 icon_url: /assets/images/seo_pages/connectors/big_commerce

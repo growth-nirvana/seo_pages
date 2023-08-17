@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Oracle Fusion Cloud Applications - HCM Connector - Growth Nirvana"
+name: "Oracle Fusion Cloud Applications - HCM"
 description: Integrate Oracle Fusion Cloud Applications - HCM insights into Looker Studio for comprehensive HCM analytics that guide your workforce strategies.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/oracle_fusion_cloud_apps_hcm
 icon_url: /assets/images/seo_pages/connectors/oracle_fusion_cloud_apps_hcm

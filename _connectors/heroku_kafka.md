@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Heroku Kafka Connector - Growth Nirvana"
+name: "Heroku Kafka"
 description: Harness the power of Heroku Kafka insights integrated into Looker Studio for strategic data streaming decisions.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/heroku_kafka
 icon_url: /assets/images/seo_pages/connectors/heroku_kafka

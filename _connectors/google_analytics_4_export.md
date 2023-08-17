@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Google Analytics 4 Export Connector - Growth Nirvana"
+name: "Google Analytics 4 Export"
 description: Integrate Google Analytics 4 Export with Looker Studio for event-driven analytics that shape your digital strategies.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/google_analytics_4_export
 icon_url: /assets/images/seo_pages/connectors/google_analytics_4_export

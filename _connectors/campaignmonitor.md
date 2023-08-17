@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Campaign Monitor Connector - Growth Nirvana"
+name: "Campaign Monitor"
 description: Empower your email marketing efforts with Campaign Monitor insights integrated into Looker Studio's analytics environment.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/campaignmonitor
 icon_url: /assets/images/seo_pages/connectors/campaignmonitor

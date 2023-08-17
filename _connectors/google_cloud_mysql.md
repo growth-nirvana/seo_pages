@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Google Cloud MySQL Connector - Growth Nirvana"
+name: "Google Cloud MySQL"
 description: Integrate Google Cloud MySQL with Looker Studio for comprehensive database analytics that guide your database management strategies.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/google_cloud_mysql
 icon_url: /assets/images/seo_pages/connectors/google_cloud_mysql

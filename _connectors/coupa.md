@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Coupa Connector - Growth Nirvana"
+name: "Coupa"
 description: Integrate Coupa with Looker Studio for data-driven procurement analytics that guide your purchasing strategies.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/coupa
 icon_url: /assets/images/seo_pages/connectors/coupa

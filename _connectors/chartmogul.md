@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "ChartMogul Connector - Growth Nirvana"
+name: "ChartMogul"
 description: Empower your subscription efforts with ChartMogul insights integrated into Looker Studio's analytics environment.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/chartmogul
 icon_url: /assets/images/seo_pages/connectors/chartmogul

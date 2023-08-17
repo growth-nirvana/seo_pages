@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "YouTube Analytics Connector - Growth Nirvana"
+name: "YouTube Analytics"
 description: Amplify your video content strategies with YouTube Analytics insights integrated into Looker Studio.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/youtube_analytics
 icon_url: /assets/images/seo_pages/connectors/youtube_analytics

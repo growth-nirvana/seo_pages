@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Email Connector - Growth Nirvana"
+name: "Email"
 description: Integrate Email insights into Looker Studio for comprehensive communication analytics that guide your engagement strategies.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/email
 icon_url: /assets/images/seo_pages/connectors/email

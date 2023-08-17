@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Azure Blob Storage Connector - Growth Nirvana"
+name: "Azure Blob Storage"
 description: Unleash the potential of Azure Blob Storage data within Looker Studio, for data-driven strategies that make an impact.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/azure_blob_storage
 icon_url: /assets/images/seo_pages/connectors/azure_blob_storage

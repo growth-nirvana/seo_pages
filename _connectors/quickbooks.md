@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "QuickBooks Connector - Growth Nirvana"
+name: "QuickBooks"
 description: Harness the power of QuickBooks accounting insights integrated into Looker Studio for strategic financial decisions.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/quickbooks
 icon_url: /assets/images/seo_pages/connectors/quickbooks

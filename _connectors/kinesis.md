@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Amazon Kinesis Firehose Connector - Growth Nirvana"
+name: "Amazon Kinesis Firehose"
 description: Integrate Amazon Kinesis Firehose with Looker Studio for a real-time data experience that fuels instant decision-making.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/kinesis
 icon_url: /assets/images/seo_pages/connectors/kinesis

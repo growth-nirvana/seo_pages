@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Azure Event Hubs Connector - Growth Nirvana"
+name: "Azure Event Hubs"
 description: Amplify real-time insights by integrating Azure Event Hubs with Looker Studio's analytical prowess.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/azure_event_hub
 icon_url: /assets/images/seo_pages/connectors/azure_event_hub

@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Close Connector - Growth Nirvana"
+name: "Close"
 description: Integrate Close with Looker Studio for data-driven sales analytics that guide your revenue strategies.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/close
 icon_url: /assets/images/seo_pages/connectors/close

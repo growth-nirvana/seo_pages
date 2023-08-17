@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Azure SQL Managed Instance Connector - Growth Nirvana"
+name: "Azure SQL Managed Instance"
 description: Integrate Azure SQL Managed Instance with Looker Studio and amplify your decision-making capabilities.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/azure_sql_managed_db
 icon_url: /assets/images/seo_pages/connectors/azure_sql_managed_db

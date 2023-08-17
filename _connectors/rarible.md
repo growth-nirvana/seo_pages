@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Rarible Connector - Growth Nirvana"
+name: "Rarible"
 description: Amplify your digital art marketplace strategies with Rarible insights integrated into Looker Studio.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/rarible
 icon_url: /assets/images/seo_pages/connectors/rarible

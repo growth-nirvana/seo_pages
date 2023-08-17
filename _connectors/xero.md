@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Xero Connector - Growth Nirvana"
+name: "Xero"
 description: Harness the power of Xero accounting insights integrated into Looker Studio for strategic financial management decisions.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/xero
 icon_url: /assets/images/seo_pages/connectors/xero

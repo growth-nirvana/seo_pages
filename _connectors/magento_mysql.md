@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Magento MySQL Connector - Growth Nirvana"
+name: "Magento MySQL"
 description: Integrate Magento MySQL insights into Looker Studio for comprehensive e-commerce analytics that guide your digital retail strategies.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/magento_mysql
 icon_url: /assets/images/seo_pages/connectors/magento_mysql

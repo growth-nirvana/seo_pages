@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Pinterest Ads Connector - Growth Nirvana"
+name: "Pinterest Ads"
 description: Amplify your advertising strategies with Pinterest Ads insights integrated into Looker Studio.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/pinterest_ads
 icon_url: /assets/images/seo_pages/connectors/pinterest_ads

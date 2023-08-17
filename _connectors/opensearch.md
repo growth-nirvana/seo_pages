@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Opensearch Connector - Growth Nirvana"
+name: "Opensearch"
 description: Integrate Opensearch insights into Looker Studio for comprehensive search engine analytics that guide your data discovery strategies.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/opensearch
 icon_url: /assets/images/seo_pages/connectors/opensearch

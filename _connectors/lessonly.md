@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Lessonly Connector - Growth Nirvana"
+name: "Lessonly"
 description: Harness the power of Lessonly training insights integrated into Looker Studio for strategic learning and development decisions.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/lessonly
 icon_url: /assets/images/seo_pages/connectors/lessonly

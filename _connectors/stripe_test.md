@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Stripe test mode Connector - Growth Nirvana"
+name: "Stripe test mode"
 description: Harness the power of Stripe test mode payment insights integrated into Looker Studio for strategic payment testing decisions.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/stripe_test
 icon_url: /assets/images/seo_pages/connectors/stripe_test

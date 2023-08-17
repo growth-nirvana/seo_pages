@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Box Connector - Growth Nirvana"
+name: "Box"
 description: Harness the power of Box content insights integrated into Looker Studio for strategic content management decisions.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/box
 icon_url: /assets/images/seo_pages/connectors/box

@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Apache Kafka Connector - Growth Nirvana"
+name: "Apache Kafka"
 description: Amplify your real-time insights by integrating Apache Kafka with Looker Studio's analytical capabilities.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/apache_kafka
 icon_url: /assets/images/seo_pages/connectors/apache_kafka

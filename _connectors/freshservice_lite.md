@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Freshservice_lite Connector - Growth Nirvana"
+name: "Freshservice_lite"
 description: Harness the power of Freshservice Lite IT service insights integrated into Looker Studio for strategic IT management decisions.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/freshservice_lite
 icon_url: /assets/images/seo_pages/connectors/freshservice_lite

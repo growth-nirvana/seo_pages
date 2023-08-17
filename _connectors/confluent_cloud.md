@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Confluent Cloud Connector - Growth Nirvana"
+name: "Confluent Cloud"
 description: Integrate Confluent Cloud with Looker Studio for real-time data experiences that fuel rapid decision-making.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/confluent_cloud
 icon_url: /assets/images/seo_pages/connectors/confluent_cloud

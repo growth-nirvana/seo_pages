@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "WooCommerce Connector - Growth Nirvana"
+name: "WooCommerce"
 description: Integrate WooCommerce insights into Looker Studio for comprehensive e-commerce analytics that guide your online retail strategies.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/woocommerce
 icon_url: /assets/images/seo_pages/connectors/woocommerce

@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Google Sheets Connector - Growth Nirvana"
+name: "Google Sheets"
 description: Integrate Google Sheets insights into Looker Studio for comprehensive spreadsheet analytics that guide your data-driven strategies.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/google_sheets
 icon_url: /assets/images/seo_pages/connectors/google_sheets

@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Chargebee Product Catalog 2.0 Connector - Growth Nirvana"
+name: "Chargebee Product Catalog 2.0"
 description: Integrate Chargebee Product Catalog 2.0 with Looker Studio for comprehensive subscription analytics that guide your growth strategies.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/chargebee_product_catalog_2
 icon_url: /assets/images/seo_pages/connectors/chargebee_product_catalog_2

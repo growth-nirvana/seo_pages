@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Kustomer Connector - Growth Nirvana"
+name: "Kustomer"
 description: Amplify your customer service strategies with Kustomer insights integrated into Looker Studio.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/kustomer
 icon_url: /assets/images/seo_pages/connectors/kustomer

@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "SAP S/4HANA Connector - Growth Nirvana"
+name: "SAP S/4HANA"
 description: Integrate SAP S/4HANA insights into Looker Studio for comprehensive ERP analytics that guide your operational strategies.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/sap_s4hana
 icon_url: /assets/images/seo_pages/connectors/sap_s4hana

@@ -24,14 +24,8 @@ sections:
   faq:
     title: FAQs
     questions:
-      <% if metrics_bullets.present? %>
-      - title: What are the most popular metrics in <%= name %> to analyze?
-        bullets: <%= metrics_bullets %>
-      <% end %>
-      <% if incentives_bullets.present? %>
-      - title: Why analyze <%= name %>?
-        bullets: <%= incentives_bullets %>
-      <% end %>
+<%= bullets_for_metrics -%>
+<%= bullets_for_reasons -%>
       - title: What is Growth Nirvana?
         answer: >-
           Growth Nirvana is a no code analytics platform 

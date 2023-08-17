@@ -10,7 +10,9 @@ connectors.keys.each do |connector|
     connector,
     connectors[connector]["fivetran_id"],
     connectors[connector]["overview"]["description"],
-    connectors[connector]["body"]["description"]
+    connectors[connector]["body"]["description"],
+    connectors[connector]["bullets_for_metrics"],
+    connectors[connector]["bullets_for_reasons"],
   ).generate(override)
   print "."
 end

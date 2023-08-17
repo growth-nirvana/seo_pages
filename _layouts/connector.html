@@ -64,7 +64,19 @@ layout: default
           {% for question in page.sections.faq.questions %}
           <div class="flex flex-col">
             <h4 class="text-lg lg:text-xl font-semibold p-4 bg-gray-100">{{ question.title }}</h4>
-            <span class="text-gray-500 text-base lg:text-lg py-4 px-6">{{ question.answer }}</span>
+            {% if question.bullets %}
+              <div class="py-4">
+                {% for bullet in question.bullets %}
+                  <div class="flex flex-row flex-wrap items-center">
+                    <p class="pl-6">
+                      <span class="text-gray-800 font-semibold text-base lg:text-lg">{{ bullet.title }}:</span> <span class="text-gray-500 text-base lg:text-lg">{{ bullet.description }}</span>
+                    </p>
+                  </div>
+                {% endfor %}
+              </div>
+            {% else %}
+              <span class="text-gray-500 text-base lg:text-lg py-4 px-6">{{ question.answer }}</span>
+            {% endif %}
           </div>
           {% endfor %}
         </div>

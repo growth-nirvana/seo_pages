@@ -1,9 +1,9 @@
 ---
 layout: connector
 title:  "Amazon Kinesis Firehose Connector - Growth Nirvana"
-description: Integrate Amazon Kinesis Firehose with Looker Studio for a real-time data experience that fuels instant decision-making.
+description: Effortlessly stream and load data into AWS with Amazon Kinesis Firehose. Automate the delivery of data from multiple sources for seamless processing and real-time analytics.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/kinesis
 icon_url: /assets/images/seo_pages/connectors/kinesis
@@ -12,34 +12,32 @@ sections:
   overview:
     title: >-
       Amazon Kinesis Firehose Data Connector
-    description: Amplify your data pipeline with Amazon Kinesis Firehose integration. Seamlessly channel real-time data streams into Looker Studio's analytical engine, uncovering insights that drive immediate and informed decisions.
-    image_url: /assets/images/seo_pages/overview.webp
+    description: Stream, transform, and load large volumes of data from various sources into AWS with Amazon Kinesis Firehose. Simplify the process of ingesting data by automatically delivering it to data stores and analytical tools for real-time analysis and insights.
+    image_url: /assets/images/seo_pages/body.webp
 
   body:
     title: >-
       Visualize Your Amazon Kinesis Firehose channel data with Growth Nirvana's
       Amazon Kinesis Firehose Connector
-    description: Integrate Amazon Kinesis Firehose with Looker Studio for a real-time data experience that fuels instant decision-making.
-    image_url: /assets/images/seo_pages/body.webp
-  steps_to_connect:
-    title: Steps to connect
-    steps:
-      - title: "Step 1"
-        description: Login to your Amazon Kinesis Firehose account
-      - title: "Step 2"
-        description: Authorize the Amazon Kinesis Firehose connection to send data to Growth Nirvana
-      - title: "Step 3"
-        description: Share your dashboard requirements with our data team. We will build the report for you.
-    image_url: /assets/images/seo_pages/steps-to-connect.webp
+    description: Effortlessly stream and load data into AWS with Amazon Kinesis Firehose. Automate the delivery of data from multiple sources for seamless processing and real-time analytics.
+    image_url: /assets/images/seo_pages/overview.png
   faq:
     title: FAQs
     questions:
-      - title: How can I connect my Amazon Kinesis Firehose data to Google Data Studio/Looker Studio?
-        answer: Growth Nirvana offers a straightforward no-code interface to connect to Amazon Kinesis Firehose data sources.
-      - title: How can I generate Amazon Kinesis Firehose data reports in Looker Studio?
+      - title: What is Growth Nirvana?
         answer: >-
-          With the help of Growth Nirvana, you can import live data from Amazon Kinesis Firehose into Looker Studio. These data can be viewed in charts, tables, and dashboards to generate branded reports that can be shared instantly.
-      - title: What are the requirements for connecting Amazon Kinesis Firehose and Looker Studio?
+          Growth Nirvana is a no code analytics platform 
+          Stop waiting for other departments to get you the data you need to make critical business 
+          decisions. Take control of the insights that will grow your business.
+      - title: Can I export the data into a spreadsheet or my data warehouse?
+        answer: Yes, all data can be exported into a spreadsheet or your data warehouse (Google BigQuery, AWS, Snowflake, Azure, etc)
+      - title: How customizable are Growth Nirvana reports?
         answer: >-
-          For connecting the two platforms, you should have: Growth Nirvana Account and Amazon Kinesis Firehose Ads Account
+          Growth Nirvana reporting is 100% white labeled and customized to your specifications.
+          Growth Nirvana can create the reports so you don’t have to or you can connect
+          your visualization tools (Looker Data Studio/Google Data Studio, Tableau, PowerBI, etc) to Growth Nirvana.
+      - title: How much does Growth Nirvana cost?
+        answer: Plans start at $200/month.  Schedule a demo to learn what plan is best for you.
+      - title: How long does it take to setup?
+        answer: Growth Nirvana data connectors are no code so setup only requires a few clicks.
 ---

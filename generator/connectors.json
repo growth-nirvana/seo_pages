@@ -20176,106 +20176,106 @@
     },
     "name": "Webhooks"
   },
-"Amazon Selling Partner": {
-  "overview": {
-    "description": "Amplify Your Amazon Selling Power with Data-Driven Insights. Seamlessly integrate your Amazon Selling Partner data for enhanced visibility, strategic decisions, and boosted selling performance."
+  "Amazon Selling Partner": {
+    "overview": {
+      "description": "Amplify Your Amazon Selling Power with Data-Driven Insights. Seamlessly integrate your Amazon Selling Partner data for enhanced visibility, strategic decisions, and boosted selling performance."
+    },
+    "body": {
+      "description": "Unleash the Potential of Your Amazon Selling Business.\nEmpower your selling strategy with Amazon Selling Partner integration, providing real-time data insights and actionable information."
+    },
+    "schema_name": "amazon_selling_partner",
+    "bullets_for_metrics": {
+      "title": "What are the Most Popular Metrics in Amazon Selling Partner to Analyze?",
+      "bullets": [
+        {
+          "title": "Sales Performance",
+          "description": "Monitor and optimize your sales performance on the Amazon marketplace to drive revenue growth."
+        },
+        {
+          "title": "Product Visibility",
+          "description": "Enhance your products' visibility and discoverability to attract and engage more customers."
+        },
+        {
+          "title": "Inventory Insights",
+          "description": "Gain valuable insights into inventory levels and trends for effective stock management."
+        },
+        {
+          "title": "Order Fulfillment Efficiency",
+          "description": "Evaluate and streamline order fulfillment processes to ensure timely and accurate deliveries."
+        },
+        {
+          "title": "Customer Engagement",
+          "description": "Understand customer behavior and engagement patterns to tailor your selling approach."
+        },
+        {
+          "title": "Competitive Analysis",
+          "description": "Analyze market trends and competitor performance to stay ahead in the Amazon ecosystem."
+        },
+        {
+          "title": "Advertising Impact",
+          "description": "Assess the effectiveness of your advertising campaigns and optimize ad spend."
+        },
+        {
+          "title": "Profit Margins",
+          "description": "Analyze profit margins to make informed pricing decisions and maximize profitability."
+        },
+        {
+          "title": "Return Management",
+          "description": "Efficiently manage returns to minimize their impact on operations and customer satisfaction."
+        },
+        {
+          "title": "Market Expansion Opportunities",
+          "description": "Identify new market segments and expansion possibilities for sustainable growth."
+        }
+      ]
+    },
+    "bullets_for_reasons": {
+      "title": "Why Analyze Amazon Selling Partner?",
+      "bullets": [
+        {
+          "title": "Data-Driven Success",
+          "description": "Achieve success by leveraging data insights to guide your Amazon selling strategy."
+        },
+        {
+          "title": "Informed Decision-Making",
+          "description": "Make well-informed decisions backed by real-time data from the Amazon marketplace."
+        },
+        {
+          "title": "Optimized Selling Strategy",
+          "description": "Refine your selling approach based on actionable insights for increased effectiveness."
+        },
+        {
+          "title": "Customer-Centric Approach",
+          "description": "Tailor your offerings to customer preferences and behavior for enhanced engagement."
+        },
+        {
+          "title": "Competitive Edge",
+          "description": "Gain a competitive advantage by staying ahead of market trends and competition."
+        },
+        {
+          "title": "Efficient Inventory Management",
+          "description": "Ensure efficient inventory levels and prevent stockouts through data-driven insights."
+        },
+        {
+          "title": "Enhanced Advertising ROI",
+          "description": "Maximize the return on investment of your advertising efforts with data-backed strategies."
+        },
+        {
+          "title": "Revenue Maximization",
+          "description": "Optimize pricing and profit margins to achieve maximum revenue potential."
+        },
+        {
+          "title": "Streamlined Operations",
+          "description": "Efficiently manage operations, from orders to fulfillment, for a seamless process."
+        },
+        {
+          "title": "Future-Proof Selling",
+          "description": "Prepare your Amazon selling business for future growth and changing market dynamics."
+        }
+      ]
+    },
+    "name": "Amazon Selling Partner"
   },
-  "body": {
-    "description": "Unleash the Potential of Your Amazon Selling Business.\nEmpower your selling strategy with Amazon Selling Partner integration, providing real-time data insights and actionable information."
-  },
-  "schema_name": "amazon_selling_partner",
-  "bullets_for_metrics": {
-    "title": "What are the Most Popular Metrics in Amazon Selling Partner to Analyze?",
-    "bullets": [
-      {
-        "title": "Sales Performance",
-        "description": "Monitor and optimize your sales performance on the Amazon marketplace to drive revenue growth."
-      },
-      {
-        "title": "Product Visibility",
-        "description": "Enhance your products' visibility and discoverability to attract and engage more customers."
-      },
-      {
-        "title": "Inventory Insights",
-        "description": "Gain valuable insights into inventory levels and trends for effective stock management."
-      },
-      {
-        "title": "Order Fulfillment Efficiency",
-        "description": "Evaluate and streamline order fulfillment processes to ensure timely and accurate deliveries."
-      },
-      {
-        "title": "Customer Engagement",
-        "description": "Understand customer behavior and engagement patterns to tailor your selling approach."
-      },
-      {
-        "title": "Competitive Analysis",
-        "description": "Analyze market trends and competitor performance to stay ahead in the Amazon ecosystem."
-      },
-      {
-        "title": "Advertising Impact",
-        "description": "Assess the effectiveness of your advertising campaigns and optimize ad spend."
-      },
-      {
-        "title": "Profit Margins",
-        "description": "Analyze profit margins to make informed pricing decisions and maximize profitability."
-      },
-      {
-        "title": "Return Management",
-        "description": "Efficiently manage returns to minimize their impact on operations and customer satisfaction."
-      },
-      {
-        "title": "Market Expansion Opportunities",
-        "description": "Identify new market segments and expansion possibilities for sustainable growth."
-      }
-    ]
-  },
-  "bullets_for_reasons": {
-    "title": "Why Analyze Amazon Selling Partner?",
-    "bullets": [
-      {
-        "title": "Data-Driven Success",
-        "description": "Achieve success by leveraging data insights to guide your Amazon selling strategy."
-      },
-      {
-        "title": "Informed Decision-Making",
-        "description": "Make well-informed decisions backed by real-time data from the Amazon marketplace."
-      },
-      {
-        "title": "Optimized Selling Strategy",
-        "description": "Refine your selling approach based on actionable insights for increased effectiveness."
-      },
-      {
-        "title": "Customer-Centric Approach",
-        "description": "Tailor your offerings to customer preferences and behavior for enhanced engagement."
-      },
-      {
-        "title": "Competitive Edge",
-        "description": "Gain a competitive advantage by staying ahead of market trends and competition."
-      },
-      {
-        "title": "Efficient Inventory Management",
-        "description": "Ensure efficient inventory levels and prevent stockouts through data-driven insights."
-      },
-      {
-        "title": "Enhanced Advertising ROI",
-        "description": "Maximize the return on investment of your advertising efforts with data-backed strategies."
-      },
-      {
-        "title": "Revenue Maximization",
-        "description": "Optimize pricing and profit margins to achieve maximum revenue potential."
-      },
-      {
-        "title": "Streamlined Operations",
-        "description": "Efficiently manage operations, from orders to fulfillment, for a seamless process."
-      },
-      {
-        "title": "Future-Proof Selling",
-        "description": "Prepare your Amazon selling business for future growth and changing market dynamics."
-      }
-    ]
-  },
-  "name": "Amazon Selling Partner"
-},
   "Azure Boards": {
     "overview": {
       "description": "Leverage Azure Boards integration to streamline your project management. Seamlessly track and manage tasks, issues, and progress for improved collaboration and project success."
@@ -20960,106 +20960,106 @@
     },
     "name": "Clari"
   },
-"ContrastSecurity": {
-  "overview": {
-    "description": "Elevate Your Application Security with Contrast Security Integration. Seamlessly integrate Contrast Security data to enhance your security posture, identify vulnerabilities, and protect your applications."
+  "ContrastSecurity": {
+    "overview": {
+      "description": "Elevate Your Application Security with Contrast Security Integration. Seamlessly integrate Contrast Security data to enhance your security posture, identify vulnerabilities, and protect your applications."
+    },
+    "body": {
+      "description": "Fortify Your Applications with Contrast Security Integration.\nEmpower your development and security teams with real-time insights and actionable data to ensure secure and robust software."
+    },
+    "schema_name": "contrast_security",
+    "bullets_for_metrics": {
+      "title": "What are the Most Popular Metrics in Contrast Security to Analyze?",
+      "bullets": [
+        {
+          "title": "Vulnerability Density",
+          "description": "Measure and track the density of vulnerabilities in your applications to prioritize remediation efforts."
+        },
+        {
+          "title": "Application Risk Score",
+          "description": "Assess the overall risk of your applications based on the severity and types of vulnerabilities detected."
+        },
+        {
+          "title": "Attack Surface",
+          "description": "Analyze the attack surface of your applications to identify potential points of vulnerability."
+        },
+        {
+          "title": "Remediation Velocity",
+          "description": "Monitor the speed at which vulnerabilities are addressed and resolved in your software."
+        },
+        {
+          "title": "Threat Trends",
+          "description": "Identify trends in emerging threats and attack vectors to proactively enhance your security measures."
+        },
+        {
+          "title": "Security Debt",
+          "description": "Evaluate and manage security debt to reduce accumulated vulnerabilities over time."
+        },
+        {
+          "title": "Attack Impact",
+          "description": "Assess the potential impact of detected vulnerabilities in terms of possible exploit scenarios."
+        },
+        {
+          "title": "Code Quality",
+          "description": "Analyze the quality of your application's code to identify areas for improvement and security enhancement."
+        },
+        {
+          "title": "Security Coverage",
+          "description": "Ensure comprehensive security coverage across your application landscape to minimize blind spots."
+        },
+        {
+          "title": "Compliance Status",
+          "description": "Track and validate compliance with relevant security standards and regulations."
+        }
+      ]
+    },
+    "bullets_for_reasons": {
+      "title": "Why Analyze Contrast Security?",
+      "bullets": [
+        {
+          "title": "Real-Time Security Insights",
+          "description": "Access up-to-the-minute insights into your application security to stay ahead of potential threats."
+        },
+        {
+          "title": "Proactive Vulnerability Management",
+          "description": "Proactively identify, assess, and remediate vulnerabilities to prevent security breaches."
+        },
+        {
+          "title": "Secure DevOps",
+          "description": "Promote a culture of secure development practices by integrating security seamlessly into your DevOps processes."
+        },
+        {
+          "title": "Continuous Security Improvement",
+          "description": "Enable continuous improvement of your application security posture based on data-driven insights."
+        },
+        {
+          "title": "Effective Remediation",
+          "description": "Prioritize and address vulnerabilities efficiently to minimize business risk and potential impact."
+        },
+        {
+          "title": "Reduced Attack Surface",
+          "description": "Minimize your application's attack surface by promptly addressing and mitigating vulnerabilities."
+        },
+        {
+          "title": "Enhanced Developer Collaboration",
+          "description": "Facilitate collaboration between development and security teams for more effective security measures."
+        },
+        {
+          "title": "Compliance Assurance",
+          "description": "Demonstrate compliance with security standards and regulations through comprehensive security practices."
+        },
+        {
+          "title": "Customer Trust",
+          "description": "Build and maintain trust with your customers by ensuring the security and integrity of your applications."
+        },
+        {
+          "title": "Future-Proof Security",
+          "description": "Equip your organization to adapt to evolving security threats and challenges with data-backed strategies."
+        }
+      ]
+    },
+    "name": "Contrast Security"
   },
-  "body": {
-    "description": "Fortify Your Applications with Contrast Security Integration.\nEmpower your development and security teams with real-time insights and actionable data to ensure secure and robust software."
-  },
-  "schema_name": "contrast_security",
-  "bullets_for_metrics": {
-    "title": "What are the Most Popular Metrics in Contrast Security to Analyze?",
-    "bullets": [
-      {
-        "title": "Vulnerability Density",
-        "description": "Measure and track the density of vulnerabilities in your applications to prioritize remediation efforts."
-      },
-      {
-        "title": "Application Risk Score",
-        "description": "Assess the overall risk of your applications based on the severity and types of vulnerabilities detected."
-      },
-      {
-        "title": "Attack Surface",
-        "description": "Analyze the attack surface of your applications to identify potential points of vulnerability."
-      },
-      {
-        "title": "Remediation Velocity",
-        "description": "Monitor the speed at which vulnerabilities are addressed and resolved in your software."
-      },
-      {
-        "title": "Threat Trends",
-        "description": "Identify trends in emerging threats and attack vectors to proactively enhance your security measures."
-      },
-      {
-        "title": "Security Debt",
-        "description": "Evaluate and manage security debt to reduce accumulated vulnerabilities over time."
-      },
-      {
-        "title": "Attack Impact",
-        "description": "Assess the potential impact of detected vulnerabilities in terms of possible exploit scenarios."
-      },
-      {
-        "title": "Code Quality",
-        "description": "Analyze the quality of your application's code to identify areas for improvement and security enhancement."
-      },
-      {
-        "title": "Security Coverage",
-        "description": "Ensure comprehensive security coverage across your application landscape to minimize blind spots."
-      },
-      {
-        "title": "Compliance Status",
-        "description": "Track and validate compliance with relevant security standards and regulations."
-      }
-    ]
-  },
-  "bullets_for_reasons": {
-    "title": "Why Analyze Contrast Security?",
-    "bullets": [
-      {
-        "title": "Real-Time Security Insights",
-        "description": "Access up-to-the-minute insights into your application security to stay ahead of potential threats."
-      },
-      {
-        "title": "Proactive Vulnerability Management",
-        "description": "Proactively identify, assess, and remediate vulnerabilities to prevent security breaches."
-      },
-      {
-        "title": "Secure DevOps",
-        "description": "Promote a culture of secure development practices by integrating security seamlessly into your DevOps processes."
-      },
-      {
-        "title": "Continuous Security Improvement",
-        "description": "Enable continuous improvement of your application security posture based on data-driven insights."
-      },
-      {
-        "title": "Effective Remediation",
-        "description": "Prioritize and address vulnerabilities efficiently to minimize business risk and potential impact."
-      },
-      {
-        "title": "Reduced Attack Surface",
-        "description": "Minimize your application's attack surface by promptly addressing and mitigating vulnerabilities."
-      },
-      {
-        "title": "Enhanced Developer Collaboration",
-        "description": "Facilitate collaboration between development and security teams for more effective security measures."
-      },
-      {
-        "title": "Compliance Assurance",
-        "description": "Demonstrate compliance with security standards and regulations through comprehensive security practices."
-      },
-      {
-        "title": "Customer Trust",
-        "description": "Build and maintain trust with your customers by ensuring the security and integrity of your applications."
-      },
-      {
-        "title": "Future-Proof Security",
-        "description": "Equip your organization to adapt to evolving security threats and challenges with data-backed strategies."
-      }
-    ]
-  },
-  "name": "Contrast Security"
-},
   "Duoplane": {
     "overview": {
       "description": "Leverage Duoplane integration to streamline and optimize your ecommerce operations. Seamlessly connect your sales channels, automate workflows, and gain valuable insights for improved efficiency and customer satisfaction."
@@ -22468,206 +22468,206 @@
     },
     "name": "Helpshift"
   },
-"ironSource": {
-  "overview": {
-    "description": "Enhance Your Monetization Strategy with ironSource Integration. Seamlessly integrate ironSource data to optimize ad performance, increase revenue, and drive user engagement."
+  "ironSource": {
+    "overview": {
+      "description": "Enhance Your Monetization Strategy with ironSource Integration. Seamlessly integrate ironSource data to optimize ad performance, increase revenue, and drive user engagement."
+    },
+    "body": {
+      "description": "Maximize Your App Monetization with ironSource Integration. Empower your app's revenue generation and user engagement by leveraging real-time insights and data-driven decisions."
+    },
+    "schema_name": "iron_source",
+    "bullets_for_metrics": {
+      "title": "What are the Most Popular Metrics in ironSource to Analyze?",
+      "bullets": [
+        {
+          "title": "Ad Revenue",
+          "description": "Track and analyze revenue generated from in-app advertisements."
+        },
+        {
+          "title": "eCPM",
+          "description": "Monitor effective cost per mille (eCPM) to optimize ad monetization strategies."
+        },
+        {
+          "title": "Impressions",
+          "description": "Analyze the number of ad impressions to gauge user engagement."
+        },
+        {
+          "title": "Fill Rate",
+          "description": "Measure the percentage of ad requests that are successfully filled with ads."
+        },
+        {
+          "title": "Click-Through Rate (CTR)",
+          "description": "Assess the percentage of ad clicks compared to impressions for ad performance."
+        },
+        {
+          "title": "User Retention",
+          "description": "Track user retention rates to understand the effectiveness of ad-driven engagement strategies."
+        },
+        {
+          "title": "Ad Placement Performance",
+          "description": "Evaluate the performance of different ad placements within your app."
+        },
+        {
+          "title": "Revenue by Ad Type",
+          "description": "Break down revenue by different types of in-app advertisements."
+        },
+        {
+          "title": "User Segmentation",
+          "description": "Analyze ad performance and revenue across different user segments."
+        },
+        {
+          "title": "Ad Engagement",
+          "description": "Measure user interaction and engagement with in-app advertisements."
+        }
+      ]
+    },
+    "bullets_for_reasons": {
+      "title": "Why Analyze ironSource?",
+      "bullets": [
+        {
+          "title": "Optimized Monetization",
+          "description": "Maximize app revenue by fine-tuning ad strategies based on data-driven insights."
+        },
+        {
+          "title": "Enhanced User Engagement",
+          "description": "Drive user interaction and engagement through effective in-app ad placements."
+        },
+        {
+          "title": "Improved Ad Performance",
+          "description": "Optimize ad revenue and performance by analyzing key metrics and making informed adjustments."
+        },
+        {
+          "title": "Data-Driven Decision Making",
+          "description": "Make strategic decisions backed by real-time data and performance analytics."
+        },
+        {
+          "title": "Monetization Strategy Refinement",
+          "description": "Refine your app's monetization strategy based on continuous insights and ad performance trends."
+        },
+        {
+          "title": "Enhanced User Experience",
+          "description": "Deliver relevant and engaging ads to users, enhancing their overall app experience."
+        },
+        {
+          "title": "Competitive Advantage",
+          "description": "Stay ahead of the competition by leveraging data-driven ad monetization strategies."
+        },
+        {
+          "title": "Monetization Insights",
+          "description": "Gain deep insights into ad revenue patterns and user behavior for informed monetization."
+        },
+        {
+          "title": "Ad Placement Optimization",
+          "description": "Optimize the placement and delivery of in-app ads for maximum impact."
+        },
+        {
+          "title": "Continuous Performance Improvement",
+          "description": "Drive ongoing improvement of ad performance through iterative data analysis and adjustments."
+        }
+      ]
+    },
+    "name": "ironSource"
   },
-  "body": {
-    "description": "Maximize Your App Monetization with ironSource Integration. Empower your app's revenue generation and user engagement by leveraging real-time insights and data-driven decisions."
+  "Jira Align": {
+    "overview": {
+      "description": "Elevate Your Agile Project Management with Jira Align Integration. Seamlessly connect Jira Align with your project management tools to streamline workflows, enhance collaboration, and optimize project delivery."
+    },
+    "body": {
+      "description": "Enhance Your Project Management with Jira Align Integration. Unlock the power of agile methodologies and collaborative project management by seamlessly integrating Jira Align with your existing tools."
+    },
+    "schema_name": "atlassian_jira_align",
+    "bullets_for_metrics": {
+      "title": "What are the Most Popular Metrics in Jira Align to Analyze?",
+      "bullets": [
+        {
+          "title": "Cycle Time",
+          "description": "Analyze the time it takes for work items to move from start to completion."
+        },
+        {
+          "title": "Lead Time",
+          "description": "Measure the time from when a work item is requested to when it's delivered."
+        },
+        {
+          "title": "Velocity",
+          "description": "Track the rate at which work is completed during a sprint or iteration."
+        },
+        {
+          "title": "Release Burndown",
+          "description": "Visualize the progress of work items towards a release or milestone completion."
+        },
+        {
+          "title": "Sprint Burndown",
+          "description": "Monitor the progress of work items within a sprint or iteration."
+        },
+        {
+          "title": "Epic and Feature Progress",
+          "description": "Track the advancement of epics and features through various stages of development."
+        },
+        {
+          "title": "Backlog Health",
+          "description": "Assess the overall health and readiness of your backlog for upcoming work."
+        },
+        {
+          "title": "Team Efficiency",
+          "description": "Analyze team capacity, utilization, and efficiency for optimized resource allocation."
+        },
+        {
+          "title": "Defect Rate",
+          "description": "Measure the number of defects identified and resolved during development."
+        },
+        {
+          "title": "Flow Efficiency",
+          "description": "Evaluate the efficiency of work item flow through different stages of development."
+        }
+      ]
+    },
+    "bullets_for_reasons": {
+      "title": "Why Analyze Jira Align?",
+      "bullets": [
+        {
+          "title": "Optimized Project Delivery",
+          "description": "Enhance project delivery by gaining insights into cycle time, lead time, and velocity for continuous improvement."
+        },
+        {
+          "title": "Data-Driven Decision Making",
+          "description": "Make informed decisions based on real-time metrics and performance analytics."
+        },
+        {
+          "title": "Improved Team Collaboration",
+          "description": "Promote collaboration and alignment across teams for synchronized project execution."
+        },
+        {
+          "title": "Efficient Resource Allocation",
+          "description": "Allocate resources effectively by analyzing team efficiency and backlog health."
+        },
+        {
+          "title": "Agile Process Enhancement",
+          "description": "Refine agile practices and methodologies using actionable insights from Jira Align data."
+        },
+        {
+          "title": "Transparent Progress Tracking",
+          "description": "Keep stakeholders informed with clear visualizations of sprint and release progress."
+        },
+        {
+          "title": "Strategic Planning",
+          "description": "Support strategic planning and decision-making by analyzing epic and feature progress."
+        },
+        {
+          "title": "Continuous Improvement",
+          "description": "Drive ongoing process improvement by identifying bottlenecks and areas for optimization."
+        },
+        {
+          "title": "Defect Prevention",
+          "description": "Identify and address defects early in the development process to improve overall product quality."
+        },
+        {
+          "title": "Holistic View",
+          "description": "Gain a comprehensive view of project health, efficiency, and progress for effective management."
+        }
+      ]
+    },
+    "name": "Jira Align"
   },
-  "schema_name": "iron_source",
-  "bullets_for_metrics": {
-    "title": "What are the Most Popular Metrics in ironSource to Analyze?",
-    "bullets": [
-      {
-        "title": "Ad Revenue",
-        "description": "Track and analyze revenue generated from in-app advertisements."
-      },
-      {
-        "title": "eCPM",
-        "description": "Monitor effective cost per mille (eCPM) to optimize ad monetization strategies."
-      },
-      {
-        "title": "Impressions",
-        "description": "Analyze the number of ad impressions to gauge user engagement."
-      },
-      {
-        "title": "Fill Rate",
-        "description": "Measure the percentage of ad requests that are successfully filled with ads."
-      },
-      {
-        "title": "Click-Through Rate (CTR)",
-        "description": "Assess the percentage of ad clicks compared to impressions for ad performance."
-      },
-      {
-        "title": "User Retention",
-        "description": "Track user retention rates to understand the effectiveness of ad-driven engagement strategies."
-      },
-      {
-        "title": "Ad Placement Performance",
-        "description": "Evaluate the performance of different ad placements within your app."
-      },
-      {
-        "title": "Revenue by Ad Type",
-        "description": "Break down revenue by different types of in-app advertisements."
-      },
-      {
-        "title": "User Segmentation",
-        "description": "Analyze ad performance and revenue across different user segments."
-      },
-      {
-        "title": "Ad Engagement",
-        "description": "Measure user interaction and engagement with in-app advertisements."
-      }
-    ]
-  },
-  "bullets_for_reasons": {
-    "title": "Why Analyze ironSource?",
-    "bullets": [
-      {
-        "title": "Optimized Monetization",
-        "description": "Maximize app revenue by fine-tuning ad strategies based on data-driven insights."
-      },
-      {
-        "title": "Enhanced User Engagement",
-        "description": "Drive user interaction and engagement through effective in-app ad placements."
-      },
-      {
-        "title": "Improved Ad Performance",
-        "description": "Optimize ad revenue and performance by analyzing key metrics and making informed adjustments."
-      },
-      {
-        "title": "Data-Driven Decision Making",
-        "description": "Make strategic decisions backed by real-time data and performance analytics."
-      },
-      {
-        "title": "Monetization Strategy Refinement",
-        "description": "Refine your app's monetization strategy based on continuous insights and ad performance trends."
-      },
-      {
-        "title": "Enhanced User Experience",
-        "description": "Deliver relevant and engaging ads to users, enhancing their overall app experience."
-      },
-      {
-        "title": "Competitive Advantage",
-        "description": "Stay ahead of the competition by leveraging data-driven ad monetization strategies."
-      },
-      {
-        "title": "Monetization Insights",
-        "description": "Gain deep insights into ad revenue patterns and user behavior for informed monetization."
-      },
-      {
-        "title": "Ad Placement Optimization",
-        "description": "Optimize the placement and delivery of in-app ads for maximum impact."
-      },
-      {
-        "title": "Continuous Performance Improvement",
-        "description": "Drive ongoing improvement of ad performance through iterative data analysis and adjustments."
-      }
-    ]
-  },
-  "name": "ironSource"
-},
-"Jira Align": {
-  "overview": {
-    "description": "Elevate Your Agile Project Management with Jira Align Integration. Seamlessly connect Jira Align with your project management tools to streamline workflows, enhance collaboration, and optimize project delivery."
-  },
-  "body": {
-    "description": "Enhance Your Project Management with Jira Align Integration. Unlock the power of agile methodologies and collaborative project management by seamlessly integrating Jira Align with your existing tools."
-  },
-  "schema_name": "atlassian_jira_align",
-  "bullets_for_metrics": {
-    "title": "What are the Most Popular Metrics in Jira Align to Analyze?",
-    "bullets": [
-      {
-        "title": "Cycle Time",
-        "description": "Analyze the time it takes for work items to move from start to completion."
-      },
-      {
-        "title": "Lead Time",
-        "description": "Measure the time from when a work item is requested to when it's delivered."
-      },
-      {
-        "title": "Velocity",
-        "description": "Track the rate at which work is completed during a sprint or iteration."
-      },
-      {
-        "title": "Release Burndown",
-        "description": "Visualize the progress of work items towards a release or milestone completion."
-      },
-      {
-        "title": "Sprint Burndown",
-        "description": "Monitor the progress of work items within a sprint or iteration."
-      },
-      {
-        "title": "Epic and Feature Progress",
-        "description": "Track the advancement of epics and features through various stages of development."
-      },
-      {
-        "title": "Backlog Health",
-        "description": "Assess the overall health and readiness of your backlog for upcoming work."
-      },
-      {
-        "title": "Team Efficiency",
-        "description": "Analyze team capacity, utilization, and efficiency for optimized resource allocation."
-      },
-      {
-        "title": "Defect Rate",
-        "description": "Measure the number of defects identified and resolved during development."
-      },
-      {
-        "title": "Flow Efficiency",
-        "description": "Evaluate the efficiency of work item flow through different stages of development."
-      }
-    ]
-  },
-  "bullets_for_reasons": {
-    "title": "Why Analyze Jira Align?",
-    "bullets": [
-      {
-        "title": "Optimized Project Delivery",
-        "description": "Enhance project delivery by gaining insights into cycle time, lead time, and velocity for continuous improvement."
-      },
-      {
-        "title": "Data-Driven Decision Making",
-        "description": "Make informed decisions based on real-time metrics and performance analytics."
-      },
-      {
-        "title": "Improved Team Collaboration",
-        "description": "Promote collaboration and alignment across teams for synchronized project execution."
-      },
-      {
-        "title": "Efficient Resource Allocation",
-        "description": "Allocate resources effectively by analyzing team efficiency and backlog health."
-      },
-      {
-        "title": "Agile Process Enhancement",
-        "description": "Refine agile practices and methodologies using actionable insights from Jira Align data."
-      },
-      {
-        "title": "Transparent Progress Tracking",
-        "description": "Keep stakeholders informed with clear visualizations of sprint and release progress."
-      },
-      {
-        "title": "Strategic Planning",
-        "description": "Support strategic planning and decision-making by analyzing epic and feature progress."
-      },
-      {
-        "title": "Continuous Improvement",
-        "description": "Drive ongoing process improvement by identifying bottlenecks and areas for optimization."
-      },
-      {
-        "title": "Defect Prevention",
-        "description": "Identify and address defects early in the development process to improve overall product quality."
-      },
-      {
-        "title": "Holistic View",
-        "description": "Gain a comprehensive view of project health, efficiency, and progress for effective management."
-      }
-    ]
-  },
-  "name": "Jira Align"
-},
   "assembled": {
     "overview": {
       "description": "Elevate your customer service operations with seamless integration of Assembled. Overcome operational challenges and inefficiencies, enabling your teams to provide exceptional support and bridge the gap between vision and execution."
@@ -24315,106 +24315,106 @@
       ]
     }
   },
-"Vonage": {
-  "overview": {
-    "description": "Enhance Your Communication Capabilities with Vonage Integration. Seamlessly connect Vonage with your business systems to enable real-time communication, streamline customer interactions, and enhance user engagement."
+  "Vonage": {
+    "overview": {
+      "description": "Enhance Your Communication Capabilities with Vonage Integration. Seamlessly connect Vonage with your business systems to enable real-time communication, streamline customer interactions, and enhance user engagement."
+    },
+    "body": {
+      "description": "Elevate Your Communication Strategy with Vonage Integration. Unlock the power of seamless communication and personalized interactions by integrating Vonage with your existing platforms."
+    },
+    "schema_name": "vonage",
+    "bullets_for_metrics": {
+      "title": "What are the Most Popular Metrics in Vonage to Analyze?",
+      "bullets": [
+        {
+          "title": "Call Volume",
+          "description": "Analyze the volume of incoming and outgoing calls to measure communication activity."
+        },
+        {
+          "title": "Call Duration",
+          "description": "Track the duration of calls to assess engagement levels and communication effectiveness."
+        },
+        {
+          "title": "Response Time",
+          "description": "Measure the time taken to respond to customer inquiries or communication requests."
+        },
+        {
+          "title": "Conversion Rate",
+          "description": "Evaluate the percentage of communication interactions that result in desired outcomes."
+        },
+        {
+          "title": "User Engagement",
+          "description": "Analyze user interactions with communication channels for insights into engagement patterns."
+        },
+        {
+          "title": "Call Quality",
+          "description": "Assess call quality and audio performance to ensure seamless communication experiences."
+        },
+        {
+          "title": "Customer Satisfaction",
+          "description": "Gather feedback and ratings to gauge customer satisfaction with communication interactions."
+        },
+        {
+          "title": "Channel Performance",
+          "description": "Track the performance of different communication channels and identify trends."
+        },
+        {
+          "title": "Geographic Reach",
+          "description": "Assess the geographical distribution of communication interactions for targeted strategies."
+        },
+        {
+          "title": "Usage Patterns",
+          "description": "Analyze usage patterns to optimize communication strategies and resource allocation."
+        }
+      ]
+    },
+    "bullets_for_reasons": {
+      "title": "Why Analyze Vonage?",
+      "bullets": [
+        {
+          "title": "Enhanced Customer Engagement",
+          "description": "Improve customer interactions and engagement through personalized and timely communication."
+        },
+        {
+          "title": "Data-Driven Decision Making",
+          "description": "Make informed decisions based on real-time communication metrics and insights."
+        },
+        {
+          "title": "Improved Response Times",
+          "description": "Optimize response times and communication effectiveness for better customer experiences."
+        },
+        {
+          "title": "Higher Conversion Rates",
+          "description": "Increase conversion rates by analyzing and optimizing communication strategies."
+        },
+        {
+          "title": "User-Centric Experiences",
+          "description": "Deliver user-centric experiences by understanding engagement patterns and preferences."
+        },
+        {
+          "title": "Quality Assurance",
+          "description": "Ensure high call quality and audio performance to maintain communication excellence."
+        },
+        {
+          "title": "Customer Feedback",
+          "description": "Collect and analyze feedback to enhance customer satisfaction and loyalty."
+        },
+        {
+          "title": "Multi-Channel Insights",
+          "description": "Gain insights into the performance of various communication channels for effective channel management."
+        },
+        {
+          "title": "Targeted Strategies",
+          "description": "Tailor communication strategies based on geographic reach and usage patterns."
+        },
+        {
+          "title": "Optimized Resource Allocation",
+          "description": "Allocate resources effectively based on communication patterns and demands."
+        }
+      ]
+    },
+    "name": "Vonage"
   },
-  "body": {
-    "description": "Elevate Your Communication Strategy with Vonage Integration. Unlock the power of seamless communication and personalized interactions by integrating Vonage with your existing platforms."
-  },
-  "schema_name": "vonage",
-  "bullets_for_metrics": {
-    "title": "What are the Most Popular Metrics in Vonage to Analyze?",
-    "bullets": [
-      {
-        "title": "Call Volume",
-        "description": "Analyze the volume of incoming and outgoing calls to measure communication activity."
-      },
-      {
-        "title": "Call Duration",
-        "description": "Track the duration of calls to assess engagement levels and communication effectiveness."
-      },
-      {
-        "title": "Response Time",
-        "description": "Measure the time taken to respond to customer inquiries or communication requests."
-      },
-      {
-        "title": "Conversion Rate",
-        "description": "Evaluate the percentage of communication interactions that result in desired outcomes."
-      },
-      {
-        "title": "User Engagement",
-        "description": "Analyze user interactions with communication channels for insights into engagement patterns."
-      },
-      {
-        "title": "Call Quality",
-        "description": "Assess call quality and audio performance to ensure seamless communication experiences."
-      },
-      {
-        "title": "Customer Satisfaction",
-        "description": "Gather feedback and ratings to gauge customer satisfaction with communication interactions."
-      },
-      {
-        "title": "Channel Performance",
-        "description": "Track the performance of different communication channels and identify trends."
-      },
-      {
-        "title": "Geographic Reach",
-        "description": "Assess the geographical distribution of communication interactions for targeted strategies."
-      },
-      {
-        "title": "Usage Patterns",
-        "description": "Analyze usage patterns to optimize communication strategies and resource allocation."
-      }
-    ]
-  },
-  "bullets_for_reasons": {
-    "title": "Why Analyze Vonage?",
-    "bullets": [
-      {
-        "title": "Enhanced Customer Engagement",
-        "description": "Improve customer interactions and engagement through personalized and timely communication."
-      },
-      {
-        "title": "Data-Driven Decision Making",
-        "description": "Make informed decisions based on real-time communication metrics and insights."
-      },
-      {
-        "title": "Improved Response Times",
-        "description": "Optimize response times and communication effectiveness for better customer experiences."
-      },
-      {
-        "title": "Higher Conversion Rates",
-        "description": "Increase conversion rates by analyzing and optimizing communication strategies."
-      },
-      {
-        "title": "User-Centric Experiences",
-        "description": "Deliver user-centric experiences by understanding engagement patterns and preferences."
-      },
-      {
-        "title": "Quality Assurance",
-        "description": "Ensure high call quality and audio performance to maintain communication excellence."
-      },
-      {
-        "title": "Customer Feedback",
-        "description": "Collect and analyze feedback to enhance customer satisfaction and loyalty."
-      },
-      {
-        "title": "Multi-Channel Insights",
-        "description": "Gain insights into the performance of various communication channels for effective channel management."
-      },
-      {
-        "title": "Targeted Strategies",
-        "description": "Tailor communication strategies based on geographic reach and usage patterns."
-      },
-      {
-        "title": "Optimized Resource Allocation",
-        "description": "Allocate resources effectively based on communication patterns and demands."
-      }
-    ]
-  },
-  "name": "Vonage"
-},
   "WordPress": {
     "overview": {
       "description": "Leverage WordPress integration to optimize your website for marketing campaigns. Seamlessly integrate data for enhanced insights, informed decisions, and improved website performance."
@@ -24915,106 +24915,106 @@
     },
     "name": "Yotpo"
   },
-"Zingtree": {
-  "overview": {
-    "description": "Elevate Decision-Making with Zingtree Integration. Seamlessly integrate interactive decision trees to enhance customer support, streamline processes, and drive data-driven actions."
+  "Zingtree": {
+    "overview": {
+      "description": "Elevate Decision-Making with Zingtree Integration. Seamlessly integrate interactive decision trees to enhance customer support, streamline processes, and drive data-driven actions."
+    },
+    "body": {
+      "description": "Enhance Decision-Making with Zingtree Integration. Empower your organization with interactive decision trees to optimize workflows, improve user guidance, and achieve efficient outcomes."
+    },
+    "schema_name": "zingtree",
+    "bullets_for_metrics": {
+      "title": "What are the Most Popular Metrics in Zingtree to Analyze?",
+      "bullets": [
+        {
+          "title": "User Interaction",
+          "description": "Analyze user engagement and interactions within the decision tree."
+        },
+        {
+          "title": "Path Analysis",
+          "description": "Evaluate the most common paths taken by users through the decision tree."
+        },
+        {
+          "title": "Completion Rates",
+          "description": "Measure the percentage of users who complete the decision tree process."
+        },
+        {
+          "title": "Drop-Off Points",
+          "description": "Identify specific steps where users tend to exit the decision tree."
+        },
+        {
+          "title": "Time-to-Completion",
+          "description": "Assess the average time users take to navigate and complete the decision tree."
+        },
+        {
+          "title": "User Segmentation",
+          "description": "Segment users based on their interactions to tailor experiences."
+        },
+        {
+          "title": "Content Engagement",
+          "description": "Analyze user engagement with different decision tree content elements."
+        },
+        {
+          "title": "Conversion Rates",
+          "description": "Measure the percentage of users who convert to desired outcomes."
+        },
+        {
+          "title": "Feedback Collection",
+          "description": "Collect user feedback to improve decision tree effectiveness."
+        },
+        {
+          "title": "Error Tracking",
+          "description": "Identify errors or issues encountered by users during the decision tree process."
+        }
+      ]
+    },
+    "bullets_for_reasons": {
+      "title": "Why Analyze Zingtree Data?",
+      "bullets": [
+        {
+          "title": "Enhanced User Experience",
+          "description": "Provide a seamless and guided user experience through interactive decision trees."
+        },
+        {
+          "title": "Process Optimization",
+          "description": "Streamline workflows and processes by directing users through efficient paths."
+        },
+        {
+          "title": "Improved Support",
+          "description": "Enhance customer support by providing accurate and relevant information."
+        },
+        {
+          "title": "Data-Driven Insights",
+          "description": "Gain actionable insights into user behavior and decision-making processes."
+        },
+        {
+          "title": "Higher Conversions",
+          "description": "Increase conversion rates by guiding users towards desired outcomes."
+        },
+        {
+          "title": "User Empowerment",
+          "description": "Empower users to make informed decisions with interactive guidance."
+        },
+        {
+          "title": "Error Mitigation",
+          "description": "Identify and address errors in decision trees to improve user satisfaction."
+        },
+        {
+          "title": "Personalized Experiences",
+          "description": "Tailor experiences based on user interactions and preferences."
+        },
+        {
+          "title": "Continuous Optimization",
+          "description": "Optimize decision trees based on data-driven insights for ongoing improvements."
+        },
+        {
+          "title": "Efficient Decision-Making",
+          "description": "Facilitate quicker and more informed decision-making processes."
+        }
+      ]
+    },
+    "name": "Zingtree"
   },
-  "body": {
-    "description": "Enhance Decision-Making with Zingtree Integration. Empower your organization with interactive decision trees to optimize workflows, improve user guidance, and achieve efficient outcomes."
-  },
-  "schema_name": "zingtree",
-  "bullets_for_metrics": {
-    "title": "What are the Most Popular Metrics in Zingtree to Analyze?",
-    "bullets": [
-      {
-        "title": "User Interaction",
-        "description": "Analyze user engagement and interactions within the decision tree."
-      },
-      {
-        "title": "Path Analysis",
-        "description": "Evaluate the most common paths taken by users through the decision tree."
-      },
-      {
-        "title": "Completion Rates",
-        "description": "Measure the percentage of users who complete the decision tree process."
-      },
-      {
-        "title": "Drop-Off Points",
-        "description": "Identify specific steps where users tend to exit the decision tree."
-      },
-      {
-        "title": "Time-to-Completion",
-        "description": "Assess the average time users take to navigate and complete the decision tree."
-      },
-      {
-        "title": "User Segmentation",
-        "description": "Segment users based on their interactions to tailor experiences."
-      },
-      {
-        "title": "Content Engagement",
-        "description": "Analyze user engagement with different decision tree content elements."
-      },
-      {
-        "title": "Conversion Rates",
-        "description": "Measure the percentage of users who convert to desired outcomes."
-      },
-      {
-        "title": "Feedback Collection",
-        "description": "Collect user feedback to improve decision tree effectiveness."
-      },
-      {
-        "title": "Error Tracking",
-        "description": "Identify errors or issues encountered by users during the decision tree process."
-      }
-    ]
-  },
-  "bullets_for_reasons": {
-    "title": "Why Analyze Zingtree Data?",
-    "bullets": [
-      {
-        "title": "Enhanced User Experience",
-        "description": "Provide a seamless and guided user experience through interactive decision trees."
-      },
-      {
-        "title": "Process Optimization",
-        "description": "Streamline workflows and processes by directing users through efficient paths."
-      },
-      {
-        "title": "Improved Support",
-        "description": "Enhance customer support by providing accurate and relevant information."
-      },
-      {
-        "title": "Data-Driven Insights",
-        "description": "Gain actionable insights into user behavior and decision-making processes."
-      },
-      {
-        "title": "Higher Conversions",
-        "description": "Increase conversion rates by guiding users towards desired outcomes."
-      },
-      {
-        "title": "User Empowerment",
-        "description": "Empower users to make informed decisions with interactive guidance."
-      },
-      {
-        "title": "Error Mitigation",
-        "description": "Identify and address errors in decision trees to improve user satisfaction."
-      },
-      {
-        "title": "Personalized Experiences",
-        "description": "Tailor experiences based on user interactions and preferences."
-      },
-      {
-        "title": "Continuous Optimization",
-        "description": "Optimize decision trees based on data-driven insights for ongoing improvements."
-      },
-      {
-        "title": "Efficient Decision-Making",
-        "description": "Facilitate quicker and more informed decision-making processes."
-      }
-    ]
-  },
-  "name": "Zingtree"
-},
   "Apache Kafka": {
     "overview": {
       "description": "Leverage Apache Kafka integration to optimize your data streaming. Seamlessly integrate data for enhanced insights, informed decisions, and improved performance."
@@ -25675,104 +25675,1344 @@
     },
     "name": "Typeform"
   },
-"Web Scraper": {
-  "overview": {
-    "description": "Unleash the Power of Web Scraper Integration. Seamlessly gather and extract data from websites for analysis, insights, and informed decision-making."
+  "Web Scraper": {
+    "overview": {
+      "description": "Unleash the Power of Web Scraper Integration. Seamlessly gather and extract data from websites for analysis, insights, and informed decision-making."
+    },
+    "body": {
+      "description": "Harness the Potential of Web Scraper Integration. Empower your data collection and analysis efforts by seamlessly integrating web scraping capabilities into your workflow."
+    },
+    "schema_name": "web_scraper",
+    "bullets_for_metrics": {
+      "title": "What are the Most Popular Metrics in Web Scraper to Analyze?",
+      "bullets": [
+        {
+          "title": "Data Volume",
+          "description": "Analyze the volume of data collected through web scraping for insights into information availability."
+        },
+        {
+          "title": "Website Changes",
+          "description": "Monitor and track changes on target websites to stay updated with relevant content."
+        },
+        {
+          "title": "Extraction Accuracy",
+          "description": "Evaluate the accuracy and quality of data extracted from websites."
+        },
+        {
+          "title": "Scraping Speed",
+          "description": "Assess the speed and efficiency of web scraping processes for optimal data retrieval."
+        },
+        {
+          "title": "Content Trends",
+          "description": "Analyze content trends and patterns across multiple websites for market intelligence."
+        },
+        {
+          "title": "Data Enrichment",
+          "description": "Enrich collected data with additional information for comprehensive insights."
+        },
+        {
+          "title": "Error Analysis",
+          "description": "Identify and analyze errors encountered during the web scraping process."
+        },
+        {
+          "title": "Website Performance",
+          "description": "Assess website performance and response times to optimize scraping strategies."
+        },
+        {
+          "title": "Data Granularity",
+          "description": "Evaluate the level of detail and granularity of scraped data."
+        },
+        {
+          "title": "Data Source Diversity",
+          "description": "Analyze data collected from various sources to support diverse insights."
+        }
+      ]
+    },
+    "bullets_for_reasons": {
+      "title": "Why Analyze Web Scraper Data?",
+      "bullets": [
+        {
+          "title": "Actionable Insights",
+          "description": "Extract valuable insights from website data for informed decision-making."
+        },
+        {
+          "title": "Competitive Advantage",
+          "description": "Gain a competitive edge by staying updated with real-time website changes and trends."
+        },
+        {
+          "title": "Enhanced Data Accuracy",
+          "description": "Improve data accuracy and quality through web scraping and extraction processes."
+        },
+        {
+          "title": "Time and Effort Savings",
+          "description": "Save time and effort by automating data collection from multiple websites."
+        },
+        {
+          "title": "Market Intelligence",
+          "description": "Obtain market intelligence through content trend analysis and data enrichment."
+        },
+        {
+          "title": "Error Mitigation",
+          "description": "Identify and address errors in web scraping processes to ensure data reliability."
+        },
+        {
+          "title": "Optimized Website Interaction",
+          "description": "Enhance website interaction strategies based on performance insights."
+        },
+        {
+          "title": "In-depth Analysis",
+          "description": "Conduct in-depth analysis by collecting granular and diverse data from various sources."
+        },
+        {
+          "title": "Data-Driven Strategy",
+          "description": "Develop data-driven strategies based on comprehensive website data insights."
+        },
+        {
+          "title": "Data-Enriched Decisions",
+          "description": "Make well-informed decisions with enriched data from web scraping processes."
+        }
+      ]
+    },
+    "name": "Web Scraper"
   },
-  "body": {
-    "description": "Harness the Potential of Web Scraper Integration. Empower your data collection and analysis efforts by seamlessly integrating web scraping capabilities into your workflow."
+  "Azure DevOps": {
+    "overview": {
+      "description": "Enhance Collaboration and Development with Azure DevOps Integration. Seamlessly connect development, deployment, and monitoring processes for efficient software lifecycle management."
+    },
+    "body": {
+      "description": "Empower Collaboration and Development with Azure DevOps Integration. Streamline software development, automate workflows, and achieve seamless deployment and monitoring."
+    },
+    "schema_name": "azure_devops",
+    "bullets_for_metrics": {
+      "title": "What are the Most Popular Metrics in Azure DevOps to Analyze?",
+      "bullets": [
+        {
+          "title": "Cycle Time",
+          "description": "Measure the time taken for a work item to transition from start to completion."
+        },
+        {
+          "title": "Lead Time",
+          "description": "Assess the time taken from the creation of a work item to its deployment."
+        },
+        {
+          "title": "Deployment Frequency",
+          "description": "Evaluate how frequently deployments occur within your development pipeline."
+        },
+        {
+          "title": "Change Failure Rate",
+          "description": "Measure the percentage of deployments that result in failures."
+        },
+        {
+          "title": "Release Burndown",
+          "description": "Track the progress of releases and identify potential delays."
+        },
+        {
+          "title": "Code Churn",
+          "description": "Analyze the rate of code changes and its impact on development velocity."
+        },
+        {
+          "title": "Backlog Health",
+          "description": "Assess the health and status of your work item backlog."
+        },
+        {
+          "title": "Bug Resolution Time",
+          "description": "Measure the time taken to resolve reported bugs or issues."
+        },
+        {
+          "title": "Test Coverage",
+          "description": "Evaluate the extent to which your codebase is covered by automated tests."
+        },
+        {
+          "title": "Code Review Efficiency",
+          "description": "Assess the efficiency and effectiveness of code review processes."
+        }
+      ]
+    },
+    "bullets_for_reasons": {
+      "title": "Why Analyze Azure DevOps?",
+      "bullets": [
+        {
+          "title": "Streamlined Development",
+          "description": "Accelerate software development with seamless integration of tools and processes."
+        },
+        {
+          "title": "Efficient Workflows",
+          "description": "Automate and optimize development workflows for increased productivity."
+        },
+        {
+          "title": "Continuous Improvement",
+          "description": "Identify areas for improvement and optimize development practices."
+        },
+        {
+          "title": "Data-Driven Insights",
+          "description": "Gain actionable insights into development processes and performance."
+        },
+        {
+          "title": "Enhanced Collaboration",
+          "description": "Facilitate cross-functional collaboration among development teams."
+        },
+        {
+          "title": "Faster Time to Deployment",
+          "description": "Reduce deployment time and achieve quicker time-to-market."
+        },
+        {
+          "title": "Quality Assurance",
+          "description": "Ensure code quality and reliability through comprehensive testing."
+        },
+        {
+          "title": "Issue Resolution",
+          "description": "Identify and address issues promptly for efficient development cycles."
+        },
+        {
+          "title": "Transparent Development",
+          "description": "Provide stakeholders with transparency into development progress and outcomes."
+        },
+        {
+          "title": "Strategic Decision-Making",
+          "description": "Make informed decisions based on data-driven development insights."
+        }
+      ]
+    },
+    "name": "Azure DevOps"
   },
-  "schema_name": "web_scraper",
-  "bullets_for_metrics": {
-    "title": "What are the Most Popular Metrics in Web Scraper to Analyze?",
-    "bullets": [
-      {
-        "title": "Data Volume",
-        "description": "Analyze the volume of data collected through web scraping for insights into information availability."
-      },
-      {
-        "title": "Website Changes",
-        "description": "Monitor and track changes on target websites to stay updated with relevant content."
-      },
-      {
-        "title": "Extraction Accuracy",
-        "description": "Evaluate the accuracy and quality of data extracted from websites."
-      },
-      {
-        "title": "Scraping Speed",
-        "description": "Assess the speed and efficiency of web scraping processes for optimal data retrieval."
-      },
-      {
-        "title": "Content Trends",
-        "description": "Analyze content trends and patterns across multiple websites for market intelligence."
-      },
-      {
-        "title": "Data Enrichment",
-        "description": "Enrich collected data with additional information for comprehensive insights."
-      },
-      {
-        "title": "Error Analysis",
-        "description": "Identify and analyze errors encountered during the web scraping process."
-      },
-      {
-        "title": "Website Performance",
-        "description": "Assess website performance and response times to optimize scraping strategies."
-      },
-      {
-        "title": "Data Granularity",
-        "description": "Evaluate the level of detail and granularity of scraped data."
-      },
-      {
-        "title": "Data Source Diversity",
-        "description": "Analyze data collected from various sources to support diverse insights."
-      }
-    ]
+  "Customer.io": {
+    "overview": {
+      "description": "Enhance Customer Engagement with Customer.io Integration. Seamlessly integrate customer communication data for personalized interactions, targeted campaigns, and improved user experiences."
+    },
+    "body": {
+      "description": "Elevate Customer Engagement with Customer.io Integration. Unlock the power of personalized communication, data-driven campaigns, and enhanced user experiences."
+    },
+    "schema_name": "customerio",
+    "bullets_for_metrics": {
+      "title": "What are the Most Popular Metrics in Customer.io to Analyze?",
+      "bullets": [
+        {
+          "title": "Open Rate",
+          "description": "Measure the percentage of recipients who open your email communications."
+        },
+        {
+          "title": "Click-Through Rate (CTR)",
+          "description": "Evaluate the percentage of recipients who click on links within your emails."
+        },
+        {
+          "title": "Conversion Rate",
+          "description": "Assess the percentage of recipients who take a desired action after receiving an email."
+        },
+        {
+          "title": "Churn Rate",
+          "description": "Track the rate at which customers disengage or unsubscribe from your communications."
+        },
+        {
+          "title": "Bounce Rate",
+          "description": "Measure the percentage of emails that are undeliverable to recipients."
+        },
+        {
+          "title": "Segment Performance",
+          "description": "Analyze the effectiveness of targeted segments and audience groups."
+        },
+        {
+          "title": "Engagement Frequency",
+          "description": "Evaluate how often customers engage with your email communications."
+        },
+        {
+          "title": "A/B Test Results",
+          "description": "Assess the performance of A/B tests for email subject lines, content, and more."
+        },
+        {
+          "title": "Time-to-Conversion",
+          "description": "Measure the time it takes for a recipient to take a desired action after receiving an email."
+        },
+        {
+          "title": "Revenue Impact",
+          "description": "Track the revenue generated from email campaigns and communications."
+        }
+      ]
+    },
+    "bullets_for_reasons": {
+      "title": "Why Analyze Customer.io Data?",
+      "bullets": [
+        {
+          "title": "Personalized Communications",
+          "description": "Deliver tailored messages and content that resonate with individual customers."
+        },
+        {
+          "title": "Targeted Campaigns",
+          "description": "Create data-driven campaigns that reach the right audience at the right time."
+        },
+        {
+          "title": "Improved Engagement",
+          "description": "Boost customer engagement and interactions with relevant and timely communications."
+        },
+        {
+          "title": "Enhanced User Experience",
+          "description": "Provide seamless and enjoyable experiences through personalized communication journeys."
+        },
+        {
+          "title": "Data-Driven Insights",
+          "description": "Gain valuable insights into customer behaviors and preferences for optimization."
+        },
+        {
+          "title": "Churn Prevention",
+          "description": "Identify and address customer disengagement to reduce churn rates."
+        },
+        {
+          "title": "Increased Conversions",
+          "description": "Drive higher conversion rates through effective email communication strategies."
+        },
+        {
+          "title": "Revenue Growth",
+          "description": "Maximize revenue potential through targeted email campaigns and engagement."
+        },
+        {
+          "title": "Customer Retention",
+          "description": "Retain customers by delivering compelling and valuable email communications."
+        },
+        {
+          "title": "Strategic Marketing",
+          "description": "Make informed marketing decisions based on data-backed insights and analytics."
+        }
+      ]
+    },
+    "name": "Customer.io"
   },
-  "bullets_for_reasons": {
-    "title": "Why Analyze Web Scraper Data?",
-    "bullets": [
-      {
-        "title": "Actionable Insights",
-        "description": "Extract valuable insights from website data for informed decision-making."
-      },
-      {
-        "title": "Competitive Advantage",
-        "description": "Gain a competitive edge by staying updated with real-time website changes and trends."
-      },
-      {
-        "title": "Enhanced Data Accuracy",
-        "description": "Improve data accuracy and quality through web scraping and extraction processes."
-      },
-      {
-        "title": "Time and Effort Savings",
-        "description": "Save time and effort by automating data collection from multiple websites."
-      },
-      {
-        "title": "Market Intelligence",
-        "description": "Obtain market intelligence through content trend analysis and data enrichment."
-      },
-      {
-        "title": "Error Mitigation",
-        "description": "Identify and address errors in web scraping processes to ensure data reliability."
-      },
-      {
-        "title": "Optimized Website Interaction",
-        "description": "Enhance website interaction strategies based on performance insights."
-      },
-      {
-        "title": "In-depth Analysis",
-        "description": "Conduct in-depth analysis by collecting granular and diverse data from various sources."
-      },
-      {
-        "title": "Data-Driven Strategy",
-        "description": "Develop data-driven strategies based on comprehensive website data insights."
-      },
-      {
-        "title": "Data-Enriched Decisions",
-        "description": "Make well-informed decisions with enriched data from web scraping processes."
-      }
-    ]
+  "DEAR": {
+    "overview": {
+      "description": "Streamline Operations with DEAR Integration. Seamlessly integrate inventory and order data for efficient supply chain management, optimized processes, and enhanced business performance."
+    },
+    "body": {
+      "description": "Optimize Operations with DEAR Integration. Unlock the power of streamlined inventory management, data-driven order processing, and improved overall business efficiency."
+    },
+    "schema_name": "dear",
+    "bullets_for_metrics": {
+      "title": "What are the Most Popular Metrics in DEAR to Analyze?",
+      "bullets": [
+        {
+          "title": "Inventory Turnover Ratio",
+          "description": "Measure how many times your inventory is sold and replaced within a given period."
+        },
+        {
+          "title": "Order Fulfillment Cycle Time",
+          "description": "Evaluate the time it takes to process an order from receipt to delivery."
+        },
+        {
+          "title": "Backorder Rate",
+          "description": "Track the percentage of customer orders that cannot be fulfilled immediately due to lack of inventory."
+        },
+        {
+          "title": "Stockout Rate",
+          "description": "Measure the frequency of running out of stock for specific items."
+        },
+        {
+          "title": "Lead Time",
+          "description": "Assess the time between placing an order and receiving the inventory."
+        },
+        {
+          "title": "Order Accuracy",
+          "description": "Evaluate the percentage of orders that are processed and delivered accurately."
+        },
+        {
+          "title": "Gross Profit Margin",
+          "description": "Calculate the percentage of profit generated from sales after deducting the cost of goods sold."
+        },
+        {
+          "title": "Inventory Value",
+          "description": "Track the total value of your inventory, including raw materials and finished products."
+        },
+        {
+          "title": "Supplier Performance",
+          "description": "Analyze the reliability and efficiency of your suppliers in delivering inventory."
+        },
+        {
+          "title": "Sales by Product",
+          "description": "Measure the revenue generated by each product or category within your inventory."
+        }
+      ]
+    },
+    "bullets_for_reasons": {
+      "title": "Why Analyze DEAR Data?",
+      "bullets": [
+        {
+          "title": "Efficient Supply Chain",
+          "description": "Optimize your supply chain management for streamlined inventory processes."
+        },
+        {
+          "title": "Effective Order Processing",
+          "description": "Improve order fulfillment and cycle times through data-driven insights."
+        },
+        {
+          "title": "Inventory Optimization",
+          "description": "Reduce stockouts, backorders, and excess inventory with informed decision-making."
+        },
+        {
+          "title": "Improved Customer Satisfaction",
+          "description": "Enhance customer experience by delivering accurate and timely orders."
+        },
+        {
+          "title": "Profitability Enhancement",
+          "description": "Maximize profits through better inventory turnover and gross profit margins."
+        },
+        {
+          "title": "Supplier Relationship Management",
+          "description": "Build stronger supplier partnerships based on performance analysis."
+        },
+        {
+          "title": "Strategic Decision-making",
+          "description": "Make data-backed decisions for inventory management and business growth."
+        },
+        {
+          "title": "Financial Insights",
+          "description": "Gain visibility into inventory value and its impact on your financial health."
+        },
+        {
+          "title": "Operational Excellence",
+          "description": "Achieve operational efficiency and cost savings through optimized processes."
+        },
+        {
+          "title": "Business Scalability",
+          "description": "Lay the foundation for scaling your business with streamlined operations."
+        }
+      ]
+    },
+    "name": "DEAR"
   },
-  "name": "Web Scraper"
-}
+  "Destini": {
+    "overview": {
+      "description": "Unlock Advanced Insights with Destini Integration. Seamlessly integrate your data with Destini to reveal actionable insights, drive data-informed decisions, and optimize your business strategies."
+    },
+    "body": {
+      "description": "Elevate Your Business with Destini Integration. Harness the power of integrated data to enhance decision-making, fuel growth, and achieve better business outcomes."
+    },
+    "schema_name": "destini",
+    "bullets_for_metrics": {
+      "title": "What are the Most Popular Metrics in Destini to Analyze?",
+      "bullets": [
+        {
+          "title": "Sales Performance",
+          "description": "Analyze sales data to measure revenue, growth, and product performance."
+        },
+        {
+          "title": "Customer Segmentation",
+          "description": "Segment customers based on demographics, behavior, and purchasing patterns."
+        },
+        {
+          "title": "Churn Rate",
+          "description": "Measure the percentage of customers who stop using your product or service."
+        },
+        {
+          "title": "Customer Lifetime Value (CLTV)",
+          "description": "Determine the predicted net profit attributed to the entire future relationship with a customer."
+        },
+        {
+          "title": "Marketing ROI",
+          "description": "Evaluate the return on investment for your marketing campaigns and activities."
+        },
+        {
+          "title": "Inventory Turnover",
+          "description": "Calculate how many times your inventory is sold and replaced over a period."
+        },
+        {
+          "title": "Profit Margin",
+          "description": "Assess the percentage of revenue that becomes profit after expenses."
+        },
+        {
+          "title": "Website Traffic",
+          "description": "Track the number of visitors and interactions on your website."
+        },
+        {
+          "title": "Conversion Rate",
+          "description": "Measure the percentage of website visitors who take a desired action."
+        },
+        {
+          "title": "Customer Satisfaction (CSAT)",
+          "description": "Gauge customer satisfaction levels through surveys and feedback."
+        }
+      ]
+    },
+    "bullets_for_reasons": {
+      "title": "Why Analyze Destini Data?",
+      "bullets": [
+        {
+          "title": "Actionable Insights",
+          "description": "Uncover insights that drive informed actions and strategic decisions."
+        },
+        {
+          "title": "Data-Informed Decisions",
+          "description": "Make decisions based on real-time, integrated data for better outcomes."
+        },
+        {
+          "title": "Optimized Strategies",
+          "description": "Enhance business strategies with data-driven optimizations and improvements."
+        },
+        {
+          "title": "Competitive Advantage",
+          "description": "Stay ahead of the competition by leveraging data for smarter moves."
+        },
+        {
+          "title": "Growth Opportunities",
+          "description": "Identify and capitalize on growth opportunities through data analysis."
+        },
+        {
+          "title": "Enhanced Customer Experience",
+          "description": "Deliver better experiences by understanding and meeting customer needs."
+        },
+        {
+          "title": "Resource Allocation",
+          "description": "Allocate resources efficiently based on data-driven insights."
+        },
+        {
+          "title": "Proactive Issue Resolution",
+          "description": "Identify and address issues before they impact your business."
+        },
+        {
+          "title": "Measurable Impact",
+          "description": "Quantify the impact of your strategies and initiatives with data."
+        },
+        {
+          "title": "Business Transformation",
+          "description": "Drive transformation by aligning decisions with integrated data."
+        }
+      ]
+    },
+    "name": "Destini"
+  },
+  "Docebo": {
+    "overview": {
+      "description": "Enhance Learning with Docebo Integration. Seamlessly integrate your training and learning data with Docebo to unlock insights, improve training effectiveness, and drive performance."
+    },
+    "body": {
+      "description": "Empower Your Learning Initiatives with Docebo Integration. Leverage the power of integrated data to deliver impactful training and foster continuous learning."
+    },
+    "schema_name": "docebo",
+    "bullets_for_metrics": {
+      "title": "What are the Most Popular Metrics in Docebo to Analyze?",
+      "bullets": [
+        {
+          "title": "Course Completion Rate",
+          "description": "Measure the percentage of learners who successfully complete a course."
+        },
+        {
+          "title": "User Engagement",
+          "description": "Evaluate user interactions, such as logins, time spent, and interactions with course content."
+        },
+        {
+          "title": "Learning Progress",
+          "description": "Track the advancement of learners through different stages of training."
+        },
+        {
+          "title": "Assessment Performance",
+          "description": "Assess learner performance in quizzes, tests, and assessments."
+        },
+        {
+          "title": "Skill Development",
+          "description": "Monitor the acquisition and improvement of specific skills by learners."
+        },
+        {
+          "title": "Learning Paths Effectiveness",
+          "description": "Analyze the effectiveness of learning paths and curriculum structures."
+        },
+        {
+          "title": "Content Utilization",
+          "description": "Understand how learners engage with different types of training content."
+        },
+        {
+          "title": "Retention Rates",
+          "description": "Measure the rate at which learners continue their training over time."
+        },
+        {
+          "title": "Feedback and Surveys",
+          "description": "Gather and analyze feedback and survey responses from learners."
+        },
+        {
+          "title": "Certification Attainment",
+          "description": "Track the attainment of certifications and credentials by learners."
+        }
+      ]
+    },
+    "bullets_for_reasons": {
+      "title": "Why Analyze Docebo Data?",
+      "bullets": [
+        {
+          "title": "Data-Driven Insights",
+          "description": "Leverage data to gain insights that guide training strategies and decisions."
+        },
+        {
+          "title": "Continuous Improvement",
+          "description": "Foster a culture of continuous learning and improvement with data-driven initiatives."
+        },
+        {
+          "title": "Training Effectiveness",
+          "description": "Enhance training programs by identifying effective learning pathways."
+        },
+        {
+          "title": "Employee Performance",
+          "description": "Drive better employee performance and skills development through data-driven training."
+        },
+        {
+          "title": "Personalized Learning",
+          "description": "Tailor learning experiences based on individual learner data and preferences."
+        },
+        {
+          "title": "Efficient Resource Allocation",
+          "description": "Optimize resource allocation for training based on data-driven insights."
+        },
+        {
+          "title": "Employee Engagement",
+          "description": "Increase employee engagement and satisfaction by offering relevant and effective training."
+        },
+        {
+          "title": "Alignment with Goals",
+          "description": "Align training programs with business goals and objectives through data analysis."
+        },
+        {
+          "title": "Measure ROI",
+          "description": "Quantify the return on investment of training initiatives with measurable outcomes."
+        },
+        {
+          "title": "Adaptive Learning",
+          "description": "Implement adaptive learning strategies that evolve based on learner data."
+        }
+      ]
+    },
+    "name": "Docebo"
+  },
+  "Google Calendar": {
+    "overview": {
+      "description": "Enhance Time Management with Google Calendar Integration. Seamlessly integrate your events and schedules with Google Calendar to streamline planning, coordination, and productivity."
+    },
+    "body": {
+      "description": "Optimize Your Scheduling and Time Management with Google Calendar Integration. Unlock the power of synchronized calendars to efficiently manage your time and activities."
+    },
+    "schema_name": "google_calendar",
+    "bullets_for_metrics": {
+      "title": "What are the Most Popular Metrics in Google Calendar to Analyze?",
+      "bullets": [
+        {
+          "title": "Event Attendance",
+          "description": "Track attendance and participation in scheduled events and meetings."
+        },
+        {
+          "title": "Meeting Duration",
+          "description": "Measure the duration of meetings and events for better time management."
+        },
+        {
+          "title": "Scheduling Efficiency",
+          "description": "Assess the efficiency of scheduling processes and identify bottlenecks."
+        },
+        {
+          "title": "Resource Utilization",
+          "description": "Analyze the usage of shared resources such as meeting rooms and equipment."
+        },
+        {
+          "title": "Collaboration Patterns",
+          "description": "Understand how teams and individuals collaborate through event scheduling."
+        },
+        {
+          "title": "Attendance Trends",
+          "description": "Monitor trends in event attendance and identify patterns over time."
+        },
+        {
+          "title": "Meeting Frequency",
+          "description": "Analyze the frequency of meetings and their impact on productivity."
+        },
+        {
+          "title": "Scheduling Accuracy",
+          "description": "Evaluate the accuracy of event scheduling and minimize conflicts."
+        },
+        {
+          "title": "Event Types",
+          "description": "Categorize and analyze different types of events and their purposes."
+        },
+        {
+          "title": "Time Allocation",
+          "description": "Assess how time is allocated to different activities and priorities."
+        }
+      ]
+    },
+    "bullets_for_reasons": {
+      "title": "Why Analyze Google Calendar Data?",
+      "bullets": [
+        {
+          "title": "Efficient Time Management",
+          "description": "Optimize time allocation and ensure effective use of available hours."
+        },
+        {
+          "title": "Productive Scheduling",
+          "description": "Improve productivity by strategically scheduling tasks, meetings, and events."
+        },
+        {
+          "title": "Resource Optimization",
+          "description": "Maximize the use of shared resources and facilities through data analysis."
+        },
+        {
+          "title": "Collaboration Enhancement",
+          "description": "Enhance collaboration and coordination among team members through synchronized calendars."
+        },
+        {
+          "title": "Meeting Effectiveness",
+          "description": "Enhance the quality and impact of meetings through data-driven insights."
+        },
+        {
+          "title": "Time-Related Insights",
+          "description": "Gain insights into how time is utilized, identifying areas for improvement."
+        },
+        {
+          "title": "Adaptive Scheduling",
+          "description": "Implement adaptive scheduling strategies based on data-driven patterns."
+        },
+        {
+          "title": "Optimal Time Slots",
+          "description": "Identify the best time slots for specific types of activities and events."
+        },
+        {
+          "title": "Strategic Planning",
+          "description": "Support strategic planning by aligning activities with business objectives."
+        },
+        {
+          "title": "Balanced Workloads",
+          "description": "Ensure balanced workloads and avoid scheduling overload for individuals and teams."
+        }
+      ]
+    },
+    "name": "Google Calendar"
+  },
+  "HiBob": {
+    "overview": {
+      "description": "Elevate HR Management with HiBob Integration. Seamlessly integrate employee data and HR processes with HiBob to enhance workforce management, streamline HR operations, and drive organizational efficiency."
+    },
+    "body": {
+      "description": "Optimize HR Operations with HiBob Integration. Empower your HR team with comprehensive insights and data-driven decision-making, transforming employee management and engagement."
+    },
+    "schema_name": "hibob",
+    "bullets_for_metrics": {
+      "title": "What are the Most Popular Metrics in HiBob to Analyze?",
+      "bullets": [
+        {
+          "title": "Employee Engagement",
+          "description": "Measure employee engagement levels and assess factors influencing satisfaction."
+        },
+        {
+          "title": "Turnover Rate",
+          "description": "Analyze employee turnover to identify trends and factors impacting retention."
+        },
+        {
+          "title": "Performance Metrics",
+          "description": "Track individual and team performance metrics for continuous improvement."
+        },
+        {
+          "title": "Attendance Patterns",
+          "description": "Monitor attendance patterns and identify attendance-related insights."
+        },
+        {
+          "title": "Time-off Requests",
+          "description": "Analyze time-off requests and manage leave policies effectively."
+        },
+        {
+          "title": "Training Progress",
+          "description": "Assess employee training progress and skill development over time."
+        },
+        {
+          "title": "Compensation Analysis",
+          "description": "Evaluate compensation structures and analyze pay-related data."
+        },
+        {
+          "title": "Recruitment Effectiveness",
+          "description": "Measure recruitment performance and track key hiring metrics."
+        },
+        {
+          "title": "Diversity and Inclusion",
+          "description": "Analyze diversity and inclusion metrics to foster a inclusive workplace."
+        },
+        {
+          "title": "Benefits Utilization",
+          "description": "Track benefits utilization and assess employee wellness programs."
+        }
+      ]
+    },
+    "bullets_for_reasons": {
+      "title": "Why Analyze HiBob Data?",
+      "bullets": [
+        {
+          "title": "Informed HR Decisions",
+          "description": "Make data-driven decisions to enhance HR processes and strategies."
+        },
+        {
+          "title": "Employee Wellbeing",
+          "description": "Prioritize employee wellbeing and satisfaction for enhanced engagement."
+        },
+        {
+          "title": "Retention Strategies",
+          "description": "Develop effective retention strategies based on turnover and engagement insights."
+        },
+        {
+          "title": "Performance Enhancement",
+          "description": "Improve individual and team performance through actionable performance metrics."
+        },
+        {
+          "title": "Effective Leave Management",
+          "description": "Optimize time-off management and ensure seamless leave processes."
+        },
+        {
+          "title": "Skill Development",
+          "description": "Promote continuous learning and skill development through training analysis."
+        },
+        {
+          "title": "Equitable Compensation",
+          "description": "Ensure fair and equitable compensation practices through data analysis."
+        },
+        {
+          "title": "Strategic Recruitment",
+          "description": "Attract top talent and refine recruitment strategies using recruitment data."
+        },
+        {
+          "title": "Inclusive Work Environment",
+          "description": "Promote diversity and inclusion based on data-driven insights."
+        },
+        {
+          "title": "Employee Benefits",
+          "description": "Optimize benefits offerings and wellness programs for employee satisfaction."
+        }
+      ]
+    },
+    "name": "HiBob"
+  },
+  "Incident.io": {
+    "overview": {
+      "description": "Enhance Incident Management with Incident.io Integration. Seamlessly connect incident data and response processes with Incident.io, ensuring efficient incident resolution, effective communication, and improved incident readiness."
+    },
+    "body": {
+      "description": "Optimize Incident Response with Incident.io Integration. Empower your teams with real-time insights and streamlined workflows, enabling faster incident resolution and proactive incident management."
+    },
+    "schema_name": "incidentio",
+    "bullets_for_metrics": {
+      "title": "What are the Most Popular Metrics in Incident.io to Analyze?",
+      "bullets": [
+        {
+          "title": "Incident Response Time",
+          "description": "Measure the time taken to respond to and resolve incidents."
+        },
+        {
+          "title": "Resolution SLAs",
+          "description": "Track and ensure compliance with incident resolution service level agreements."
+        },
+        {
+          "title": "Incident Impact",
+          "description": "Assess the impact of incidents on services and systems."
+        },
+        {
+          "title": "Team Performance",
+          "description": "Evaluate the performance of incident response teams."
+        },
+        {
+          "title": "Incident Frequency",
+          "description": "Analyze the frequency of incidents and trends over time."
+        },
+        {
+          "title": "Communication Effectiveness",
+          "description": "Measure the effectiveness of incident communication and updates."
+        },
+        {
+          "title": "Root Cause Analysis",
+          "description": "Conduct root cause analysis to prevent recurring incidents."
+        },
+        {
+          "title": "Resolution Time by Category",
+          "description": "Break down resolution time by incident category for insights."
+        },
+        {
+          "title": "Incident Escalation",
+          "description": "Track incident escalation patterns and responses."
+        },
+        {
+          "title": "User Impact",
+          "description": "Assess the impact of incidents on end users and customers."
+        }
+      ]
+    },
+    "bullets_for_reasons": {
+      "title": "Why Analyze Incident.io Data?",
+      "bullets": [
+        {
+          "title": "Faster Incident Resolution",
+          "description": "Enable quicker incident resolution and minimize downtime."
+        },
+        {
+          "title": "Compliance and Accountability",
+          "description": "Ensure compliance with SLAs and maintain accountability for incident response."
+        },
+        {
+          "title": "Enhanced Incident Management",
+          "description": "Optimize incident management processes for improved efficiency."
+        },
+        {
+          "title": "Data-Driven Decision-making",
+          "description": "Make informed decisions based on real-time incident insights."
+        },
+        {
+          "title": "Proactive Incident Prevention",
+          "description": "Identify trends and root causes to prevent future incidents."
+        },
+        {
+          "title": "Team Performance Enhancement",
+          "description": "Improve incident response team performance through analysis."
+        },
+        {
+          "title": "Effective Communication",
+          "description": "Ensure clear and effective communication during incidents."
+        },
+        {
+          "title": "Continuous Improvement",
+          "description": "Drive continuous improvement of incident response processes."
+        },
+        {
+          "title": "Optimized Incident Escalation",
+          "description": "Streamline incident escalation procedures for better outcomes."
+        },
+        {
+          "title": "User-Centric Incident Management",
+          "description": "Prioritize incident resolution to minimize user impact."
+        }
+      ]
+    },
+    "name": "Incident.io"
+  },
+  "Infobip": {
+    "overview": {
+      "description": "Elevate your Communication Strategy with Infobip Integration. Seamlessly connect and engage with your audience using Infobip, enhancing communication reach, efficiency, and customer satisfaction."
+    },
+    "body": {
+      "description": "Optimize Communication with Infobip Integration. Empower your business with real-time messaging insights and automated workflows, enabling effective communication and improved engagement."
+    },
+    "schema_name": "infobip",
+    "bullets_for_metrics": {
+      "title": "What are the Most Popular Metrics in Infobip to Analyze?",
+      "bullets": [
+        {
+          "title": "Message Delivery Rate",
+          "description": "Track the percentage of messages successfully delivered to recipients."
+        },
+        {
+          "title": "Open Rate",
+          "description": "Measure the proportion of recipients who open and read your messages."
+        },
+        {
+          "title": "Click-Through Rate (CTR)",
+          "description": "Analyze the percentage of recipients who interact with message links."
+        },
+        {
+          "title": "Conversion Rate",
+          "description": "Evaluate the rate at which recipients take desired actions after receiving messages."
+        },
+        {
+          "title": "Bounce Rate",
+          "description": "Monitor the rate of undelivered messages due to invalid addresses or other issues."
+        },
+        {
+          "title": "Engagement Trends",
+          "description": "Identify patterns and trends in recipient engagement over time."
+        },
+        {
+          "title": "Geographic Reach",
+          "description": "Assess the regions where your messages are most effective."
+        },
+        {
+          "title": "Time-of-Day Analysis",
+          "description": "Determine the optimal times to send messages for maximum engagement."
+        },
+        {
+          "title": "Device Preference",
+          "description": "Understand which devices recipients use to engage with messages."
+        },
+        {
+          "title": "Message Personalization",
+          "description": "Measure the impact of personalized content on engagement and conversion."
+        }
+      ]
+    },
+    "bullets_for_reasons": {
+      "title": "Why Analyze Infobip Messaging Data?",
+      "bullets": [
+        {
+          "title": "Enhanced Communication Reach",
+          "description": "Expand your communication reach and engage with a wider audience."
+        },
+        {
+          "title": "Optimized Engagement",
+          "description": "Improve engagement rates by analyzing recipient interaction patterns."
+        },
+        {
+          "title": "Data-Driven Decisions",
+          "description": "Make informed decisions based on real-time messaging performance insights."
+        },
+        {
+          "title": "Personalized Messaging",
+          "description": "Tailor messages for individual recipients to boost engagement and conversions."
+        },
+        {
+          "title": "Conversion Optimization",
+          "description": "Optimize messaging strategies to drive higher conversion rates."
+        },
+        {
+          "title": "Geographic Targeting",
+          "description": "Target specific regions for more effective messaging campaigns."
+        },
+        {
+          "title": "Time Optimization",
+          "description": "Send messages at optimal times to increase open and engagement rates."
+        },
+        {
+          "title": "User Behavior Insights",
+          "description": "Gain insights into recipient behavior and preferences for better targeting."
+        },
+        {
+          "title": "Continuous Improvement",
+          "description": "Iteratively enhance messaging strategies based on performance data."
+        },
+        {
+          "title": "Campaign Effectiveness",
+          "description": "Assess the success of messaging campaigns and make necessary adjustments."
+        }
+      ]
+    },
+    "name": "Infobip"
+  },
+  "Insightly": {
+    "overview": {
+      "description": "Elevate Your Customer Relationship Management with Insightly Integration. Seamlessly connect and manage customer data, interactions, and insights, enhancing relationships and driving business growth."
+    },
+    "body": {
+      "description": "Optimize Customer Relationships with Insightly Integration. Unlock a comprehensive view of customer interactions, streamline workflows, and make data-driven decisions for improved CRM strategies."
+    },
+    "schema_name": "insightly",
+    "bullets_for_metrics": {
+      "title": "What are the Most Popular Metrics in Insightly to Analyze?",
+      "bullets": [
+        {
+          "title": "Lead Conversion Rate",
+          "description": "Evaluate the percentage of leads that convert into paying customers."
+        },
+        {
+          "title": "Sales Pipeline Velocity",
+          "description": "Analyze the speed at which deals progress through the sales pipeline."
+        },
+        {
+          "title": "Customer Acquisition Cost (CAC)",
+          "description": "Calculate the cost of acquiring a new customer in relation to revenue generated."
+        },
+        {
+          "title": "Churn Rate",
+          "description": "Measure the rate at which customers discontinue their relationships with your business."
+        },
+        {
+          "title": "Deal Close Rate",
+          "description": "Assess the success rate of closing deals and winning new business."
+        },
+        {
+          "title": "Customer Lifetime Value (CLV)",
+          "description": "Determine the total value a customer generates during their engagement with your business."
+        },
+        {
+          "title": "Opportunity Win Rate",
+          "description": "Analyze the percentage of sales opportunities that result in closed deals."
+        },
+        {
+          "title": "Sales Rep Performance",
+          "description": "Evaluate individual sales representatives' performance and contribution."
+        },
+        {
+          "title": "Lead Engagement",
+          "description": "Monitor and analyze lead interactions and engagement levels."
+        },
+        {
+          "title": "Activity and Engagement Trends",
+          "description": "Identify patterns and trends in customer interactions and engagement over time."
+        }
+      ]
+    },
+    "bullets_for_reasons": {
+      "title": "Why Analyze Insightly CRM Data?",
+      "bullets": [
+        {
+          "title": "Informed Decision-making",
+          "description": "Make strategic decisions based on insights into customer interactions and behaviors."
+        },
+        {
+          "title": "Enhanced Customer Relationships",
+          "description": "Build stronger relationships by understanding customer needs and preferences."
+        },
+        {
+          "title": "Sales Performance Optimization",
+          "description": "Optimize sales strategies and processes for improved deal closure rates."
+        },
+        {
+          "title": "Revenue Growth",
+          "description": "Drive business growth by identifying and capitalizing on revenue opportunities."
+        },
+        {
+          "title": "Efficient Resource Allocation",
+          "description": "Allocate resources effectively based on data-driven insights into customer engagement."
+        },
+        {
+          "title": "Customer Retention",
+          "description": "Reduce churn and increase customer loyalty through tailored engagement."
+        },
+        {
+          "title": "Sales Team Accountability",
+          "description": "Hold sales teams accountable and motivate performance improvement."
+        },
+        {
+          "title": "Lead Qualification",
+          "description": "Qualify leads accurately to focus efforts on high-potential opportunities."
+        },
+        {
+          "title": "Continuous Improvement",
+          "description": "Iteratively enhance CRM strategies based on real-time performance data."
+        },
+        {
+          "title": "Competitive Advantage",
+          "description": "Stay ahead by leveraging insights for more effective customer engagement."
+        }
+      ]
+    },
+    "name": "Insightly"
+  },
+  "Mention": {
+    "overview": {
+      "description": "Amplify Your Brand Monitoring Efforts with Mention Integration. Seamlessly gather and analyze brand mentions across digital platforms, unlocking insights for reputation management, marketing strategies, and competitive analysis."
+    },
+    "body": {
+      "description": "Elevate Brand Intelligence with Mention Integration. Harness real-time data on brand mentions to refine marketing campaigns, engage with your audience, and drive impactful brand strategies."
+    },
+    "schema_name": "mention",
+    "bullets_for_metrics": {
+      "title": "What are the Most Popular Metrics in Mention to Analyze?",
+      "bullets": [
+        {
+          "title": "Brand Sentiment",
+          "description": "Analyze sentiment (positive, negative, neutral) of brand mentions."
+        },
+        {
+          "title": "Share of Voice",
+          "description": "Measure your brand's share compared to competitors in online conversations."
+        },
+        {
+          "title": "Influencer Engagement",
+          "description": "Identify and engage with influencers who mention your brand."
+        },
+        {
+          "title": "Reach and Exposure",
+          "description": "Evaluate the reach and exposure of brand mentions to your target audience."
+        },
+        {
+          "title": "Trending Topics",
+          "description": "Monitor trending topics and discussions related to your brand."
+        },
+        {
+          "title": "Competitor Analysis",
+          "description": "Benchmark your brand mentions against competitors for strategic insights."
+        },
+        {
+          "title": "Engagement Rate",
+          "description": "Assess the level of engagement and interactions generated by brand mentions."
+        },
+        {
+          "title": "Geographic Reach",
+          "description": "Analyze the geographical locations where brand mentions are most prevalent."
+        },
+        {
+          "title": "Content Performance",
+          "description": "Evaluate the effectiveness of your content based on audience engagement."
+        },
+        {
+          "title": "Crisis Management",
+          "description": "Monitor and respond to brand mentions during times of crisis or negative sentiment."
+        }
+      ]
+    },
+    "bullets_for_reasons": {
+      "title": "Why Analyze Mention Data?",
+      "bullets": [
+        {
+          "title": "Reputation Management",
+          "description": "Protect and enhance your brand's reputation through proactive monitoring."
+        },
+        {
+          "title": "Audience Engagement",
+          "description": "Engage with your audience by participating in relevant online conversations."
+        },
+        {
+          "title": "Competitive Insights",
+          "description": "Gain a competitive edge by understanding competitor mentions and strategies."
+        },
+        {
+          "title": "Campaign Effectiveness",
+          "description": "Measure the impact of marketing campaigns through brand mention analysis."
+        },
+        {
+          "title": "Influencer Collaboration",
+          "description": "Identify and collaborate with influential individuals who mention your brand."
+        },
+        {
+          "title": "Content Strategy",
+          "description": "Refine content strategies based on audience sentiment and engagement."
+        },
+        {
+          "title": "Market Trends",
+          "description": "Stay informed about market trends and emerging topics related to your industry."
+        },
+        {
+          "title": "Customer Insights",
+          "description": "Gather insights into customer opinions, needs, and preferences."
+        },
+        {
+          "title": "Crisis Response",
+          "description": "Swiftly respond to negative sentiment and manage crises effectively."
+        },
+        {
+          "title": "Strategic Decision-making",
+          "description": "Make informed decisions based on real-time brand mention data."
+        }
+      ]
+    },
+    "name": "Mention"
+  },
+  "6sense": {
+    "overview": {
+      "description": "Unlock deeper insights and predictive analytics with 6sense integration. Seamlessly analyze buyer intent signals to drive personalized marketing and sales strategies that deliver targeted engagement and revenue growth."
+    },
+    "body": {
+      "description": "Elevate your marketing and sales performance with 6sense integration. Leverage real-time buyer intent data to optimize your strategies and engage prospects at the right time with highly relevant content and offers."
+    },
+    "schema_name": "sixsense",
+    "name": "6sense"
+  },
+  "appfigures": {
+    "overview": {
+      "description": "Optimize your app's performance with Appfigures integration. Seamlessly gather and analyze app store data to refine marketing strategies, improve user engagement, and make informed decisions for app growth and success."
+    },
+    "body": {
+      "description": "Drive your app's success with Appfigures integration. Harness valuable insights from app store data to enhance marketing efforts, boost user satisfaction, and ensure your app's visibility and competitiveness in the market."
+    },
+    "schema_name": "appfigures",
+    "name": "Appfigures"
+  },
+  "circleci": {
+    "overview": {
+      "description": "Accelerate software delivery with CircleCI integration. Seamlessly automate your CI/CD pipeline to ensure continuous integration, testing, and deployment, enabling faster releases and improved collaboration across development teams."
+    },
+    "body": {
+      "description": "Boost your development workflow with CircleCI integration. Leverage automated CI/CD processes to streamline software delivery, increase code quality, and enable efficient collaboration among your development teams."
+    },
+    "schema_name": "circleci",
+    "name": "CircleCI"
+  },
+  "collibra": {
+    "overview": {
+      "description": "Empower data governance and stewardship with Collibra integration. Seamlessly centralize and manage your data assets, ensuring data quality, compliance, and collaboration for informed decision-making across your organization."
+    },
+    "body": {
+      "description": "Enhance data governance and stewardship with Collibra integration. Leverage a unified platform to effectively manage and govern data, fostering collaboration, compliance, and data-driven decision-making throughout your enterprise."
+    },
+    "schema_name": "collibra",
+    "name": "Collibra"
+  },
+  "confluence": {
+    "overview": {
+      "description": "Boost collaboration and knowledge sharing with Confluence integration. Seamlessly create, share, and collaborate on content to drive efficient teamwork, enhance communication, and capture valuable insights within your organization."
+    },
+    "body": {
+      "description": "Elevate collaboration and information sharing with Confluence integration. Harness a powerful platform to facilitate seamless content creation, collaboration, and knowledge capture, enabling your teams to work smarter and innovate together."
+    },
+    "schema_name": "confluence",
+    "name": "Confluence"
+  },
+  "fullstory": {
+    "overview": {
+      "description": "Uncover user insights and optimize experiences with FullStory integration. Seamlessly capture and analyze user interactions to enhance usability, identify pain points, and drive data-informed UX/UI design and improvements."
+    },
+    "body": {
+      "description": "Elevate user experience optimization with FullStory integration. Leverage user session recordings and analytics to gain valuable insights, improve usability, and enhance your digital products to meet user needs and expectations."
+    },
+    "schema_name": "fullstory",
+    "name": "FullStory"
+  },
+  "grepsr": {
+    "overview": {
+      "description": "Automate web data extraction with Grepsr integration. Seamlessly gather and transform data from websites to empower data-driven decisions, competitive analysis, and market insights for better business strategies."
+    },
+    "body": {
+      "description": "Enhance data-driven decision-making with Grepsr integration. Leverage automated web data extraction to gather valuable information from online sources, enabling insightful analysis and informed strategies for your business."
+    },
+    "schema_name": "grepsr",
+    "name": "Grepsr"
+  },
+  "opsgenie": {
+    "overview": {
+      "description": "Streamline incident management with Opsgenie integration. Seamlessly centralize alerts and incidents, ensuring rapid response, resolution, and coordination across teams to minimize downtime and maintain service availability."
+    },
+    "body": {
+      "description": "Optimize incident response with Opsgenie integration. Leverage centralized alerts and incident management to ensure swift resolution, efficient team collaboration, and minimized service disruptions for enhanced customer satisfaction."
+    },
+    "schema_name": "atlassian_ops_genie",
+    "name": "Opsgenie"
+  },
+  "pingdom": {
+    "overview": {
+      "description": "Enhance website performance with Pingdom integration. Seamlessly monitor website uptime, page speed, and user experience to ensure optimal web performance, identify issues, and deliver seamless online experiences."
+    },
+    "body": {
+      "description": "Elevate website reliability with Pingdom integration. Leverage continuous monitoring of website performance metrics to proactively detect and resolve issues, ensuring consistent uptime and optimal user experiences."
+    },
+    "schema_name": "pingdom",
+    "name": "Pingdom"
+  },
+  "posthog": {
+    "overview": {
+      "description": "Optimize product experiences with PostHog integration. Seamlessly analyze user interactions and behavior to gain actionable insights, drive feature enhancements, and deliver exceptional user experiences that fuel product growth."
+    },
+    "body": {
+      "description": "Elevate product optimization with PostHog integration. Leverage user behavior analysis and insights to prioritize feature development, refine user experiences, and shape your product roadmap for sustained growth and success."
+    },
+    "schema_name": "posthog",
+    "name": "PostHog"
+  },
+  "sharetribe": {
+    "overview": {
+      "description": "Transform your online marketplace with Sharetribe integration. Seamlessly create, launch, and manage your marketplace platform to connect buyers and sellers, streamline transactions, and drive online commerce growth."
+    },
+    "body": {
+      "description": "Elevate your online marketplace with Sharetribe integration. Harness powerful tools to easily build and manage your marketplace, enabling seamless transactions, engaging user experiences, and thriving online communities."
+    },
+    "schema_name": "sharetribe",
+    "name": "Sharetribe"
+  },
+  "teamwork": {
+    "overview": {
+      "description": "Boost project collaboration and management with Teamwork integration. Seamlessly coordinate tasks, projects, and teams to enhance productivity, streamline workflows, and deliver successful outcomes on time and within scope."
+    },
+    "body": {
+      "description": "Elevate project efficiency with Teamwork integration. Leverage intuitive tools for task management, project tracking, and team collaboration, enabling seamless coordination and successful project delivery across your organization."
+    },
+    "schema_name": "teamwork",
+    "name": "Teamwork"
+  },
+  "tempo": {
+    "overview": {
+      "description": "Optimize time tracking and resource management with Tempo integration. Seamlessly track and manage work hours, allocate resources, and drive efficient project planning for better productivity and successful project delivery."
+    },
+    "body": {
+      "description": "Elevate time tracking and resource allocation with Tempo integration. Leverage comprehensive tools to streamline time entry, resource allocation, and project planning, enabling efficient workflows and optimal resource utilization."
+    },
+    "schema_name": "tempo",
+    "name": "Tempo"
+  },
+  "trello": {
+    "overview": {
+      "description": "Enhance project management with Trello integration. Seamlessly organize tasks, workflows, and projects on visual boards to improve collaboration, streamline processes, and achieve project success with clarity and ease."
+    },
+    "body": {
+      "description": "Elevate your project management with Trello integration. Leverage intuitive boards, lists, and cards to streamline task management, facilitate team collaboration, and drive successful project outcomes with visual clarity."
+    },
+    "schema_name": "trello",
+    "name": "Trello"
+  }
 }

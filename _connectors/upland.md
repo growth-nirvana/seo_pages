@@ -1,7 +1,7 @@
 ---
 layout: connector
 title: " Connector - Growth Nirvana"
-name: ''
+name: 'Upland Software'
 description: Supercharge your marketing strategies with Upland Software integration,
   unlocking real-time data updates and actionable insights.
 image: "/assets/images/seo_pages/body.webp"

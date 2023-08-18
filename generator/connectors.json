@@ -19576,14 +19576,14 @@
     "schema_name": "aurora_postgres",
     "name": "Aurora Postgres"
   },
-  "aws_cloudtrial": {
+  "aws_cloudtrail": {
     "overview": {
       "description": "Capture, archive, and analyze AWS CloudTrail log files to gain insights into user activity, API calls, and resource changes in your AWS account. Enable auditing, compliance, and security monitoring with the AWS CloudTrail connector."
     },
     "body": {
       "description": "Gain visibility and control over your AWS account activities with AWS CloudTrail. Analyze user behavior, track API activity, and detect and respond to security threats with ease."
     },
-    "schema_name": "aws_cloudtrial",
+    "schema_name": "aws_cloudtrail",
     "name": "AWS CloudTrail"
   },
   "aws_lambda": {

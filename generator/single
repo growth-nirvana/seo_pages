@@ -1,0 +1,19 @@
+#!/usr/bin/env ruby
+
+require_relative "generator"
+
+connector_schema_name = ARGV[0]
+override = ARGV[1] == "--override"
+
+connectors = JSON.parse(File.read("./generator/connectors.json"))
+connector = connectors[connector_schema_name]
+Generator.new(
+  connector["name"],
+  connector["schema_name"],
+  connector["overview"]["description"],
+  connector["body"]["description"],
+  connector["bullets_for_metrics"],
+  connector["bullets_for_reasons"],
+).generate(override)
+
+puts "\nDone!"

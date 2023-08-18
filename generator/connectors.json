@@ -1,5 +1,5 @@
 {
-  "360Learning": {
+  "360learning": {
     "overview": {
       "description": "Enhance your marketing insights with 360Learning integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -96,9 +96,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "360Learning"
   },
-  "ActiveCampaign": {
+  "activecampaign": {
     "overview": {
       "description": "Enhance your marketing automation insights with ActiveCampaign integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -195,9 +196,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "ActiveCampaign"
   },
-  "Ada": {
+  "ada": {
     "overview": {
       "description": "Enhance your marketing automation insights with Ada integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -294,9 +296,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Ada"
   },
-  "Adjust": {
+  "adjust": {
     "overview": {
       "description": "Enhance your marketing data insights with Adjust integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -393,9 +396,10 @@
           "description": "Optimize user retention strategies for better customer experiences."
         }
       ]
-    }
+    },
+    "name": "Adjust"
   },
-  "Adobe Analytics": {
+  "adobe_analytics": {
     "overview": {
       "description": "Enhance your marketing analytics insights with Adobe Analytics integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -460,9 +464,10 @@
           "description": "Improve user experience on websites and marketing touchpoints."
         }
       ]
-    }
+    },
+    "name": "Adobe Analytics"
   },
-  "Adobe Analytics Data Feed": {
+  "adobe_analytics_data_feed": {
     "overview": {
       "description": "Enhance your marketing data insights with Adobe Analytics Data Feed integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -543,9 +548,10 @@
           "description": "Predict future marketing trends and outcomes based on data analysis."
         }
       ]
-    }
+    },
+    "name": "Adobe Analytics Data Feed"
   },
-  "ADP Workforce Now": {
+  "adp_workforce_now": {
     "overview": {
       "description": "Enhance your HR and payroll insights with ADP Workforce Now integration. Gain seamless access to employee data, unlocking insights that shape HR strategies, workforce analysis, and operational excellence."
     },
@@ -642,9 +648,10 @@
           "description": "Promote diversity and inclusion initiatives for a more inclusive workplace."
         }
       ]
-    }
+    },
+    "name": "ADP Workforce Now"
   },
-  "AdRoll": {
+  "adroll": {
     "overview": {
       "description": "Enhance your marketing insights with AdRoll integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -741,9 +748,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "AdRoll"
   },
-  "Aircall": {
+  "aircall": {
     "overview": {
       "description": "Enhance your call center operations with Aircall integration. Seamlessly merge call data, unlocking insights that shape customer service strategies, agent performance analysis, and operational excellence."
     },
@@ -840,9 +848,10 @@
           "description": "Reduce call abandonment rates by improving call handling processes."
         }
       ]
-    }
+    },
+    "name": "Aircall"
   },
-  "Airtable": {
+  "airtable": {
     "overview": {
       "description": "Enhance your marketing data insights with Airtable integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -939,9 +948,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Airtable"
   },
-  "Alchemer": {
+  "alchemer": {
     "overview": {
       "description": "Enhance your marketing data collection with Alchemer integration. Seamlessly gather valuable insights that inform your marketing strategies and drive better business decisions."
     },
@@ -998,9 +1008,10 @@
           "description": "Generate leads with accurate and targeted data collection efforts."
         }
       ]
-    }
+    },
+    "name": "Alchemer"
   },
-  "Amazon Ads": {
+  "amazon_ads": {
     "overview": {
       "description": "Enhance your marketing insights with Amazon Ads integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -1097,9 +1108,10 @@
           "description": "Track and attribute sales directly to your Amazon Ads campaigns for accurate measurement."
         }
       ]
-    }
+    },
+    "name": "Amazon Ads"
   },
-  "Amplitude": {
+  "amplitude": {
     "overview": {
       "description": "Enhance your marketing analytics with Amplitude integration. Unlock actionable insights to improve campaign strategies and drive growth."
     },
@@ -1188,9 +1200,10 @@
           "description": "Maximize return on investment through data-driven marketing strategies."
         }
       ]
-    }
+    },
+    "name": "Amplitude"
   },
-  "Analytics": {
+  "fivetran_log": {
     "overview": {
       "description": "Enhance your marketing data insights with Analytics integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -1287,9 +1300,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Analytics"
   },
-  "Anaplan": {
+  "anaplan": {
     "overview": {
       "description": "Enhance your marketing insights with Anaplan integration. Seamlessly merge marketing data to unlock valuable insights for campaign strategies, lead analysis, and operational excellence."
     },
@@ -1386,9 +1400,10 @@
           "description": "Enhance customer experiences through personalized and targeted marketing efforts."
         }
       ]
-    }
+    },
+    "name": "Anaplan"
   },
-  "Apache Kafka": {
+  "apache_kafka": {
     "overview": {
       "description": "Unlock real-time data streaming capabilities with Apache Kafka integration. Seamlessly process and analyze streaming data for enhanced operational insights and data-driven decision making."
     },
@@ -1485,9 +1500,10 @@
           "description": "Ensure real-time data replication for data consistency and availability across multiple systems."
         }
       ]
-    }
+    },
+    "name": "Apache Kafka"
   },
-  "Apple App Store": {
+  "itunes_connect": {
     "overview": {
       "description": "Enhance your marketing insights with Apple App Store integration. Merge marketing data to gain actionable insights for your app strategies."
     },
@@ -1584,9 +1600,10 @@
           "description": "Deliver tailored experiences to users based on their preferences and behaviors within your app."
         }
       ]
-    }
+    },
+    "name": "Apple App Store"
   },
-  "Apple Search Ads": {
+  "apple_search_ads": {
     "overview": {
       "description": "Enhance your marketing analytics with Apple Search Ads integration. Gather valuable insights to optimize campaign strategies, improve lead analysis, and drive operational excellence."
     },
@@ -1683,9 +1700,10 @@
           "description": "Iteratively optimize Apple Search Ads campaigns with data-driven insights."
         }
       ]
-    }
+    },
+    "name": "Apple Search Ads"
   },
-  "AppsFlyer": {
+  "appsflyer": {
     "overview": {
       "description": "Enhance your marketing attribution insights with AppsFlyer integration. Seamlessly track and analyze marketing data, unlocking insights that shape campaign strategies, user analysis, and ROI optimization."
     },
@@ -1778,9 +1796,10 @@
           "description": "Utilize advanced attribution models for accurate understanding of marketing impact."
         }
       ]
-    }
+    },
+    "name": "AppsFlyer"
   },
-  "Asana": {
+  "asana": {
     "overview": {
       "description": "Enhance your project management with Asana integration. Seamlessly merge project data, unlocking insights that shape task assignments, resource allocation, and operational efficiency."
     },
@@ -1877,9 +1896,10 @@
           "description": "Prioritize tasks efficiently to meet project goals and deadlines."
         }
       ]
-    }
+    },
+    "name": "Asana"
   },
-  "Assembled": {
+  "assembled": {
     "overview": {
       "description": "Enhance your marketing data with Assembled integration. Gain valuable insights into campaign strategies, lead analysis, and operational excellence."
     },
@@ -1976,9 +1996,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Assembled"
   },
-  "AWS Inventory": {
+  "aws_inventory": {
     "overview": {
       "description": "Easily manage and track your inventory using AWS Inventory. Gain real-time visibility into stock levels, track product movements, and streamline inventory operations for improved efficiency."
     },
@@ -2075,9 +2096,10 @@
           "description": "Track stock movements and monitor inventory accuracy in real-time."
         }
       ]
-    }
+    },
+    "name": "AWS Inventory"
   },
-  "AWS MSK": {
+  "aws_msk": {
     "overview": {
       "description": "Enhance your marketing insights with AWS MSK integration. Seamlessly merge marketing data and unlock valuable insights for campaign strategies and operational excellence."
     },
@@ -2142,9 +2164,10 @@
           "description": "Ensure data security and compliance with industry standards."
         }
       ]
-    }
+    },
+    "name": "AWS MSK"
   },
-  "Azure Event Hubs": {
+  "azure_event_hub": {
     "overview": {
       "description": "Enhance your event streaming insights with Azure Event Hubs integration. Seamlessly merge event data, unlocking insights that shape event analysis and operational excellence."
     },
@@ -2233,9 +2256,10 @@
           "description": "Integrate event data with other systems and applications for comprehensive insights."
         }
       ]
-    }
+    },
+    "name": "Azure Event Hubs"
   },
-  "Azure Service Bus": {
+  "azure_service_bus": {
     "overview": {
       "description": "Enhance your messaging and event-driven architecture with Azure Service Bus integration. Seamlessly connect applications and services, enabling asynchronous communication and scalable event processing."
     },
@@ -2332,9 +2356,10 @@
           "description": "Automatically scale resources to match workload and ensure optimal performance."
         }
       ]
-    }
+    },
+    "name": "Azure Service Bus"
   },
-  "Bamboo HR": {
+  "bamboohr": {
     "overview": {
       "description": "Enhance your HR processes with Bamboo HR integration. Streamline employee data management, automate workflows, and gain insights for effective HR strategies."
     },
@@ -2427,9 +2452,10 @@
           "description": "Make informed HR decisions based on comprehensive data and analytics."
         }
       ]
-    }
+    },
+    "name": "Bamboo HR"
   },
-  "Big Commerce": {
+  "big_commerce": {
     "overview": {
       "description": "Enhance your ecommerce insights with Big Commerce integration. Seamlessly merge marketing data, unlocking insights that shape sales strategies, customer analysis, and operational excellence."
     },
@@ -2526,9 +2552,10 @@
           "description": "Enhance customer experiences based on feedback and reviews."
         }
       ]
-    }
+    },
+    "name": "Big Commerce"
   },
-  "Braintree": {
+  "braintree": {
     "overview": {
       "description": "Integrate Braintree to enhance your payment processing capabilities. Seamlessly process payments and gain valuable insights for transaction analysis and operational efficiency."
     },
@@ -2605,9 +2632,10 @@
           "description": "Analyze refund rates and optimize refund processes for better customer satisfaction."
         }
       ]
-    }
+    },
+    "name": "Braintree"
   },
-  "Braintree Sandbox": {
+  "braintree_sandbox": {
     "overview": {
       "description": "Enhance your payment processing with Braintree Sandbox integration. Seamlessly test and analyze payment data, unlocking insights that shape transaction strategies, fraud detection, and operational excellence."
     },
@@ -2680,9 +2708,10 @@
           "description": "Streamline refund and chargeback processes for improved efficiency."
         }
       ]
-    }
+    },
+    "name": "Braintree Sandbox"
   },
-  "Branch": {
+  "branch": {
     "overview": {
       "description": "Enhance your marketing analytics with Branch integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -2779,9 +2808,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Branch"
   },
-  "Braze": {
+  "braze": {
     "overview": {
       "description": "Enhance your marketing automation insights with Braze integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -2878,9 +2908,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Braze"
   },
-  "Brex": {
+  "brex": {
     "overview": {
       "description": "Enhance your marketing insights with Brex integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -2977,9 +3008,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Brex"
   },
-  "Calendly": {
+  "calendly": {
     "overview": {
       "description": "Streamline your scheduling and appointment setting processes with Calendly integration. Simplify the coordination of meetings and events, saving time and increasing productivity."
     },
@@ -3056,9 +3088,10 @@
           "description": "Ensure smooth and efficient integration of Calendly with existing systems."
         }
       ]
-    }
+    },
+    "name": "Calendly"
   },
-  "Campaign Monitor": {
+  "campaignmonitor": {
     "overview": {
       "description": "Enhance your email marketing insights with Campaign Monitor integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -3155,9 +3188,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Campaign Monitor"
   },
-  "ChannelAdvisor": {
+  "channel_advisor": {
     "overview": {
       "description": "Enhance your marketing insights with ChannelAdvisor integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -3254,9 +3288,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "ChannelAdvisor"
   },
-  "Chargebee Product Catalog 1.0": {
+  "chargebee_product_catalog_1": {
     "overview": {
       "description": "Unlock advanced marketing data insights with Chargebee Product Catalog 1.0 integration. Optimize campaign strategies, analyze leads, and improve operational efficiency."
     },
@@ -3353,9 +3388,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Chargebee Product Catalog 1.0"
   },
-  "Chargebee Product Catalog 2.0": {
+  "chargebee_product_catalog_2": {
     "overview": {
       "description": "Enhance your marketing data insights with Chargebee Product Catalog 2.0 integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -3452,9 +3488,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Chargebee Product Catalog 2.0"
   },
-  "ChartMogul": {
+  "chartmogul": {
     "overview": {
       "description": "Enhance your marketing analytics with ChartMogul integration. Gain valuable insights from your subscription data, track key business metrics, and optimize your subscription strategies."
     },
@@ -3567,9 +3604,10 @@
           "description": "Ensure the security and privacy of subscription data and customer information."
         }
       ]
-    }
+    },
+    "name": "ChartMogul"
   },
-  "Chorus": {
+  "chorusai": {
     "overview": {
       "description": "Enhance your marketing insights with Chorus integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -3666,9 +3704,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Chorus"
   },
-  "Cin7": {
+  "cin7": {
     "overview": {
       "description": "Enhance your marketing insights with Cin7 integration. Seamlessly merge marketing data for campaign strategies, lead analysis, and operational excellence."
     },
@@ -3765,9 +3804,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Cin7"
   },
-  "Close": {
+  "close": {
     "overview": {
       "description": "Enhance your sales insights with Close integration. Seamlessly merge sales data, unlocking insights that shape sales strategies, lead analysis, and operational excellence."
     },
@@ -3864,9 +3904,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Close"
   },
-  "Confluent Cloud": {
+  "confluent_cloud": {
     "overview": {
       "description": "Enhance your marketing automation insights with Confluent Cloud integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -3963,9 +4004,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Confluent Cloud"
   },
-  "Coupa": {
+  "coupa": {
     "overview": {
       "description": "Enhance your procurement insights with Coupa integration. Seamlessly merge marketing data, unlocking insights that shape procurement strategies, supplier analysis, and operational excellence."
     },
@@ -4062,9 +4104,10 @@
           "description": "Identify and mitigate risks associated with procurement activities."
         }
       ]
-    }
+    },
+    "name": "Coupa"
   },
-  "Criteo": {
+  "criteo": {
     "overview": {
       "description": "Enhance your advertising insights with Criteo integration. Connect and analyze marketing data to shape advertising strategies, optimize audience targeting, and improve campaign performance."
     },
@@ -4161,9 +4204,10 @@
           "description": "Optimize ad campaigns for improved advertising results."
         }
       ]
-    }
+    },
+    "name": "Criteo"
   },
-  "Crossbeam": {
+  "crossbeam": {
     "overview": {
       "description": "Enhance your marketing data insights with Crossbeam integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -4260,9 +4304,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Crossbeam"
   },
-  "Delighted": {
+  "delighted": {
     "overview": {
       "description": "Gain valuable customer feedback and insights with Delighted integration."
     },
@@ -4359,9 +4404,10 @@
           "description": "Iteratively improve your products, services, and customer experience based on customer feedback."
         }
       ]
-    }
+    },
+    "name": "Delighted"
   },
-  "Dixa": {
+  "dixa": {
     "overview": {
       "description": "Enhance your customer support insights with Dixa integration. Seamlessly merge customer data, unlocking insights that shape support strategies, agent performance, and operational excellence."
     },
@@ -4466,9 +4512,10 @@
           "description": "Leverage data insights to drive ongoing improvement in support operations."
         }
       ]
-    }
+    },
+    "name": "Dixa"
   },
-  "Drift": {
+  "drift": {
     "overview": {
       "description": "Enhance your conversational marketing with Drift integration. Seamlessly merge marketing data, unlocking insights that shape messaging strategies, lead analysis, and operational excellence."
     },
@@ -4565,9 +4612,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Drift"
   },
-  "Drip": {
+  "drip": {
     "overview": {
       "description": "Enhance your marketing automation insights with Drip integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -4664,9 +4712,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Drip"
   },
-  "EasyPost": {
+  "easypost": {
     "overview": {
       "description": "Enhance your shipping process with EasyPost integration. Seamlessly manage shipping data, streamline operations, and improve customer satisfaction."
     },
@@ -4747,9 +4796,10 @@
           "description": "Optimize logistics processes to improve shipping speed and reliability."
         }
       ]
-    }
+    },
+    "name": "EasyPost"
   },
-  "Eloqua": {
+  "eloqua": {
     "overview": {
       "description": "Enhance your marketing automation insights with Eloqua integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -4846,9 +4896,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Eloqua"
   },
-  "Eventbrite": {
+  "eventbrite": {
     "overview": {
       "description": "Enhance your event management and marketing strategies with Eventbrite integration. Seamlessly merge marketing data, unlocking insights that shape event promotion, attendee analysis, and operational excellence."
     },
@@ -4945,9 +4996,10 @@
           "description": "Optimize event registration conversion rates for higher attendance."
         }
       ]
-    }
+    },
+    "name": "Eventbrite"
   },
-  "Facebook Ad Account": {
+  "facebook_ad_account": {
     "overview": {
       "description": "Enhance your campaign insights with Facebook Ad Account integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -5036,9 +5088,10 @@
           "description": "Refine audience segmentation strategies for higher targeting accuracy."
         }
       ]
-    }
+    },
+    "name": "Facebook Ad Account"
   },
-  "Facebook Ad Insights": {
+  "facebook": {
     "overview": {
       "description": "Enhance your marketing insights with Facebook Ad Insights integration. Leverage campaign data to gain actionable insights and optimize ad performance."
     },
@@ -5135,9 +5188,10 @@
           "description": "Gain valuable insights into your ad audience demographics and interests."
         }
       ]
-    }
+    },
+    "name": "Facebook Ad Insights"
   },
-  "Facebook Ads": {
+  "facebook_ads": {
     "overview": {
       "description": "Enhance your Facebook advertising campaigns with Facebook Ads integration. Gain valuable insights from marketing data analysis to optimize your ad strategies."
     },
@@ -5234,9 +5288,10 @@
           "description": "Optimize the conversion funnel of your Facebook ads for better results."
         }
       ]
-    }
+    },
+    "name": "Facebook Ads"
   },
-  "Facebook Pages": {
+  "facebook_pages": {
     "overview": {
       "description": "Enhance your insights with Facebook Pages integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -5333,9 +5388,10 @@
           "description": "Optimize the customer journey for improved customer experiences on Facebook."
         }
       ]
-    }
+    },
+    "name": "Facebook Pages"
   },
-  "FinancialForce": {
+  "financial_force": {
     "overview": {
       "description": "Enhance your marketing data insights with FinancialForce integration. Seamlessly merge financial and marketing data, unlocking valuable insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -5432,9 +5488,10 @@
           "description": "Analyze the financial value and profitability of customers over their lifetime."
         }
       ]
-    }
+    },
+    "name": "FinancialForce"
   },
-  "Fountain": {
+  "fountain": {
     "overview": {
       "description": "Enhance your marketing insights with Fountain integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -5531,9 +5588,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Fountain"
   },
-  "Freightview": {
+  "freightview": {
     "overview": {
       "description": "Simplify freight management with Freightview integration. Streamline your shipping processes and gain valuable insights for operational efficiency and cost-saving opportunities."
     },
@@ -5630,9 +5688,10 @@
           "description": "Ensure proper packaging to reduce damages and protect products during transportation."
         }
       ]
-    }
+    },
+    "name": "Freightview"
   },
-  "Freshdesk": {
+  "freshdesk": {
     "overview": {
       "description": "Enhance your customer support insights with Freshdesk integration. Seamlessly merge support data, unlocking insights that shape ticket management, performance analysis, and operational excellence."
     },
@@ -5729,9 +5788,10 @@
           "description": "Optimize support channels for better customer experiences and performance."
         }
       ]
-    }
+    },
+    "name": "Freshdesk"
   },
-  "Front": {
+  "front": {
     "overview": {
       "description": "Enhance your marketing insights with Front integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -5828,9 +5888,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Front"
   },
-  "Gainsight": {
+  "gainsight": {
     "overview": {
       "description": "Enhance your marketing data insights with Gainsight integration. Seamlessly merge marketing data and unlock valuable insights for campaign strategies, lead analysis, and operational excellence."
     },
@@ -5927,9 +5988,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Gainsight"
   },
-  "Gainsight Customer Success": {
+  "gainsight_customer_success": {
     "overview": {
       "description": "Enhance your customer success insights with Gainsight integration. Seamlessly merge customer data, unlocking insights that shape customer strategies, account analysis, and operational excellence."
     },
@@ -6026,9 +6088,10 @@
           "description": "Identify and address potential risks to ensure long-term customer success."
         }
       ]
-    }
+    },
+    "name": "Gainsight Customer Success"
   },
-  "GoCardless": {
+  "gocardless": {
     "overview": {
       "description": "Enhance your payment processing with GoCardless integration. Seamlessly integrate GoCardless into your marketing operations, enabling easy payment collection and management."
     },
@@ -6113,9 +6176,10 @@
           "description": "Handle payments at scale, supporting growth and expansion strategies."
         }
       ]
-    }
+    },
+    "name": "GoCardless"
   },
-  "Gong": {
+  "gongio": {
     "overview": {
       "description": "Enhance your marketing insights with Gong integration. Unlock valuable data and gain actionable insights to shape marketing strategies and drive operational excellence."
     },
@@ -6200,9 +6264,10 @@
           "description": "Improve sales forecast accuracy for better planning and decision-making."
         }
       ]
-    }
+    },
+    "name": "Gong"
   },
-  "Google Ad Manager": {
+  "double_click_publishers": {
     "overview": {
       "description": "Enhance your marketing insights with Google Ad Manager integration. Unlock valuable data for campaign strategies, lead analysis, and operational excellence."
     },
@@ -6299,9 +6364,10 @@
           "description": "Optimize your campaigns to maximize Return on Investment."
         }
       ]
-    }
+    },
+    "name": "Google Ad Manager"
   },
-  "Google Ads": {
+  "google_ads": {
     "overview": {
       "description": "Enhance your digital advertising campaigns with Google Ads integration. Gain actionable insights from campaign data analysis, allowing for more targeted marketing strategies and improved ROI."
     },
@@ -6382,9 +6448,10 @@
           "description": "Allocate ad budget strategically to maximize campaign performance and ROI."
         }
       ]
-    }
+    },
+    "name": "Google Ads"
   },
-  "Google Analytics": {
+  "google_analytics": {
     "overview": {
       "description": "Enhance your marketing analytics insights with Google Analytics integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -6481,9 +6548,10 @@
           "description": "Better allocate marketing budget based on multi-channel attribution insights."
         }
       ]
-    }
+    },
+    "name": "Google Analytics"
   },
-  "Google Analytics 360": {
+  "google_analytics_360": {
     "overview": {
       "description": "Enhance your marketing analytics with Google Analytics 360 integration. Gain deeper insights into campaign performance, audience behavior, and website interactions."
     },
@@ -6532,9 +6600,10 @@
           "description": "Enhance website performance and user experience based on data insights."
         }
       ]
-    }
+    },
+    "name": "Google Analytics 360"
   },
-  "Google Analytics 4": {
+  "google_analytics_4": {
     "overview": {
       "description": "Enhance your marketing analytics insights with Google Analytics 4 integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -6631,9 +6700,10 @@
           "description": "Optimize user acquisition strategies based on data insights."
         }
       ]
-    }
+    },
+    "name": "Google Analytics 4"
   },
-  "Google Analytics 4 Export": {
+  "google_analytics_4_export": {
     "overview": {
       "description": "Enhance your marketing analytics with Google Analytics 4 Export integration. Gain valuable insights to shape campaign strategies, analyze lead data, and improve marketing performance."
     },
@@ -6730,9 +6800,10 @@
           "description": "Iterate and improve your marketing efforts based on data analysis and insights."
         }
       ]
-    }
+    },
+    "name": "Google Analytics 4 Export"
   },
-  "Google Analytics (MCF)": {
+  "google_analytics_mcf": {
     "overview": {
       "description": "Enhance your marketing attribution insights with Google Analytics (MCF) integration. Merge marketing data seamlessly to unlock valuable insights for campaign analysis and optimization."
     },
@@ -6829,9 +6900,10 @@
           "description": "Gain valuable insights from comprehensive data analysis to inform marketing strategies."
         }
       ]
-    }
+    },
+    "name": "Google Analytics (MCF)"
   },
-  "Google Campaign Manager 360": {
+  "double_click_campaign_manager": {
     "overview": {
       "description": "Enhance your marketing insights with Google Campaign Manager 360 integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -6928,9 +7000,10 @@
           "description": "Continuously optimize campaigns based on data insights."
         }
       ]
-    }
+    },
+    "name": "Google Campaign Manager 360"
   },
-  "Google Display & Video 360": {
+  "google_display_and_video_360": {
     "overview": {
       "description": "Enhance your marketing insights with Google Display & Video 360 integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, audience analysis, and operational excellence."
     },
@@ -7027,9 +7100,10 @@
           "description": "Analyze the performance of your campaigns across multiple channels."
         }
       ]
-    }
+    },
+    "name": "Google Display & Video 360"
   },
-  "Google Play": {
+  "google_play": {
     "overview": {
       "description": "Enhance your marketing insights with Google Play integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -7085,9 +7159,10 @@
     "bullets_for_reasons": {
       "title": "Why analyze Google Play?",
       "bullets": null
-    }
+    },
+    "name": "Google Play"
   },
-  "Google Search Console": {
+  "google_search_console": {
     "overview": {
       "description": "Enhance your search engine insights with Google Search Console integration. Seamlessly merge marketing data, unlocking insights that shape search strategies, keyword analysis, and search performance."
     },
@@ -7184,9 +7259,10 @@
           "description": "Protect your website from security threats that may impact search engine performance."
         }
       ]
-    }
+    },
+    "name": "Google Search Console"
   },
-  "Gorgias": {
+  "gorgias": {
     "overview": {
       "description": "Enhance your customer support with Gorgias integration. Seamlessly merge support data, unlocking insights that improve response time, customer satisfaction, and operational efficiency."
     },
@@ -7283,9 +7359,10 @@
           "description": "Gather insights from customer feedback to drive continuous improvement."
         }
       ]
-    }
+    },
+    "name": "Gorgias"
   },
-  "Greenhouse": {
+  "greenhouse": {
     "overview": {
       "description": "Enhance your recruitment process with Greenhouse integration. Seamlessly merge recruiting data, unlocking insights that shape hiring strategies, candidate analysis, and operational excellence."
     },
@@ -7382,9 +7459,10 @@
           "description": "Improve the onboarding process to ensure new hires are set up for success."
         }
       ]
-    }
+    },
+    "name": "Greenhouse"
   },
-  "Harvest": {
+  "harvest": {
     "overview": {
       "description": "Enhance your marketing data insights with Harvest integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -7481,9 +7559,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Harvest"
   },
-  "Heap": {
+  "heap": {
     "overview": {
       "description": "Enhance your marketing analytics with Heap integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -7580,9 +7659,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Heap"
   },
-  "Help Scout": {
+  "helpscout": {
     "overview": {
       "description": "Enhance your customer support insights with Help Scout integration. Seamlessly merge support data, unlocking insights that shape support strategies, ticket analysis, and operational excellence."
     },
@@ -7679,9 +7759,10 @@
           "description": "Identify reasons for customer churn and take actions to reduce churn rate."
         }
       ]
-    }
+    },
+    "name": "Help Scout"
   },
-  "Heroku Kafka": {
+  "heroku_kafka": {
     "overview": {
       "description": "Enhance your data streaming capabilities with Heroku Kafka integration. Seamlessly integrate Kafka into your applications and unlock powerful insights from real-time streaming data."
     },
@@ -7778,9 +7859,10 @@
           "description": "Optimize data processing pipelines to reduce latency and improve efficiency."
         }
       ]
-    }
+    },
+    "name": "Heroku Kafka"
   },
-  "HubSpot": {
+  "hubspot": {
     "overview": {
       "description": "Enhance your marketing insights with HubSpot integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -7877,9 +7959,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "HubSpot"
   },
-  "Instagram Business": {
+  "instagram_business": {
     "overview": {
       "description": "Enhance your marketing insights with Instagram Business integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -7976,9 +8059,10 @@
           "description": "Implement strategies to grow and engage Instagram audience."
         }
       ]
-    }
+    },
+    "name": "Instagram Business"
   },
-  "Intercom": {
+  "intercom": {
     "overview": {
       "description": "Enhance your customer communication with Intercom integration. Seamlessly merge marketing data, unlocking insights that shape customer engagement, support analysis, and operational excellence."
     },
@@ -8075,9 +8159,10 @@
           "description": "Optimize the customer journey for improved user experiences."
         }
       ]
-    }
+    },
+    "name": "Intercom"
   },
-  "Ironclad": {
+  "ironclad": {
     "overview": {
       "description": "Enhance your marketing data with Ironclad integration. Gain valuable insights that drive campaign strategies and operational efficiency."
     },
@@ -8174,9 +8259,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Ironclad"
   },
-  "Iterable": {
+  "iterable": {
     "overview": {
       "description": "Enhance your marketing automation insights with Iterable integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -8273,9 +8359,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Iterable"
   },
-  "Khoros Care": {
+  "khoros_care": {
     "overview": {
       "description": "Enhance your customer care with Khoros Care integration. Seamlessly merge customer interaction data, unlocking insights that shape support strategies, customer satisfaction, and operational excellence."
     },
@@ -8356,9 +8443,10 @@
           "description": "Reduce the time it takes to resolve customer issues for more efficient support operations."
         }
       ]
-    }
+    },
+    "name": "Khoros Care"
   },
-  "Klaviyo": {
+  "klaviyo": {
     "overview": {
       "description": "Enhance your marketing automation insights with Klaviyo integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -8455,9 +8543,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Klaviyo"
   },
-  "Kustomer": {
+  "kustomer": {
     "overview": {
       "description": "Enhance your customer support insights with Kustomer integration. Seamlessly merge customer data, unlocking insights that shape support strategies, customer analysis, and operational excellence."
     },
@@ -8550,9 +8639,10 @@
           "description": "Optimize customer support processes for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Kustomer"
   },
-  "Lattice": {
+  "lattice": {
     "overview": {
       "description": "Enhance your marketing data insights with Lattice integration. Seamlessly merge marketing data, unlocking valuable insights for campaign strategies, lead analysis, and operational excellence."
     },
@@ -8649,9 +8739,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Lattice"
   },
-  "Lessonly": {
+  "lessonly": {
     "overview": {
       "description": "Enhance your marketing insights with Lessonly integration. Unlock valuable data for campaign strategies, lead analysis, and operational excellence."
     },
@@ -8748,9 +8839,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Lessonly"
   },
-  "Lever": {
+  "lever": {
     "overview": {
       "description": "Enhance your recruiting insights with Lever integration. Seamlessly merge recruiting data, unlocking insights that shape hiring strategies, candidate analysis, and operational excellence."
     },
@@ -8847,9 +8939,10 @@
           "description": "Improve collaboration among hiring stakeholders to make better hiring decisions."
         }
       ]
-    }
+    },
+    "name": "Lever"
   },
-  "Lightspeed Retail": {
+  "light_speed_retail": {
     "overview": {
       "description": "Enhance your retail insights with Lightspeed Retail integration. Seamlessly merge marketing data, unlocking insights that shape sales strategies, inventory analysis, and operational excellence."
     },
@@ -8942,9 +9035,10 @@
           "description": "Optimize store operations for better performance and profitability."
         }
       ]
-    }
+    },
+    "name": "Lightspeed Retail"
   },
-  "LinkedIn Ad Analytics": {
+  "linkedin_ads": {
     "overview": {
       "description": "Enhance your LinkedIn ad insights with LinkedIn Ad Analytics integration. Gain valuable data and insights to optimize your ad campaigns and improve performance."
     },
@@ -9041,9 +9135,10 @@
           "description": "Track and analyze the return on investment (ROI) of your LinkedIn ad campaigns."
         }
       ]
-    }
+    },
+    "name": "LinkedIn Ad Analytics"
   },
-  "LinkedIn Company Pages": {
+  "linkedin_company_pages": {
     "overview": {
       "description": "Enhance your marketing insights with LinkedIn Company Pages integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -9132,9 +9227,10 @@
           "description": "Gain insights on competitor performance and identify opportunities."
         }
       ]
-    }
+    },
+    "name": "LinkedIn Company Pages"
   },
-  "Lob": {
+  "lob": {
     "overview": {
       "description": "Enhance your direct mail campaigns with Lob integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, audience analysis, and operational excellence."
     },
@@ -9231,9 +9327,10 @@
           "description": "Optimize the recipient journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Lob"
   },
-  "Mailchimp": {
+  "mailchimp": {
     "overview": {
       "description": "Enhance your email marketing strategies with Mailchimp integration. Seamlessly merge marketing data, unlocking insights that shape email campaigns, audience analysis, and operational effectiveness."
     },
@@ -9330,9 +9427,10 @@
           "description": "Optimize the customer journey for improved email experiences."
         }
       ]
-    }
+    },
+    "name": "Mailchimp"
   },
-  "Mailgun": {
+  "mailgun": {
     "overview": {
       "description": "Enhance your email marketing by integrating with Mailgun. Access valuable insights to optimize your email campaigns, track deliverability, and improve engagement."
     },
@@ -9429,9 +9527,10 @@
           "description": "Leverage data insights to personalize email content and increase effectiveness."
         }
       ]
-    }
+    },
+    "name": "Mailgun"
   },
-  "Mandrill": {
+  "mandrill": {
     "overview": {
       "description": "Enhance your email marketing with Mandrill integration. Improve email delivery, track performance, and gain valuable insights for campaign optimization."
     },
@@ -9528,9 +9627,10 @@
           "description": "Improve customer relationships through effective email communication."
         }
       ]
-    }
+    },
+    "name": "Mandrill"
   },
-  "Marin Software": {
+  "marin": {
     "overview": {
       "description": "Enhance your marketing insights with Marin Software integration. Seamlessly merge marketing data, unlocking valuable insights for campaign strategies, lead analysis, and operational excellence."
     },
@@ -9627,9 +9727,10 @@
           "description": "Analyze conversion data to understand the effectiveness of your marketing efforts and optimize conversions."
         }
       ]
-    }
+    },
+    "name": "Marin Software"
   },
-  "Marketo": {
+  "marketo": {
     "overview": {
       "description": "Enhance your marketing automation insights with Marketo integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -9726,9 +9827,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Marketo"
   },
-  "Mavenlink": {
+  "mavenlink": {
     "overview": {
       "description": "Enhance your project management insights with Mavenlink integration. Seamlessly merge project data, unlocking insights that shape project strategies, resource allocation, and operational excellence."
     },
@@ -9825,9 +9927,10 @@
           "description": "Use project data for accurate forecasting and planning."
         }
       ]
-    }
+    },
+    "name": "Mavenlink"
   },
-  "Medallia": {
+  "medallia": {
     "overview": {
       "description": "Enhance your customer experience management with Medallia integration. Seamlessly merge customer feedback data, unlocking insights that shape CX strategies, customer analysis, and operational excellence."
     },
@@ -9904,9 +10007,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Medallia"
   },
-  "Microsoft Advertising": {
+  "bingads": {
     "overview": {
       "description": "Enhance your marketing insights with Microsoft Advertising integration. Merge marketing data seamlessly, unlocking valuable insights for campaign strategies, lead analysis, and operational excellence."
     },
@@ -10003,9 +10107,10 @@
           "description": "Enhance ad targeting strategies to reach the right audience."
         }
       ]
-    }
+    },
+    "name": "Microsoft Advertising"
   },
-  "Microsoft Dynamics 365 CRM": {
+  "dynamics_365": {
     "overview": {
       "description": "Enhance your marketing insights with Microsoft Dynamics 365 CRM integration. Gain valuable insights from marketing data analysis to shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -10102,9 +10207,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Microsoft Dynamics 365 CRM"
   },
-  "Microsoft Dynamics 365 F/O ADLS": {
+  "microsoft_dynamics_365_fo": {
     "overview": {
       "description": "Enhance your marketing automation insights with Microsoft Dynamics 365 F/O ADLS integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -10201,9 +10307,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Microsoft Dynamics 365 F/O ADLS"
   },
-  "Mixpanel": {
+  "mixpanel": {
     "overview": {
       "description": "Enhance your marketing analytics with Mixpanel integration. Gain valuable insights from data analysis to optimize campaign strategies and improve customer experiences."
     },
@@ -10300,9 +10407,10 @@
           "description": "Create a comprehensive marketing dashboard to monitor key metrics and trends."
         }
       ]
-    }
+    },
+    "name": "Mixpanel"
   },
-  "NetSuite SuiteAnalytics": {
+  "netsuite_suiteanalytics": {
     "overview": {
       "description": "Enhance your marketing analytics with NetSuite SuiteAnalytics integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -10399,9 +10507,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "NetSuite SuiteAnalytics"
   },
-  "Okta": {
+  "okta": {
     "overview": {
       "description": "Enhance your marketing automation insights with Okta integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -10498,9 +10607,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Okta"
   },
-  "Open Data DC": {
+  "open_data_dc": {
     "overview": {
       "description": "Unlock valuable insights and enhance your marketing strategies with Open Data DC integration."
     },
@@ -10597,9 +10707,10 @@
           "description": "Analyze and optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Open Data DC"
   },
-  "Open Exchange Rates": {
+  "open_exchange_rates": {
     "overview": {
       "description": "Increase your marketing data insights with Open Exchange Rates integration. Gain valuable insights that can shape currency conversion strategies, financial analysis, and operational excellence."
     },
@@ -10696,9 +10807,10 @@
           "description": "Make informed marketing decisions based on currency conversion insights."
         }
       ]
-    }
+    },
+    "name": "Open Exchange Rates"
   },
-  "Optimizely": {
+  "optimizely": {
     "overview": {
       "description": "Enhance your marketing insights with Optimizely integration. Gain valuable insights to shape campaign strategies, optimize lead analysis, and improve operational excellence."
     },
@@ -10795,9 +10907,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Optimizely"
   },
-  "Oracle Fusion Cloud Applications - CRM": {
+  "oracle_fusion_cloud_apps_crm": {
     "overview": {
       "description": "Enhance your marketing insights with Oracle Fusion Cloud Applications - CRM integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -10894,9 +11007,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Oracle Fusion Cloud Applications - CRM"
   },
-  "Oracle Fusion Cloud Applications - FSCM(ERP & SCM)": {
+  "oracle_fusion_cloud_apps_fscm": {
     "overview": {
       "description": "Enhance your marketing insights with Oracle Fusion Cloud Applications - FSCM(ERP & SCM) integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -10993,9 +11107,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Oracle Fusion Cloud Applications - FSCM(ERP & SCM)"
   },
-  "Oracle Fusion Cloud Applications - HCM": {
+  "oracle_fusion_cloud_apps_hcm": {
     "overview": {
       "description": "Enhance your marketing automation insights with Oracle Fusion Cloud Applications - HCM integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -11092,9 +11207,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Oracle Fusion Cloud Applications - HCM"
   },
-  "Orbit": {
+  "orbit": {
     "overview": {
       "description": "Enhance your marketing insights with Orbit integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -11191,9 +11307,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Orbit"
   },
-  "Outbrain": {
+  "outbrain": {
     "overview": {
       "description": "Enhance your content marketing strategies with Outbrain integration. Drive targeted traffic and expand reach through native advertising and personalized recommendations."
     },
@@ -11278,9 +11395,10 @@
           "description": "Efficiently distribute your content across premium publishers for maximum exposure."
         }
       ]
-    }
+    },
+    "name": "Outbrain"
   },
-  "Outreach": {
+  "outreach": {
     "overview": {
       "description": "Enhance your outreach efforts with the Outreach connector."
     },
@@ -11377,9 +11495,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Outreach"
   },
-  "Pardot": {
+  "pardot": {
     "overview": {
       "description": "Enhance your marketing automation insights with Pardot integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -11476,9 +11595,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Pardot"
   },
-  "Paypal": {
+  "paypal": {
     "overview": {
       "description": "Enhance your marketing insights with Paypal integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -11575,9 +11695,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Paypal"
   },
-  "Paypal Sandbox": {
+  "paypal_sandbox": {
     "overview": {
       "description": "Enhance your marketing insights with Paypal Sandbox integration. Merge marketing data seamlessly for shaping campaign strategies and operational excellence."
     },
@@ -11674,9 +11795,10 @@
           "description": "Detect and prevent transaction fraud for better security measures."
         }
       ]
-    }
+    },
+    "name": "Paypal Sandbox"
   },
-  "Pendo": {
+  "pendo": {
     "overview": {
       "description": "Enhance your marketing insights with Pendo integration. Merge marketing data seamlessly to unlock actionable insights for your campaign strategies and operational excellence."
     },
@@ -11773,9 +11895,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Pendo"
   },
-  "Pinterest Ads": {
+  "pinterest_ads": {
     "overview": {
       "description": "Enhance your advertising campaigns with Pinterest Ads integration. Gain valuable insights and optimize your marketing strategies for maximum impact."
     },
@@ -11848,9 +11971,10 @@
           "description": "Optimize your Pinterest ad campaigns for better performance and results."
         }
       ]
-    }
+    },
+    "name": "Pinterest Ads"
   },
-  "Pipedrive": {
+  "pipedrive": {
     "overview": {
       "description": "Enhance your sales insights with Pipedrive integration. Seamlessly merge sales data, unlocking insights that shape deal strategies, pipeline analysis, and operational excellence."
     },
@@ -11947,9 +12071,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Pipedrive"
   },
-  "Qualtrics": {
+  "qualtrics": {
     "overview": {
       "description": "Enhance your marketing insights with Qualtrics integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -12046,9 +12171,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Qualtrics"
   },
-  "QuickBooks": {
+  "quickbooks": {
     "overview": {
       "description": "Enhance your financial insights with QuickBooks integration. Seamlessly merge financial data, unlocking insights that shape business strategies, financial analysis, and operational excellence."
     },
@@ -12145,9 +12271,10 @@
           "description": "Proactively address financial compliance and mitigate risks."
         }
       ]
-    }
+    },
+    "name": "QuickBooks"
   },
-  "Recharge": {
+  "recharge": {
     "overview": {
       "description": "Enhance your marketing insights with Recharge integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis and operational excellence."
     },
@@ -12244,9 +12371,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Recharge"
   },
-  "Recurly": {
+  "recurly": {
     "overview": {
       "description": "Enhance your subscription management with Recurly integration. Seamlessly sync marketing data, unlocking insights that shape pricing strategies, customer retention, and revenue growth."
     },
@@ -12343,9 +12471,10 @@
           "description": "Leverage data insights to make informed decisions about subscription strategies and offerings."
         }
       ]
-    }
+    },
+    "name": "Recurly"
   },
-  "Reddit Ads": {
+  "reddit_ads": {
     "overview": {
       "description": "Enhance your marketing insights with Reddit Ads integration. Analyze campaign data and unlock valuable insights for campaign strategies and operational excellence."
     },
@@ -12434,9 +12563,10 @@
           "description": "Compare your ad campaign performance to industry benchmarks for optimization."
         }
       ]
-    }
+    },
+    "name": "Reddit Ads"
   },
-  "RetailNext": {
+  "retailnext": {
     "overview": {
       "description": "Enhance your retail analytics with RetailNext integration. Gain valuable insights on customer behavior, store performance, and operational efficiency."
     },
@@ -12513,9 +12643,10 @@
           "description": "Increase average transaction value through strategic pricing and promotions."
         }
       ]
-    }
+    },
+    "name": "RetailNext"
   },
-  "Retently": {
+  "retently": {
     "overview": {
       "description": "Enhance your customer feedback insights with Retently integration. Seamlessly merge customer data, unlocking insights that shape product strategies, customer analysis, and operational excellence."
     },
@@ -12612,9 +12743,10 @@
           "description": "Enhance the overall customer experience based on feedback insights."
         }
       ]
-    }
+    },
+    "name": "Retently"
   },
-  "RingCentral": {
+  "ringcentral": {
     "overview": {
       "description": "Enhance your marketing communications with RingCentral integration. Seamlessly integrate with RingCentral's powerful communication platform, improving customer engagement and streamlining your marketing processes."
     },
@@ -12711,9 +12843,10 @@
           "description": "Improve call routing efficiency to ensure effective customer communication and routing."
         }
       ]
-    }
+    },
+    "name": "RingCentral"
   },
-  "Sage Intacct": {
+  "sage_intacct": {
     "overview": {
       "description": "Enhance your financial management insights with Sage Intacct integration. Seamlessly merge financial data, unlocking insights that shape financial strategies, analysis, and operational excellence."
     },
@@ -12810,9 +12943,10 @@
           "description": "Streamline and optimize tax management processes for enhanced compliance and savings."
         }
       ]
-    }
+    },
+    "name": "Sage Intacct"
   },
-  "Sailthru": {
+  "sailthru": {
     "overview": {
       "description": "Enhance your marketing automation insights with Sailthru integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -12909,9 +13043,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Sailthru"
   },
-  "Salesforce": {
+  "salesforce": {
     "overview": {
       "description": "Enhance your marketing insights with Salesforce integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -13008,9 +13143,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Salesforce"
   },
-  "Salesforce Commerce Cloud": {
+  "salesforce_commerce_cloud": {
     "overview": {
       "description": "Enhance your e-commerce insights with Salesforce Commerce Cloud integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, customer analysis, and operational excellence."
     },
@@ -13107,9 +13243,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Salesforce Commerce Cloud"
   },
-  "Salesforce Marketing Cloud": {
+  "salesforce_marketing_cloud": {
     "overview": {
       "description": "Enhance your marketing automation insights with Salesforce Marketing Cloud integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -13206,9 +13343,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Salesforce Marketing Cloud"
   },
-  "Salesforce Sandbox": {
+  "salesforce_sandbox": {
     "overview": {
       "description": "Enhance your marketing insights with Salesforce Sandbox integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -13305,9 +13443,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Salesforce Sandbox"
   },
-  "Salesloft": {
+  "salesloft": {
     "overview": {
       "description": "Enhance your sales automation insights with Salesloft integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -13404,9 +13543,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Salesloft"
   },
-  "Samsara": {
+  "samsara": {
     "overview": {
       "description": "Enhance your marketing insights with Samsara integration. Access and analyze marketing data to drive campaign strategies, lead analysis, and operational excellence."
     },
@@ -13503,9 +13643,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Samsara"
   },
-  "SAP Business ByDesign": {
+  "sap_business_by_design": {
     "overview": {
       "description": "Enhance your marketing insights with SAP Business ByDesign integration. Seamlessly integrate marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -13602,9 +13743,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "SAP Business ByDesign"
   },
-  "SAP Concur": {
+  "concur": {
     "overview": {
       "description": "Enhance your marketing automation insights with SAP Concur integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -13701,9 +13843,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "SAP Concur"
   },
-  "SAP S/4HANA": {
+  "sap_s4hana": {
     "overview": {
       "description": "Enhance your marketing data insights with SAP S/4HANA integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -13800,9 +13943,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "SAP S/4HANA"
   },
-  "SCORM": {
+  "scorm": {
     "overview": {
       "description": "Enhance your marketing automation insights with SCORM integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -13899,9 +14043,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "SCORM"
   },
-  "Segment": {
+  "segment": {
     "overview": {
       "description": "Enhance your marketing data insights with Segment integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -13998,9 +14143,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Segment"
   },
-  "SendGrid": {
+  "sendgrid": {
     "overview": {
       "description": "Enhance your email marketing strategies with SendGrid integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies and operational excellence."
     },
@@ -14097,9 +14243,10 @@
           "description": "Optimize emails to drive more desired actions from recipients."
         }
       ]
-    }
+    },
+    "name": "SendGrid"
   },
-  "Sendinblue": {
+  "sendinblue": {
     "overview": {
       "description": "Enhance your marketing automation insights with Sendinblue integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -14196,9 +14343,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Sendinblue"
   },
-  "ServiceNow": {
+  "servicenow": {
     "overview": {
       "description": "Enhance your marketing data insights with ServiceNow integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -14295,9 +14443,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "ServiceNow"
   },
-  "ShipStation": {
+  "shipstation": {
     "overview": {
       "description": "Simplify your shipping processes with ShipStation integration. Streamline order fulfillment, tracking, and customer communication for increased efficiency and improved customer satisfaction."
     },
@@ -14394,9 +14543,10 @@
           "description": "Choose the best carriers based on performance metrics, ensuring reliable and cost-effective shipping."
         }
       ]
-    }
+    },
+    "name": "ShipStation"
   },
-  "Shopify": {
+  "shopify": {
     "overview": {
       "description": "Enhance your ecommerce insights with Shopify integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, sales analysis, and operational excellence."
     },
@@ -14473,9 +14623,10 @@
           "description": "Implement strategies to reduce cart abandonment rates and recover lost sales."
         }
       ]
-    }
+    },
+    "name": "Shopify"
   },
-  "SkuVault": {
+  "skuvault": {
     "overview": {
       "description": "Enhance your inventory management with SkuVault integration. Seamlessly sync inventory data, streamlining operations and enabling accurate inventory tracking and forecasting."
     },
@@ -14572,9 +14723,10 @@
           "description": "Efficiently manage and update your product catalog across channels."
         }
       ]
-    }
+    },
+    "name": "SkuVault"
   },
-  "Slack": {
+  "slack": {
     "overview": {
       "description": "Enhance your team collaboration with Slack integration. Seamlessly connect marketing data, unlocking insights that shape communication strategies, workflow analysis, and operational excellence."
     },
@@ -14671,9 +14823,10 @@
           "description": "Streamline communication processes for improved efficiency."
         }
       ]
-    }
+    },
+    "name": "Slack"
   },
-  "Snapchat Ads": {
+  "snapchat_ads": {
     "overview": {
       "description": "Unlock the power of Snapchat Ads integration for your marketing strategies. Analyze campaign performance, audience engagement, and optimize your ad spend for maximum results."
     },
@@ -14754,9 +14907,10 @@
           "description": "Maximize the return on investment (ROI) of your Snapchat ad campaigns."
         }
       ]
-    }
+    },
+    "name": "Snapchat Ads"
   },
-  "Snowplow": {
+  "snowplow": {
     "overview": {
       "description": "Enhance your marketing analytics with Snowplow integration. Gain deeper insights into campaign performance, lead analysis, and operational excellence."
     },
@@ -14853,9 +15007,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Snowplow"
   },
-  "SonarQube": {
+  "sonarqube": {
     "overview": {
       "description": "Enhance your code quality and security with SonarQube integration. Gain actionable insights and optimize your development process."
     },
@@ -14928,9 +15083,10 @@
           "description": "Ensure clear and up-to-date documentation for better code understanding and collaboration."
         }
       ]
-    }
+    },
+    "name": "SonarQube"
   },
-  "Sprout Social": {
+  "sprout": {
     "overview": {
       "description": "Enhance your social media management with Sprout Social integration. Seamlessly merge marketing data, unlocking insights that shape social media strategies, audience analysis, and brand management."
     },
@@ -15027,9 +15183,10 @@
           "description": "Generate comprehensive reports on social media performance and key metrics."
         }
       ]
-    }
+    },
+    "name": "Sprout Social"
   },
-  "Square": {
+  "square": {
     "overview": {
       "description": "Enhance your marketing insights with Square integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -15126,9 +15283,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Square"
   },
-  "Squarespace": {
+  "squarespace": {
     "overview": {
       "description": "Enhance your website building with Squarespace integration. Seamlessly merge marketing data, unlocking insights that shape website strategies, lead analysis, and operational excellence."
     },
@@ -15225,9 +15383,10 @@
           "description": "Optimize the conversion funnel to maximize website conversions."
         }
       ]
-    }
+    },
+    "name": "Squarespace"
   },
-  "Stripe": {
+  "stripe": {
     "overview": {
       "description": "Enhance your marketing insights with Stripe integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -15324,9 +15483,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Stripe"
   },
-  "Stripe Test Mode": {
+  "stripe_test": {
     "overview": {
       "description": "Enhance your marketing insights with Stripe test mode integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -15423,9 +15583,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Stripe Test Mode"
   },
-  "Subscript": {
+  "subscript": {
     "overview": {
       "description": "Enhance your marketing automation insights with Subscript integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -15522,9 +15683,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Subscript"
   },
-  "SurveyMonkey": {
+  "survey_monkey": {
     "overview": {
       "description": "Enhance your survey insights with SurveyMonkey integration. Seamlessly merge survey data, unlocking insights that shape research strategies, audience analysis, and data-driven decision making."
     },
@@ -15621,9 +15783,10 @@
           "description": "Analyze and report survey results effectively using data analysis techniques."
         }
       ]
-    }
+    },
+    "name": "SurveyMonkey"
   },
-  "Survicate": {
+  "survicate": {
     "overview": {
       "description": "Enhance your marketing insights with Survicate integration. Merge marketing data to unlock valuable insights for campaign strategies and lead analysis."
     },
@@ -15720,9 +15883,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Survicate"
   },
-  "Taboola": {
+  "taboola": {
     "overview": {
       "description": "Enhance your marketing insights with Taboola integration. Unlock actionable data that shapes campaign strategies and leads analysis."
     },
@@ -15815,9 +15979,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Taboola"
   },
-  "Talkdesk": {
+  "talkdesk": {
     "overview": {
       "description": "Enhance your customer service insights with Talkdesk integration. Seamlessly merge customer data, unlocking insights that shape support strategies, agent analysis, and operational excellence."
     },
@@ -15914,9 +16079,10 @@
           "description": "Optimize support processes to minimize customer effort and improve satisfaction."
         }
       ]
-    }
+    },
+    "name": "Talkdesk"
   },
-  "The Trade Desk": {
+  "the_trade_desk": {
     "overview": {
       "description": "Enhance your programmatic advertising insights with The Trade Desk integration. Seamlessly merge marketing data, unlocking insights that shape ad campaign strategies, audience analysis, and operational excellence."
     },
@@ -16013,108 +16179,94 @@
           "description": "Enhance ad personalization based on user data to increase engagement and conversions."
         }
       ]
-    }
+    },
+    "name": "The Trade Desk"
   },
-  "Tiktok Ads": {
+  "tiktok_ads": {
     "overview": {
-      "description": "Enhance your marketing insights with Tiktok Ads integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
+      "description": "Enhance your advertising insights with TikTok Ads integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, audience analysis, and operational excellence."
     },
     "body": {
-      "description": "Amplify your marketing strategies with Tiktok Ads integration, gaining actionable insights from campaign data analysis."
+      "description": "Amplify your advertising strategies with TikTok Ads integration, gaining actionable insights from campaign data analysis."
     },
     "schema_name": "tiktok_ads",
     "bullets_for_metrics": {
-      "title": "What are the most popular metrics in Tiktok Ads to analyze?",
+      "title": "What are the most popular metrics in TikTok Ads to analyze?",
       "bullets": [
         {
-          "title": "Lead Engagement",
-          "description": "Assess lead interaction and engagement with marketing materials."
+          "title": "Audience Reach",
+          "description": "Assess the reach and exposure of your campaigns to the TikTok audience."
+        },
+        {
+          "title": "Engagement Rates",
+          "description": "Measure the level of engagement and interaction with your TikTok Ads."
+        },
+        {
+          "title": "Conversion Tracking",
+          "description": "Track the percentage of users that convert into customers from your TikTok campaigns."
         },
         {
           "title": "Ad Performance",
-          "description": "Analyze ad campaign success rates, views, and click-through rates."
+          "description": "Analyze the success rates and effectiveness of your TikTok Ads."
         },
         {
-          "title": "Conversion Rates",
-          "description": "Measure the percentage of leads that convert into customers."
+          "title": "Audience Segmentation",
+          "description": "Evaluate the efficiency of targeting and segmenting strategies on TikTok."
         },
         {
-          "title": "Audience Targeting Effectiveness",
-          "description": "Evaluate the efficiency of audience targeting strategies."
+          "title": "Creative Optimization",
+          "description": "Optimize your creative elements and ad formats for better results on TikTok."
         },
         {
-          "title": "Campaign Performance Analysis",
-          "description": "Assess the effectiveness of advertising campaigns."
+          "title": "Campaign Budgeting",
+          "description": "Manage and analyze your advertising budget allocation for TikTok campaigns."
         },
         {
-          "title": "Landing Page Performance",
-          "description": "Analyze landing page effectiveness and conversion rates."
-        },
-        {
-          "title": "Social Media Engagement",
-          "description": "Evaluate audience engagement and interactions on Tiktok Ads."
-        },
-        {
-          "title": "Lead Scoring",
-          "description": "Assess the accuracy and impact of lead scoring models."
-        },
-        {
-          "title": "A/B Testing Insights",
-          "description": "Gather insights from A/B testing experiments on campaigns."
-        },
-        {
-          "title": "Customer Journey Analysis",
-          "description": "Track and optimize the customer journey across marketing touchpoints."
+          "title": "ROI Tracking",
+          "description": "Track the return on investment for your TikTok ad spend."
         }
       ]
     },
     "bullets_for_reasons": {
-      "title": "Why analyze Tiktok Ads?",
+      "title": "Why analyze TikTok Ads?",
       "bullets": [
         {
-          "title": "Enhance Campaign Strategies",
-          "description": "Refine marketing campaigns based on data-driven insights."
+          "title": "Improved Audience Targeting",
+          "description": "Refine your advertisement targeting based on data-driven insights from TikTok Ads."
         },
         {
-          "title": "Lead Analysis",
-          "description": "Gain deeper understanding of lead behavior and preferences."
+          "title": "Enhanced Engagement",
+          "description": "Gain deeper understanding of audience behavior and preferences on TikTok."
         },
         {
-          "title": "Improve Conversion Rates",
-          "description": "Optimize strategies to increase lead-to-customer conversion rates."
+          "title": "Increased Conversions",
+          "description": "Optimize strategies to increase conversion rates and drive more sales on TikTok."
         },
         {
-          "title": "Effective Audience Targeting",
-          "description": "Craft more targeted and personalized marketing campaigns."
+          "title": "Effective Segmentation",
+          "description": "Craft more targeted and personalized ad campaigns on TikTok."
         },
         {
-          "title": "Campaign Optimization",
-          "description": "Enhance advertising campaigns for improved results."
+          "title": "Creative Optimization",
+          "description": "Maximize the performance of your ad creatives on TikTok for better engagement."
         },
         {
-          "title": "Landing Page Optimization",
-          "description": "Optimize landing pages for better conversion rates."
+          "title": "Budget Efficiency",
+          "description": "Optimize your ad budget allocation and maximize the ROI on TikTok."
         },
         {
-          "title": "Social Media Strategy",
-          "description": "Fine-tune social media marketing strategies for higher engagement."
+          "title": "Campaign Performance",
+          "description": "Track and analyze the performance of your TikTok ad campaigns to make data-driven decisions."
         },
         {
-          "title": "Refined Lead Scoring",
-          "description": "Improve lead scoring models for more accurate lead prioritization."
-        },
-        {
-          "title": "Effective A/B Testing",
-          "description": "Enhance A/B testing strategies based on data insights."
-        },
-        {
-          "title": "Customer Journey Enhancement",
-          "description": "Optimize the customer journey for improved customer experiences."
+          "title": "ROI Analysis",
+          "description": "Analyze the return on investment and cost-effectiveness of your TikTok ad spend."
         }
       ]
-    }
+    },
+    "name": "TikTok Ads"
   },
-  "Twitter Ads": {
+  "twitter_ads": {
     "overview": {
       "description": "Enhance your marketing insights with Twitter Ads integration. Seamlessly merge marketing data, unlocking insights that shape ad strategies, reach analysis, and campaign effectiveness."
     },
@@ -16211,9 +16363,10 @@
           "description": "Optimize ad placement strategies for maximum impact on Twitter."
         }
       ]
-    }
+    },
+    "name": "Twitter Ads"
   },
-  "Twitter Organic": {
+  "twitter": {
     "overview": {
       "description": "Enhance your marketing insights with Twitter Organic integration. Access valuable data to shape your campaign strategies, analyze leads, and improve performance."
     },
@@ -16298,9 +16451,10 @@
           "description": "Optimize your follower acquisition strategies for targeted growth."
         }
       ]
-    }
+    },
+    "name": "Twitter Organic"
   },
-  "Typeform": {
+  "typeform": {
     "overview": {
       "description": "Enhance your data collection and analysis with Typeform integration. Seamlessly integrate Typeform with your marketing efforts to gather valuable insights for campaign strategies and lead analysis."
     },
@@ -16365,9 +16519,10 @@
           "description": "Improve user experience with forms and surveys to increase engagement and response rates."
         }
       ]
-    }
+    },
+    "name": "Typeform"
   },
-  "UserVoice": {
+  "uservoice": {
     "overview": {
       "description": "Enhance your user feedback management with UserVoice integration. Seamlessly collect and analyze user feedback, gaining insights that drive product improvements and customer satisfaction."
     },
@@ -16464,9 +16619,10 @@
           "description": "Make data-driven decisions by incorporating user feedback into the decision-making process."
         }
       ]
-    }
+    },
+    "name": "UserVoice"
   },
-  "Verizon Media": {
+  "yahoo_gemini": {
     "overview": {
       "description": "Unlock valuable marketing insights with Verizon Media integration, seamlessly merging marketing data to shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -16563,9 +16719,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Verizon Media"
   },
-  "When I Work": {
+  "when_i_work": {
     "overview": {
       "description": "Enhance your scheduling and workforce management with When I Work integration. Seamlessly integrate scheduling data, unlocking insights that optimize workforce efficiency, employee time tracking, and operational excellence."
     },
@@ -16622,9 +16779,10 @@
           "description": "Make informed scheduling decisions based on employee availability insights."
         }
       ]
-    }
+    },
+    "name": "When I Work"
   },
-  "WooCommerce": {
+  "woocommerce": {
     "overview": {
       "description": "Enhance your e-commerce insights with WooCommerce integration. Seamlessly merge marketing data, unlocking insights that shape sales strategies, customer analysis, and operational excellence."
     },
@@ -16721,9 +16879,10 @@
           "description": "Implement initiatives to improve customer loyalty and reduce churn rates."
         }
       ]
-    }
+    },
+    "name": "WooCommerce"
   },
-  "Workday HCM": {
+  "workday_hcm": {
     "overview": {
       "description": "Enhance your HR management with Workday HCM integration. Seamlessly merge HR data, unlocking insights that shape workforce strategies, talent analysis, and operational excellence."
     },
@@ -16812,9 +16971,10 @@
           "description": "Make data-backed decisions for workforce planning and optimization."
         }
       ]
-    }
+    },
+    "name": "Workday HCM"
   },
-  "Workday RaaS": {
+  "workday": {
     "overview": {
       "description": "Enhance your marketing automation insights with Workday RaaS integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -16911,9 +17071,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Workday RaaS"
   },
-  "Wrike": {
+  "wrike": {
     "overview": {
       "description": "Enhance your project management insights with Wrike integration. Seamlessly merge marketing data, unlocking insights that shape project strategies, task analysis, and operational excellence."
     },
@@ -17014,9 +17175,10 @@
           "description": "Generate customized reports for project performance analysis."
         }
       ]
-    }
+    },
+    "name": "Wrike"
   },
-  "Xero": {
+  "xero": {
     "overview": {
       "description": "Enhance your marketing automation insights with Xero integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -17113,9 +17275,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Xero"
   },
-  "YouTube Analytics": {
+  "youtube_analytics": {
     "overview": {
       "description": "Unlock valuable insights from your YouTube data with YouTube Analytics integration."
     },
@@ -17212,9 +17375,10 @@
           "description": "Optimize ad placements and formats to maximize revenue generated from your YouTube videos."
         }
       ]
-    }
+    },
+    "name": "YouTube Analytics"
   },
-  "Zendesk Chat": {
+  "zendesk_chat": {
     "overview": {
       "description": "Enhance your customer support with Zendesk Chat integration. Seamlessly integrate chat data into your marketing analytics, enabling better understanding of customer interactions and support performance."
     },
@@ -17287,9 +17451,10 @@
           "description": "Optimize chatbot performance to provide efficient self-service options for customers."
         }
       ]
-    }
+    },
+    "name": "Zendesk Chat"
   },
-  "Zendesk Sell": {
+  "zendesk_sell": {
     "overview": {
       "description": "Enhance your sales insights with Zendesk Sell integration. Seamlessly merge sales data, unlocking insights that shape sales strategies, lead analysis, and operational excellence."
     },
@@ -17362,9 +17527,10 @@
           "description": "Improve sales forecasting models for more accurate predictions."
         }
       ]
-    }
+    },
+    "name": "Zendesk Sell"
   },
-  "Zendesk Sunshine": {
+  "zendesk_sunshine": {
     "overview": {
       "description": "Enhance your marketing insights with Zendesk Sunshine integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -17461,9 +17627,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Zendesk Sunshine"
   },
-  "Zendesk Support": {
+  "zendesk": {
     "overview": {
       "description": "Enhance your customer support insights with Zendesk Support integration. Seamlessly merge support data, unlocking insights that shape customer service strategies, ticket analysis, and operational excellence."
     },
@@ -17552,9 +17719,10 @@
           "description": "Monitor and improve adherence to service level agreements for response and resolution times."
         }
       ]
-    }
+    },
+    "name": "Zendesk Support"
   },
-  "Zoho CRM": {
+  "zoho_crm": {
     "overview": {
       "description": "Enhance your marketing insights with Zoho CRM integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -17651,9 +17819,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Zoho CRM"
   },
-  "Zuora": {
+  "zuora": {
     "overview": {
       "description": "Enhance your subscription management with Zuora integration. Seamlessly merge marketing data, unlocking insights that shape pricing strategies, customer analysis, and revenue optimization."
     },
@@ -17750,9 +17919,10 @@
           "description": "Optimize pricing models for improved revenue and customer satisfaction."
         }
       ]
-    }
+    },
+    "name": "Zuora"
   },
-  "Zuora Sandbox": {
+  "zuora_sandbox": {
     "overview": {
       "description": "Enhance your marketing data insights with Zuora Sandbox integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -17849,9 +18019,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Zuora Sandbox"
   },
-  "Apollo": {
+  "apollo": {
     "overview": {
       "description": "Enhance your marketing insights with Apollo integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -17948,9 +18119,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Apollo"
   },
-  "AgilityAds": {
+  "agility_ads": {
     "overview": {
       "description": "Enhance your marketing insights with AgilityAds integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -18047,9 +18219,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "AgilityAds"
   },
-  "Google Business Profile": {
+  "business_profile": {
     "overview": {
       "description": "Enhance your marketing insights with Google Business Profile integration. Access valuable data to shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -18146,9 +18319,10 @@
           "description": "Optimize the customer experience by leveraging insights from your Google Business Profile."
         }
       ]
-    }
+    },
+    "name": "Google Business Profile"
   },
-  "Call Tracking Metrics": {
+  "call_tracking_metrics": {
     "overview": {
       "description": "Enhance your marketing insights with Call Tracking Metrics integration. Seamlessly merge call data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -18245,9 +18419,10 @@
           "description": "Optimize the customer experience on calls for improved satisfaction."
         }
       ]
-    }
+    },
+    "name": "Call Tracking Metrics"
   },
-  "Franconnect": {
+  "franconnect": {
     "overview": {
       "description": "Enhance your marketing automation insights with Franconnect integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -18344,108 +18519,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Franconnect"
   },
-  "Google Ads GCF": {
-    "overview": {
-      "description": "Enhance your marketing insights with Google Ads GCF integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
-    },
-    "body": {
-      "description": "Amplify your marketing strategies with Google Ads GCF integration, gaining actionable insights from campaign data analysis."
-    },
-    "schema_name": "google_ads",
-    "bullets_for_metrics": {
-      "title": "What are the most popular metrics in Google Ads GCF to analyze?",
-      "bullets": [
-        {
-          "title": "Lead Engagement",
-          "description": "Assess lead interaction and engagement with marketing materials."
-        },
-        {
-          "title": "Ad Performance",
-          "description": "Analyze ad campaign success rates, impressions, and click-through rates."
-        },
-        {
-          "title": "Conversion Rates",
-          "description": "Measure the percentage of leads that convert into customers."
-        },
-        {
-          "title": "Segmentation Effectiveness",
-          "description": "Evaluate the efficiency of audience segmentation strategies."
-        },
-        {
-          "title": "Automation Workflow Analysis",
-          "description": "Assess the effectiveness of marketing automation workflows."
-        },
-        {
-          "title": "Landing Page Performance",
-          "description": "Analyze landing page effectiveness and conversion rates."
-        },
-        {
-          "title": "Social Media Engagement",
-          "description": "Evaluate audience engagement and interactions on social media platforms."
-        },
-        {
-          "title": "Lead Scoring",
-          "description": "Assess the accuracy and impact of lead scoring models."
-        },
-        {
-          "title": "A/B Testing Insights",
-          "description": "Gather insights from A/B testing experiments on campaigns."
-        },
-        {
-          "title": "Customer Journey Analysis",
-          "description": "Track and optimize the customer journey across marketing touchpoints."
-        }
-      ]
-    },
-    "bullets_for_reasons": {
-      "title": "Why analyze Google Ads GCF?",
-      "bullets": [
-        {
-          "title": "Enhance Campaign Strategies",
-          "description": "Refine marketing campaigns based on data-driven insights."
-        },
-        {
-          "title": "Lead Analysis",
-          "description": "Gain deeper understanding of lead behavior and preferences."
-        },
-        {
-          "title": "Improve Conversion Rates",
-          "description": "Optimize strategies to increase lead-to-customer conversion rates."
-        },
-        {
-          "title": "Effective Segmentation",
-          "description": "Craft more targeted and personalized marketing campaigns."
-        },
-        {
-          "title": "Workflow Optimization",
-          "description": "Enhance marketing automation workflows for improved results."
-        },
-        {
-          "title": "Landing Page Optimization",
-          "description": "Optimize landing pages for better conversion rates."
-        },
-        {
-          "title": "Social Media Strategy",
-          "description": "Fine-tune social media marketing strategies for higher engagement."
-        },
-        {
-          "title": "Refined Lead Scoring",
-          "description": "Improve lead scoring models for more accurate lead prioritization."
-        },
-        {
-          "title": "Effective A/B Testing",
-          "description": "Enhance A/B testing strategies based on data insights."
-        },
-        {
-          "title": "Customer Journey Enhancement",
-          "description": "Optimize the customer journey for improved customer experiences."
-        }
-      ]
-    }
-  },
-  "GravityForms": {
+  "gravity_forms": {
     "overview": {
       "description": "Enhance your marketing automation insights with GravityForms integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -18542,9 +18619,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "GravityForms"
   },
-  "Ground Truth": {
+  "ground_truth": {
     "overview": {
       "description": "Enhance your marketing automation insights with Ground Truth integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -18641,9 +18719,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Ground Truth"
   },
-  "Impact": {
+  "impact": {
     "overview": {
       "description": "Enhance your marketing insights with Impact integration. Merge marketing data seamlessly to unlock valuable insights for campaign strategies, lead analysis, and operational excellence."
     },
@@ -18740,9 +18819,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Impact"
   },
-  "Linkedin Creative": {
+  "linkedin_creative": {
     "overview": {
       "description": "Enhance your marketing insights with Linkedin Creative integration. Merge data from Linkedin and gain valuable insights for campaign strategies, lead analysis, and operational excellence."
     },
@@ -18831,9 +18911,10 @@
           "description": "Optimize the customer journey for better experiences on Linkedin and other marketing touchpoints."
         }
       ]
-    }
+    },
+    "name": "Linkedin Creative"
   },
-  "Localiq": {
+  "localiq": {
     "overview": {
       "description": "Enhance your marketing insights with Localiq integration. Seamlessly merge marketing data, unlocking valuable insights for campaign strategies and lead analysis."
     },
@@ -18930,9 +19011,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Localiq"
   },
-  "Quora Ads": {
+  "quora_ads": {
     "overview": {
       "description": "Enhance your advertising insights with Quora Ads integration. Unlock valuable data to shape your advertising strategies, analyze campaign performance, and drive better results."
     },
@@ -19005,9 +19087,10 @@
           "description": "Maximize the ROI of your advertising budget on Quora."
         }
       ]
-    }
+    },
+    "name": "Quora Ads"
   },
-  "Sem Rush": {
+  "sem_rush": {
     "overview": {
       "description": "Enhance your marketing insights with Sem Rush integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -19104,9 +19187,10 @@
           "description": "Gain a competitive edge by leveraging competitor insights and strategies."
         }
       ]
-    }
+    },
+    "name": "Sem Rush"
   },
-  "Simplifi": {
+  "simplifi": {
     "overview": {
       "description": "Enhance your marketing analytics with Simplifi integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -19203,9 +19287,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Simplifi"
   },
-  "StackAdapt": {
+  "stack_adapt": {
     "overview": {
       "description": "Enhance your marketing insights with StackAdapt integration. Merge marketing data to unlock valuable campaign strategies and lead analysis."
     },
@@ -19282,9 +19367,10 @@
           "description": "Make informed decisions based on data insights and visualizations."
         }
       ]
-    }
+    },
+    "name": "StackAdapt"
   },
-  "Synuma": {
+  "synuma": {
     "overview": {
       "description": "Enhance your marketing automation insights with Synuma integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -19381,92 +19467,10 @@
           "description": "Optimize the customer journey for improved customer experiences."
         }
       ]
-    }
+    },
+    "name": "Synuma"
   },
-  "TikTok Ads": {
-    "overview": {
-      "description": "Enhance your advertising insights with TikTok Ads integration. Seamlessly merge marketing data, unlocking insights that shape campaign strategies, audience analysis, and operational excellence."
-    },
-    "body": {
-      "description": "Amplify your advertising strategies with TikTok Ads integration, gaining actionable insights from campaign data analysis."
-    },
-    "schema_name": "tiktok_ads",
-    "bullets_for_metrics": {
-      "title": "What are the most popular metrics in TikTok Ads to analyze?",
-      "bullets": [
-        {
-          "title": "Audience Reach",
-          "description": "Assess the reach and exposure of your campaigns to the TikTok audience."
-        },
-        {
-          "title": "Engagement Rates",
-          "description": "Measure the level of engagement and interaction with your TikTok Ads."
-        },
-        {
-          "title": "Conversion Tracking",
-          "description": "Track the percentage of users that convert into customers from your TikTok campaigns."
-        },
-        {
-          "title": "Ad Performance",
-          "description": "Analyze the success rates and effectiveness of your TikTok Ads."
-        },
-        {
-          "title": "Audience Segmentation",
-          "description": "Evaluate the efficiency of targeting and segmenting strategies on TikTok."
-        },
-        {
-          "title": "Creative Optimization",
-          "description": "Optimize your creative elements and ad formats for better results on TikTok."
-        },
-        {
-          "title": "Campaign Budgeting",
-          "description": "Manage and analyze your advertising budget allocation for TikTok campaigns."
-        },
-        {
-          "title": "ROI Tracking",
-          "description": "Track the return on investment for your TikTok ad spend."
-        }
-      ]
-    },
-    "bullets_for_reasons": {
-      "title": "Why analyze TikTok Ads?",
-      "bullets": [
-        {
-          "title": "Improved Audience Targeting",
-          "description": "Refine your advertisement targeting based on data-driven insights from TikTok Ads."
-        },
-        {
-          "title": "Enhanced Engagement",
-          "description": "Gain deeper understanding of audience behavior and preferences on TikTok."
-        },
-        {
-          "title": "Increased Conversions",
-          "description": "Optimize strategies to increase conversion rates and drive more sales on TikTok."
-        },
-        {
-          "title": "Effective Segmentation",
-          "description": "Craft more targeted and personalized ad campaigns on TikTok."
-        },
-        {
-          "title": "Creative Optimization",
-          "description": "Maximize the performance of your ad creatives on TikTok for better engagement."
-        },
-        {
-          "title": "Budget Efficiency",
-          "description": "Optimize your ad budget allocation and maximize the ROI on TikTok."
-        },
-        {
-          "title": "Campaign Performance",
-          "description": "Track and analyze the performance of your TikTok ad campaigns to make data-driven decisions."
-        },
-        {
-          "title": "ROI Analysis",
-          "description": "Analyze the return on investment and cost-effectiveness of your TikTok ad spend."
-        }
-      ]
-    }
-  },
-  "Unbounce": {
+  "unbounce": {
     "overview": {
       "description": "Unlock powerful marketing insights with Unbounce integration. Seamlessly merge marketing data to shape campaign strategies, lead analysis, and operational excellence."
     },
@@ -19519,594 +19523,660 @@
           "description": "Enhance A/B testing strategies based on data insights."
         }
       ]
-    }
+    },
+    "name": "Unbounce"
   },
-  "Amazon DocumentDB": {
+  "documentdb": {
     "overview": {
       "description": "Experience the power of Amazon DocumentDB with the connector. Get seamless integration and easy management for your MongoDB-compatible workloads in a fully managed database service. Enjoy the scalability, durability, and security benefits of Amazon DocumentDB, and streamline your data operations."
     },
     "body": {
       "description": "Unlock the potential of your MongoDB-compatible workloads with Amazon DocumentDB. Leverage the fully managed database service to optimize performance, achieve high availability, and simplify administration. Explore advanced functionalities and ensure seamless data operations with ease."
     },
-    "schema_name": "documentdb"
+    "schema_name": "documentdb",
+    "name": "Amazon DocumentDB"
   },
-  "Amazon Kinesis Firehose": {
+  "kinesis": {
     "overview": {
       "description": "Stream, transform, and load large volumes of data from various sources into AWS with Amazon Kinesis Firehose. Simplify the process of ingesting data by automatically delivering it to data stores and analytical tools for real-time analysis and insights."
     },
     "body": {
       "description": "Effortlessly stream and load data into AWS with Amazon Kinesis Firehose. Automate the delivery of data from multiple sources for seamless processing and real-time analytics."
     },
-    "schema_name": "kinesis"
+    "schema_name": "kinesis",
+    "name": "Amazon Kinesis Firehose"
   },
-  "Amazon S3": {
+  "s3": {
     "overview": {
       "description": "Store and retrieve any amount of data from anywhere on the web with Amazon S3. Experience secure, durable, and scalable cloud storage solution for your applications."
     },
     "body": {
       "description": "Utilize the power of Amazon S3 for reliable and scalable cloud storage. Store, manage, and access your data effortlessly with Amazon S3."
     },
-    "schema_name": "s3"
+    "schema_name": "s3",
+    "name": "Amazon S3"
   },
-  "Aurora MySQL": {
+  "aurora": {
     "overview": {
       "description": "Experience high-performance and scalable database management with the Aurora MySQL connector. Seamlessly handle large data sets, power critical applications, and empower your business with advanced scalability and reliability. Leverage the cutting-edge capabilities of Aurora MySQL to streamline your data operations, drive growth, and ensure smoother workflows."
     },
     "body": {
       "description": "Unlock the power of your data with the Aurora MySQL connector. Optimize database performance, scale effortlessly, and enhance data management for your applications, all with the advanced features and outstanding performance of Aurora MySQL."
     },
-    "schema_name": "aurora"
+    "schema_name": "aurora",
+    "name": "Aurora MySQL"
   },
-  "Aurora Postgres": {
+  "aurora_postgres": {
     "overview": {
       "description": "Description of Aurora Postgres"
     },
     "body": {
       "description": "Body of Aurora Postgres"
     },
-    "schema_name": "aurora_postgres"
+    "schema_name": "aurora_postgres",
+    "name": "Aurora Postgres"
   },
-  "AWS CloudTrail": {
+  "aws_cloudtrial": {
     "overview": {
       "description": "Capture, archive, and analyze AWS CloudTrail log files to gain insights into user activity, API calls, and resource changes in your AWS account. Enable auditing, compliance, and security monitoring with the AWS CloudTrail connector."
     },
     "body": {
       "description": "Gain visibility and control over your AWS account activities with AWS CloudTrail. Analyze user behavior, track API activity, and detect and respond to security threats with ease."
     },
-    "schema_name": "aws_cloudtrial"
+    "schema_name": "aws_cloudtrial",
+    "name": "AWS CloudTrail"
   },
-  "AWS Lambda": {
+  "aws_lambda": {
     "overview": {
       "description": "Create and run serverless applications using AWS Lambda. Execute your code in response to events, scale automatically, and only pay for the compute time consumed. Develop and deploy your applications without having to manage servers or infrastructure."
     },
     "body": {
       "description": "AWS Lambda allows you to build and run applications without the need for servers. Simply write your code, and Lambda handles the rest. With automatic scaling and pay-per-use pricing, Lambda provides a cost-effective and scalable solution for your serverless applications."
     },
-    "schema_name": "aws_lambda"
+    "schema_name": "aws_lambda",
+    "name": "AWS Lambda"
   },
-  "Azure Blob Storage": {
+  "azure_blob_storage": {
     "overview": {
       "description": "Experience seamless storage with Azure Blob Storage. Easily store and manage massive amounts of unstructured data, such as text or binary data, in the cloud. Benefit from high scalability, durability, and availability, making it ideal for a wide range of applications. Streamline your data storage and retrieval process with Azure Blob Storage."
     },
     "body": {
       "description": "Effortlessly manage and store unstructured data with Azure Blob Storage. From text documents to images, videos, and more, securely store and access your data from anywhere in the world. Leverage the power of Azure Blob Storage for seamless data storage and retrieval."
     },
-    "schema_name": "azure_blob_storage"
+    "schema_name": "azure_blob_storage",
+    "name": "Azure Blob Storage"
   },
-  "Azure Cosmos DB - NoSQL API": {
+  "cosmos": {
     "overview": {
       "description": "Build scalable and globally distributed applications with Azure Cosmos DB - NoSQL API connector. Seamlessly store, query, and analyze data in a schema-free and flexible manner. Harness the power of Azure's global presence and industry-leading SLAs for unmatched scalability, availability, and performance. Accelerate time to market and deliver seamless user experiences with Azure Cosmos DB - NoSQL API."
     },
     "body": {
       "description": "Unlock the potential of your applications with Azure Cosmos DB - NoSQL API. Store and retrieve data at scale, with low latency and high throughput. Experience the benefits of a fully managed, multi-model database service that supports schema-free data and provides global distribution across Azure regions."
     },
-    "schema_name": "cosmos"
+    "schema_name": "cosmos",
+    "name": "Azure Cosmos DB - NoSQL API"
   },
-  "Azure Functions": {
+  "azure_function": {
     "overview": {
       "description": "Create serverless applications and automate workflows with Azure Functions. Execute your code on-demand, trigger functions based on events, and scale seamlessly. Simplify development and deployment, and focus on building the future of your applications."
     },
     "body": {
       "description": "Empower your applications with the power of Azure Functions. Build serverless architectures, automate workflows, and integrate with various services. Unlock scalability, flexibility, and productivity with Azure Functions."
     },
-    "schema_name": "azure_function"
+    "schema_name": "azure_function",
+    "name": "Azure Functions"
   },
-  "Azure MariaDB": {
+  "maria_azure": {
     "overview": {
       "description": "Experience the power of Azure MariaDB connector. Seamlessly manage your MariaDB database in the cloud with unmatched performance, scalability, and security. Leverage Azure's advanced features and global availability to ensure your database is always accessible and optimized for your application needs."
     },
     "body": {
       "description": "Achieve unparalleled database management with Azure MariaDB. Harness the full potential of your MariaDB-powered application with seamless integration, advanced features, and global availability on the Azure platform."
     },
-    "schema_name": "maria_azure"
+    "schema_name": "maria_azure",
+    "name": "Azure MariaDB"
   },
-  "Azure MySQL": {
+  "mysql_azure": {
     "overview": {
       "description": "Experience seamless data management with Azure MySQL connector. Easily create, manage, and scale your MySQL databases on the Azure platform. Benefit from the performance, scalability, and availability offered by Azure to ensure fast and reliable access to your data."
     },
     "body": {
       "description": "Take advantage of Azure MySQL to effortlessly manage and optimize your MySQL databases. Leverage the power and flexibility of Azure's advanced features to streamline your database operations and enhance your application performance."
     },
-    "schema_name": "mysql_azure"
+    "schema_name": "mysql_azure",
+    "name": "Azure MySQL"
   },
-  "Azure PostgreSQL Database": {
+  "azure_postgres": {
     "overview": {
       "description": "Experience the power of Azure PostgreSQL Database connector. Seamlessly manage your relational databases with ease. Leverage the robust features and scalability of Azure to optimize your database operations, ensure data integrity, and streamline your application development."
     },
     "body": {
       "description": "Harness the capabilities of Azure PostgreSQL Database connector to elevate your database management experience. Boost performance, ensure secure data storage, and optimize application development with ease."
     },
-    "schema_name": "azure_postgres"
+    "schema_name": "azure_postgres",
+    "name": "Azure PostgreSQL Database"
   },
-  "Azure SQL Database": {
+  "azure_sql_db": {
     "overview": {
       "description": "Experience seamless data management with Azure SQL Database connector. Easily scale and secure your databases, ensuring high availability and performance. Empower your applications with features like built-in intelligence and advanced analytics. Leverage Azure's powerful cloud infrastructure for reliable and efficient database operations."
     },
     "body": {
       "description": "Optimize your data management with Azure SQL Database. Unlock the power of advanced analytics and intelligent features. Scale up or down effortlessly, while ensuring data security and high availability across your applications."
     },
-    "schema_name": "azure_sql_db"
+    "schema_name": "azure_sql_db",
+    "name": "Azure SQL Database"
   },
-  "Azure SQL Managed Instance": {
+  "azure_sql_managed_db": {
     "overview": {
       "description": "Description of Azure SQL Managed Instance connector."
     },
     "body": {
       "description": "Description of body for Azure SQL Managed Instance connector."
     },
-    "schema_name": "azure_sql_managed_db"
+    "schema_name": "azure_sql_managed_db",
+    "name": "Azure SQL Managed Instance"
   },
-  "BigQuery": {
+  "bigquery_db": {
     "overview": {
       "description": "Experience the power of Google BigQuery with our connector. Seamlessly analyze massive datasets, gain valuable insights, and make data-driven decisions with ease. Leverage Google's infrastructure to process and query data at scale, unlocking the full potential of your business intelligence."
     },
     "body": {
       "description": "Unlock the true potential of your data with the BigQuery connector. Analyze, visualize, and share large datasets with ease, while benefiting from the speed and reliability of Google's world-class infrastructure."
     },
-    "schema_name": "bigquery_db"
+    "schema_name": "bigquery_db",
+    "name": "BigQuery"
   },
-  "Box": {
+  "box": {
     "overview": {
       "description": "Experience seamless file collaboration and sharing with Box connector. Securely store, manage, and access your files from anywhere, on any device. Streamline your workflows, enhance team collaboration, and increase productivity with Box."
     },
     "body": {
       "description": "Streamline your file management and collaboration processes with Box. Easily share, access, and collaborate on files and documents. Simplify workflows, improve productivity, and ensure data security with Box."
     },
-    "schema_name": "box"
+    "schema_name": "box",
+    "name": "Box"
   },
-  "Buildkite": {
+  "buildkite": {
     "overview": {
       "description": "Experience a new paradigm of continuous integration and delivery with Buildkite. Streamline your development workflow, automate testing, and deploy your applications with confidence. Boost team collaboration, accelerate time to market, and ensure high-quality software releases, all with Buildkite."
     },
     "body": {
       "description": "Streamline your development workflow, automate testing, and deploy your applications with confidence using Buildkite – the ultimate continuous integration and delivery platform."
     },
-    "schema_name": "buildkite"
+    "schema_name": "buildkite",
+    "name": "Buildkite"
   },
-  "Chameleon": {
+  "chameleon": {
     "overview": {
       "description": "Create a captivating user experience with the Chameleon connector. Seamlessly engage your audience with dynamic content and personalized messaging. Empower your marketing campaigns with Chameleon's powerful features and user-friendly interface. Elevate user engagement, boost conversions, and drive success, all with Chameleon."
     },
     "body": {
       "description": "Elevate engagement and conversions with Chameleon – your gateway to personalized messaging and dynamic content for impactful marketing campaigns."
     },
-    "schema_name": "chameleon"
+    "schema_name": "chameleon",
+    "name": "Chameleon"
   },
-  "ClickUp": {
+  "clickup": {
     "overview": {
       "description": "Manage projects, tasks, and teams effortlessly with ClickUp. Stay organized, collaborate in real-time, and track progress to achieve your goals efficiently."
     },
     "body": {
       "description": "Enhance productivity and streamline workflows with ClickUp. Simplify project management, automate processes, and optimize team collaboration."
     },
-    "schema_name": "clickup"
+    "schema_name": "clickup",
+    "name": "ClickUp"
   },
-  "Consumer Dropbox": {
+  "dropbox_consumer": {
     "overview": {
       "description": "Experience a new paradigm of content delivery with the Consumer Dropbox connector. Seamlessly distribute data, captivating videos, dynamic applications, and APIs to your audience across the world. Harness the power of our cutting-edge global edge locations for unparalleled low-latency access and lightning-fast transfer speeds. Elevate user engagement, boost performance, and ensure security, all with Consumer Dropbox."
     },
     "body": {
       "description": "Elevate engagement and performance worldwide with Consumer Dropbox – your gateway to global content delivery for data, videos, applications, and APIs."
     },
-    "schema_name": "dropbox_consumer"
+    "schema_name": "dropbox_consumer",
+    "name": "Consumer Dropbox"
   },
-  "Dropbox": {
+  "dropbox": {
     "overview": {
       "description": "Experience a new level of file management and collaboration with the Dropbox connector. Seamlessly store, sync, and share your files across devices and teams. Access your files anytime, anywhere, and collaborate in real-time with ease. Elevate your productivity and streamline your workflows with Dropbox."
     },
     "body": {
       "description": "Elevate your file management and collaboration with Dropbox – the ultimate solution for storing, syncing, and sharing your files across devices and teams. Simplify your workflows, access your files on the go, and collaborate with ease using Dropbox."
     },
-    "schema_name": "dropbox"
+    "schema_name": "dropbox",
+    "name": "Dropbox"
   },
-  "DynamoDB": {
+  "dynamodb": {
     "overview": {
       "description": "Harness the power of DynamoDB, a fast and flexible NoSQL database service provided by Amazon Web Services. It allows you to store and retrieve any amount of data, serving millions of requests per second with low latency. DynamoDB's scalability, durability, and seamless integration make it an ideal choice for modern applications."
     },
     "body": {
       "description": "Utilize DynamoDB to build highly scalable and reliable applications. With its seamless replication and automatic sharding, DynamoDB ensures high availability and fault tolerance. Store and retrieve any type of data with ease, and enjoy the benefits of a fully managed NoSQL database."
     },
-    "schema_name": "dynamodb"
+    "schema_name": "dynamodb",
+    "name": "DynamoDB"
   },
-  "Elastic Cloud": {
+  "elastic_cloud": {
     "overview": {
       "description": "Experience the power and scalability of Elastic Cloud for flexible and reliable cloud-based solutions. Seamlessly manage and analyze your data, build innovative applications, and harness the full potential of Elasticsearch and Kibana."
     },
     "body": {
       "description": "Unlock the potential of your data with Elastic Cloud. Leverage Elasticsearch and Kibana to drive impactful insights, enhance search capabilities, and empower your business to make data-driven decisions."
     },
-    "schema_name": "elastic_cloud"
+    "schema_name": "elastic_cloud",
+    "name": "Elastic Cloud"
   },
-  "Email": {
+  "email": {
     "overview": {
       "description": "Integrate your Email data to supercharge your analytics. Seamlessly merge Email engagement data with Looker Studio for comprehensive insights and data-driven decisions."
     },
     "body": {
       "description": "Enhance your analytics with integrated Email engagement data."
     },
-    "schema_name": "email"
+    "schema_name": "email",
+    "name": "Email"
   },
-  "Firebase": {
+  "firebase": {
     "overview": {
       "description": "Experience the power of Firebase connector for seamless data synchronization and real-time communication. Elevate user engagement, boost performance, and ensure secure and scalable applications with Firebase."
     },
     "body": {
       "description": "Enhance your applications with Firebase - the leading backend-as-a-service platform for building web, mobile, and server applications. Leverage Firebase's real-time database, authentication, and hosting features to streamline development and deliver exceptional user experiences."
     },
-    "schema_name": "firebase"
+    "schema_name": "firebase",
+    "name": "Firebase"
   },
-  "Freshservice": {
+  "freshservice": {
     "overview": {
       "description": "Experience a new level of service management with the Freshservice connector. Streamline your IT operations, automate repetitive tasks, and improve the overall efficiency of your support team. Stay on top of your service desk, track incidents, manage assets, and provide exceptional customer support with Freshservice."
     },
     "body": {
       "description": "Transform your IT service management with Freshservice. Take control of your IT operations, simplify ticket management, optimize asset tracking, and deliver outstanding customer service. With Freshservice, you can effortlessly streamline your support processes and provide exceptional IT support."
     },
-    "schema_name": "freshservice"
+    "schema_name": "freshservice",
+    "name": "Freshservice"
   },
-  "Freshservice Lite": {
+  "freshservice_lite": {
     "overview": {
       "description": "Experience a new paradigm of IT service management with Freshservice Lite. Seamlessly streamline your IT operations, automate repetitive tasks, and enhance employee productivity. With Freshservice Lite's intuitive interface and powerful features, you can easily manage your service requests, incidents, assets, and more."
     },
     "body": {
       "description": "Streamline your IT service management with Freshservice Lite. Simplify your workflow, streamline ticket management, and improve collaboration. Enhance the efficiency and effectiveness of your IT team with Freshservice Lite's comprehensive set of features and advanced analytics."
     },
-    "schema_name": "freshservice_lite"
+    "schema_name": "freshservice_lite",
+    "name": "Freshservice Lite"
   },
-  "FTP": {
+  "ftp": {
     "overview": {
       "description": "Experience a new paradigm of data transfer with the FTP connector. Seamlessly distribute files, documents, and media to your audience across various servers. Harness the power of FTP protocol for efficient and reliable file transfer. Ensure secure data exchange and streamline your workflow, all with FTP."
     },
     "body": {
       "description": "Streamline your workflow and transfer files seamlessly with the FTP connector – your gateway to efficient and secure file transfer across servers."
     },
-    "schema_name": "ftp"
+    "schema_name": "ftp",
+    "name": "FTP"
   },
-  "GitHub": {
+  "github": {
     "overview": {
       "description": "Build software better, together. With the GitHub connector, collaborate seamlessly with your team, manage and track code changes, and streamline your software development workflow. Take advantage of powerful version control, issue tracking, and pull request features to keep your projects organized and efficient."
     },
     "body": {
       "description": "Unlock the full potential of collaborative software development with the GitHub connector. From version control to code reviews, project management to team collaboration, GitHub provides the tools you need to build high-quality software faster and more efficiently than ever before."
     },
-    "schema_name": "github"
+    "schema_name": "github",
+    "name": "GitHub"
   },
-  "Google Cloud Functions": {
+  "google_cloud_function": {
     "overview": {
       "description": "Build and deploy serverless functions in the cloud with Google Cloud Functions. Easily create single-purpose, stand-alone functions that respond to events or HTTP requests. Scale automatically to handle any load and only pay for the compute time you consume. Leverage the power of Google Cloud's infrastructure to develop and run your applications more efficiently and securely."
     },
     "body": {
       "description": "Create serverless functions with Google Cloud Functions for event-driven applications and microservices. Focus solely on writing your code without worrying about managing infrastructure. Benefit from autoscaling, pay-per-use pricing, and seamless integration with other Google Cloud services."
     },
-    "schema_name": "google_cloud_function"
+    "schema_name": "google_cloud_function",
+    "name": "Google Cloud Functions"
   },
-  "Google Cloud MySQL": {
+  "google_cloud_mysql": {
     "overview": {
       "description": "Experience seamless data management with the Google Cloud MySQL connector. Effortlessly store, retrieve, and manage your relational databases on Google Cloud. Benefit from high availability, scalability, and reliability offered by the fully-managed MySQL service. Simplify your database operations and focus on driving business outcomes with Google Cloud MySQL."
     },
     "body": {
       "description": "Simplify your database management with Google Cloud MySQL. Store, query, and manage your relational databases on Google Cloud effortlessly. Leverage the power of the fully-managed MySQL service to scale your applications and ensure high availability."
     },
-    "schema_name": "google_cloud_mysql"
+    "schema_name": "google_cloud_mysql",
+    "name": "Google Cloud MySQL"
   },
-  "Google Cloud PostgreSQL": {
+  "google_cloud_postgresql": {
     "overview": {
       "description": "Experience the power of Google Cloud PostgreSQL connector. Seamlessly manage and scale your relational databases with the reliability, performance, and security of Google Cloud. Unlock new possibilities for your applications with flexible data modeling, transaction support, and advanced querying capabilities. Boost productivity, gain actionable insights, and ensure business continuity with Google Cloud PostgreSQL."
     },
     "body": {
       "description": "Unlock the full potential of your data with Google Cloud PostgreSQL. Build robust, scalable, and secure applications with ease. Leverage the advanced features of PostgreSQL and the scalability of Google Cloud to handle your most demanding workloads. Increase productivity, reduce costs, and accelerate innovation with Google Cloud PostgreSQL."
     },
-    "schema_name": "google_cloud_postgresql"
+    "schema_name": "google_cloud_postgresql",
+    "name": "Google Cloud PostgreSQL"
   },
-  "Google Cloud SQL - SQL Server": {
+  "google_cloud_sqlserver": {
     "overview": {
       "description": "Experience the power of Google Cloud SQL - SQL Server connector. Seamlessly manage and scale your SQL Server databases on Google Cloud Platform. Benefit from the reliability, performance, and security offered by Google Cloud SQL, while leveraging the flexibility and familiarity of SQL Server. Drive your business forward with Google Cloud SQL - SQL Server."
     },
     "body": {
       "description": "Drive your business forward with Google Cloud SQL - SQL Server. Easily manage and optimize your SQL Server databases on the scalable and secure Google Cloud Platform."
     },
-    "schema_name": "google_cloud_sqlserver"
+    "schema_name": "google_cloud_sqlserver",
+    "name": "Google Cloud SQL - SQL Server"
   },
-  "Google Cloud Storage": {
+  "gcs": {
     "overview": {
       "description": "Experience secure and scalable data storage with Google Cloud Storage. Store and retrieve your data easily, ensuring data integrity and durability. Benefit from high-performance storage solutions and simplified management of your files and objects."
     },
     "body": {
       "description": "Store and retrieve your data securely and efficiently with Google Cloud Storage. Enjoy scalable and cost-effective storage solutions for your files, objects, and backups."
     },
-    "schema_name": "gcs"
+    "schema_name": "gcs",
+    "name": "Google Cloud Storage"
   },
-  "Google Drive": {
+  "google_drive": {
     "overview": {
       "description": "Experience seamless file storage and sharing with the Google Drive connector. Easily store, organize, and access your files from anywhere, on any device. Collaborate with team members in real-time, share files securely, and streamline your workflow with Google Drive."
     },
     "body": {
       "description": "Simplify file management and collaboration with Google Drive. Store, organize, and access files easily, collaborate in real-time, and enhance productivity"
     },
-    "schema_name": "google_drive"
+    "schema_name": "google_drive",
+    "name": "Google Drive"
   },
-  "Google Sheets": {
+  "google_sheets": {
     "overview": {
       "description": "Access and collaborate on your data with the Google Sheets connector. Seamlessly create, edit, and manage spreadsheets online, and share them with your team. Harness the power of real-time collaboration, automation features, and data visualization to streamline your workflow and make informed decisions."
     },
     "body": {
       "description": "Simplify your data management with Google Sheets – the ultimate tool for creating, editing, and collaborating on spreadsheets. Share data with your team, automate tasks, and visualize information to drive productivity and insights."
     },
-    "schema_name": "google_sheets"
+    "schema_name": "google_sheets",
+    "name": "Google Sheets"
   },
-  "Guru": {
+  "guru": {
     "overview": {
       "description": "Optimize your data connections with the Guru integration. Seamlessly manage and enhance your data sources, ensuring smooth data flow and accurate insights in Looker Studio."
     },
     "body": {
       "description": "Streamline data connections and management with Guru."
     },
-    "schema_name": "guru"
+    "schema_name": "guru",
+    "name": "Guru"
   },
-  "Heroku Postgres": {
+  "heroku_postgres": {
     "overview": {
       "description": "Harness the power of Heroku Postgres connector to access, manage, and scale your PostgreSQL database effortlessly. Benefit from the seamless integration with Heroku's robust platform, ensuring high availability, scalability, and performance for your database needs."
     },
     "body": {
       "description": "Effortlessly manage and scale your PostgreSQL database with Heroku Postgres. Leverage the advanced features and tools provided by Heroku to streamline your database operations and maximize productivity."
     },
-    "schema_name": "heroku_postgres"
+    "schema_name": "heroku_postgres",
+    "name": "Heroku Postgres"
   },
-  "High Volume Agent Db2 for i": {
+  "db2i_hva": {
     "overview": {
       "description": "Experience high-volume data processing with the High Volume Agent Db2 for i connector. Seamlessly process large amounts of data, perform complex analytics, and ensure efficient data management on the IBM Db2 for i platform. Unlock the power of high-volume transaction processing, advanced analytics, and real-time insights with the High Volume Agent Db2 for i connector."
     },
     "body": {
       "description": "Unlock the potential of high-volume data processing on IBM Db2 for i with the High Volume Agent connector. Efficiently handle large datasets, perform complex analytics, and drive real-time insights for your business. Harness the power of high-volume transaction processing and advanced analytics with the High Volume Agent Db2 for i connector."
     },
-    "schema_name": "db2i_hva"
+    "schema_name": "db2i_hva",
+    "name": "High Volume Agent Db2 for i"
   },
-  "High-Volume Agent SQL Server": {
+  "sql_server_hva": {
     "overview": {
       "description": "Experience high-volume data processing and seamless integration with the High-Volume Agent SQL Server connector. Utilize the power of SQL Server to process large amounts of data efficiently and reliably. Seamlessly integrate with other systems and harness the SQL Server capabilities for optimized performance and data management."
     },
     "body": {
       "description": "Unlock the potential of high-volume data processing with the High-Volume Agent SQL Server. Streamline your data management, integration, and processing needs using the power of SQL Server."
     },
-    "schema_name": "sql_server_hva"
+    "schema_name": "sql_server_hva",
+    "name": "High-Volume Agent SQL Server"
   },
-  "Jira": {
+  "jira": {
     "overview": {
       "description": "Improve your project management with Jira connector. Streamline your workflows, manage tasks, track issues, and collaborate with your team effortlessly. Increase productivity, visibility, and efficiency with Jira."
     },
     "body": {
       "description": "Enhance your project management capabilities with Jira - the ultimate tool for workflow management, issue tracking, and team collaboration."
     },
-    "schema_name": "jira"
+    "schema_name": "jira",
+    "name": "Jira"
   },
-  "Magento MySQL": {
+  "magento_mysql": {
     "overview": {
       "description": "Manage your Magento data efficiently with the Magento MySQL connector. Gain seamless access to your MySQL database for storing, retrieving, and updating your Magento store information. Streamline your operations, improve data organization, and enhance performance with the power of Magento MySQL connector."
     },
     "body": {
       "description": "Unlock the full potential of Magento with the Magento MySQL connector. Simplify data management and enhance your store's functionality by integrating with your MySQL database. Seamlessly retrieve and update product information, customer data, orders, and more to optimize your Magento store."
     },
-    "schema_name": "magento_mysql"
+    "schema_name": "magento_mysql",
+    "name": "Magento MySQL"
   },
-  "Magento MySQL RDS": {
+  "magento_mysql_rds": {
     "overview": {
       "description": "Effortlessly manage your eCommerce data with the Magento MySQL RDS connector. Streamline your database operations, ensure data stability, and optimize performance for your Magento-powered online store."
     },
     "body": {
       "description": "Take control of your eCommerce database with ease using the Magento MySQL RDS connector. Experience seamless management of your Magento store's data, ensuring reliability, and scalability for your online business."
     },
-    "schema_name": "magento_mysql_rds"
+    "schema_name": "magento_mysql_rds",
+    "name": "Magento MySQL RDS"
   },
-  "MariaDB RDS": {
+  "maria_rds": {
     "overview": {
       "description": "Experience seamless database management with the MariaDB RDS connector. Simplify your relational database operations, optimize performance, and ensure data integrity with MariaDB RDS."
     },
     "body": {
       "description": "Simplify your relational database operations with MariaDB RDS – a fully managed, highly available, and scalable MariaDB database service in the cloud."
     },
-    "schema_name": "maria_rds"
+    "schema_name": "maria_rds",
+    "name": "MariaDB RDS"
   },
-  "Microsoft Dynamics 365 F/O": {
+  "dynamics_365_fo": {
     "overview": {
       "description": "Improve your business operations and customer management with the Microsoft Dynamics 365 F/O connector. Seamlessly integrate your financial and operational processes, gain valuable insights, and optimize your business performance. Streamline your workflow, automate key tasks, and enhance collaboration within your organization."
     },
     "body": {
       "description": "Take control of your financial and operational processes with Microsoft Dynamics 365 F/O. Streamline your business operations, reduce manual tasks, and drive growth through intelligent insights and powerful analytics."
     },
-    "schema_name": "dynamics_365_fo"
+    "schema_name": "dynamics_365_fo",
+    "name": "Microsoft Dynamics 365 F/O"
   },
-  "Microsoft Lists": {
+  "microsoft_lists": {
     "overview": {
       "description": "Streamline your team's work, track information, and organize documents with Microsoft Lists. Collaborate in real-time, create custom lists, set up notifications and alerts, and easily share and manage data, all within the Microsoft Lists connector."
     },
     "body": {
       "description": "Maximize productivity and efficiency with Microsoft Lists. Simplify data tracking, record management, and document organization, empowering your team to stay organized and focused on their work."
     },
-    "schema_name": "microsoft_lists"
+    "schema_name": "microsoft_lists",
+    "name": "Microsoft Lists"
   },
-  "Monday.com": {
+  "monday": {
     "overview": {
       "description": "Experience enhanced project management with the Monday.com connector. Streamline your workflows, collaborate seamlessly with your team, and stay organized with powerful features including task tracking, deadline management, file sharing, and more."
     },
     "body": {
       "description": "Optimize project management and team collaboration with Monday.com, your go-to solution for tracking tasks, managing deadlines, sharing files, and staying organized."
     },
-    "schema_name": "monday"
+    "schema_name": "monday",
+    "name": "Monday.com"
   },
-  "Amazon CloudFront": {
+  "cloudfront": {
     "overview": {
       "description": "Experience a new paradigm of content delivery with the Amazon CloudFront connector. Seamlessly distribute data, captivating videos, dynamic applications, and APIs to your audience across the world. Harness the power of our cutting-edge global edge locations for unparalleled low-latency access and lightning-fast transfer speeds. Elevate user engagement, boost performance, and ensure security, all with Amazon CloudFront."
     },
     "body": {
       "description": "Elevate engagement and performance worldwide with Amazon CloudFront – your gateway to global content delivery for data, videos, applications, and APIs."
     },
-    "schema_name": "cloudfront"
+    "schema_name": "cloudfront",
+    "name": "Amazon CloudFront"
   },
-  "OneDrive": {
+  "one_drive": {
     "overview": {
       "description": "Access, share, and collaborate on your files from anywhere with the OneDrive connector. Sync your files across devices, store and backup your data securely in the cloud, and easily share files with others. Enhance your productivity and streamline your workflow with the power of Microsoft's OneDrive."
     },
     "body": {
       "description": "Experience seamless file management and collaboration with OneDrive - the leading cloud storage and file hosting service by Microsoft."
     },
-    "schema_name": "one_drive"
+    "schema_name": "one_drive",
+    "name": "OneDrive"
   },
-  "Oracle": {
+  "oracle": {
     "overview": {
       "description": "Experience a new paradigm of content delivery with the Oracle connector. Seamlessly distribute data, captivating videos, dynamic applications, and APIs to your audience across the world. Harness the power of Oracle's cutting-edge global edge locations for unparalleled low-latency access and lightning-fast transfer speeds. Elevate user engagement, boost performance, and ensure security, all with Oracle."
     },
     "body": {
       "description": "Elevate engagement and performance worldwide with Oracle – your gateway to global content delivery for data, videos, applications, and APIs."
     },
-    "schema_name": "oracle"
+    "schema_name": "oracle",
+    "name": "Oracle"
   },
-  "Oracle EBS": {
+  "oracle_ebs": {
     "overview": {
       "description": "Access a comprehensive suite of Oracle applications to manage your business processes efficiently with the Oracle EBS connector. Streamline operations, increase productivity, and gain real-time insights into your organization's performance. Leverage the power of Oracle's integrated applications to optimize your business."
     },
     "body": {
       "description": "Optimize your business operations with the Oracle EBS connector. Unlock the full potential of Oracle's suite of applications to streamline processes, enhance productivity, and drive growth. Gain a competitive edge by leveraging Oracle's powerful tools and capabilities."
     },
-    "schema_name": "oracle_ebs"
+    "schema_name": "oracle_ebs",
+    "name": "Oracle EBS"
   },
-  "Oracle RAC": {
+  "oracle_rac": {
     "overview": {
       "description": "Experience high availability and scalability with the Oracle RAC connector. Seamlessly manage and consolidate your database resources across multiple nodes to ensure continuous access to critical business data. Harness the power of Oracle's Real Application Clusters technology for unparalleled performance, scalability, and reliability. Accelerate your application performance and maximize uptime with Oracle RAC."
     },
     "body": {
       "description": "Achieve high availability and scalability with the Oracle RAC connector – your solution for managing and consolidating database resources across multiple nodes. Benefit from Oracle's Real Application Clusters technology to ensure continuous access to critical business data. Enhance application performance and minimize downtime with Oracle RAC."
     },
-    "schema_name": "oracle_rac"
+    "schema_name": "oracle_rac",
+    "name": "Oracle RAC"
   },
-  "Oracle RDS": {
+  "oracle_rds": {
     "overview": {
       "description": "Experience seamless database management with Oracle RDS connector. Easily deploy, scale, and administer your Oracle databases in the cloud. Leverage the robust features of Oracle RDS for optimized performance, high availability, and secure storage. Simplify database operations and focus on your core business."
     },
     "body": {
       "description": "Simplify database management with Oracle RDS – your reliable solution for deploying and scaling Oracle databases in the cloud. Optimize performance, ensure high availability, and secure your data with ease."
     },
-    "schema_name": "oracle_rds"
+    "schema_name": "oracle_rds",
+    "name": "Oracle RDS"
   },
-  "Postgres RDS": {
+  "postgres_rds": {
     "overview": {
       "description": "Unlock the power of relational databases with Postgres RDS connector. Seamlessly manage, scale, and replicate your data with industry-leading performance, availability, and durability. Benefit from automatic software patching, backup, and monitoring, allowing you to focus on driving innovation and achieving your business goals."
     },
     "body": {
       "description": "Experience unparalleled reliability and scalability with Postgres RDS – your trusted solution for managing and accessing relational databases in the cloud."
     },
-    "schema_name": "postgres_rds"
+    "schema_name": "postgres_rds",
+    "name": "Postgres RDS"
   },
-  "Rarible": {
+  "rarible": {
     "overview": {
       "description": "Explore the world of digital collectibles and decentralized art marketplaces with the Rarible connector. Empower creators, collectors, and enthusiasts to buy, sell, and trade unique digital assets seamlessly on the blockchain. Experience the freedom, transparency, and validity of owning rare digital items, all through the power of Rarible."
     },
     "body": {
       "description": "Unlock new opportunities in the decentralized art space with Rarible. Buy, sell, or trade digital collectibles and unique art pieces securely on the blockchain. Join a thriving community of creators, collectors, and enthusiasts, and embrace a new era of digital ownership with Rarible."
     },
-    "schema_name": "rarible"
+    "schema_name": "rarible",
+    "name": "Rarible"
   },
-  "Rollbar": {
+  "rollbar": {
     "overview": {
       "description": "Improve the stability and reliability of your software applications with the Rollbar connector. Easily track and monitor errors and exceptions in real-time, allowing you to proactively identify and resolve issues. Streamline your debugging process and provide a seamless user experience with Rollbar."
     },
     "body": {
       "description": "Enhance the quality of your software applications by leveraging the power of Rollbar. Monitor and analyze error data, diagnose issues, and ensure the smooth operation of your applications. With Rollbar, you can minimize downtime and deliver exceptional user experiences."
     },
-    "schema_name": "rollbar"
+    "schema_name": "rollbar",
+    "name": "Rollbar"
   },
-  "SAP HANA": {
+  "sap_hana": {
     "overview": {
       "description": "Transform your business with SAP HANA, a high-performance data management system that enables real-time analytics, advanced application development, and predictive capabilities. Leverage in-memory computing, advanced analytics, and data integration to drive innovation, accelerate decision-making, and achieve organizational agility."
     },
     "body": {
       "description": "Unlock the full potential of your enterprise data with SAP HANA. This powerful solution provides a comprehensive platform for business intelligence, data warehousing, and application development. With real-time processing and advanced analytics capabilities, SAP HANA empowers you to turn data into actionable insights and drive business growth."
     },
-    "schema_name": "sap_hana"
+    "schema_name": "sap_hana",
+    "name": "SAP HANA"
   },
-  "SFTP": {
+  "sftp": {
     "overview": {
       "description": "SFTP (SSH File Transfer Protocol) is a secure file transfer protocol that enables you to transfer files securely over an encrypted connection. It provides a reliable and efficient way to transfer files between systems."
     },
     "body": {
       "description": "SFTP is widely used for secure file transfers between systems. It offers strong encryption and authentication features to ensure the confidentiality and integrity of data during transit. With SFTP, you can securely exchange files with remote systems in a seamless and reliable manner."
     },
-    "schema_name": "sftp"
+    "schema_name": "sftp",
+    "name": "SFTP"
   },
-  "SharePoint": {
+  "share_point": {
     "overview": {
       "description": "Experience seamless collaboration and document management with the SharePoint connector. Share and organize files, track versions, and collaborate on content across your organization. Harness the power of SharePoint's robust features for efficient team collaboration and content management."
     },
     "body": {
       "description": "Enhance productivity and streamline information sharing with the SharePoint connector. Share and collaborate on documents, manage workflows, and organize content effortlessly using SharePoint's comprehensive suite of tools."
     },
-    "schema_name": "share_point"
+    "schema_name": "share_point",
+    "name": "SharePoint"
   },
-  "Snowflake": {
+  "snowflake_db": {
     "overview": {
       "description": "Maximize your data insights with the Snowflake connector. Unlock the power of Snowflake's cloud data platform and seamlessly store, analyze, and share your data across your organization. Leverage Snowflake's unique architecture for scalability, flexibility, and performance to drive actionable business intelligence. Elevate your data-driven decision making with the Snowflake connector."
     },
     "body": {
       "description": "Take your data analytics to the next level with Snowflake. Seamlessly store, analyze, and share your data across your organization using Snowflake's cloud data platform."
     },
-    "schema_name": "snowflake_db"
+    "schema_name": "snowflake_db",
+    "name": "Snowflake"
   },
-  "Splunk": {
+  "splunk": {
     "overview": {
       "description": "Gain valuable insights and achieve operational intelligence with the Splunk connector. Harness the power of machine learning and data analytics to monitor, analyze, and visualize your machine-generated data. Take advantage of real-time monitoring, troubleshooting, and security analysis to drive better business decisions and enhance operational efficiency."
     },
     "body": {
       "description": "Unlock the potential of your machine-generated data with Splunk – the leading platform for operational intelligence. Make sense of complex data sets, identify patterns, and detect anomalies to gain a comprehensive understanding of your systems, applications, and security."
     },
-    "schema_name": "splunk"
+    "schema_name": "splunk",
+    "name": "Splunk"
   },
-  "SQL Server": {
+  "sql_server": {
     "overview": {
       "description": "Leverage the power of SQL Server connector to seamlessly manage and query your databases. Store, retrieve and analyze your data efficiently with the extensive capabilities of SQL Server. Benefit from its robustness, scalability, and security features to ensure seamless operations and data integrity."
     },
     "body": {
       "description": "Unlock the full potential of your data with SQL Server connector. Seamlessly manage and query your databases, enabling efficient storage, retrieval, and analysis. Leverage the rich features of SQL Server to ensure data integrity, scalability, and security for your organization."
     },
-    "schema_name": "sql_server"
+    "schema_name": "sql_server",
+    "name": "SQL Server"
   },
-  "SQL Server RDS": {
+  "sql_server_rds": {
     "overview": {
       "description": "Experience seamless data management with the SQL Server RDS connector. Easily deploy, scale, and maintain your SQL Server databases in the cloud. Leverage the power of Amazon RDS for high availability, automated backups, and reliable performance. Streamline your database operations and focus on delivering value to your business."
     },
     "body": {
       "description": "Effortlessly manage your SQL Server databases with the SQL Server RDS connector. Utilize the flexibility and scalability of Amazon RDS to easily deploy, scale, and maintain your databases. Streamline your database management process and ensure high performance and reliability for your applications."
     },
-    "schema_name": "sql_server_rds"
+    "schema_name": "sql_server_rds",
+    "name": "SQL Server RDS"
   },
-  "Twilio": {
+  "twilio": {
     "overview": {
       "description": "Enhance your communication capabilities with the Twilio connector. Easily send and receive SMS messages, make and receive phone calls, and leverage various communication channels to engage with your audience in a personalized and effective way."
     },
     "body": {
       "description": "Take advantage of Twilio's powerful features to streamline your communication processes. Whether it's sending automated notifications, enabling two-factor authentication, or building interactive voice response systems, Twilio provides the tools you need to enhance your customer experience."
     },
-    "schema_name": "twilio"
+    "schema_name": "twilio",
+    "name": "Twilio"
   },
-  "Webhooks": {
+  "webhooks": {
     "overview": {
       "description": "Leverage Webhooks integration for real-time data updates. Seamlessly integrate external data with your analytics, enhancing decision-making and responsiveness."
     },
@@ -20203,6 +20273,7 @@
           "description": "Integrate data seamlessly across different platforms for comprehensive insights."
         }
       ]
-    }
+    },
+    "name": "Webhooks"
   }
 }

@@ -4,19 +4,19 @@ require "date"
 require "yaml"
 
 class Generator
-  attr_reader :name, :fivetran_id, :destination_path,
+  attr_reader :name, :schema_name, :destination_path,
     :overview_description, :body_description, :bullets_for_metrics, :bullets_for_reasons
 
   # @param name [String] name of the connector to generate. i.e. Google Ads, Facebook Ads
-  # @param fivetran_id [String] fivetran id of the connector to generate
+  # @param schema_name [String] schema_name of the connector to generate
   # @param overview_description [String] description of the connector to generate
   # @param body_description [String] short description of the connector to generate
   # @param bullets_for_metrics [Hash<String>] metrics bullets of the connector to generate
   # @param bullets_for_reasons [Hash<String>] incentives bullets of the connector to generate
-  def initialize(name, fivetran_id, overview_description, body_description, bullets_for_metrics, bullets_for_reasons)
+  def initialize(name, schema_name, overview_description, body_description, bullets_for_metrics, bullets_for_reasons)
     @name = name
-    @fivetran_id = fivetran_id
-    @destination_path = "./_connectors/#{fivetran_id}.md"
+    @schema_name = schema_name
+    @destination_path = "./_connectors/#{schema_name}.md"
     @overview_description = overview_description
     @body_description = body_description
     @bullets_for_metrics = bullets_for_metrics.nil? ? "" : bullets_for_metrics
@@ -47,8 +47,8 @@ class Generator
       "image"=> "/assets/images/seo_pages/body.webp",
       "date"=> "#{ Date.today }",
       "categories"=> "connectors",
-      "permalink"=> "connectors/#{ fivetran_id }",
-      "icon_url"=> "/assets/images/seo_pages/connectors/#{ fivetran_id }",
+      "permalink"=> "connectors/#{ schema_name }",
+      "icon_url"=> "/assets/images/seo_pages/connectors/#{ schema_name }",
       "sections"=> {
         "overview"=> {
           "title"=> "#{ name } Data Connector",

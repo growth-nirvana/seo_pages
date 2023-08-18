@@ -6,7 +6,7 @@
     "body": {
       "description": "Amplify your marketing strategies with 360Learning integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "360learning",
+    "schema_name": "360learning",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in 360Learning to analyze?",
       "bullets": [
@@ -105,7 +105,7 @@
     "body": {
       "description": "Amplify your marketing automation strategies with ActiveCampaign integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "activecampaign",
+    "schema_name": "activecampaign",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in ActiveCampaign to analyze?",
       "bullets": [
@@ -204,7 +204,7 @@
     "body": {
       "description": "Amplify your marketing automation strategies with Ada integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "ada",
+    "schema_name": "ada",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Ada to analyze?",
       "bullets": [
@@ -303,7 +303,7 @@
     "body": {
       "description": "Amplify your marketing data strategies with Adjust integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "adjust",
+    "schema_name": "adjust",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Adjust to analyze?",
       "bullets": [
@@ -402,7 +402,7 @@
     "body": {
       "description": "Amplify your marketing analytics strategies with Adobe Analytics integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "adobe_analytics",
+    "schema_name": "adobe_analytics",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Adobe Analytics to analyze?",
       "bullets": [
@@ -469,7 +469,7 @@
     "body": {
       "description": "Amplify your marketing data strategies with Adobe Analytics Data Feed integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "adobe_analytics_data_feed",
+    "schema_name": "adobe_analytics_data_feed",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Adobe Analytics Data Feed to analyze?",
       "bullets": [
@@ -552,7 +552,7 @@
     "body": {
       "description": "Amplify your HR and payroll strategies with ADP Workforce Now integration, gaining actionable insights from employee data analysis."
     },
-    "fivetran_id": "adp_workforce_now",
+    "schema_name": "adp_workforce_now",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in ADP Workforce Now to analyze?",
       "bullets": [
@@ -651,7 +651,7 @@
     "body": {
       "description": "Amplify your marketing strategies with AdRoll integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "adroll",
+    "schema_name": "adroll",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in AdRoll to analyze?",
       "bullets": [
@@ -750,7 +750,7 @@
     "body": {
       "description": "Amplify your call center strategies with Aircall integration, gaining actionable insights from call data analysis."
     },
-    "fivetran_id": "aircall",
+    "schema_name": "aircall",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Aircall to analyze?",
       "bullets": [
@@ -849,7 +849,7 @@
     "body": {
       "description": "Amplify your marketing data strategies with Airtable integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "airtable",
+    "schema_name": "airtable",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Airtable to analyze?",
       "bullets": [
@@ -948,7 +948,7 @@
     "body": {
       "description": "Optimize your data collection efforts with Alchemer integration, leveraging powerful insights for improved marketing campaigns and customer engagement."
     },
-    "fivetran_id": "alchemer",
+    "schema_name": "alchemer",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Alchemer to analyze?",
       "bullets": [
@@ -1007,7 +1007,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Amazon Ads integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "amazon_ads",
+    "schema_name": "amazon_ads",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Amazon Ads to analyze?",
       "bullets": [
@@ -1106,7 +1106,7 @@
     "body": {
       "description": "Amplify your marketing analytics strategies with Amplitude integration and gain valuable insights from data analysis."
     },
-    "fivetran_id": "amplitude",
+    "schema_name": "amplitude",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Amplitude to analyze?",
       "bullets": [
@@ -1197,7 +1197,7 @@
     "body": {
       "description": "Amplify your marketing data strategies with Analytics integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "fivetran_log",
+    "schema_name": "fivetran_log",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Analytics to analyze?",
       "bullets": [
@@ -1296,7 +1296,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Anaplan integration. Gain actionable insights from comprehensive data analysis."
     },
-    "fivetran_id": "anaplan",
+    "schema_name": "anaplan",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Anaplan to analyze?",
       "bullets": [
@@ -1395,7 +1395,7 @@
     "body": {
       "description": "Integrate Apache Kafka to leverage real-time data streaming capabilities, enabling efficient processing and analysis of streaming data for actionable insights."
     },
-    "fivetran_id": "apache_kafka",
+    "schema_name": "apache_kafka",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Apache Kafka to analyze?",
       "bullets": [
@@ -1494,7 +1494,7 @@
     "body": {
       "description": "Amplify your app marketing strategies with Apple App Store integration. Analyze app performance and user engagement to optimize your campaigns."
     },
-    "fivetran_id": "itunes_connect",
+    "schema_name": "itunes_connect",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Apple App Store to analyze?",
       "bullets": [
@@ -1593,7 +1593,7 @@
     "body": {
       "description": "Amplify your marketing success with Apple Search Ads integration. Gain actionable insights from campaign data analysis to enhance your marketing strategies."
     },
-    "fivetran_id": "apple_search_ads",
+    "schema_name": "apple_search_ads",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Apple Search Ads to analyze?",
       "bullets": [
@@ -1692,7 +1692,7 @@
     "body": {
       "description": "Amplify your marketing attribution strategies with AppsFlyer integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "appsflyer",
+    "schema_name": "appsflyer",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in AppsFlyer to analyze?",
       "bullets": [
@@ -1787,7 +1787,7 @@
     "body": {
       "description": "Amplify your project management strategies with Asana integration, gaining actionable insights from task and project analysis."
     },
-    "fivetran_id": "asana",
+    "schema_name": "asana",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Asana to analyze?",
       "bullets": [
@@ -1886,7 +1886,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Assembled integration, leveraging actionable insights from campaign data analysis."
     },
-    "fivetran_id": "assembled",
+    "schema_name": "assembled",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Assembled to analyze?",
       "bullets": [
@@ -1985,7 +1985,7 @@
     "body": {
       "description": "Optimize your inventory management processes with AWS Inventory. Monitor stock levels, track inventory movements, and streamline operations to minimize stockouts and reduce carrying costs."
     },
-    "fivetran_id": "aws_inventory",
+    "schema_name": "aws_inventory",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in AWS Inventory to analyze?",
       "bullets": [
@@ -2084,7 +2084,7 @@
     "body": {
       "description": "Amplify your marketing strategies with AWS MSK integration, gaining actionable insights from data analysis."
     },
-    "fivetran_id": "aws_msk",
+    "schema_name": "aws_msk",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in AWS MSK to analyze?",
       "bullets": [
@@ -2151,7 +2151,7 @@
     "body": {
       "description": "Amplify your event streaming strategies with Azure Event Hubs integration, gaining actionable insights from event data analysis."
     },
-    "fivetran_id": "azure_event_hub",
+    "schema_name": "azure_event_hub",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Azure Event Hubs to analyze?",
       "bullets": [
@@ -2242,7 +2242,7 @@
     "body": {
       "description": "Amplify your messaging and event-driven strategies with Azure Service Bus integration, gaining scalability and reliability in your communication architecture."
     },
-    "fivetran_id": "azure_service_bus",
+    "schema_name": "azure_service_bus",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Azure Service Bus to analyze?",
       "bullets": [
@@ -2341,7 +2341,7 @@
     "body": {
       "description": "Optimize your HR operations with Bamboo HR integration, improving efficiency and accuracy in employee data management."
     },
-    "fivetran_id": "bamboohr",
+    "schema_name": "bamboohr",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Bamboo HR to analyze?",
       "bullets": [
@@ -2436,7 +2436,7 @@
     "body": {
       "description": "Amplify your ecommerce strategies with Big Commerce integration, gaining actionable insights from sales data analysis."
     },
-    "fivetran_id": "big_commerce",
+    "schema_name": "big_commerce",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Big Commerce to analyze?",
       "bullets": [
@@ -2535,7 +2535,7 @@
     "body": {
       "description": "Amplify your payment processing strategies with Braintree integration, gaining actionable insights from transaction data analysis."
     },
-    "fivetran_id": "braintree",
+    "schema_name": "braintree",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Braintree to analyze?",
       "bullets": [
@@ -2614,7 +2614,7 @@
     "body": {
       "description": "Amplify your payment processing strategies with Braintree Sandbox integration, gaining actionable insights from transaction data analysis."
     },
-    "fivetran_id": "braintree_sandbox",
+    "schema_name": "braintree_sandbox",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Braintree Sandbox to analyze?",
       "bullets": [
@@ -2689,7 +2689,7 @@
     "body": {
       "description": "Amplify your marketing analytics strategies with Branch integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "branch",
+    "schema_name": "branch",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Branch to analyze?",
       "bullets": [
@@ -2788,7 +2788,7 @@
     "body": {
       "description": "Amplify your marketing automation strategies with Braze integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "braze",
+    "schema_name": "braze",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Braze to analyze?",
       "bullets": [
@@ -2887,7 +2887,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Brex integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "brex",
+    "schema_name": "brex",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Brex to analyze?",
       "bullets": [
@@ -2986,7 +2986,7 @@
     "body": {
       "description": "Optimize your scheduling and appointment setting strategies with Calendly integration, ensuring seamless and efficient meeting arrangements."
     },
-    "fivetran_id": "calendly",
+    "schema_name": "calendly",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Calendly to analyze?",
       "bullets": [
@@ -3065,7 +3065,7 @@
     "body": {
       "description": "Amplify your email marketing strategies with Campaign Monitor integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "campaignmonitor",
+    "schema_name": "campaignmonitor",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Campaign Monitor to analyze?",
       "bullets": [
@@ -3164,7 +3164,7 @@
     "body": {
       "description": "Amplify your marketing strategies with ChannelAdvisor integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "channel_advisor",
+    "schema_name": "channel_advisor",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in ChannelAdvisor to analyze?",
       "bullets": [
@@ -3263,7 +3263,7 @@
     "body": {
       "description": "Supercharge your marketing automation with Chargebee Product Catalog 1.0 integration. Gain valuable insights from campaign data analysis."
     },
-    "fivetran_id": "chargebee_product_catalog_1",
+    "schema_name": "chargebee_product_catalog_1",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Chargebee Product Catalog 1.0 to analyze?",
       "bullets": [
@@ -3362,7 +3362,7 @@
     "body": {
       "description": "Amplify your marketing data strategies with Chargebee Product Catalog 2.0 integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "chargebee_product_catalog_2",
+    "schema_name": "chargebee_product_catalog_2",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Chargebee Product Catalog 2.0 to analyze?",
       "bullets": [
@@ -3461,7 +3461,7 @@
     "body": {
       "description": "Maximize the power of your subscription analytics with ChartMogul integration. Analyze subscription performance, identify growth opportunities, and make data-driven decisions."
     },
-    "fivetran_id": "chartmogul",
+    "schema_name": "chartmogul",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in ChartMogul to analyze?",
       "bullets": [
@@ -3576,7 +3576,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Chorus integration, gaining actionable insights from data analysis."
     },
-    "fivetran_id": "chorusai",
+    "schema_name": "chorusai",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Chorus to analyze?",
       "bullets": [
@@ -3675,7 +3675,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Cin7 integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "cin7",
+    "schema_name": "cin7",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Cin7 to analyze?",
       "bullets": [
@@ -3774,7 +3774,7 @@
     "body": {
       "description": "Amplify your sales strategies with Close integration, gaining actionable insights from sales data analysis."
     },
-    "fivetran_id": "close",
+    "schema_name": "close",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Close to analyze?",
       "bullets": [
@@ -3873,7 +3873,7 @@
     "body": {
       "description": "Amplify your marketing automation strategies with Confluent Cloud integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "confluent_cloud",
+    "schema_name": "confluent_cloud",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Confluent Cloud to analyze?",
       "bullets": [
@@ -3972,7 +3972,7 @@
     "body": {
       "description": "Amplify your procurement strategies with Coupa integration, gaining actionable insights from data analysis."
     },
-    "fivetran_id": "coupa",
+    "schema_name": "coupa",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Coupa to analyze?",
       "bullets": [
@@ -4071,7 +4071,7 @@
     "body": {
       "description": "Amplify your advertising strategies with Criteo integration, gaining actionable insights from data analysis to drive effective ad campaigns."
     },
-    "fivetran_id": "criteo",
+    "schema_name": "criteo",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Criteo to analyze?",
       "bullets": [
@@ -4170,7 +4170,7 @@
     "body": {
       "description": "Amplify your marketing data strategies with Crossbeam integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "crossbeam",
+    "schema_name": "crossbeam",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Crossbeam to analyze?",
       "bullets": [
@@ -4269,7 +4269,7 @@
     "body": {
       "description": "Enhance your customer feedback strategies with Delighted integration, gathering actionable insights and improving customer satisfaction."
     },
-    "fivetran_id": "delighted",
+    "schema_name": "delighted",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Delighted to analyze?",
       "bullets": [
@@ -4368,7 +4368,7 @@
     "body": {
       "description": "Amplify your customer support strategies with Dixa integration, gaining actionable insights from customer data analysis."
     },
-    "fivetran_id": "dixa",
+    "schema_name": "dixa",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Dixa to analyze?",
       "bullets": [
@@ -4475,7 +4475,7 @@
     "body": {
       "description": "Amplify your conversational marketing strategies with Drift integration, gaining actionable insights from messaging data analysis."
     },
-    "fivetran_id": "drift",
+    "schema_name": "drift",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Drift to analyze?",
       "bullets": [
@@ -4574,7 +4574,7 @@
     "body": {
       "description": "Amplify your marketing automation strategies with Drip integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "drip",
+    "schema_name": "drip",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Drip to analyze?",
       "bullets": [
@@ -4673,7 +4673,7 @@
     "body": {
       "description": "Optimize your shipping strategies with EasyPost integration, gaining valuable insights from shipping data analysis."
     },
-    "fivetran_id": "easypost",
+    "schema_name": "easypost",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in EasyPost to analyze?",
       "bullets": [
@@ -4756,7 +4756,7 @@
     "body": {
       "description": "Amplify your marketing automation strategies with Eloqua integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "eloqua",
+    "schema_name": "eloqua",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Eloqua to analyze?",
       "bullets": [
@@ -4855,7 +4855,7 @@
     "body": {
       "description": "Amplify your event management strategies with Eventbrite integration, gaining actionable insights from event data analysis."
     },
-    "fivetran_id": "eventbrite",
+    "schema_name": "eventbrite",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Eventbrite to analyze?",
       "bullets": [
@@ -4954,7 +4954,7 @@
     "body": {
       "description": "Amplify your campaign strategies with Facebook Ad Account integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "facebook_ad_account",
+    "schema_name": "facebook_ad_account",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Facebook Ad Account to analyze?",
       "bullets": [
@@ -5045,7 +5045,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Facebook Ad Insights integration. Analyze ad performance and optimize campaigns based on data-driven insights."
     },
-    "fivetran_id": "facebook",
+    "schema_name": "facebook",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Facebook Ad Insights to analyze?",
       "bullets": [
@@ -5144,7 +5144,7 @@
     "body": {
       "description": "Amplify your Facebook ad performance with Facebook Ads integration. Unlock actionable insights to drive better results from your campaigns."
     },
-    "fivetran_id": "facebook_ads",
+    "schema_name": "facebook_ads",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Facebook Ads to analyze?",
       "bullets": [
@@ -5243,7 +5243,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Facebook Pages integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "facebook_pages",
+    "schema_name": "facebook_pages",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Facebook Pages to analyze?",
       "bullets": [
@@ -5342,7 +5342,7 @@
     "body": {
       "description": "Amplify your marketing strategies with FinancialForce integration, gaining actionable insights from the analysis of financial and marketing data."
     },
-    "fivetran_id": "financial_force",
+    "schema_name": "financial_force",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in FinancialForce to analyze?",
       "bullets": [
@@ -5441,7 +5441,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Fountain integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "fountain",
+    "schema_name": "fountain",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Fountain to analyze?",
       "bullets": [
@@ -5540,7 +5540,7 @@
     "body": {
       "description": "Optimize your freight management strategies with Freightview integration, enabling seamless tracking and analysis of shipping data."
     },
-    "fivetran_id": "freightview",
+    "schema_name": "freightview",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Freightview to analyze?",
       "bullets": [
@@ -5639,7 +5639,7 @@
     "body": {
       "description": "Amplify your customer support strategies with Freshdesk integration, gaining actionable insights from ticket data analysis."
     },
-    "fivetran_id": "freshdesk",
+    "schema_name": "freshdesk",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Freshdesk to analyze?",
       "bullets": [
@@ -5738,7 +5738,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Front integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "front",
+    "schema_name": "front",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Front to analyze?",
       "bullets": [
@@ -5837,7 +5837,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Gainsight integration, gaining actionable insights from comprehensive data analysis."
     },
-    "fivetran_id": "gainsight",
+    "schema_name": "gainsight",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Gainsight to analyze?",
       "bullets": [
@@ -5936,7 +5936,7 @@
     "body": {
       "description": "Amplify your customer success strategies with Gainsight integration, gaining actionable insights from customer data analysis."
     },
-    "fivetran_id": "gainsight_customer_success",
+    "schema_name": "gainsight_customer_success",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Gainsight Customer Success to analyze?",
       "bullets": [
@@ -6035,7 +6035,7 @@
     "body": {
       "description": "Streamline your payment processes with GoCardless integration, simplifying payment collection and improving cash flow."
     },
-    "fivetran_id": "gocardless",
+    "schema_name": "gocardless",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in GoCardless to analyze?",
       "bullets": [
@@ -6122,7 +6122,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Gong integration. Analyze campaign data and gather insights to optimize marketing performance."
     },
-    "fivetran_id": "gongio",
+    "schema_name": "gongio",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Gong to analyze?",
       "bullets": [
@@ -6209,7 +6209,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Google Ad Manager integration. Gain actionable insights from campaign data analysis."
     },
-    "fivetran_id": "double_click_publishers",
+    "schema_name": "double_click_publishers",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Google Ad Manager to analyze?",
       "bullets": [
@@ -6308,7 +6308,7 @@
     "body": {
       "description": "Amplify your digital advertising efforts with Google Ads integration. Optimize campaign performance through data-driven insights and precise targeting capabilities."
     },
-    "fivetran_id": "google_ads",
+    "schema_name": "google_ads",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Google Ads to analyze?",
       "bullets": [
@@ -6391,7 +6391,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Google Ads Account integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "google_ads_account",
+    "schema_name": "google_ads_account",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Google Ads Account to analyze?",
       "bullets": [
@@ -6490,7 +6490,7 @@
     "body": {
       "description": "Amplify your marketing analytics strategies with Google Analytics integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "google_analytics",
+    "schema_name": "google_analytics",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Google Analytics to analyze?",
       "bullets": [
@@ -6589,7 +6589,7 @@
     "body": {
       "description": "Amplify marketing strategies with Google Analytics 360 integration, unlocking valuable insights for campaign optimization and data-driven decision-making."
     },
-    "fivetran_id": "google_analytics_360",
+    "schema_name": "google_analytics_360",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Google Analytics 360 to analyze?",
       "bullets": [
@@ -6640,7 +6640,7 @@
     "body": {
       "description": "Amplify your marketing analytics strategies with Google Analytics 4 integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "google_analytics_4",
+    "schema_name": "google_analytics_4",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Google Analytics 4 to analyze?",
       "bullets": [
@@ -6739,7 +6739,7 @@
     "body": {
       "description": "Amplify your marketing analytics strategies with Google Analytics 4 Export integration. Utilize data analysis to optimize campaign performance and make data-driven decisions."
     },
-    "fivetran_id": "google_analytics_4_export",
+    "schema_name": "google_analytics_4_export",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Google Analytics 4 Export to analyze?",
       "bullets": [
@@ -6838,7 +6838,7 @@
     "body": {
       "description": "Maximize the power of your marketing analytics with Google Analytics (MCF) integration. Gain actionable insights from comprehensive campaign data analysis."
     },
-    "fivetran_id": "google_analytics_mcf",
+    "schema_name": "google_analytics_mcf",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Google Analytics (MCF) to analyze?",
       "bullets": [
@@ -6937,7 +6937,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Google Campaign Manager 360 integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "double_click_campaign_manager",
+    "schema_name": "double_click_campaign_manager",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Google Campaign Manager 360 to analyze?",
       "bullets": [
@@ -7036,7 +7036,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Google Display & Video 360 integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "google_display_and_video_360",
+    "schema_name": "google_display_and_video_360",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Google Display & Video 360 to analyze?",
       "bullets": [
@@ -7135,7 +7135,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Google Play integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "google_play",
+    "schema_name": "google_play",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Google Play to analyze?",
       "bullets": [
@@ -7193,7 +7193,7 @@
     "body": {
       "description": "Amplify your search engine optimization strategies with Google Search Console integration, gaining actionable insights from search data analysis."
     },
-    "fivetran_id": "google_search_console",
+    "schema_name": "google_search_console",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Google Search Console to analyze?",
       "bullets": [
@@ -7292,7 +7292,7 @@
     "body": {
       "description": "Amplify your customer support strategies with Gorgias integration, gaining actionable insights from support data analysis."
     },
-    "fivetran_id": "gorgias",
+    "schema_name": "gorgias",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Gorgias to analyze?",
       "bullets": [
@@ -7391,7 +7391,7 @@
     "body": {
       "description": "Amplify your recruitment strategies with Greenhouse integration, gaining actionable insights from candidate data analysis."
     },
-    "fivetran_id": "greenhouse",
+    "schema_name": "greenhouse",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Greenhouse to analyze?",
       "bullets": [
@@ -7490,7 +7490,7 @@
     "body": {
       "description": "Amplify your marketing data insights with Harvest integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "harvest",
+    "schema_name": "harvest",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Harvest to analyze?",
       "bullets": [
@@ -7589,7 +7589,7 @@
     "body": {
       "description": "Amplify your marketing analytics strategies with Heap integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "heap",
+    "schema_name": "heap",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Heap to analyze?",
       "bullets": [
@@ -7688,7 +7688,7 @@
     "body": {
       "description": "Amplify your customer support strategies with Help Scout integration, gaining actionable insights from ticket data analysis."
     },
-    "fivetran_id": "helpscout",
+    "schema_name": "helpscout",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Help Scout to analyze?",
       "bullets": [
@@ -7787,7 +7787,7 @@
     "body": {
       "description": "Boost your application's data processing capabilities with Heroku Kafka integration, enabling real-time streaming and analysis of data."
     },
-    "fivetran_id": "heroku_kafka",
+    "schema_name": "heroku_kafka",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Heroku Kafka to analyze?",
       "bullets": [
@@ -7886,7 +7886,7 @@
     "body": {
       "description": "Amplify your marketing strategies with HubSpot integration, gaining actionable insights from data analysis."
     },
-    "fivetran_id": "hubspot",
+    "schema_name": "hubspot",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in HubSpot to analyze?",
       "bullets": [
@@ -7985,7 +7985,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Instagram Business integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "instagram_business",
+    "schema_name": "instagram_business",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Instagram Business to analyze?",
       "bullets": [
@@ -8084,7 +8084,7 @@
     "body": {
       "description": "Amplify your customer communication strategies with Intercom integration, gaining actionable insights from customer data analysis."
     },
-    "fivetran_id": "intercom",
+    "schema_name": "intercom",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Intercom to analyze?",
       "bullets": [
@@ -8183,7 +8183,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Ironclad integration, leveraging data analysis to optimize campaign performance."
     },
-    "fivetran_id": "ironclad",
+    "schema_name": "ironclad",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Ironclad to analyze?",
       "bullets": [
@@ -8282,7 +8282,7 @@
     "body": {
       "description": "Amplify your marketing automation strategies with Iterable integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "iterable",
+    "schema_name": "iterable",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Iterable to analyze?",
       "bullets": [
@@ -8381,7 +8381,7 @@
     "body": {
       "description": "Amplify your customer support strategies with Khoros Care integration, gaining actionable insights from customer interaction data analysis."
     },
-    "fivetran_id": "khoros_care",
+    "schema_name": "khoros_care",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Khoros Care to analyze?",
       "bullets": [
@@ -8464,7 +8464,7 @@
     "body": {
       "description": "Amplify your marketing automation strategies with Klaviyo integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "klaviyo",
+    "schema_name": "klaviyo",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Klaviyo to analyze?",
       "bullets": [
@@ -8563,7 +8563,7 @@
     "body": {
       "description": "Amplify your customer support strategies with Kustomer integration, gaining actionable insights from customer data analysis."
     },
-    "fivetran_id": "kustomer",
+    "schema_name": "kustomer",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Kustomer to analyze?",
       "bullets": [
@@ -8658,7 +8658,7 @@
     "body": {
       "description": "Amplify your marketing data strategies with Lattice integration, gaining actionable insights from data analysis."
     },
-    "fivetran_id": "lattice",
+    "schema_name": "lattice",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Lattice to analyze?",
       "bullets": [
@@ -8757,7 +8757,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Lessonly integration, gaining actionable insights from data analysis."
     },
-    "fivetran_id": "lessonly",
+    "schema_name": "lessonly",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Lessonly to analyze?",
       "bullets": [
@@ -8856,7 +8856,7 @@
     "body": {
       "description": "Amplify your recruiting strategies with Lever integration, gaining actionable insights from candidate data analysis."
     },
-    "fivetran_id": "lever",
+    "schema_name": "lever",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Lever to analyze?",
       "bullets": [
@@ -8955,7 +8955,7 @@
     "body": {
       "description": "Amplify your retail strategies with Lightspeed Retail integration, gaining actionable insights from sales data analysis."
     },
-    "fivetran_id": "light_speed_retail",
+    "schema_name": "light_speed_retail",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Lightspeed Retail to analyze?",
       "bullets": [
@@ -9050,7 +9050,7 @@
     "body": {
       "description": "Unlock the full potential of your LinkedIn ad campaigns with LinkedIn Ad Analytics integration. Analyze ad performance, audience engagement, and conversion rates for data-driven decision-making."
     },
-    "fivetran_id": "linkedin_ads",
+    "schema_name": "linkedin_ads",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in LinkedIn Ad Analytics to analyze?",
       "bullets": [
@@ -9149,7 +9149,7 @@
     "body": {
       "description": "Amplify your marketing strategies with LinkedIn Company Pages integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "linkedin_company_pages",
+    "schema_name": "linkedin_company_pages",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in LinkedIn Company Pages to analyze?",
       "bullets": [
@@ -9240,7 +9240,7 @@
     "body": {
       "description": "Amplify your direct mail strategies with Lob integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "lob",
+    "schema_name": "lob",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Lob to analyze?",
       "bullets": [
@@ -9339,7 +9339,7 @@
     "body": {
       "description": "Amplify your email marketing strategies with Mailchimp integration, gaining actionable insights from email campaign data analysis."
     },
-    "fivetran_id": "mailchimp",
+    "schema_name": "mailchimp",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Mailchimp to analyze?",
       "bullets": [
@@ -9438,7 +9438,7 @@
     "body": {
       "description": "Amplify your email marketing strategies with Mailgun integration, gaining actionable insights from email campaign data analysis."
     },
-    "fivetran_id": "mailgun",
+    "schema_name": "mailgun",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Mailgun to analyze?",
       "bullets": [
@@ -9537,7 +9537,7 @@
     "body": {
       "description": "Supercharge your email marketing strategies with Mandrill integration. Track email performance, analyze engagement, and optimize campaigns for better results."
     },
-    "fivetran_id": "mandrill",
+    "schema_name": "mandrill",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Mandrill to analyze?",
       "bullets": [
@@ -9636,7 +9636,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Marin Software integration, gaining actionable insights from data analysis."
     },
-    "fivetran_id": "marin",
+    "schema_name": "marin",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Marin Software to analyze?",
       "bullets": [
@@ -9735,7 +9735,7 @@
     "body": {
       "description": "Amplify your marketing automation strategies with Marketo integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "marketo",
+    "schema_name": "marketo",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Marketo to analyze?",
       "bullets": [
@@ -9834,7 +9834,7 @@
     "body": {
       "description": "Amplify your project management strategies with Mavenlink integration, gaining actionable insights from project data analysis."
     },
-    "fivetran_id": "mavenlink",
+    "schema_name": "mavenlink",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Mavenlink to analyze?",
       "bullets": [
@@ -9933,7 +9933,7 @@
     "body": {
       "description": "Amplify your customer experience strategies with Medallia integration, gaining actionable insights from customer feedback analysis."
     },
-    "fivetran_id": "medallia",
+    "schema_name": "medallia",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Medallia to analyze?",
       "bullets": [
@@ -10012,7 +10012,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Microsoft Advertising integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "bingads",
+    "schema_name": "bingads",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Microsoft Advertising to analyze?",
       "bullets": [
@@ -10111,7 +10111,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Microsoft Dynamics 365 CRM integration, unlocking actionable insights from campaign data analysis."
     },
-    "fivetran_id": "dynamics_365",
+    "schema_name": "dynamics_365",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Microsoft Dynamics 365 CRM to analyze?",
       "bullets": [
@@ -10210,7 +10210,7 @@
     "body": {
       "description": "Amplify your marketing automation strategies with Microsoft Dynamics 365 F/O ADLS integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "microsoft_dynamics_365_fo",
+    "schema_name": "microsoft_dynamics_365_fo",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Microsoft Dynamics 365 F/O ADLS to analyze?",
       "bullets": [
@@ -10309,7 +10309,7 @@
     "body": {
       "description": "Amplify your marketing analytics with Mixpanel integration to unlock actionable insights from data analysis and optimize marketing performance."
     },
-    "fivetran_id": "mixpanel",
+    "schema_name": "mixpanel",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Mixpanel to analyze?",
       "bullets": [
@@ -10408,7 +10408,7 @@
     "body": {
       "description": "Amplify your marketing analytics strategies with NetSuite SuiteAnalytics integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "netsuite_suiteanalytics",
+    "schema_name": "netsuite_suiteanalytics",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in NetSuite SuiteAnalytics to analyze?",
       "bullets": [
@@ -10507,7 +10507,7 @@
     "body": {
       "description": "Amplify your marketing automation strategies with Okta integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "okta",
+    "schema_name": "okta",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Okta to analyze?",
       "bullets": [
@@ -10606,7 +10606,7 @@
     "body": {
       "description": "Amplify your marketing efforts and gain actionable insights from Open Data DC integration."
     },
-    "fivetran_id": "open_data_dc",
+    "schema_name": "open_data_dc",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Open Data DC to analyze?",
       "bullets": [
@@ -10705,7 +10705,7 @@
     "body": {
       "description": "Enhance your marketing data analysis with Open Exchange Rates integration, leveraging actionable insights to optimize currency conversion strategies."
     },
-    "fivetran_id": "open_exchange_rates",
+    "schema_name": "open_exchange_rates",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Open Exchange Rates to analyze?",
       "bullets": [
@@ -10804,7 +10804,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Optimizely integration, leveraging actionable insights from campaign data analysis."
     },
-    "fivetran_id": "optimizely",
+    "schema_name": "optimizely",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Optimizely to analyze?",
       "bullets": [
@@ -10903,7 +10903,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Oracle Fusion Cloud Applications - CRM integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "oracle_fusion_cloud_apps_crm",
+    "schema_name": "oracle_fusion_cloud_apps_crm",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Oracle Fusion Cloud Applications - CRM to analyze?",
       "bullets": [
@@ -11002,7 +11002,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Oracle Fusion Cloud Applications - FSCM(ERP & SCM) integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "oracle_fusion_cloud_apps_fscm",
+    "schema_name": "oracle_fusion_cloud_apps_fscm",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Oracle Fusion Cloud Applications - FSCM(ERP & SCM) to analyze?",
       "bullets": [
@@ -11101,7 +11101,7 @@
     "body": {
       "description": "Amplify your marketing automation strategies with Oracle Fusion Cloud Applications - HCM integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "oracle_fusion_cloud_apps_hcm",
+    "schema_name": "oracle_fusion_cloud_apps_hcm",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Oracle Fusion Cloud Applications - HCM to analyze?",
       "bullets": [
@@ -11200,7 +11200,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Orbit integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "orbit",
+    "schema_name": "orbit",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Orbit to analyze?",
       "bullets": [
@@ -11299,7 +11299,7 @@
     "body": {
       "description": "Optimize your content marketing efforts with Outbrain integration, leveraging native advertising and personalized recommendations to engage and convert your audience."
     },
-    "fivetran_id": "outbrain",
+    "schema_name": "outbrain",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Outbrain to analyze?",
       "bullets": [
@@ -11386,7 +11386,7 @@
     "body": {
       "description": "Amplify your outreach strategies with the Outreach connector."
     },
-    "fivetran_id": "outreach",
+    "schema_name": "outreach",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Outreach to analyze?",
       "bullets": [
@@ -11485,7 +11485,7 @@
     "body": {
       "description": "Amplify your marketing automation strategies with Pardot integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "pardot",
+    "schema_name": "pardot",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Pardot to analyze?",
       "bullets": [
@@ -11584,7 +11584,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Paypal integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "paypal",
+    "schema_name": "paypal",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Paypal to analyze?",
       "bullets": [
@@ -11683,7 +11683,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Paypal Sandbox integration, gaining actionable insights from data analysis."
     },
-    "fivetran_id": "paypal_sandbox",
+    "schema_name": "paypal_sandbox",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Paypal Sandbox to analyze?",
       "bullets": [
@@ -11782,7 +11782,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Pendo integration. Gain valuable insights from data analysis to improve your campaign performance."
     },
-    "fivetran_id": "pendo",
+    "schema_name": "pendo",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Pendo to analyze?",
       "bullets": [
@@ -11881,7 +11881,7 @@
     "body": {
       "description": "Amplify your advertising efforts with Pinterest Ads integration and unlock actionable insights from campaign data analysis."
     },
-    "fivetran_id": "pinterest_ads",
+    "schema_name": "pinterest_ads",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Pinterest Ads to analyze?",
       "bullets": [
@@ -11956,7 +11956,7 @@
     "body": {
       "description": "Amplify your sales strategies with Pipedrive integration, gaining actionable insights from deal data analysis."
     },
-    "fivetran_id": "pipedrive",
+    "schema_name": "pipedrive",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Pipedrive to analyze?",
       "bullets": [
@@ -12055,7 +12055,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Qualtrics integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "qualtrics",
+    "schema_name": "qualtrics",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Qualtrics to analyze?",
       "bullets": [
@@ -12154,7 +12154,7 @@
     "body": {
       "description": "Amplify your financial strategies with QuickBooks integration, gaining actionable insights from financial data analysis."
     },
-    "fivetran_id": "quickbooks",
+    "schema_name": "quickbooks",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in QuickBooks to analyze?",
       "bullets": [
@@ -12253,7 +12253,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Recharge integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "recharge",
+    "schema_name": "recharge",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Recharge to analyze?",
       "bullets": [
@@ -12352,7 +12352,7 @@
     "body": {
       "description": "Amplify your subscription management strategies with Recurly integration, gaining actionable insights from customer data analysis."
     },
-    "fivetran_id": "recurly",
+    "schema_name": "recurly",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Recurly to analyze?",
       "bullets": [
@@ -12451,7 +12451,7 @@
     "body": {
       "description": "Improve your marketing strategies with Reddit Ads integration. Gain actionable insights from campaign data analysis."
     },
-    "fivetran_id": "reddit_ads",
+    "schema_name": "reddit_ads",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Reddit Ads to analyze?",
       "bullets": [
@@ -12542,7 +12542,7 @@
     "body": {
       "description": "Optimize your retail strategies with RetailNext integration, unlocking actionable insights from customer data analysis."
     },
-    "fivetran_id": "retailnext",
+    "schema_name": "retailnext",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in RetailNext to analyze?",
       "bullets": [
@@ -12621,7 +12621,7 @@
     "body": {
       "description": "Amplify your customer feedback strategies with Retently integration, gaining actionable insights from customer data analysis."
     },
-    "fivetran_id": "retently",
+    "schema_name": "retently",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Retently to analyze?",
       "bullets": [
@@ -12720,7 +12720,7 @@
     "body": {
       "description": "Amplify your marketing communications strategies with RingCentral integration, gaining a comprehensive view of customer interactions and driving better campaign results."
     },
-    "fivetran_id": "ringcentral",
+    "schema_name": "ringcentral",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in RingCentral to analyze?",
       "bullets": [
@@ -12819,7 +12819,7 @@
     "body": {
       "description": "Amplify your financial management strategies with Sage Intacct integration, gaining actionable insights from financial data analysis."
     },
-    "fivetran_id": "sage_intacct",
+    "schema_name": "sage_intacct",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Sage Intacct to analyze?",
       "bullets": [
@@ -12918,7 +12918,7 @@
     "body": {
       "description": "Amplify your marketing automation strategies with Sailthru integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "sailthru",
+    "schema_name": "sailthru",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Sailthru to analyze?",
       "bullets": [
@@ -13017,7 +13017,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Salesforce integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "salesforce",
+    "schema_name": "salesforce",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Salesforce to analyze?",
       "bullets": [
@@ -13116,7 +13116,7 @@
     "body": {
       "description": "Amplify your e-commerce strategies with Salesforce Commerce Cloud integration, gaining actionable insights from customer data analysis."
     },
-    "fivetran_id": "salesforce_commerce_cloud",
+    "schema_name": "salesforce_commerce_cloud",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Salesforce Commerce Cloud to analyze?",
       "bullets": [
@@ -13215,7 +13215,7 @@
     "body": {
       "description": "Amplify your marketing automation strategies with Salesforce Marketing Cloud integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "salesforce_marketing_cloud",
+    "schema_name": "salesforce_marketing_cloud",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Salesforce Marketing Cloud to analyze?",
       "bullets": [
@@ -13314,7 +13314,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Salesforce Sandbox integration, gaining actionable insights from data analysis."
     },
-    "fivetran_id": "salesforce_sandbox",
+    "schema_name": "salesforce_sandbox",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Salesforce Sandbox to analyze?",
       "bullets": [
@@ -13413,7 +13413,7 @@
     "body": {
       "description": "Amplify your sales automation strategies with Salesloft integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "salesloft",
+    "schema_name": "salesloft",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Salesloft to analyze?",
       "bullets": [
@@ -13512,7 +13512,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Samsara integration. Gain actionable insights from data analysis to optimize campaign performance."
     },
-    "fivetran_id": "samsara",
+    "schema_name": "samsara",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Samsara to analyze?",
       "bullets": [
@@ -13611,7 +13611,7 @@
     "body": {
       "description": "Amplify your marketing strategies with SAP Business ByDesign integration, gaining actionable insights from data analysis."
     },
-    "fivetran_id": "sap_business_by_design",
+    "schema_name": "sap_business_by_design",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in SAP Business ByDesign to analyze?",
       "bullets": [
@@ -13710,7 +13710,7 @@
     "body": {
       "description": "Amplify your marketing automation strategies with SAP Concur integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "concur",
+    "schema_name": "concur",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in SAP Concur to analyze?",
       "bullets": [
@@ -13809,7 +13809,7 @@
     "body": {
       "description": "Amplify your marketing strategies with SAP S/4HANA integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "sap_s4hana",
+    "schema_name": "sap_s4hana",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in SAP S/4HANA to analyze?",
       "bullets": [
@@ -13908,7 +13908,7 @@
     "body": {
       "description": "Amplify your marketing automation strategies with SCORM integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "scorm",
+    "schema_name": "scorm",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in SCORM to analyze?",
       "bullets": [
@@ -14007,7 +14007,7 @@
     "body": {
       "description": "Amplify your marketing data strategies with Segment integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "segment",
+    "schema_name": "segment",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Segment to analyze?",
       "bullets": [
@@ -14106,7 +14106,7 @@
     "body": {
       "description": "Amplify your email marketing strategies with SendGrid integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "sendgrid",
+    "schema_name": "sendgrid",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in SendGrid to analyze?",
       "bullets": [
@@ -14205,7 +14205,7 @@
     "body": {
       "description": "Amplify your marketing automation strategies with Sendinblue integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "sendinblue",
+    "schema_name": "sendinblue",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Sendinblue to analyze?",
       "bullets": [
@@ -14304,7 +14304,7 @@
     "body": {
       "description": "Amplify your marketing data strategies with ServiceNow integration, gaining actionable insights from data analysis."
     },
-    "fivetran_id": "servicenow",
+    "schema_name": "servicenow",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in ServiceNow to analyze?",
       "bullets": [
@@ -14403,7 +14403,7 @@
     "body": {
       "description": "Optimize your shipping operations with ShipStation integration, gaining greater control and visibility over your fulfillment processes."
     },
-    "fivetran_id": "shipstation",
+    "schema_name": "shipstation",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in ShipStation to analyze?",
       "bullets": [
@@ -14502,7 +14502,7 @@
     "body": {
       "description": "Amplify your ecommerce strategies with Shopify integration, gaining actionable insights from sales data analysis."
     },
-    "fivetran_id": "shopify",
+    "schema_name": "shopify",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Shopify to analyze?",
       "bullets": [
@@ -14581,7 +14581,7 @@
     "body": {
       "description": "Optimize your inventory management strategies with SkuVault integration, gaining actionable insights from inventory data analysis."
     },
-    "fivetran_id": "skuvault",
+    "schema_name": "skuvault",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in SkuVault to analyze?",
       "bullets": [
@@ -14680,7 +14680,7 @@
     "body": {
       "description": "Amplify your team collaboration strategies with Slack integration, gaining actionable insights from communication data analysis."
     },
-    "fivetran_id": "slack",
+    "schema_name": "slack",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Slack to analyze?",
       "bullets": [
@@ -14779,7 +14779,7 @@
     "body": {
       "description": "Amplify your marketing efforts with Snapchat Ads integration. Gain valuable insights from campaign data analysis and drive high-quality traffic to your business."
     },
-    "fivetran_id": "snapchat_ads",
+    "schema_name": "snapchat_ads",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Snapchat Ads to analyze?",
       "bullets": [
@@ -14862,7 +14862,7 @@
     "body": {
       "description": "Amplify your marketing analytics strategies with Snowplow integration, unlocking actionable insights from campaign data analysis."
     },
-    "fivetran_id": "snowplow",
+    "schema_name": "snowplow",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Snowplow to analyze?",
       "bullets": [
@@ -14961,7 +14961,7 @@
     "body": {
       "description": "Amplify your code quality and security strategies by integrating SonarQube. Analyze code metrics and drive continuous improvement."
     },
-    "fivetran_id": "sonarqube",
+    "schema_name": "sonarqube",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in SonarQube to analyze?",
       "bullets": [
@@ -15036,7 +15036,7 @@
     "body": {
       "description": "Amplify your social media strategies with Sprout Social integration, gaining actionable insights from social media data analysis."
     },
-    "fivetran_id": "sprout",
+    "schema_name": "sprout",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Sprout Social to analyze?",
       "bullets": [
@@ -15135,7 +15135,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Square integration, gaining actionable insights from data analysis."
     },
-    "fivetran_id": "square",
+    "schema_name": "square",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Square to analyze?",
       "bullets": [
@@ -15234,7 +15234,7 @@
     "body": {
       "description": "Amplify your website strategies with Squarespace integration, gaining actionable insights from website data analysis."
     },
-    "fivetran_id": "squarespace",
+    "schema_name": "squarespace",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Squarespace to analyze?",
       "bullets": [
@@ -15333,7 +15333,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Stripe integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "stripe",
+    "schema_name": "stripe",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Stripe to analyze?",
       "bullets": [
@@ -15432,7 +15432,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Stripe test mode integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "stripe_test",
+    "schema_name": "stripe_test",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Stripe Test Mode to analyze?",
       "bullets": [
@@ -15531,7 +15531,7 @@
     "body": {
       "description": "Amplify your marketing automation strategies with Subscript integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "subscript",
+    "schema_name": "subscript",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Subscript to analyze?",
       "bullets": [
@@ -15630,7 +15630,7 @@
     "body": {
       "description": "Amplify your survey research strategies with SurveyMonkey integration, gaining actionable insights from survey data analysis."
     },
-    "fivetran_id": "survey_monkey",
+    "schema_name": "survey_monkey",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in SurveyMonkey to analyze?",
       "bullets": [
@@ -15729,7 +15729,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Survicate integration. Gain actionable insights from data analysis."
     },
-    "fivetran_id": "survicate",
+    "schema_name": "survicate",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Survicate to analyze?",
       "bullets": [
@@ -15828,7 +15828,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Taboola integration, gaining valuable insights from data analysis."
     },
-    "fivetran_id": "taboola",
+    "schema_name": "taboola",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Taboola to analyze?",
       "bullets": [
@@ -15923,7 +15923,7 @@
     "body": {
       "description": "Amplify your customer service strategies with Talkdesk integration, gaining actionable insights from support data analysis."
     },
-    "fivetran_id": "talkdesk",
+    "schema_name": "talkdesk",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Talkdesk to analyze?",
       "bullets": [
@@ -16022,7 +16022,7 @@
     "body": {
       "description": "Amplify your programmatic advertising strategies with The Trade Desk integration, gaining actionable insights from ad campaign data analysis."
     },
-    "fivetran_id": "the_trade_desk",
+    "schema_name": "the_trade_desk",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in The Trade Desk to analyze?",
       "bullets": [
@@ -16121,7 +16121,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Tiktok Ads integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "tiktok_ads",
+    "schema_name": "tiktok_ads",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Tiktok Ads to analyze?",
       "bullets": [
@@ -16220,7 +16220,7 @@
     "body": {
       "description": "Amplify your advertising strategies with Twitter Ads integration, gaining actionable insights from ad data analysis."
     },
-    "fivetran_id": "twitter_ads",
+    "schema_name": "twitter_ads",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Twitter Ads to analyze?",
       "bullets": [
@@ -16319,7 +16319,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Twitter Organic integration. Gain actionable insights from data analysis to optimize your campaigns."
     },
-    "fivetran_id": "twitter",
+    "schema_name": "twitter",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Twitter Organic to analyze?",
       "bullets": [
@@ -16406,7 +16406,7 @@
     "body": {
       "description": "Amplify your marketing efforts with Typeform integration, gaining actionable insights from data analysis and optimizing campaign performance."
     },
-    "fivetran_id": "typeform",
+    "schema_name": "typeform",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Typeform to analyze?",
       "bullets": [
@@ -16473,7 +16473,7 @@
     "body": {
       "description": "Amplify your user feedback strategies with UserVoice integration, leveraging actionable insights to prioritize product enhancements and enhance customer experiences."
     },
-    "fivetran_id": "uservoice",
+    "schema_name": "uservoice",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in UserVoice to analyze?",
       "bullets": [
@@ -16572,7 +16572,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Verizon Media integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "yahoo_gemini",
+    "schema_name": "yahoo_gemini",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Verizon Media to analyze?",
       "bullets": [
@@ -16671,7 +16671,7 @@
     "body": {
       "description": "Streamline your scheduling and workforce management with When I Work integration, gaining actionable insights from data analysis."
     },
-    "fivetran_id": "when_i_work",
+    "schema_name": "when_i_work",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in When I Work to analyze?",
       "bullets": [
@@ -16730,7 +16730,7 @@
     "body": {
       "description": "Amplify your e-commerce strategies with WooCommerce integration, gaining actionable insights from sales data analysis."
     },
-    "fivetran_id": "woocommerce",
+    "schema_name": "woocommerce",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in WooCommerce to analyze?",
       "bullets": [
@@ -16829,7 +16829,7 @@
     "body": {
       "description": "Amplify your HR management strategies with Workday HCM integration, gaining actionable insights from workforce data analysis."
     },
-    "fivetran_id": "workday_hcm",
+    "schema_name": "workday_hcm",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Workday HCM to analyze?",
       "bullets": [
@@ -16920,7 +16920,7 @@
     "body": {
       "description": "Amplify your marketing automation strategies with Workday RaaS integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "workday",
+    "schema_name": "workday",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Workday RaaS to analyze?",
       "bullets": [
@@ -17019,7 +17019,7 @@
     "body": {
       "description": "Amplify your project management strategies with Wrike integration, gaining actionable insights from task data analysis."
     },
-    "fivetran_id": "wrike",
+    "schema_name": "wrike",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Wrike to analyze?",
       "bullets": [
@@ -17122,7 +17122,7 @@
     "body": {
       "description": "Amplify your marketing automation strategies with Xero integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "xero",
+    "schema_name": "xero",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Xero to analyze?",
       "bullets": [
@@ -17221,7 +17221,7 @@
     "body": {
       "description": "Leverage YouTube Analytics integration to analyze and optimize your YouTube marketing strategies."
     },
-    "fivetran_id": "youtube_analytics",
+    "schema_name": "youtube_analytics",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in YouTube Analytics to analyze?",
       "bullets": [
@@ -17320,7 +17320,7 @@
     "body": {
       "description": "Amplify customer support strategies with Zendesk Chat integration, gaining actionable insights from chat data analysis."
     },
-    "fivetran_id": "zendesk_chat",
+    "schema_name": "zendesk_chat",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Zendesk Chat to analyze?",
       "bullets": [
@@ -17395,7 +17395,7 @@
     "body": {
       "description": "Amplify your sales strategies with Zendesk Sell integration, gaining actionable insights from sales data analysis."
     },
-    "fivetran_id": "zendesk_sell",
+    "schema_name": "zendesk_sell",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Zendesk Sell to analyze?",
       "bullets": [
@@ -17470,7 +17470,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Zendesk Sunshine integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "zendesk_sunshine",
+    "schema_name": "zendesk_sunshine",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Zendesk Sunshine to analyze?",
       "bullets": [
@@ -17569,7 +17569,7 @@
     "body": {
       "description": "Amplify your customer support strategies with Zendesk Support integration, gaining actionable insights from ticket data analysis."
     },
-    "fivetran_id": "zendesk",
+    "schema_name": "zendesk",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Zendesk Support to analyze?",
       "bullets": [
@@ -17660,7 +17660,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Zoho CRM integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "zoho_crm",
+    "schema_name": "zoho_crm",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Zoho CRM to analyze?",
       "bullets": [
@@ -17759,7 +17759,7 @@
     "body": {
       "description": "Amplify your subscription management strategies with Zuora integration, gaining actionable insights from customer data analysis."
     },
-    "fivetran_id": "zuora",
+    "schema_name": "zuora",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Zuora to analyze?",
       "bullets": [
@@ -17858,7 +17858,7 @@
     "body": {
       "description": "Amplify your marketing data strategies with Zuora Sandbox integration, gaining actionable insights from data analysis."
     },
-    "fivetran_id": "zuora_sandbox",
+    "schema_name": "zuora_sandbox",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Zuora Sandbox to analyze?",
       "bullets": [
@@ -17957,7 +17957,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Apollo integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "apollo",
+    "schema_name": "apollo",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Apollo to analyze?",
       "bullets": [
@@ -18056,7 +18056,7 @@
     "body": {
       "description": "Amplify your marketing strategies with AgilityAds integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "agility_ads",
+    "schema_name": "agility_ads",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in AgilityAds to analyze?",
       "bullets": [
@@ -18155,7 +18155,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Google Business Profile integration, gaining actionable insights from data analysis."
     },
-    "fivetran_id": "business_profile",
+    "schema_name": "business_profile",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Google Business Profile to analyze?",
       "bullets": [
@@ -18254,7 +18254,7 @@
     "body": {
       "description": "Amplify your call tracking strategies with Call Tracking Metrics integration, gaining actionable insights from call data analysis."
     },
-    "fivetran_id": "call_tracking_metrics",
+    "schema_name": "call_tracking_metrics",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Call Tracking Metrics to analyze?",
       "bullets": [
@@ -18353,7 +18353,7 @@
     "body": {
       "description": "Amplify your marketing automation strategies with Franconnect integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "franconnect",
+    "schema_name": "franconnect",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Franconnect to analyze?",
       "bullets": [
@@ -18452,7 +18452,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Google Ads GCF integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "google_ads",
+    "schema_name": "google_ads",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Google Ads GCF to analyze?",
       "bullets": [
@@ -18551,7 +18551,7 @@
     "body": {
       "description": "Amplify your marketing automation strategies with GravityForms integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "gravity_forms",
+    "schema_name": "gravity_forms",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in GravityForms to analyze?",
       "bullets": [
@@ -18650,7 +18650,7 @@
     "body": {
       "description": "Amplify your marketing automation strategies with Ground Truth integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "ground_truth",
+    "schema_name": "ground_truth",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Ground Truth to analyze?",
       "bullets": [
@@ -18749,7 +18749,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Impact integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "impact",
+    "schema_name": "impact",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Impact to analyze?",
       "bullets": [
@@ -18848,7 +18848,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Linkedin Creative integration. Gain actionable insights from data analysis on Linkedin campaigns."
     },
-    "fivetran_id": "linkedin_creative",
+    "schema_name": "linkedin_creative",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Linkedin Creative to analyze?",
       "bullets": [
@@ -18939,7 +18939,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Localiq integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "localiq",
+    "schema_name": "localiq",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Localiq to analyze?",
       "bullets": [
@@ -19038,7 +19038,7 @@
     "body": {
       "description": "Supercharge your advertising campaigns with Quora Ads integration. Gain actionable insights from campaign data analysis to optimize your advertising efforts."
     },
-    "fivetran_id": "quora_ads",
+    "schema_name": "quora_ads",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Quora Ads to analyze?",
       "bullets": [
@@ -19113,7 +19113,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Sem Rush integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "sem_rush",
+    "schema_name": "sem_rush",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Sem Rush to analyze?",
       "bullets": [
@@ -19212,7 +19212,7 @@
     "body": {
       "description": "Amplify your marketing analytics strategies with Simplifi integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "simplifi",
+    "schema_name": "simplifi",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Simplifi to analyze?",
       "bullets": [
@@ -19311,7 +19311,7 @@
     "body": {
       "description": "Amplify your marketing strategies with StackAdapt integration, gaining actionable insights from data analysis."
     },
-    "fivetran_id": "stack_adapt",
+    "schema_name": "stack_adapt",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in StackAdapt to analyze?",
       "bullets": [
@@ -19390,7 +19390,7 @@
     "body": {
       "description": "Amplify your marketing automation strategies with Synuma integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "synuma",
+    "schema_name": "synuma",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Synuma to analyze?",
       "bullets": [
@@ -19489,7 +19489,7 @@
     "body": {
       "description": "Amplify your advertising strategies with TikTok Ads integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "tiktok_ads",
+    "schema_name": "tiktok_ads",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in TikTok Ads to analyze?",
       "bullets": [
@@ -19572,7 +19572,7 @@
     "body": {
       "description": "Amplify your marketing strategies with Unbounce integration, gaining actionable insights from campaign data analysis."
     },
-    "fivetran_id": "unbounce",
+    "schema_name": "unbounce",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Unbounce to analyze?",
       "bullets": [
@@ -19627,7 +19627,7 @@
     "body": {
       "description": "Unlock the potential of your MongoDB-compatible workloads with Amazon DocumentDB. Leverage the fully managed database service to optimize performance, achieve high availability, and simplify administration. Explore advanced functionalities and ensure seamless data operations with ease."
     },
-    "fivetran_id": "documentdb"
+    "schema_name": "documentdb"
   },
   "Amazon Kinesis Firehose": {
     "overview": {
@@ -19636,7 +19636,7 @@
     "body": {
       "description": "Effortlessly stream and load data into AWS with Amazon Kinesis Firehose. Automate the delivery of data from multiple sources for seamless processing and real-time analytics."
     },
-    "fivetran_id": "kinesis"
+    "schema_name": "kinesis"
   },
   "Amazon S3": {
     "overview": {
@@ -19645,7 +19645,7 @@
     "body": {
       "description": "Utilize the power of Amazon S3 for reliable and scalable cloud storage. Store, manage, and access your data effortlessly with Amazon S3."
     },
-    "fivetran_id": "s3"
+    "schema_name": "s3"
   },
   "Aurora MySQL": {
     "overview": {
@@ -19654,7 +19654,7 @@
     "body": {
       "description": "Unlock the power of your data with the Aurora MySQL connector. Optimize database performance, scale effortlessly, and enhance data management for your applications, all with the advanced features and outstanding performance of Aurora MySQL."
     },
-    "fivetran_id": "aurora"
+    "schema_name": "aurora"
   },
   "Aurora Postgres": {
     "overview": {
@@ -19663,7 +19663,7 @@
     "body": {
       "description": "Body of Aurora Postgres"
     },
-    "fivetran_id": "aurora_postgres"
+    "schema_name": "aurora_postgres"
   },
   "AWS CloudTrail": {
     "overview": {
@@ -19672,7 +19672,7 @@
     "body": {
       "description": "Gain visibility and control over your AWS account activities with AWS CloudTrail. Analyze user behavior, track API activity, and detect and respond to security threats with ease."
     },
-    "fivetran_id": "aws_cloudtrial"
+    "schema_name": "aws_cloudtrial"
   },
   "AWS Lambda": {
     "overview": {
@@ -19681,7 +19681,7 @@
     "body": {
       "description": "AWS Lambda allows you to build and run applications without the need for servers. Simply write your code, and Lambda handles the rest. With automatic scaling and pay-per-use pricing, Lambda provides a cost-effective and scalable solution for your serverless applications."
     },
-    "fivetran_id": "aws_lambda"
+    "schema_name": "aws_lambda"
   },
   "Azure Blob Storage": {
     "overview": {
@@ -19690,7 +19690,7 @@
     "body": {
       "description": "Effortlessly manage and store unstructured data with Azure Blob Storage. From text documents to images, videos, and more, securely store and access your data from anywhere in the world. Leverage the power of Azure Blob Storage for seamless data storage and retrieval."
     },
-    "fivetran_id": "azure_blob_storage"
+    "schema_name": "azure_blob_storage"
   },
   "Azure Cosmos DB - NoSQL API": {
     "overview": {
@@ -19699,7 +19699,7 @@
     "body": {
       "description": "Unlock the potential of your applications with Azure Cosmos DB - NoSQL API. Store and retrieve data at scale, with low latency and high throughput. Experience the benefits of a fully managed, multi-model database service that supports schema-free data and provides global distribution across Azure regions."
     },
-    "fivetran_id": "cosmos"
+    "schema_name": "cosmos"
   },
   "Azure Functions": {
     "overview": {
@@ -19708,7 +19708,7 @@
     "body": {
       "description": "Empower your applications with the power of Azure Functions. Build serverless architectures, automate workflows, and integrate with various services. Unlock scalability, flexibility, and productivity with Azure Functions."
     },
-    "fivetran_id": "azure_function"
+    "schema_name": "azure_function"
   },
   "Azure MariaDB": {
     "overview": {
@@ -19717,7 +19717,7 @@
     "body": {
       "description": "Achieve unparalleled database management with Azure MariaDB. Harness the full potential of your MariaDB-powered application with seamless integration, advanced features, and global availability on the Azure platform."
     },
-    "fivetran_id": "maria_azure"
+    "schema_name": "maria_azure"
   },
   "Azure MySQL": {
     "overview": {
@@ -19726,7 +19726,7 @@
     "body": {
       "description": "Take advantage of Azure MySQL to effortlessly manage and optimize your MySQL databases. Leverage the power and flexibility of Azure's advanced features to streamline your database operations and enhance your application performance."
     },
-    "fivetran_id": "mysql_azure"
+    "schema_name": "mysql_azure"
   },
   "Azure PostgreSQL Database": {
     "overview": {
@@ -19735,7 +19735,7 @@
     "body": {
       "description": "Harness the capabilities of Azure PostgreSQL Database connector to elevate your database management experience. Boost performance, ensure secure data storage, and optimize application development with ease."
     },
-    "fivetran_id": "azure_postgres"
+    "schema_name": "azure_postgres"
   },
   "Azure SQL Database": {
     "overview": {
@@ -19744,7 +19744,7 @@
     "body": {
       "description": "Optimize your data management with Azure SQL Database. Unlock the power of advanced analytics and intelligent features. Scale up or down effortlessly, while ensuring data security and high availability across your applications."
     },
-    "fivetran_id": "azure_sql_db"
+    "schema_name": "azure_sql_db"
   },
   "Azure SQL Managed Instance": {
     "overview": {
@@ -19753,7 +19753,7 @@
     "body": {
       "description": "Description of body for Azure SQL Managed Instance connector."
     },
-    "fivetran_id": "azure_sql_managed_db"
+    "schema_name": "azure_sql_managed_db"
   },
   "BigQuery": {
     "overview": {
@@ -19762,7 +19762,7 @@
     "body": {
       "description": "Unlock the true potential of your data with the BigQuery connector. Analyze, visualize, and share large datasets with ease, while benefiting from the speed and reliability of Google's world-class infrastructure."
     },
-    "fivetran_id": "bigquery_db"
+    "schema_name": "bigquery_db"
   },
   "Box": {
     "overview": {
@@ -19771,7 +19771,7 @@
     "body": {
       "description": "Streamline your file management and collaboration processes with Box. Easily share, access, and collaborate on files and documents. Simplify workflows, improve productivity, and ensure data security with Box."
     },
-    "fivetran_id": "box"
+    "schema_name": "box"
   },
   "Buildkite": {
     "overview": {
@@ -19780,7 +19780,7 @@
     "body": {
       "description": "Streamline your development workflow, automate testing, and deploy your applications with confidence using Buildkite – the ultimate continuous integration and delivery platform."
     },
-    "fivetran_id": "buildkite"
+    "schema_name": "buildkite"
   },
   "Chameleon": {
     "overview": {
@@ -19789,7 +19789,7 @@
     "body": {
       "description": "Elevate engagement and conversions with Chameleon – your gateway to personalized messaging and dynamic content for impactful marketing campaigns."
     },
-    "fivetran_id": "chameleon"
+    "schema_name": "chameleon"
   },
   "ClickUp": {
     "overview": {
@@ -19798,7 +19798,7 @@
     "body": {
       "description": "Enhance productivity and streamline workflows with ClickUp. Simplify project management, automate processes, and optimize team collaboration."
     },
-    "fivetran_id": "clickup"
+    "schema_name": "clickup"
   },
   "Consumer Dropbox": {
     "overview": {
@@ -19807,7 +19807,7 @@
     "body": {
       "description": "Elevate engagement and performance worldwide with Consumer Dropbox – your gateway to global content delivery for data, videos, applications, and APIs."
     },
-    "fivetran_id": "dropbox_consumer"
+    "schema_name": "dropbox_consumer"
   },
   "Dropbox": {
     "overview": {
@@ -19816,7 +19816,7 @@
     "body": {
       "description": "Elevate your file management and collaboration with Dropbox – the ultimate solution for storing, syncing, and sharing your files across devices and teams. Simplify your workflows, access your files on the go, and collaborate with ease using Dropbox."
     },
-    "fivetran_id": "dropbox"
+    "schema_name": "dropbox"
   },
   "DynamoDB": {
     "overview": {
@@ -19825,7 +19825,7 @@
     "body": {
       "description": "Utilize DynamoDB to build highly scalable and reliable applications. With its seamless replication and automatic sharding, DynamoDB ensures high availability and fault tolerance. Store and retrieve any type of data with ease, and enjoy the benefits of a fully managed NoSQL database."
     },
-    "fivetran_id": "dynamodb"
+    "schema_name": "dynamodb"
   },
   "Elastic Cloud": {
     "overview": {
@@ -19834,7 +19834,7 @@
     "body": {
       "description": "Unlock the potential of your data with Elastic Cloud. Leverage Elasticsearch and Kibana to drive impactful insights, enhance search capabilities, and empower your business to make data-driven decisions."
     },
-    "fivetran_id": "elastic_cloud"
+    "schema_name": "elastic_cloud"
   },
   "Email": {
     "overview": {
@@ -19843,7 +19843,7 @@
     "body": {
       "description": "Enhance your analytics with integrated Email engagement data."
     },
-    "fivetran_id": "email"
+    "schema_name": "email"
   },
   "Firebase": {
     "overview": {
@@ -19852,7 +19852,7 @@
     "body": {
       "description": "Enhance your applications with Firebase - the leading backend-as-a-service platform for building web, mobile, and server applications. Leverage Firebase's real-time database, authentication, and hosting features to streamline development and deliver exceptional user experiences."
     },
-    "fivetran_id": "firebase"
+    "schema_name": "firebase"
   },
   "Freshservice": {
     "overview": {
@@ -19861,7 +19861,7 @@
     "body": {
       "description": "Transform your IT service management with Freshservice. Take control of your IT operations, simplify ticket management, optimize asset tracking, and deliver outstanding customer service. With Freshservice, you can effortlessly streamline your support processes and provide exceptional IT support."
     },
-    "fivetran_id": "freshservice"
+    "schema_name": "freshservice"
   },
   "Freshservice Lite": {
     "overview": {
@@ -19870,7 +19870,7 @@
     "body": {
       "description": "Streamline your IT service management with Freshservice Lite. Simplify your workflow, streamline ticket management, and improve collaboration. Enhance the efficiency and effectiveness of your IT team with Freshservice Lite's comprehensive set of features and advanced analytics."
     },
-    "fivetran_id": "freshservice_lite"
+    "schema_name": "freshservice_lite"
   },
   "FTP": {
     "overview": {
@@ -19879,7 +19879,7 @@
     "body": {
       "description": "Streamline your workflow and transfer files seamlessly with the FTP connector – your gateway to efficient and secure file transfer across servers."
     },
-    "fivetran_id": "ftp"
+    "schema_name": "ftp"
   },
   "GitHub": {
     "overview": {
@@ -19888,7 +19888,7 @@
     "body": {
       "description": "Unlock the full potential of collaborative software development with the GitHub connector. From version control to code reviews, project management to team collaboration, GitHub provides the tools you need to build high-quality software faster and more efficiently than ever before."
     },
-    "fivetran_id": "github"
+    "schema_name": "github"
   },
   "Google Cloud Functions": {
     "overview": {
@@ -19897,7 +19897,7 @@
     "body": {
       "description": "Create serverless functions with Google Cloud Functions for event-driven applications and microservices. Focus solely on writing your code without worrying about managing infrastructure. Benefit from autoscaling, pay-per-use pricing, and seamless integration with other Google Cloud services."
     },
-    "fivetran_id": "google_cloud_function"
+    "schema_name": "google_cloud_function"
   },
   "Google Cloud MySQL": {
     "overview": {
@@ -19906,7 +19906,7 @@
     "body": {
       "description": "Simplify your database management with Google Cloud MySQL. Store, query, and manage your relational databases on Google Cloud effortlessly. Leverage the power of the fully-managed MySQL service to scale your applications and ensure high availability."
     },
-    "fivetran_id": "google_cloud_mysql"
+    "schema_name": "google_cloud_mysql"
   },
   "Google Cloud PostgreSQL": {
     "overview": {
@@ -19915,7 +19915,7 @@
     "body": {
       "description": "Unlock the full potential of your data with Google Cloud PostgreSQL. Build robust, scalable, and secure applications with ease. Leverage the advanced features of PostgreSQL and the scalability of Google Cloud to handle your most demanding workloads. Increase productivity, reduce costs, and accelerate innovation with Google Cloud PostgreSQL."
     },
-    "fivetran_id": "google_cloud_postgresql"
+    "schema_name": "google_cloud_postgresql"
   },
   "Google Cloud SQL - SQL Server": {
     "overview": {
@@ -19924,7 +19924,7 @@
     "body": {
       "description": "Drive your business forward with Google Cloud SQL - SQL Server. Easily manage and optimize your SQL Server databases on the scalable and secure Google Cloud Platform."
     },
-    "fivetran_id": "google_cloud_sqlserver"
+    "schema_name": "google_cloud_sqlserver"
   },
   "Google Cloud Storage": {
     "overview": {
@@ -19933,7 +19933,7 @@
     "body": {
       "description": "Store and retrieve your data securely and efficiently with Google Cloud Storage. Enjoy scalable and cost-effective storage solutions for your files, objects, and backups."
     },
-    "fivetran_id": "gcs"
+    "schema_name": "gcs"
   },
   "Google Drive": {
     "overview": {
@@ -19942,7 +19942,7 @@
     "body": {
       "description": "Simplify file management and collaboration with Google Drive. Store, organize, and access files easily, collaborate in real-time, and enhance productivity"
     },
-    "fivetran_id": "google_drive"
+    "schema_name": "google_drive"
   },
   "Google Sheets": {
     "overview": {
@@ -19951,7 +19951,7 @@
     "body": {
       "description": "Simplify your data management with Google Sheets – the ultimate tool for creating, editing, and collaborating on spreadsheets. Share data with your team, automate tasks, and visualize information to drive productivity and insights."
     },
-    "fivetran_id": "google_sheets"
+    "schema_name": "google_sheets"
   },
   "Guru": {
     "overview": {
@@ -19960,7 +19960,7 @@
     "body": {
       "description": "Streamline data connections and management with Guru."
     },
-    "fivetran_id": "guru"
+    "schema_name": "guru"
   },
   "Heroku Postgres": {
     "overview": {
@@ -19969,7 +19969,7 @@
     "body": {
       "description": "Effortlessly manage and scale your PostgreSQL database with Heroku Postgres. Leverage the advanced features and tools provided by Heroku to streamline your database operations and maximize productivity."
     },
-    "fivetran_id": "heroku_postgres"
+    "schema_name": "heroku_postgres"
   },
   "High Volume Agent Db2 for i": {
     "overview": {
@@ -19978,7 +19978,7 @@
     "body": {
       "description": "Unlock the potential of high-volume data processing on IBM Db2 for i with the High Volume Agent connector. Efficiently handle large datasets, perform complex analytics, and drive real-time insights for your business. Harness the power of high-volume transaction processing and advanced analytics with the High Volume Agent Db2 for i connector."
     },
-    "fivetran_id": "db2i_hva"
+    "schema_name": "db2i_hva"
   },
   "High-Volume Agent SQL Server": {
     "overview": {
@@ -19987,7 +19987,7 @@
     "body": {
       "description": "Unlock the potential of high-volume data processing with the High-Volume Agent SQL Server. Streamline your data management, integration, and processing needs using the power of SQL Server."
     },
-    "fivetran_id": "sql_server_hva"
+    "schema_name": "sql_server_hva"
   },
   "Jira": {
     "overview": {
@@ -19996,7 +19996,7 @@
     "body": {
       "description": "Enhance your project management capabilities with Jira - the ultimate tool for workflow management, issue tracking, and team collaboration."
     },
-    "fivetran_id": "jira"
+    "schema_name": "jira"
   },
   "Magento MySQL": {
     "overview": {
@@ -20005,7 +20005,7 @@
     "body": {
       "description": "Unlock the full potential of Magento with the Magento MySQL connector. Simplify data management and enhance your store's functionality by integrating with your MySQL database. Seamlessly retrieve and update product information, customer data, orders, and more to optimize your Magento store."
     },
-    "fivetran_id": "magento_mysql"
+    "schema_name": "magento_mysql"
   },
   "Magento MySQL RDS": {
     "overview": {
@@ -20014,7 +20014,7 @@
     "body": {
       "description": "Take control of your eCommerce database with ease using the Magento MySQL RDS connector. Experience seamless management of your Magento store's data, ensuring reliability, and scalability for your online business."
     },
-    "fivetran_id": "magento_mysql_rds"
+    "schema_name": "magento_mysql_rds"
   },
   "MariaDB RDS": {
     "overview": {
@@ -20023,7 +20023,7 @@
     "body": {
       "description": "Simplify your relational database operations with MariaDB RDS – a fully managed, highly available, and scalable MariaDB database service in the cloud."
     },
-    "fivetran_id": "maria_rds"
+    "schema_name": "maria_rds"
   },
   "Microsoft Dynamics 365 F/O": {
     "overview": {
@@ -20032,7 +20032,7 @@
     "body": {
       "description": "Take control of your financial and operational processes with Microsoft Dynamics 365 F/O. Streamline your business operations, reduce manual tasks, and drive growth through intelligent insights and powerful analytics."
     },
-    "fivetran_id": "dynamics_365_fo"
+    "schema_name": "dynamics_365_fo"
   },
   "Microsoft Lists": {
     "overview": {
@@ -20041,7 +20041,7 @@
     "body": {
       "description": "Maximize productivity and efficiency with Microsoft Lists. Simplify data tracking, record management, and document organization, empowering your team to stay organized and focused on their work."
     },
-    "fivetran_id": "microsoft_lists"
+    "schema_name": "microsoft_lists"
   },
   "Monday.com": {
     "overview": {
@@ -20050,7 +20050,7 @@
     "body": {
       "description": "Optimize project management and team collaboration with Monday.com, your go-to solution for tracking tasks, managing deadlines, sharing files, and staying organized."
     },
-    "fivetran_id": "monday"
+    "schema_name": "monday"
   },
   "Amazon CloudFront": {
     "overview": {
@@ -20059,7 +20059,7 @@
     "body": {
       "description": "Elevate engagement and performance worldwide with Amazon CloudFront – your gateway to global content delivery for data, videos, applications, and APIs."
     },
-    "fivetran_id": "cloudfront"
+    "schema_name": "cloudfront"
   },
   "OneDrive": {
     "overview": {
@@ -20068,7 +20068,7 @@
     "body": {
       "description": "Experience seamless file management and collaboration with OneDrive - the leading cloud storage and file hosting service by Microsoft."
     },
-    "fivetran_id": "one_drive"
+    "schema_name": "one_drive"
   },
   "Oracle": {
     "overview": {
@@ -20077,7 +20077,7 @@
     "body": {
       "description": "Elevate engagement and performance worldwide with Oracle – your gateway to global content delivery for data, videos, applications, and APIs."
     },
-    "fivetran_id": "oracle"
+    "schema_name": "oracle"
   },
   "Oracle EBS": {
     "overview": {
@@ -20086,7 +20086,7 @@
     "body": {
       "description": "Optimize your business operations with the Oracle EBS connector. Unlock the full potential of Oracle's suite of applications to streamline processes, enhance productivity, and drive growth. Gain a competitive edge by leveraging Oracle's powerful tools and capabilities."
     },
-    "fivetran_id": "oracle_ebs"
+    "schema_name": "oracle_ebs"
   },
   "Oracle RAC": {
     "overview": {
@@ -20095,7 +20095,7 @@
     "body": {
       "description": "Achieve high availability and scalability with the Oracle RAC connector – your solution for managing and consolidating database resources across multiple nodes. Benefit from Oracle's Real Application Clusters technology to ensure continuous access to critical business data. Enhance application performance and minimize downtime with Oracle RAC."
     },
-    "fivetran_id": "oracle_rac"
+    "schema_name": "oracle_rac"
   },
   "Oracle RDS": {
     "overview": {
@@ -20104,7 +20104,7 @@
     "body": {
       "description": "Simplify database management with Oracle RDS – your reliable solution for deploying and scaling Oracle databases in the cloud. Optimize performance, ensure high availability, and secure your data with ease."
     },
-    "fivetran_id": "oracle_rds"
+    "schema_name": "oracle_rds"
   },
   "Postgres RDS": {
     "overview": {
@@ -20113,7 +20113,7 @@
     "body": {
       "description": "Experience unparalleled reliability and scalability with Postgres RDS – your trusted solution for managing and accessing relational databases in the cloud."
     },
-    "fivetran_id": "postgres_rds"
+    "schema_name": "postgres_rds"
   },
   "Rarible": {
     "overview": {
@@ -20122,7 +20122,7 @@
     "body": {
       "description": "Unlock new opportunities in the decentralized art space with Rarible. Buy, sell, or trade digital collectibles and unique art pieces securely on the blockchain. Join a thriving community of creators, collectors, and enthusiasts, and embrace a new era of digital ownership with Rarible."
     },
-    "fivetran_id": "rarible"
+    "schema_name": "rarible"
   },
   "Rollbar": {
     "overview": {
@@ -20131,7 +20131,7 @@
     "body": {
       "description": "Enhance the quality of your software applications by leveraging the power of Rollbar. Monitor and analyze error data, diagnose issues, and ensure the smooth operation of your applications. With Rollbar, you can minimize downtime and deliver exceptional user experiences."
     },
-    "fivetran_id": "rollbar"
+    "schema_name": "rollbar"
   },
   "SAP HANA": {
     "overview": {
@@ -20140,7 +20140,7 @@
     "body": {
       "description": "Unlock the full potential of your enterprise data with SAP HANA. This powerful solution provides a comprehensive platform for business intelligence, data warehousing, and application development. With real-time processing and advanced analytics capabilities, SAP HANA empowers you to turn data into actionable insights and drive business growth."
     },
-    "fivetran_id": "sap_hana"
+    "schema_name": "sap_hana"
   },
   "SFTP": {
     "overview": {
@@ -20149,7 +20149,7 @@
     "body": {
       "description": "SFTP is widely used for secure file transfers between systems. It offers strong encryption and authentication features to ensure the confidentiality and integrity of data during transit. With SFTP, you can securely exchange files with remote systems in a seamless and reliable manner."
     },
-    "fivetran_id": "sftp"
+    "schema_name": "sftp"
   },
   "SharePoint": {
     "overview": {
@@ -20158,7 +20158,7 @@
     "body": {
       "description": "Enhance productivity and streamline information sharing with the SharePoint connector. Share and collaborate on documents, manage workflows, and organize content effortlessly using SharePoint's comprehensive suite of tools."
     },
-    "fivetran_id": "share_point"
+    "schema_name": "share_point"
   },
   "Snowflake": {
     "overview": {
@@ -20167,7 +20167,7 @@
     "body": {
       "description": "Take your data analytics to the next level with Snowflake. Seamlessly store, analyze, and share your data across your organization using Snowflake's cloud data platform."
     },
-    "fivetran_id": "snowflake_db"
+    "schema_name": "snowflake_db"
   },
   "Splunk": {
     "overview": {
@@ -20176,7 +20176,7 @@
     "body": {
       "description": "Unlock the potential of your machine-generated data with Splunk – the leading platform for operational intelligence. Make sense of complex data sets, identify patterns, and detect anomalies to gain a comprehensive understanding of your systems, applications, and security."
     },
-    "fivetran_id": "splunk"
+    "schema_name": "splunk"
   },
   "SQL Server": {
     "overview": {
@@ -20185,7 +20185,7 @@
     "body": {
       "description": "Unlock the full potential of your data with SQL Server connector. Seamlessly manage and query your databases, enabling efficient storage, retrieval, and analysis. Leverage the rich features of SQL Server to ensure data integrity, scalability, and security for your organization."
     },
-    "fivetran_id": "sql_server"
+    "schema_name": "sql_server"
   },
   "SQL Server RDS": {
     "overview": {
@@ -20194,7 +20194,7 @@
     "body": {
       "description": "Effortlessly manage your SQL Server databases with the SQL Server RDS connector. Utilize the flexibility and scalability of Amazon RDS to easily deploy, scale, and maintain your databases. Streamline your database management process and ensure high performance and reliability for your applications."
     },
-    "fivetran_id": "sql_server_rds"
+    "schema_name": "sql_server_rds"
   },
   "Twilio": {
     "overview": {
@@ -20203,7 +20203,7 @@
     "body": {
       "description": "Take advantage of Twilio's powerful features to streamline your communication processes. Whether it's sending automated notifications, enabling two-factor authentication, or building interactive voice response systems, Twilio provides the tools you need to enhance your customer experience."
     },
-    "fivetran_id": "twilio"
+    "schema_name": "twilio"
   },
   "Webhooks": {
     "overview": {
@@ -20212,7 +20212,7 @@
     "body": {
       "description": "Empower your data insights with real-time data updates through the Webhooks connector."
     },
-    "fivetran_id": "webhooks",
+    "schema_name": "webhooks",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Webhooks to analyze?",
       "bullets": [

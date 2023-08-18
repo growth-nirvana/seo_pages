@@ -8,8 +8,8 @@ description: Elevate your marketing and sales performance with 6sense integratio
 image: "/assets/images/seo_pages/body.webp"
 date: '2023-08-18'
 categories: connectors
-permalink: connectors/sixsense
-icon_url: "/assets/images/seo_pages/connectors/sixsense"
+permalink: connectors/6sense
+icon_url: "/assets/images/seo_pages/connectors/6sense"
 sections:
   overview:
     title: 6sense Data Connector

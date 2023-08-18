@@ -1,37 +1,37 @@
 ---
 layout: connector
-title: Fountain Connector - Growth Nirvana
-name: Fountain
-description: Supercharge your advertising strategies with Fountain integration, unlocking
+title: Yahoo DSP Connector - Growth Nirvana
+name: Yahoo DSP
+description: Supercharge your advertising strategies with Yahoo DSP integration, unlocking
   real-time data updates and actionable insights.
 image: "/assets/images/seo_pages/body.webp"
 date: '2023-08-18'
 categories: connectors
-permalink: connectors/fountain
-icon_url: "/assets/images/seo_pages/connectors/fountain"
+permalink: connectors/yahoo_dsp
+icon_url: "/assets/images/seo_pages/connectors/yahoo_dsp"
 sections:
   overview:
-    title: Fountain Data Connector
-    description: Leverage Fountain integration to optimize your advertising campaigns.
+    title: Yahoo DSP Data Connector
+    description: Leverage Yahoo DSP integration to optimize your advertising campaigns.
       Seamlessly integrate ad data for enhanced insights, informed decisions, and
       improved campaign performance.
     image_url: "/assets/images/seo_pages/overview.webp"
   body:
-    title: Visualize Your Fountain channel data with Growth Nirvana's Fountain Connector
-    description: Supercharge your advertising strategies with Fountain integration,
+    title: Visualize Your Yahoo DSP channel data with Growth Nirvana's Yahoo DSP Connector
+    description: Supercharge your advertising strategies with Yahoo DSP integration,
       unlocking real-time data updates and actionable insights.
     image_url: "/assets/images/seo_pages/body.webp"
   faq:
     title: FAQs
     questions:
-    - title: What are the most popular metrics in Fountain to analyze?
+    - title: What are the most popular metrics in Yahoo DSP to analyze?
       bullets:
       - title: Campaign Performance
-        description: Assess the effectiveness and ROI of your Fountain campaigns.
+        description: Assess the effectiveness and ROI of your Yahoo DSP campaigns.
       - title: Keyword Optimization
         description: Optimize keywords for better ad visibility and targeting.
       - title: Product Placement
-        description: Monitor and enhance the placement of your products on Fountain.
+        description: Monitor and enhance the placement of your products on Yahoo.
       - title: Conversion Rates
         description: Measure the percentage of ad clicks that lead to conversions.
       - title: Competitor Analysis
@@ -46,7 +46,7 @@ sections:
         description: Assess the regions where your ads perform the best.
       - title: A/B Testing
         description: Refine campaigns through A/B testing and data insights.
-    - title: Why analyze Fountain?
+    - title: Why analyze Yahoo DSP?
       bullets:
       - title: Real-time Insights
         description: Access and analyze up-to-the-minute ad data for timely actions.

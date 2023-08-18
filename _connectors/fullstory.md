@@ -1,28 +1,27 @@
 ---
 layout: connector
-title: AWS CloudTrail Connector - Growth Nirvana
-name: AWS CloudTrail
-description: Gain visibility and control over your AWS account activities with AWS
-  CloudTrail. Analyze user behavior, track API activity, and detect and respond to
-  security threats with ease.
+title: FullStory Connector - Growth Nirvana
+name: FullStory
+description: Elevate user experience optimization with FullStory integration. Leverage
+  user session recordings and analytics to gain valuable insights, improve usability,
+  and enhance your digital products to meet user needs and expectations.
 image: "/assets/images/seo_pages/body.webp"
 date: '2023-08-18'
 categories: connectors
-permalink: connectors/aws_cloudtrail
-icon_url: "/assets/images/seo_pages/connectors/aws_cloudtrail"
+permalink: connectors/fullstory
+icon_url: "/assets/images/seo_pages/connectors/fullstory"
 sections:
   overview:
-    title: AWS CloudTrail Data Connector
-    description: Capture, archive, and analyze AWS CloudTrail log files to gain insights
-      into user activity, API calls, and resource changes in your AWS account. Enable
-      auditing, compliance, and security monitoring with the AWS CloudTrail connector.
+    title: FullStory Data Connector
+    description: Uncover user insights and optimize experiences with FullStory integration.
+      Seamlessly capture and analyze user interactions to enhance usability, identify
+      pain points, and drive data-informed UX/UI design and improvements.
     image_url: "/assets/images/seo_pages/overview.webp"
   body:
-    title: Visualize Your AWS CloudTrail channel data with Growth Nirvana's AWS CloudTrail
-      Connector
-    description: Gain visibility and control over your AWS account activities with
-      AWS CloudTrail. Analyze user behavior, track API activity, and detect and respond
-      to security threats with ease.
+    title: Visualize Your FullStory channel data with Growth Nirvana's FullStory Connector
+    description: Elevate user experience optimization with FullStory integration.
+      Leverage user session recordings and analytics to gain valuable insights, improve
+      usability, and enhance your digital products to meet user needs and expectations.
     image_url: "/assets/images/seo_pages/body.webp"
   faq:
     title: FAQs

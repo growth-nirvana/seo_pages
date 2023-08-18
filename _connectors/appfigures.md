@@ -1,28 +1,28 @@
 ---
 layout: connector
-title: AWS CloudTrail Connector - Growth Nirvana
-name: AWS CloudTrail
-description: Gain visibility and control over your AWS account activities with AWS
-  CloudTrail. Analyze user behavior, track API activity, and detect and respond to
-  security threats with ease.
+title: Appfigures Connector - Growth Nirvana
+name: Appfigures
+description: Drive your app's success with Appfigures integration. Harness valuable
+  insights from app store data to enhance marketing efforts, boost user satisfaction,
+  and ensure your app's visibility and competitiveness in the market.
 image: "/assets/images/seo_pages/body.webp"
 date: '2023-08-18'
 categories: connectors
-permalink: connectors/aws_cloudtrail
-icon_url: "/assets/images/seo_pages/connectors/aws_cloudtrail"
+permalink: connectors/appfigures
+icon_url: "/assets/images/seo_pages/connectors/appfigures"
 sections:
   overview:
-    title: AWS CloudTrail Data Connector
-    description: Capture, archive, and analyze AWS CloudTrail log files to gain insights
-      into user activity, API calls, and resource changes in your AWS account. Enable
-      auditing, compliance, and security monitoring with the AWS CloudTrail connector.
+    title: Appfigures Data Connector
+    description: Optimize your app's performance with Appfigures integration. Seamlessly
+      gather and analyze app store data to refine marketing strategies, improve user
+      engagement, and make informed decisions for app growth and success.
     image_url: "/assets/images/seo_pages/overview.webp"
   body:
-    title: Visualize Your AWS CloudTrail channel data with Growth Nirvana's AWS CloudTrail
+    title: Visualize Your Appfigures channel data with Growth Nirvana's Appfigures
       Connector
-    description: Gain visibility and control over your AWS account activities with
-      AWS CloudTrail. Analyze user behavior, track API activity, and detect and respond
-      to security threats with ease.
+    description: Drive your app's success with Appfigures integration. Harness valuable
+      insights from app store data to enhance marketing efforts, boost user satisfaction,
+      and ensure your app's visibility and competitiveness in the market.
     image_url: "/assets/images/seo_pages/body.webp"
   faq:
     title: FAQs

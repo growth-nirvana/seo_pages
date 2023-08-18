@@ -1,28 +1,27 @@
 ---
 layout: connector
-title: AWS CloudTrail Connector - Growth Nirvana
-name: AWS CloudTrail
-description: Gain visibility and control over your AWS account activities with AWS
-  CloudTrail. Analyze user behavior, track API activity, and detect and respond to
-  security threats with ease.
+title: Tempo Connector - Growth Nirvana
+name: Tempo
+description: Elevate time tracking and resource allocation with Tempo integration.
+  Leverage comprehensive tools to streamline time entry, resource allocation, and
+  project planning, enabling efficient workflows and optimal resource utilization.
 image: "/assets/images/seo_pages/body.webp"
 date: '2023-08-18'
 categories: connectors
-permalink: connectors/aws_cloudtrail
-icon_url: "/assets/images/seo_pages/connectors/aws_cloudtrail"
+permalink: connectors/tempo
+icon_url: "/assets/images/seo_pages/connectors/tempo"
 sections:
   overview:
-    title: AWS CloudTrail Data Connector
-    description: Capture, archive, and analyze AWS CloudTrail log files to gain insights
-      into user activity, API calls, and resource changes in your AWS account. Enable
-      auditing, compliance, and security monitoring with the AWS CloudTrail connector.
+    title: Tempo Data Connector
+    description: Optimize time tracking and resource management with Tempo integration.
+      Seamlessly track and manage work hours, allocate resources, and drive efficient
+      project planning for better productivity and successful project delivery.
     image_url: "/assets/images/seo_pages/overview.webp"
   body:
-    title: Visualize Your AWS CloudTrail channel data with Growth Nirvana's AWS CloudTrail
-      Connector
-    description: Gain visibility and control over your AWS account activities with
-      AWS CloudTrail. Analyze user behavior, track API activity, and detect and respond
-      to security threats with ease.
+    title: Visualize Your Tempo channel data with Growth Nirvana's Tempo Connector
+    description: Elevate time tracking and resource allocation with Tempo integration.
+      Leverage comprehensive tools to streamline time entry, resource allocation,
+      and project planning, enabling efficient workflows and optimal resource utilization.
     image_url: "/assets/images/seo_pages/body.webp"
   faq:
     title: FAQs

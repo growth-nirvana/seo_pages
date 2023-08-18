@@ -1,28 +1,27 @@
 ---
 layout: connector
-title: AWS CloudTrail Connector - Growth Nirvana
-name: AWS CloudTrail
-description: Gain visibility and control over your AWS account activities with AWS
-  CloudTrail. Analyze user behavior, track API activity, and detect and respond to
-  security threats with ease.
+title: Opsgenie Connector - Growth Nirvana
+name: Opsgenie
+description: Optimize incident response with Opsgenie integration. Leverage centralized
+  alerts and incident management to ensure swift resolution, efficient team collaboration,
+  and minimized service disruptions for enhanced customer satisfaction.
 image: "/assets/images/seo_pages/body.webp"
 date: '2023-08-18'
 categories: connectors
-permalink: connectors/aws_cloudtrail
-icon_url: "/assets/images/seo_pages/connectors/aws_cloudtrail"
+permalink: connectors/atlassian_ops_genie
+icon_url: "/assets/images/seo_pages/connectors/atlassian_ops_genie"
 sections:
   overview:
-    title: AWS CloudTrail Data Connector
-    description: Capture, archive, and analyze AWS CloudTrail log files to gain insights
-      into user activity, API calls, and resource changes in your AWS account. Enable
-      auditing, compliance, and security monitoring with the AWS CloudTrail connector.
+    title: Opsgenie Data Connector
+    description: Streamline incident management with Opsgenie integration. Seamlessly
+      centralize alerts and incidents, ensuring rapid response, resolution, and coordination
+      across teams to minimize downtime and maintain service availability.
     image_url: "/assets/images/seo_pages/overview.webp"
   body:
-    title: Visualize Your AWS CloudTrail channel data with Growth Nirvana's AWS CloudTrail
-      Connector
-    description: Gain visibility and control over your AWS account activities with
-      AWS CloudTrail. Analyze user behavior, track API activity, and detect and respond
-      to security threats with ease.
+    title: Visualize Your Opsgenie channel data with Growth Nirvana's Opsgenie Connector
+    description: Optimize incident response with Opsgenie integration. Leverage centralized
+      alerts and incident management to ensure swift resolution, efficient team collaboration,
+      and minimized service disruptions for enhanced customer satisfaction.
     image_url: "/assets/images/seo_pages/body.webp"
   faq:
     title: FAQs

@@ -1,28 +1,25 @@
 ---
 layout: connector
-title: AWS CloudTrail Connector - Growth Nirvana
-name: AWS CloudTrail
-description: Gain visibility and control over your AWS account activities with AWS
-  CloudTrail. Analyze user behavior, track API activity, and detect and respond to
-  security threats with ease.
+title: ChurnZero Connector - Growth Nirvana
+name: ChurnZero
+description: Supercharge your customer retention efforts with ChurnZero integration,
+  unlocking real-time data updates and actionable insights.
 image: "/assets/images/seo_pages/body.webp"
 date: '2023-08-18'
 categories: connectors
-permalink: connectors/aws_cloudtrail
-icon_url: "/assets/images/seo_pages/connectors/aws_cloudtrail"
+permalink: connectors/churnzero
+icon_url: "/assets/images/seo_pages/connectors/churnzero"
 sections:
   overview:
-    title: AWS CloudTrail Data Connector
-    description: Capture, archive, and analyze AWS CloudTrail log files to gain insights
-      into user activity, API calls, and resource changes in your AWS account. Enable
-      auditing, compliance, and security monitoring with the AWS CloudTrail connector.
+    title: ChurnZero Data Connector
+    description: Leverage ChurnZero integration to optimize your customer retention
+      strategies. Seamlessly integrate customer data for enhanced insights, informed
+      decisions, and improved customer engagement.
     image_url: "/assets/images/seo_pages/overview.webp"
   body:
-    title: Visualize Your AWS CloudTrail channel data with Growth Nirvana's AWS CloudTrail
-      Connector
-    description: Gain visibility and control over your AWS account activities with
-      AWS CloudTrail. Analyze user behavior, track API activity, and detect and respond
-      to security threats with ease.
+    title: Visualize Your ChurnZero channel data with Growth Nirvana's ChurnZero Connector
+    description: Supercharge your customer retention efforts with ChurnZero integration,
+      unlocking real-time data updates and actionable insights.
     image_url: "/assets/images/seo_pages/body.webp"
   faq:
     title: FAQs

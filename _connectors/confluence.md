@@ -1,28 +1,28 @@
 ---
 layout: connector
-title: AWS CloudTrail Connector - Growth Nirvana
-name: AWS CloudTrail
-description: Gain visibility and control over your AWS account activities with AWS
-  CloudTrail. Analyze user behavior, track API activity, and detect and respond to
-  security threats with ease.
+title: Confluence Connector - Growth Nirvana
+name: Confluence
+description: Elevate collaboration and information sharing with Confluence integration.
+  Harness a powerful platform to facilitate seamless content creation, collaboration,
+  and knowledge capture, enabling your teams to work smarter and innovate together.
 image: "/assets/images/seo_pages/body.webp"
 date: '2023-08-18'
 categories: connectors
-permalink: connectors/aws_cloudtrail
-icon_url: "/assets/images/seo_pages/connectors/aws_cloudtrail"
+permalink: connectors/confluence
+icon_url: "/assets/images/seo_pages/connectors/confluence"
 sections:
   overview:
-    title: AWS CloudTrail Data Connector
-    description: Capture, archive, and analyze AWS CloudTrail log files to gain insights
-      into user activity, API calls, and resource changes in your AWS account. Enable
-      auditing, compliance, and security monitoring with the AWS CloudTrail connector.
+    title: Confluence Data Connector
+    description: Boost collaboration and knowledge sharing with Confluence integration.
+      Seamlessly create, share, and collaborate on content to drive efficient teamwork,
+      enhance communication, and capture valuable insights within your organization.
     image_url: "/assets/images/seo_pages/overview.webp"
   body:
-    title: Visualize Your AWS CloudTrail channel data with Growth Nirvana's AWS CloudTrail
+    title: Visualize Your Confluence channel data with Growth Nirvana's Confluence
       Connector
-    description: Gain visibility and control over your AWS account activities with
-      AWS CloudTrail. Analyze user behavior, track API activity, and detect and respond
-      to security threats with ease.
+    description: Elevate collaboration and information sharing with Confluence integration.
+      Harness a powerful platform to facilitate seamless content creation, collaboration,
+      and knowledge capture, enabling your teams to work smarter and innovate together.
     image_url: "/assets/images/seo_pages/body.webp"
   faq:
     title: FAQs

@@ -1,28 +1,27 @@
 ---
 layout: connector
-title: AWS CloudTrail Connector - Growth Nirvana
-name: AWS CloudTrail
-description: Gain visibility and control over your AWS account activities with AWS
-  CloudTrail. Analyze user behavior, track API activity, and detect and respond to
-  security threats with ease.
+title: 6sense Connector - Growth Nirvana
+name: 6sense
+description: Elevate your marketing and sales performance with 6sense integration.
+  Leverage real-time buyer intent data to optimize your strategies and engage prospects
+  at the right time with highly relevant content and offers.
 image: "/assets/images/seo_pages/body.webp"
 date: '2023-08-18'
 categories: connectors
-permalink: connectors/aws_cloudtrail
-icon_url: "/assets/images/seo_pages/connectors/aws_cloudtrail"
+permalink: connectors/sixsense
+icon_url: "/assets/images/seo_pages/connectors/sixsense"
 sections:
   overview:
-    title: AWS CloudTrail Data Connector
-    description: Capture, archive, and analyze AWS CloudTrail log files to gain insights
-      into user activity, API calls, and resource changes in your AWS account. Enable
-      auditing, compliance, and security monitoring with the AWS CloudTrail connector.
+    title: 6sense Data Connector
+    description: Unlock deeper insights and predictive analytics with 6sense integration.
+      Seamlessly analyze buyer intent signals to drive personalized marketing and
+      sales strategies that deliver targeted engagement and revenue growth.
     image_url: "/assets/images/seo_pages/overview.webp"
   body:
-    title: Visualize Your AWS CloudTrail channel data with Growth Nirvana's AWS CloudTrail
-      Connector
-    description: Gain visibility and control over your AWS account activities with
-      AWS CloudTrail. Analyze user behavior, track API activity, and detect and respond
-      to security threats with ease.
+    title: Visualize Your 6sense channel data with Growth Nirvana's 6sense Connector
+    description: Elevate your marketing and sales performance with 6sense integration.
+      Leverage real-time buyer intent data to optimize your strategies and engage
+      prospects at the right time with highly relevant content and offers.
     image_url: "/assets/images/seo_pages/body.webp"
   faq:
     title: FAQs

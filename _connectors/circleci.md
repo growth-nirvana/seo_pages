@@ -1,28 +1,28 @@
 ---
 layout: connector
-title: AWS CloudTrail Connector - Growth Nirvana
-name: AWS CloudTrail
-description: Gain visibility and control over your AWS account activities with AWS
-  CloudTrail. Analyze user behavior, track API activity, and detect and respond to
-  security threats with ease.
+title: CircleCI Connector - Growth Nirvana
+name: CircleCI
+description: Boost your development workflow with CircleCI integration. Leverage automated
+  CI/CD processes to streamline software delivery, increase code quality, and enable
+  efficient collaboration among your development teams.
 image: "/assets/images/seo_pages/body.webp"
 date: '2023-08-18'
 categories: connectors
-permalink: connectors/aws_cloudtrail
-icon_url: "/assets/images/seo_pages/connectors/aws_cloudtrail"
+permalink: connectors/circleci
+icon_url: "/assets/images/seo_pages/connectors/circleci"
 sections:
   overview:
-    title: AWS CloudTrail Data Connector
-    description: Capture, archive, and analyze AWS CloudTrail log files to gain insights
-      into user activity, API calls, and resource changes in your AWS account. Enable
-      auditing, compliance, and security monitoring with the AWS CloudTrail connector.
+    title: CircleCI Data Connector
+    description: Accelerate software delivery with CircleCI integration. Seamlessly
+      automate your CI/CD pipeline to ensure continuous integration, testing, and
+      deployment, enabling faster releases and improved collaboration across development
+      teams.
     image_url: "/assets/images/seo_pages/overview.webp"
   body:
-    title: Visualize Your AWS CloudTrail channel data with Growth Nirvana's AWS CloudTrail
-      Connector
-    description: Gain visibility and control over your AWS account activities with
-      AWS CloudTrail. Analyze user behavior, track API activity, and detect and respond
-      to security threats with ease.
+    title: Visualize Your CircleCI channel data with Growth Nirvana's CircleCI Connector
+    description: Boost your development workflow with CircleCI integration. Leverage
+      automated CI/CD processes to streamline software delivery, increase code quality,
+      and enable efficient collaboration among your development teams.
     image_url: "/assets/images/seo_pages/body.webp"
   faq:
     title: FAQs

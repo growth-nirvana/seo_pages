@@ -1,55 +1,57 @@
 ---
 layout: connector
-title: Fountain Connector - Growth Nirvana
-name: Fountain
-description: Supercharge your advertising strategies with Fountain integration, unlocking
+title: Jira Align Connector - Growth Nirvana
+name: Jira Align
+description: Supercharge your marketing strategies with Jira Align integration, unlocking
   real-time data updates and actionable insights.
 image: "/assets/images/seo_pages/body.webp"
 date: '2023-08-18'
 categories: connectors
-permalink: connectors/fountain
-icon_url: "/assets/images/seo_pages/connectors/fountain"
+permalink: connectors/ironsource
+icon_url: "/assets/images/seo_pages/connectors/ironsource"
 sections:
   overview:
-    title: Fountain Data Connector
-    description: Leverage Fountain integration to optimize your advertising campaigns.
-      Seamlessly integrate ad data for enhanced insights, informed decisions, and
-      improved campaign performance.
+    title: Jira Align Data Connector
+    description: Leverage Jira Align integration to optimize your marketing campaigns.
+      Seamlessly integrate data for enhanced insights, informed decisions, and improved
+      campaign performance.
     image_url: "/assets/images/seo_pages/overview.webp"
   body:
-    title: Visualize Your Fountain channel data with Growth Nirvana's Fountain Connector
-    description: Supercharge your advertising strategies with Fountain integration,
+    title: Visualize Your Jira Align channel data with Growth Nirvana's Jira Align
+      Connector
+    description: Supercharge your marketing strategies with Jira Align integration,
       unlocking real-time data updates and actionable insights.
     image_url: "/assets/images/seo_pages/body.webp"
   faq:
     title: FAQs
     questions:
-    - title: What are the most popular metrics in Fountain to analyze?
+    - title: What are the most popular metrics in Jira Align to analyze?
       bullets:
       - title: Campaign Performance
-        description: Assess the effectiveness and ROI of your Fountain campaigns.
+        description: Assess the effectiveness and ROI of your marketing campaigns.
       - title: Keyword Optimization
         description: Optimize keywords for better ad visibility and targeting.
-      - title: Product Placement
-        description: Monitor and enhance the placement of your products on Fountain.
+      - title: Creative Performance
+        description: Evaluate and optimize ad creatives based on user engagement.
+      - title: Audience Engagement
+        description: Understand and engage your target audience through ad interactions.
       - title: Conversion Rates
         description: Measure the percentage of ad clicks that lead to conversions.
       - title: Competitor Analysis
         description: Analyze and outperform competitors through data-driven insights.
       - title: Ad Placement Strategy
         description: Strategically place ads for maximum engagement and reach.
-      - title: Audience Engagement
-        description: Understand and engage your target audience through ad interactions.
-      - title: Creative Performance
-        description: Evaluate and optimize ad creatives based on user engagement.
       - title: Geographic Reach
         description: Assess the regions where your ads perform the best.
       - title: A/B Testing
         description: Refine campaigns through A/B testing and data insights.
-    - title: Why analyze Fountain?
+      - title: Customer Acquisition Cost
+        description: Analyze the cost of acquiring new customers through ad campaigns.
+    - title: Why analyze Jira Align?
       bullets:
       - title: Real-time Insights
-        description: Access and analyze up-to-the-minute ad data for timely actions.
+        description: Access and analyze up-to-the-minute marketing data for timely
+          actions.
       - title: Competitive Advantage
         description: Stay ahead by making informed decisions based on data-driven
           insights.
@@ -66,12 +68,13 @@ sections:
         description: Tailor marketing efforts with data insights for personalized
           targeting.
       - title: Informed Decision-making
-        description: Make critical decisions backed by the latest ad performance data.
+        description: Make critical decisions backed by the latest marketing performance
+          data.
       - title: Continuous Optimization
         description: Optimize campaigns continuously with dynamic data updates.
       - title: Holistic Campaign View
-        description: Gain a comprehensive view of your ad landscape through real-time
-          integration.
+        description: Gain a comprehensive view of your marketing landscape through
+          real-time integration.
     - title: What is Growth Nirvana?
       answer: Growth Nirvana is a no code analytics platform. Stop waiting for other
         departments to get you the data you need to make critical business decisions.

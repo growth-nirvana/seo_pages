@@ -1,28 +1,27 @@
 ---
 layout: connector
-title: AWS CloudTrail Connector - Growth Nirvana
-name: AWS CloudTrail
-description: Gain visibility and control over your AWS account activities with AWS
-  CloudTrail. Analyze user behavior, track API activity, and detect and respond to
-  security threats with ease.
+title: PostHog Connector - Growth Nirvana
+name: PostHog
+description: Elevate product optimization with PostHog integration. Leverage user
+  behavior analysis and insights to prioritize feature development, refine user experiences,
+  and shape your product roadmap for sustained growth and success.
 image: "/assets/images/seo_pages/body.webp"
 date: '2023-08-18'
 categories: connectors
-permalink: connectors/aws_cloudtrail
-icon_url: "/assets/images/seo_pages/connectors/aws_cloudtrail"
+permalink: connectors/posthog
+icon_url: "/assets/images/seo_pages/connectors/posthog"
 sections:
   overview:
-    title: AWS CloudTrail Data Connector
-    description: Capture, archive, and analyze AWS CloudTrail log files to gain insights
-      into user activity, API calls, and resource changes in your AWS account. Enable
-      auditing, compliance, and security monitoring with the AWS CloudTrail connector.
+    title: PostHog Data Connector
+    description: Optimize product experiences with PostHog integration. Seamlessly
+      analyze user interactions and behavior to gain actionable insights, drive feature
+      enhancements, and deliver exceptional user experiences that fuel product growth.
     image_url: "/assets/images/seo_pages/overview.webp"
   body:
-    title: Visualize Your AWS CloudTrail channel data with Growth Nirvana's AWS CloudTrail
-      Connector
-    description: Gain visibility and control over your AWS account activities with
-      AWS CloudTrail. Analyze user behavior, track API activity, and detect and respond
-      to security threats with ease.
+    title: Visualize Your PostHog channel data with Growth Nirvana's PostHog Connector
+    description: Elevate product optimization with PostHog integration. Leverage user
+      behavior analysis and insights to prioritize feature development, refine user
+      experiences, and shape your product roadmap for sustained growth and success.
     image_url: "/assets/images/seo_pages/body.webp"
   faq:
     title: FAQs

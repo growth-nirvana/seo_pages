@@ -1,28 +1,27 @@
 ---
 layout: connector
-title: AWS CloudTrail Connector - Growth Nirvana
-name: AWS CloudTrail
-description: Gain visibility and control over your AWS account activities with AWS
-  CloudTrail. Analyze user behavior, track API activity, and detect and respond to
-  security threats with ease.
+title: Teamwork Connector - Growth Nirvana
+name: Teamwork
+description: Elevate project efficiency with Teamwork integration. Leverage intuitive
+  tools for task management, project tracking, and team collaboration, enabling seamless
+  coordination and successful project delivery across your organization.
 image: "/assets/images/seo_pages/body.webp"
 date: '2023-08-18'
 categories: connectors
-permalink: connectors/aws_cloudtrail
-icon_url: "/assets/images/seo_pages/connectors/aws_cloudtrail"
+permalink: connectors/teamwork
+icon_url: "/assets/images/seo_pages/connectors/teamwork"
 sections:
   overview:
-    title: AWS CloudTrail Data Connector
-    description: Capture, archive, and analyze AWS CloudTrail log files to gain insights
-      into user activity, API calls, and resource changes in your AWS account. Enable
-      auditing, compliance, and security monitoring with the AWS CloudTrail connector.
+    title: Teamwork Data Connector
+    description: Boost project collaboration and management with Teamwork integration.
+      Seamlessly coordinate tasks, projects, and teams to enhance productivity, streamline
+      workflows, and deliver successful outcomes on time and within scope.
     image_url: "/assets/images/seo_pages/overview.webp"
   body:
-    title: Visualize Your AWS CloudTrail channel data with Growth Nirvana's AWS CloudTrail
-      Connector
-    description: Gain visibility and control over your AWS account activities with
-      AWS CloudTrail. Analyze user behavior, track API activity, and detect and respond
-      to security threats with ease.
+    title: Visualize Your Teamwork channel data with Growth Nirvana's Teamwork Connector
+    description: Elevate project efficiency with Teamwork integration. Leverage intuitive
+      tools for task management, project tracking, and team collaboration, enabling
+      seamless coordination and successful project delivery across your organization.
     image_url: "/assets/images/seo_pages/body.webp"
   faq:
     title: FAQs

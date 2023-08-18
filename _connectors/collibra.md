@@ -1,28 +1,27 @@
 ---
 layout: connector
-title: AWS CloudTrail Connector - Growth Nirvana
-name: AWS CloudTrail
-description: Gain visibility and control over your AWS account activities with AWS
-  CloudTrail. Analyze user behavior, track API activity, and detect and respond to
-  security threats with ease.
+title: Collibra Connector - Growth Nirvana
+name: Collibra
+description: Enhance data governance and stewardship with Collibra integration. Leverage
+  a unified platform to effectively manage and govern data, fostering collaboration,
+  compliance, and data-driven decision-making throughout your enterprise.
 image: "/assets/images/seo_pages/body.webp"
 date: '2023-08-18'
 categories: connectors
-permalink: connectors/aws_cloudtrail
-icon_url: "/assets/images/seo_pages/connectors/aws_cloudtrail"
+permalink: connectors/collibra
+icon_url: "/assets/images/seo_pages/connectors/collibra"
 sections:
   overview:
-    title: AWS CloudTrail Data Connector
-    description: Capture, archive, and analyze AWS CloudTrail log files to gain insights
-      into user activity, API calls, and resource changes in your AWS account. Enable
-      auditing, compliance, and security monitoring with the AWS CloudTrail connector.
+    title: Collibra Data Connector
+    description: Empower data governance and stewardship with Collibra integration.
+      Seamlessly centralize and manage your data assets, ensuring data quality, compliance,
+      and collaboration for informed decision-making across your organization.
     image_url: "/assets/images/seo_pages/overview.webp"
   body:
-    title: Visualize Your AWS CloudTrail channel data with Growth Nirvana's AWS CloudTrail
-      Connector
-    description: Gain visibility and control over your AWS account activities with
-      AWS CloudTrail. Analyze user behavior, track API activity, and detect and respond
-      to security threats with ease.
+    title: Visualize Your Collibra channel data with Growth Nirvana's Collibra Connector
+    description: Enhance data governance and stewardship with Collibra integration.
+      Leverage a unified platform to effectively manage and govern data, fostering
+      collaboration, compliance, and data-driven decision-making throughout your enterprise.
     image_url: "/assets/images/seo_pages/body.webp"
   faq:
     title: FAQs

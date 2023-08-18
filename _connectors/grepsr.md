@@ -1,28 +1,27 @@
 ---
 layout: connector
-title: AWS CloudTrail Connector - Growth Nirvana
-name: AWS CloudTrail
-description: Gain visibility and control over your AWS account activities with AWS
-  CloudTrail. Analyze user behavior, track API activity, and detect and respond to
-  security threats with ease.
+title: Grepsr Connector - Growth Nirvana
+name: Grepsr
+description: Enhance data-driven decision-making with Grepsr integration. Leverage
+  automated web data extraction to gather valuable information from online sources,
+  enabling insightful analysis and informed strategies for your business.
 image: "/assets/images/seo_pages/body.webp"
 date: '2023-08-18'
 categories: connectors
-permalink: connectors/aws_cloudtrail
-icon_url: "/assets/images/seo_pages/connectors/aws_cloudtrail"
+permalink: connectors/grepsr
+icon_url: "/assets/images/seo_pages/connectors/grepsr"
 sections:
   overview:
-    title: AWS CloudTrail Data Connector
-    description: Capture, archive, and analyze AWS CloudTrail log files to gain insights
-      into user activity, API calls, and resource changes in your AWS account. Enable
-      auditing, compliance, and security monitoring with the AWS CloudTrail connector.
+    title: Grepsr Data Connector
+    description: Automate web data extraction with Grepsr integration. Seamlessly
+      gather and transform data from websites to empower data-driven decisions, competitive
+      analysis, and market insights for better business strategies.
     image_url: "/assets/images/seo_pages/overview.webp"
   body:
-    title: Visualize Your AWS CloudTrail channel data with Growth Nirvana's AWS CloudTrail
-      Connector
-    description: Gain visibility and control over your AWS account activities with
-      AWS CloudTrail. Analyze user behavior, track API activity, and detect and respond
-      to security threats with ease.
+    title: Visualize Your Grepsr channel data with Growth Nirvana's Grepsr Connector
+    description: Enhance data-driven decision-making with Grepsr integration. Leverage
+      automated web data extraction to gather valuable information from online sources,
+      enabling insightful analysis and informed strategies for your business.
     image_url: "/assets/images/seo_pages/body.webp"
   faq:
     title: FAQs

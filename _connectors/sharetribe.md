@@ -1,28 +1,28 @@
 ---
 layout: connector
-title: AWS CloudTrail Connector - Growth Nirvana
-name: AWS CloudTrail
-description: Gain visibility and control over your AWS account activities with AWS
-  CloudTrail. Analyze user behavior, track API activity, and detect and respond to
-  security threats with ease.
+title: Sharetribe Connector - Growth Nirvana
+name: Sharetribe
+description: Elevate your online marketplace with Sharetribe integration. Harness
+  powerful tools to easily build and manage your marketplace, enabling seamless transactions,
+  engaging user experiences, and thriving online communities.
 image: "/assets/images/seo_pages/body.webp"
 date: '2023-08-18'
 categories: connectors
-permalink: connectors/aws_cloudtrail
-icon_url: "/assets/images/seo_pages/connectors/aws_cloudtrail"
+permalink: connectors/sharetribe
+icon_url: "/assets/images/seo_pages/connectors/sharetribe"
 sections:
   overview:
-    title: AWS CloudTrail Data Connector
-    description: Capture, archive, and analyze AWS CloudTrail log files to gain insights
-      into user activity, API calls, and resource changes in your AWS account. Enable
-      auditing, compliance, and security monitoring with the AWS CloudTrail connector.
+    title: Sharetribe Data Connector
+    description: Transform your online marketplace with Sharetribe integration. Seamlessly
+      create, launch, and manage your marketplace platform to connect buyers and sellers,
+      streamline transactions, and drive online commerce growth.
     image_url: "/assets/images/seo_pages/overview.webp"
   body:
-    title: Visualize Your AWS CloudTrail channel data with Growth Nirvana's AWS CloudTrail
+    title: Visualize Your Sharetribe channel data with Growth Nirvana's Sharetribe
       Connector
-    description: Gain visibility and control over your AWS account activities with
-      AWS CloudTrail. Analyze user behavior, track API activity, and detect and respond
-      to security threats with ease.
+    description: Elevate your online marketplace with Sharetribe integration. Harness
+      powerful tools to easily build and manage your marketplace, enabling seamless
+      transactions, engaging user experiences, and thriving online communities.
     image_url: "/assets/images/seo_pages/body.webp"
   faq:
     title: FAQs

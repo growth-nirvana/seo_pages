@@ -2,8 +2,8 @@
 layout: connector
 title: Typeform Connector - Growth Nirvana
 name: Typeform
-description: Amplify your marketing efforts with Typeform integration, gaining actionable
-  insights from data analysis and optimizing campaign performance.
+description: Supercharge your marketing strategies with Typeform integration, unlocking
+  real-time data updates and actionable insights.
 image: "/assets/images/seo_pages/body.webp"
 date: '2023-08-18'
 categories: connectors
@@ -12,58 +12,69 @@ icon_url: "/assets/images/seo_pages/connectors/typeform"
 sections:
   overview:
     title: Typeform Data Connector
-    description: Enhance your data collection and analysis with Typeform integration.
-      Seamlessly integrate Typeform with your marketing efforts to gather valuable
-      insights for campaign strategies and lead analysis.
+    description: Leverage Typeform integration to optimize your marketing campaigns.
+      Seamlessly integrate data for enhanced insights, informed decisions, and improved
+      performance.
     image_url: "/assets/images/seo_pages/overview.webp"
   body:
     title: Visualize Your Typeform channel data with Growth Nirvana's Typeform Connector
-    description: Amplify your marketing efforts with Typeform integration, gaining
-      actionable insights from data analysis and optimizing campaign performance.
+    description: Supercharge your marketing strategies with Typeform integration,
+      unlocking real-time data updates and actionable insights.
     image_url: "/assets/images/seo_pages/body.webp"
   faq:
     title: FAQs
     questions:
     - title: What are the most popular metrics in Typeform to analyze?
       bullets:
-      - title: Data Collection
-        description: Collect data from forms and surveys to gain insights on customer
-          preferences and behavior.
-      - title: Survey Analysis
-        description: Analyze survey responses to gather feedback and improve marketing
-          strategies.
-      - title: Conversion Analysis
-        description: Measure and analyze conversion rates to optimize lead-to-customer
-          conversion.
-      - title: Segmentation Analysis
-        description: Evaluate the effectiveness of audience segmentation strategies
-          and customize marketing campaigns accordingly.
-      - title: Form Performance
-        description: Analyze form performance and optimize form design for better
-          user experience and higher conversions.
-      - title: User Engagement
-        description: Track user engagement with forms and surveys to identify opportunities
-          for improvement and increase response rates.
+      - title: Conversion Rate
+        description: Measure the percentage of visitors who complete your form.
+      - title: Form Completion Time
+        description: Analyze the time it takes for visitors to complete your form.
+      - title: Drop-off Rate
+        description: Assess the percentage of visitors who abandon your form before
+          completing it.
+      - title: Question Response Rates
+        description: Gain insights into how visitors respond to each question in your
+          form.
+      - title: Form Abandonment Points
+        description: Identify the specific points in your form where visitors tend
+          to abandon.
+      - title: Conversion Funnel Analysis
+        description: Track the performance of each step in your form submission process.
+      - title: Form Engagement Metrics
+        description: Evaluate the level of engagement and interaction in your form.
+      - title: Device Compatibility
+        description: Assess the responsiveness and compatibility of your form across
+          different devices.
+      - title: Form Errors
+        description: Identify and address any errors or issues encountered by visitors
+          in your form.
+      - title: Form Conversion Rate by Source
+        description: Analyze the conversion rate of your form based on the traffic
+          source.
     - title: Why analyze Typeform?
       bullets:
-      - title: Data-Driven Campaigns
-        description: Refine marketing campaigns based on data-driven insights from
-          Typeform integration.
-      - title: Feedback Analysis
-        description: Gain deeper understanding of customer feedback and preferences
-          to improve marketing strategies.
-      - title: Conversion Optimization
-        description: Optimize strategies to increase lead-to-customer conversion rates
-          using Typeform insights.
-      - title: Targeted Marketing
-        description: Craft more targeted and personalized marketing campaigns with
-          insights from Typeform data.
-      - title: Form Optimization
-        description: Optimize form design and user experience for better conversion
-          rates through Typeform integration.
-      - title: User Experience Enhancement
-        description: Improve user experience with forms and surveys to increase engagement
-          and response rates.
+      - title: User-Friendly Interface
+        description: Create and customize beautiful forms with ease.
+      - title: Data-Driven Insights
+        description: Make informed decisions based on real-time form data.
+      - title: Seamless Integration
+        description: Integrate Typeform with other marketing tools for a holistic
+          view of your campaigns.
+      - title: Improved Lead Generation
+        description: Capture high-quality leads through optimized forms.
+      - title: Enhanced User Experience
+        description: Delight your visitors with interactive and engaging form experiences.
+      - title: Advanced Form Logic
+        description: Create smart forms with conditional logic and branching.
+      - title: Intuitive Analytics
+        description: Track and analyze form performance with easy-to-understand analytics.
+      - title: Data Security
+        description: Protect your form data with advanced security measures.
+      - title: Multi-Channel Distribution
+        description: Share your forms across multiple channels to reach a wider audience.
+      - title: Customizable Branding
+        description: Personalize your forms with your own branding and design.
     - title: What is Growth Nirvana?
       answer: Growth Nirvana is a no code analytics platform. Stop waiting for other
         departments to get you the data you need to make critical business decisions.

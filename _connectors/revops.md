@@ -1,55 +1,57 @@
 ---
 layout: connector
-title: Fountain Connector - Growth Nirvana
-name: Fountain
-description: Supercharge your advertising strategies with Fountain integration, unlocking
+title: RevOps Connector - Growth Nirvana
+name: RevOps
+description: Supercharge your marketing strategies with RevOps integration, unlocking
   real-time data updates and actionable insights.
 image: "/assets/images/seo_pages/body.webp"
 date: '2023-08-18'
 categories: connectors
-permalink: connectors/fountain
-icon_url: "/assets/images/seo_pages/connectors/fountain"
+permalink: connectors/revops
+icon_url: "/assets/images/seo_pages/connectors/revops"
 sections:
   overview:
-    title: Fountain Data Connector
-    description: Leverage Fountain integration to optimize your advertising campaigns.
-      Seamlessly integrate ad data for enhanced insights, informed decisions, and
-      improved campaign performance.
+    title: RevOps Data Connector
+    description: Leverage RevOps integration to optimize your marketing operations.
+      Seamlessly integrate data for enhanced insights, informed decisions, and improved
+      performance.
     image_url: "/assets/images/seo_pages/overview.webp"
   body:
-    title: Visualize Your Fountain channel data with Growth Nirvana's Fountain Connector
-    description: Supercharge your advertising strategies with Fountain integration,
-      unlocking real-time data updates and actionable insights.
+    title: Visualize Your RevOps channel data with Growth Nirvana's RevOps Connector
+    description: Supercharge your marketing strategies with RevOps integration, unlocking
+      real-time data updates and actionable insights.
     image_url: "/assets/images/seo_pages/body.webp"
   faq:
     title: FAQs
     questions:
-    - title: What are the most popular metrics in Fountain to analyze?
+    - title: What are the most popular metrics in RevOps to analyze?
       bullets:
       - title: Campaign Performance
-        description: Assess the effectiveness and ROI of your Fountain campaigns.
-      - title: Keyword Optimization
-        description: Optimize keywords for better ad visibility and targeting.
-      - title: Product Placement
-        description: Monitor and enhance the placement of your products on Fountain.
+        description: Assess the effectiveness and ROI of your marketing campaigns.
+      - title: Channel Optimization
+        description: Optimize marketing channels for better reach and engagement.
+      - title: Lead Generation
+        description: Monitor and enhance the generation of qualified leads.
       - title: Conversion Rates
-        description: Measure the percentage of ad clicks that lead to conversions.
+        description: Measure the percentage of leads that convert into customers.
       - title: Competitor Analysis
         description: Analyze and outperform competitors through data-driven insights.
-      - title: Ad Placement Strategy
-        description: Strategically place ads for maximum engagement and reach.
-      - title: Audience Engagement
-        description: Understand and engage your target audience through ad interactions.
-      - title: Creative Performance
-        description: Evaluate and optimize ad creatives based on user engagement.
-      - title: Geographic Reach
-        description: Assess the regions where your ads perform the best.
-      - title: A/B Testing
-        description: Refine campaigns through A/B testing and data insights.
-    - title: Why analyze Fountain?
+      - title: Audience Segmentation
+        description: Understand and segment your target audience for personalized
+          marketing.
+      - title: Content Performance
+        description: Evaluate and optimize content based on user engagement.
+      - title: Marketing ROI
+        description: Measure the return on investment for your marketing efforts.
+      - title: Customer Lifetime Value
+        description: Assess the value of your customers over their lifetime.
+      - title: Marketing Attribution
+        description: Attribute marketing efforts to revenue generation.
+    - title: Why analyze RevOps?
       bullets:
       - title: Real-time Insights
-        description: Access and analyze up-to-the-minute ad data for timely actions.
+        description: Access and analyze up-to-the-minute marketing data for timely
+          actions.
       - title: Competitive Advantage
         description: Stay ahead by making informed decisions based on data-driven
           insights.
@@ -58,20 +60,21 @@ sections:
       - title: Responsive Performance
         description: Optimize performance based on real-time engagement metrics.
       - title: Strategic Positioning
-        description: Position your products effectively for increased visibility and
-          sales.
+        description: Position your brand effectively for increased visibility and
+          growth.
       - title: Proactive Issue Resolution
         description: Identify and address issues in real time to mitigate risks.
       - title: Tailored Marketing
         description: Tailor marketing efforts with data insights for personalized
           targeting.
       - title: Informed Decision-making
-        description: Make critical decisions backed by the latest ad performance data.
+        description: Make critical decisions backed by the latest marketing performance
+          data.
       - title: Continuous Optimization
         description: Optimize campaigns continuously with dynamic data updates.
-      - title: Holistic Campaign View
-        description: Gain a comprehensive view of your ad landscape through real-time
-          integration.
+      - title: Holistic Marketing View
+        description: Gain a comprehensive view of your marketing landscape through
+          real-time integration.
     - title: What is Growth Nirvana?
       answer: Growth Nirvana is a no code analytics platform. Stop waiting for other
         departments to get you the data you need to make critical business decisions.

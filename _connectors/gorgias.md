@@ -2,8 +2,8 @@
 layout: connector
 title: Gorgias Connector - Growth Nirvana
 name: Gorgias
-description: Amplify your customer support strategies with Gorgias integration, gaining
-  actionable insights from support data analysis.
+description: Supercharge your customer support strategies with Gorgias integration,
+  unlocking real-time support updates and actionable insights.
 image: "/assets/images/seo_pages/body.webp"
 date: '2023-08-18'
 categories: connectors
@@ -12,65 +12,72 @@ icon_url: "/assets/images/seo_pages/connectors/gorgias"
 sections:
   overview:
     title: Gorgias Data Connector
-    description: Enhance your customer support with Gorgias integration. Seamlessly
-      merge support data, unlocking insights that improve response time, customer
-      satisfaction, and operational efficiency.
+    description: Leverage Gorgias integration to optimize your customer support. Seamlessly
+      integrate support data for enhanced insights, informed decisions, and improved
+      support performance.
     image_url: "/assets/images/seo_pages/overview.webp"
   body:
     title: Visualize Your Gorgias channel data with Growth Nirvana's Gorgias Connector
-    description: Amplify your customer support strategies with Gorgias integration,
-      gaining actionable insights from support data analysis.
+    description: Supercharge your customer support strategies with Gorgias integration,
+      unlocking real-time support updates and actionable insights.
     image_url: "/assets/images/seo_pages/body.webp"
   faq:
     title: FAQs
     questions:
     - title: What are the most popular metrics in Gorgias to analyze?
       bullets:
+      - title: Ticket Resolution Time
+        description: Analyze the average time taken to resolve customer support tickets.
       - title: Response Time
-        description: Measure the time it takes to respond to customer support tickets.
+        description: Measure the average time taken to respond to customer support
+          inquiries.
       - title: Customer Satisfaction
-        description: Analyze customer feedback and satisfaction levels with support
-          interactions.
+        description: Evaluate customer satisfaction ratings to enhance support experience.
       - title: Ticket Volume
-        description: Track the number of support tickets received and resolved over
-          time.
+        description: Monitor the number of support tickets received over a given period.
       - title: Agent Performance
-        description: Evaluate the performance of customer support agents.
-      - title: Resolution Rate
-        description: Measure the percentage of support tickets that are successfully
-          resolved.
-      - title: Escalation Analysis
-        description: Assess the frequency and reasons for ticket escalations.
-      - title: Product Knowledge
-        description: Evaluate the depth of product knowledge among support agents.
-      - title: Ticket Response Efficiency
-        description: Analyze the efficiency of responding to support tickets.
-      - title: Automation Effectiveness
-        description: Assess the effectiveness of support automation workflows.
-      - title: Customer Feedback Analysis
-        description: Gather insights from customer feedback and improve support strategies.
+        description: Assess agent performance based on response time and customer
+          ratings.
+      - title: First Response Resolution
+        description: Track the percentage of support inquiries resolved with the initial
+          response.
+      - title: Support Channel Performance
+        description: Analyze the performance of different support channels (e.g.,
+          email, chat, phone).
+      - title: Issue Resolution Rate
+        description: Measure the percentage of support tickets resolved successfully.
+      - title: Customer Feedback
+        description: Gather and analyze customer feedback to improve support processes.
+      - title: Escalation Rate
+        description: Monitor the rate at which support tickets are escalated to higher
+          levels of support.
     - title: Why analyze Gorgias?
       bullets:
-      - title: Improved Response Time
-        description: Reduce customer wait time and improve response efficiency.
-      - title: Enhanced Customer Satisfaction
-        description: Provide better support experiences and increase customer happiness.
-      - title: Efficient Ticket Management
-        description: Streamline ticket handling processes for improved efficiency.
-      - title: Optimized Agent Performance
-        description: Improve training and performance of customer support agents.
-      - title: Higher Resolution Rates
-        description: Increase the percentage of resolved support tickets.
-      - title: Reduced Escalations
-        description: Minimize the need for ticket escalations and improve issue resolution.
-      - title: Enhanced Product Knowledge
-        description: Improve the depth of product knowledge among support agents.
-      - title: Streamlined Ticket Responses
-        description: Optimize response processes for faster ticket resolution.
-      - title: Effective Automation Workflows
-        description: Implement automation strategies to streamline support workflows.
-      - title: Actionable Customer Feedback
-        description: Gather insights from customer feedback to drive continuous improvement.
+      - title: Efficient Support Workflow
+        description: Streamline your support workflow and automate repetitive tasks.
+      - title: Centralized Customer Data
+        description: Access and integrate customer data from various platforms for
+          a complete view.
+      - title: Personalized Customer Support
+        description: Provide personalized support experiences based on customer information.
+      - title: Integrated Ticket Management
+        description: Manage support tickets from multiple channels in one centralized
+          platform.
+      - title: Multi-channel Communication
+        description: Engage with customers across various channels seamlessly.
+      - title: Advanced Analytics
+        description: Utilize data-driven insights to optimize support strategies.
+      - title: Automated Responses
+        description: Automate repetitive responses to save time and improve efficiency.
+      - title: Collaborative Support
+        description: Enable team collaboration and knowledge sharing for efficient
+          support resolution.
+      - title: Integration Flexibility
+        description: Integrate Gorgias with other tools to streamline your support
+          ecosystem.
+      - title: Real-time Support Updates
+        description: Stay updated with real-time support ticket notifications and
+          updates.
     - title: What is Growth Nirvana?
       answer: Growth Nirvana is a no code analytics platform. Stop waiting for other
         departments to get you the data you need to make critical business decisions.

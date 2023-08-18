@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Firebase Connector - Growth Nirvana"
+name: "Firebase"
 description: Integrate Firebase insights into Looker Studio for comprehensive app analytics that guide your app strategies.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/firebase
 icon_url: /assets/images/seo_pages/connectors/firebase

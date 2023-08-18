@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Oracle Connector - Growth Nirvana"
+name: "Oracle"
 description: Integrate Oracle insights into Looker Studio for comprehensive database analytics that guide your data management strategies.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/oracle
 icon_url: /assets/images/seo_pages/connectors/oracle

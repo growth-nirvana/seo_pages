@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "ChannelAdvisor Connector - Growth Nirvana"
+name: "ChannelAdvisor"
 description: Amplify your e-commerce efforts with ChannelAdvisor insights integrated into Looker Studio's analytics environment.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/channel_advisor
 icon_url: /assets/images/seo_pages/connectors/channel_advisor

@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Qualtrics Connector - Growth Nirvana"
+name: "Qualtrics"
 description: Harness the power of Qualtrics survey insights integrated into Looker Studio for strategic feedback decisions.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/qualtrics
 icon_url: /assets/images/seo_pages/connectors/qualtrics

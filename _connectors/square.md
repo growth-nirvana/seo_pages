@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Square Connector - Growth Nirvana"
+name: "Square"
 description: Integrate Square payment insights into Looker Studio for comprehensive payment analytics that guide your transactional strategies.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/square
 icon_url: /assets/images/seo_pages/connectors/square

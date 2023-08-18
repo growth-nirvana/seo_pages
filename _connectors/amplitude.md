@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Amplitude Connector - Growth Nirvana"
+name: "Amplitude"
 description: Combine Amplitude with Looker Studio to create a data-driven foundation for decision-making.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/amplitude
 icon_url: /assets/images/seo_pages/connectors/amplitude

@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Azure PostgreSQL Database Connector - Growth Nirvana"
+name: "Azure PostgreSQL Database"
 description: Empower your decision-making by integrating Azure PostgreSQL Database with Looker Studio's analytical capabilities.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/azure_postgres
 icon_url: /assets/images/seo_pages/connectors/azure_postgres

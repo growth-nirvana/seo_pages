@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Mixpanel Connector - Growth Nirvana"
+name: "Mixpanel"
 description: Amplify your user analytics strategies with Mixpanel insights integrated into Looker Studio.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/mixpanel
 icon_url: /assets/images/seo_pages/connectors/mixpanel

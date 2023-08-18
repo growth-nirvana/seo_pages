@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Gainsight Connector - Growth Nirvana"
+name: "Gainsight"
 description: Harness the power of Gainsight customer success insights integrated into Looker Studio for strategic customer relationship decisions.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/gainsight
 icon_url: /assets/images/seo_pages/connectors/gainsight

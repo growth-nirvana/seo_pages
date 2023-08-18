@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Freshdesk Connector - Growth Nirvana"
+name: "Freshdesk"
 description: Integrate Freshdesk with Looker Studio for comprehensive customer support analytics that guide your support strategies.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/freshdesk
 icon_url: /assets/images/seo_pages/connectors/freshdesk

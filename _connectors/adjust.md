@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Adjust Connector - Growth Nirvana"
+name: "Adjust"
 description: Empower your app strategy through Adjust's data integrated seamlessly into Looker Studio's analytical landscape.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/adjust
 icon_url: /assets/images/seo_pages/connectors/adjust

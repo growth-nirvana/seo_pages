@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Apple Search Ads Connector - Growth Nirvana"
+name: "Apple Search Ads"
 description: Boost app visibility and performance through the convergence of Apple Search Ads and Looker Studio insights.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/apple_search_ads
 icon_url: /assets/images/seo_pages/connectors/apple_search_ads

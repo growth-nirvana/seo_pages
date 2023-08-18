@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Lattice Connector - Growth Nirvana"
+name: "Lattice"
 description: Integrate Lattice insights into Looker Studio for comprehensive people management analytics that guide your HR strategies.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/lattice
 icon_url: /assets/images/seo_pages/connectors/lattice

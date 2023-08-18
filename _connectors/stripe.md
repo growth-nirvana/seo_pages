@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Stripe Connector - Growth Nirvana"
+name: "Stripe"
 description: Harness the power of Stripe payment insights integrated into Looker Studio for strategic payment decisions.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/stripe
 icon_url: /assets/images/seo_pages/connectors/stripe

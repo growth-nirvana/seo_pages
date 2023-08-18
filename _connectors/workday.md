@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Workday RaaS Connector - Growth Nirvana"
+name: "Workday RaaS"
 description: Harness the power of Workday RaaS financial insights integrated into Looker Studio for strategic financial management decisions.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/workday
 icon_url: /assets/images/seo_pages/connectors/workday

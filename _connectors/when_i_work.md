@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "When I Work Connector - Growth Nirvana"
+name: "When I Work"
 description: Harness the power of When I Work workforce insights integrated into Looker Studio for strategic workforce management decisions.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/when_i_work
 icon_url: /assets/images/seo_pages/connectors/when_i_work

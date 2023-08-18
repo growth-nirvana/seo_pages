@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Oracle Fusion Cloud Applications - FSCM(ERP & SCM) Connector - Growth Nirvana"
+name: "Oracle Fusion Cloud Applications - FSCM(ERP & SCM)"
 description: Integrate Oracle Fusion Cloud Applications - FSCM insights into Looker Studio for comprehensive ERP and SCM analytics that guide your operational strategies.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/oracle_fusion_cloud_apps_fscm
 icon_url: /assets/images/seo_pages/connectors/oracle_fusion_cloud_apps_fscm

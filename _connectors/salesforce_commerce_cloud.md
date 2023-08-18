@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Salesforce Commerce Cloud Connector - Growth Nirvana"
+name: "Salesforce Commerce Cloud"
 description: Integrate Salesforce Commerce Cloud insights into Looker Studio for comprehensive e-commerce analytics that guide your online retail strategies.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/salesforce_commerce_cloud
 icon_url: /assets/images/seo_pages/connectors/salesforce_commerce_cloud

@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Squarespace Connector - Growth Nirvana"
+name: "Squarespace"
 description: Integrate Squarespace website analytics insights into Looker Studio for comprehensive web strategy analytics.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/squarespace
 icon_url: /assets/images/seo_pages/connectors/squarespace

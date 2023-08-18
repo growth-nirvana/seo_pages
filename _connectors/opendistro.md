@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Open Distro Connector - Growth Nirvana"
+name: "Open Distro"
 description: Integrate Open Distro insights into Looker Studio for comprehensive Elasticsearch analytics that guide your search strategies.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/opendistro
 icon_url: /assets/images/seo_pages/connectors/opendistro

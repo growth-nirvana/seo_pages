@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "UserVoice Connector - Growth Nirvana"
+name: "UserVoice"
 description: Harness the power of UserVoice customer feedback insights integrated into Looker Studio for strategic feedback management decisions.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/uservoice
 icon_url: /assets/images/seo_pages/connectors/uservoice

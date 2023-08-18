@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "BigQuery Connector - Growth Nirvana"
+name: "BigQuery"
 description: Maximize the potential of your analytical insights by integrating BigQuery with Looker Studio's data visualization prowess.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/bigquery_db
 icon_url: /assets/images/seo_pages/connectors/bigquery_db

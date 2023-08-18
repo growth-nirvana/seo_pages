@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Criteo Connector - Growth Nirvana"
+name: "Criteo"
 description: Empower your advertising efforts with Criteo insights integrated into Looker Studio's analytics environment.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/criteo
 icon_url: /assets/images/seo_pages/connectors/criteo

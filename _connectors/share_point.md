@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "SharePoint Connector - Growth Nirvana"
+name: "SharePoint"
 description: Amplify your collaboration strategies with SharePoint insights integrated into Looker Studio.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/share_point
 icon_url: /assets/images/seo_pages/connectors/share_point

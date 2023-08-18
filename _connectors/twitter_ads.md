@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Twitter Ads Connector - Growth Nirvana"
+name: "Twitter Ads"
 description: Amplify your social media advertising strategies with Twitter Ads insights integrated into Looker Studio.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/twitter_ads
 icon_url: /assets/images/seo_pages/connectors/twitter_ads

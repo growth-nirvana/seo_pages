@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Workday HCM Connector - Growth Nirvana"
+name: "Workday HCM"
 description: Integrate Workday HCM insights into Looker Studio for comprehensive HR analytics that guide your workforce strategies.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/workday_hcm
 icon_url: /assets/images/seo_pages/connectors/workday_hcm

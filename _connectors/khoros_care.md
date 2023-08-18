@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Khoros Care Connector - Growth Nirvana"
+name: "Khoros Care"
 description: Integrate Khoros Care insights into Looker Studio for comprehensive customer support analytics that guide your customer care strategies.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/khoros_care
 icon_url: /assets/images/seo_pages/connectors/khoros_care

@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Azure Cosmos DB - NoSQL API Connector - Growth Nirvana"
+name: "Azure Cosmos DB - NoSQL API"
 description: Integrate Azure Cosmos DB with Looker Studio to pave the way for data-driven strategies in a NoSQL world.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/cosmos
 icon_url: /assets/images/seo_pages/connectors/cosmos

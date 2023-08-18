@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Calendly Connector - Growth Nirvana"
+name: "Calendly"
 description: Integrate Calendly with Looker Studio for data-driven scheduling analytics that shape your customer interactions.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/calendly
 icon_url: /assets/images/seo_pages/connectors/calendly

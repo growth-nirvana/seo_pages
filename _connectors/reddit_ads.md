@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Reddit Ads Connector - Growth Nirvana"
+name: "Reddit Ads"
 description: Amplify your advertising strategies with Reddit Ads insights integrated into Looker Studio.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/reddit_ads
 icon_url: /assets/images/seo_pages/connectors/reddit_ads

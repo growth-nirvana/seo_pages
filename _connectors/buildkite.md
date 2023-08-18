@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Buildkite Connector - Growth Nirvana"
+name: "Buildkite"
 description: Amplify your CI/CD strategies with Buildkite insights integrated into Looker Studio.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/buildkite
 icon_url: /assets/images/seo_pages/connectors/buildkite

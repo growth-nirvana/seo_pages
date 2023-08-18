@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "LinkedIn Ad Analytics Connector - Growth Nirvana"
+name: "LinkedIn Ad Analytics"
 description: Amplify your LinkedIn ad strategies with LinkedIn Ad Analytics insights integrated into Looker Studio.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/linkedin_ads
 icon_url: /assets/images/seo_pages/connectors/linkedin_ads

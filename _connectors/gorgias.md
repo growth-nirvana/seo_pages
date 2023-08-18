@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Gorgias Connector - Growth Nirvana"
+name: "Gorgias"
 description: Amplify your customer support strategies with Gorgias insights integrated into Looker Studio.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/gorgias
 icon_url: /assets/images/seo_pages/connectors/gorgias

@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Braintree Sandbox Connector - Growth Nirvana"
+name: "Braintree Sandbox"
 description: Integrate Braintree Sandbox with Looker Studio for a secure payment testing environment that informs payment strategies.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/braintree_sandbox
 icon_url: /assets/images/seo_pages/connectors/braintree_sandbox

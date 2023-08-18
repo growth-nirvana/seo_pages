@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Google Play Connector - Growth Nirvana"
+name: "Google Play"
 description: Amplify your app strategies with Google Play insights integrated into Looker Studio.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/google_play
 icon_url: /assets/images/seo_pages/connectors/google_play

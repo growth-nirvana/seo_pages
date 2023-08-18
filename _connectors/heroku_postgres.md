@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Heroku Postgres Connector - Growth Nirvana"
+name: "Heroku Postgres"
 description: Integrate Heroku Postgres insights into Looker Studio for comprehensive database analytics that guide your database management strategies.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/heroku_postgres
 icon_url: /assets/images/seo_pages/connectors/heroku_postgres

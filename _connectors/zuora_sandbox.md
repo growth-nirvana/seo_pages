@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Zuora Sandbox Connector - Growth Nirvana"
+name: "Zuora Sandbox"
 description: Harness the power of Zuora Sandbox subscription insights integrated into Looker Studio for strategic subscription testing decisions.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/zuora_sandbox
 icon_url: /assets/images/seo_pages/connectors/zuora_sandbox

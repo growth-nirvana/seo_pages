@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "Facebook Pages Connector - Growth Nirvana"
+name: "Facebook Pages"
 description: Integrate Facebook Pages with Looker Studio for data-driven social media analytics that guide your engagement strategies.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/facebook_pages
 icon_url: /assets/images/seo_pages/connectors/facebook_pages

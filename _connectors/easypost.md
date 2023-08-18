@@ -1,9 +1,10 @@
 ---
 layout: connector
 title:  "EasyPost Connector - Growth Nirvana"
+name: "EasyPost"
 description: Integrate EasyPost with Looker Studio for comprehensive shipping analytics that guide your fulfillment strategies.
 image: /assets/images/seo_pages/body.webp
-date: 2023-08-16
+date: 2023-08-17
 categories: connectors
 permalink: connectors/easypost
 icon_url: /assets/images/seo_pages/connectors/easypost

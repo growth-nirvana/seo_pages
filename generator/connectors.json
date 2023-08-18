@@ -22368,14 +22368,14 @@
     },
     "name": "Helpshift"
   },
-  "ironSource": {
+  "ironsource": {
     "overview": {
       "description": "Enhance Your Monetization Strategy with ironSource Integration. Seamlessly integrate ironSource data to optimize ad performance, increase revenue, and drive user engagement."
     },
     "body": {
       "description": "Maximize Your App Monetization with ironSource Integration. Empower your app's revenue generation and user engagement by leveraging real-time insights and data-driven decisions."
     },
-    "schema_name": "iron_source",
+    "schema_name": "ironsource",
     "bullets_for_metrics": {
       "title": "What are the Most Popular Metrics in ironSource to Analyze?",
       "bullets": [

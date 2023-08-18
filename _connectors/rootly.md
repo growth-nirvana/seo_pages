@@ -1,41 +1,41 @@
 ---
 layout: connector
-title: Fountain Connector - Growth Nirvana
-name: Fountain
-description: Supercharge your advertising strategies with Fountain integration, unlocking
+title: Rootly Connector - Growth Nirvana
+name: Rootly
+description: Supercharge your advertising strategies with Rootly integration, unlocking
   real-time data updates and actionable insights.
 image: "/assets/images/seo_pages/body.webp"
 date: '2023-08-18'
 categories: connectors
-permalink: connectors/franconnect
-icon_url: "/assets/images/seo_pages/connectors/franconnect"
+permalink: connectors/rootly
+icon_url: "/assets/images/seo_pages/connectors/rootly"
 sections:
   overview:
-    title: Fountain Data Connector
-    description: Leverage Fountain integration to optimize your advertising campaigns.
+    title: Rootly Data Connector
+    description: Leverage Rootly integration to optimize your advertising campaigns.
       Seamlessly integrate ad data for enhanced insights, informed decisions, and
       improved campaign performance.
     image_url: "/assets/images/seo_pages/overview.webp"
   body:
-    title: Visualize Your Fountain channel data with Growth Nirvana's Fountain Connector
-    description: Supercharge your advertising strategies with Fountain integration,
+    title: Visualize Your Rootly channel data with Growth Nirvana's Rootly Connector
+    description: Supercharge your advertising strategies with Rootly integration,
       unlocking real-time data updates and actionable insights.
     image_url: "/assets/images/seo_pages/body.webp"
   faq:
     title: FAQs
     questions:
-    - title: What are the most popular metrics in Fountain to analyze?
+    - title: What are the most popular metrics in Rootly to analyze?
       bullets:
       - title: Campaign Performance
-        description: Assess the effectiveness and ROI of your Fountain campaigns.
+        description: Assess the effectiveness and ROI of your advertising campaigns.
       - title: Keyword Optimization
         description: Optimize keywords for better ad visibility and targeting.
       - title: Product Placement
-        description: Monitor and enhance the placement of your products on Fountain.
+        description: Monitor and enhance the placement of your products.
       - title: Conversion Rates
-        description: Measure the percentage of ad clicks that lead to conversions.
+        description: Measure the percentage of conversions from ad clicks.
       - title: Competitor Analysis
-        description: Analyze and outperform competitors through data-driven insights.
+        description: Analyze and outperform competitors with data-driven insights.
       - title: Ad Placement Strategy
         description: Strategically place ads for maximum engagement and reach.
       - title: Audience Engagement
@@ -46,7 +46,7 @@ sections:
         description: Assess the regions where your ads perform the best.
       - title: A/B Testing
         description: Refine campaigns through A/B testing and data insights.
-    - title: Why analyze Fountain?
+    - title: Why analyze Rootly?
       bullets:
       - title: Real-time Insights
         description: Access and analyze up-to-the-minute ad data for timely actions.

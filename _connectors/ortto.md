@@ -1,37 +1,37 @@
 ---
 layout: connector
-title: Fountain Connector - Growth Nirvana
-name: Fountain
-description: Supercharge your advertising strategies with Fountain integration, unlocking
+title: Ortto Connector - Growth Nirvana
+name: Ortto
+description: Supercharge your advertising strategies with Ortto integration, unlocking
   real-time data updates and actionable insights.
 image: "/assets/images/seo_pages/body.webp"
 date: '2023-08-18'
 categories: connectors
-permalink: connectors/franconnect
-icon_url: "/assets/images/seo_pages/connectors/franconnect"
+permalink: connectors/ortto
+icon_url: "/assets/images/seo_pages/connectors/ortto"
 sections:
   overview:
-    title: Fountain Data Connector
-    description: Leverage Fountain integration to optimize your advertising campaigns.
+    title: Ortto Data Connector
+    description: Leverage Ortto integration to optimize your advertising campaigns.
       Seamlessly integrate ad data for enhanced insights, informed decisions, and
       improved campaign performance.
     image_url: "/assets/images/seo_pages/overview.webp"
   body:
-    title: Visualize Your Fountain channel data with Growth Nirvana's Fountain Connector
-    description: Supercharge your advertising strategies with Fountain integration,
-      unlocking real-time data updates and actionable insights.
+    title: Visualize Your Ortto channel data with Growth Nirvana's Ortto Connector
+    description: Supercharge your advertising strategies with Ortto integration, unlocking
+      real-time data updates and actionable insights.
     image_url: "/assets/images/seo_pages/body.webp"
   faq:
     title: FAQs
     questions:
-    - title: What are the most popular metrics in Fountain to analyze?
+    - title: What are the most popular metrics in Ortto to analyze?
       bullets:
       - title: Campaign Performance
-        description: Assess the effectiveness and ROI of your Fountain campaigns.
+        description: Assess the effectiveness and ROI of your Ortto campaigns.
       - title: Keyword Optimization
         description: Optimize keywords for better ad visibility and targeting.
       - title: Product Placement
-        description: Monitor and enhance the placement of your products on Fountain.
+        description: Monitor and enhance the placement of your products through Ortto.
       - title: Conversion Rates
         description: Measure the percentage of ad clicks that lead to conversions.
       - title: Competitor Analysis
@@ -46,7 +46,7 @@ sections:
         description: Assess the regions where your ads perform the best.
       - title: A/B Testing
         description: Refine campaigns through A/B testing and data insights.
-    - title: Why analyze Fountain?
+    - title: Why analyze Ortto?
       bullets:
       - title: Real-time Insights
         description: Access and analyze up-to-the-minute ad data for timely actions.

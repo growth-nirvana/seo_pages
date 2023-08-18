@@ -1,55 +1,61 @@
 ---
 layout: connector
-title: Fountain Connector - Growth Nirvana
-name: Fountain
-description: Supercharge your advertising strategies with Fountain integration, unlocking
-  real-time data updates and actionable insights.
+title: Confluent Cloud Connector - Growth Nirvana
+name: Confluent Cloud
+description: Supercharge your marketing strategies with Confluent Cloud integration,
+  unlocking real-time data updates and actionable insights.
 image: "/assets/images/seo_pages/body.webp"
 date: '2023-08-18'
 categories: connectors
-permalink: connectors/franconnect
-icon_url: "/assets/images/seo_pages/connectors/franconnect"
+permalink: connectors/contrast_security
+icon_url: "/assets/images/seo_pages/connectors/contrast_security"
 sections:
   overview:
-    title: Fountain Data Connector
-    description: Leverage Fountain integration to optimize your advertising campaigns.
-      Seamlessly integrate ad data for enhanced insights, informed decisions, and
-      improved campaign performance.
+    title: Confluent Cloud Data Connector
+    description: Leverage Confluent Cloud integration to optimize your marketing campaigns.
+      Seamlessly integrate marketing data for enhanced insights, informed decisions,
+      and improved campaign performance.
     image_url: "/assets/images/seo_pages/overview.webp"
   body:
-    title: Visualize Your Fountain channel data with Growth Nirvana's Fountain Connector
-    description: Supercharge your advertising strategies with Fountain integration,
+    title: Visualize Your Confluent Cloud channel data with Growth Nirvana's Confluent
+      Cloud Connector
+    description: Supercharge your marketing strategies with Confluent Cloud integration,
       unlocking real-time data updates and actionable insights.
     image_url: "/assets/images/seo_pages/body.webp"
   faq:
     title: FAQs
     questions:
-    - title: What are the most popular metrics in Fountain to analyze?
+    - title: What are the most popular metrics in Confluent Cloud to analyze?
       bullets:
       - title: Campaign Performance
-        description: Assess the effectiveness and ROI of your Fountain campaigns.
-      - title: Keyword Optimization
-        description: Optimize keywords for better ad visibility and targeting.
-      - title: Product Placement
-        description: Monitor and enhance the placement of your products on Fountain.
+        description: Assess the effectiveness and ROI of your marketing campaigns.
+      - title: Audience Segmentation
+        description: Segment your audience for targeted marketing and better campaign
+          performance.
       - title: Conversion Rates
-        description: Measure the percentage of ad clicks that lead to conversions.
-      - title: Competitor Analysis
-        description: Analyze and outperform competitors through data-driven insights.
-      - title: Ad Placement Strategy
-        description: Strategically place ads for maximum engagement and reach.
-      - title: Audience Engagement
-        description: Understand and engage your target audience through ad interactions.
-      - title: Creative Performance
-        description: Evaluate and optimize ad creatives based on user engagement.
-      - title: Geographic Reach
-        description: Assess the regions where your ads perform the best.
-      - title: A/B Testing
-        description: Refine campaigns through A/B testing and data insights.
-    - title: Why analyze Fountain?
+        description: Measure the percentage of website visitors that convert into
+          customers.
+      - title: Funnel Analysis
+        description: Analyze the user journey through the marketing funnel for optimization.
+      - title: Channel Attribution
+        description: Identify the most effective marketing channels for driving conversions.
+      - title: Lifetime Value
+        description: Calculate the lifetime value of your customers to inform marketing
+          strategies.
+      - title: Campaign ROI
+        description: Calculate the return on investment for your marketing campaigns.
+      - title: Engagement Metrics
+        description: Track engagement metrics such as clicks, views, and time on page.
+      - title: Acquisition Cost
+        description: Determine the cost of acquiring new customers through marketing
+          efforts.
+      - title: Customer Churn
+        description: Monitor customer churn rate to identify retention opportunities.
+    - title: Why analyze Confluent Cloud?
       bullets:
       - title: Real-time Insights
-        description: Access and analyze up-to-the-minute ad data for timely actions.
+        description: Access and analyze up-to-the-minute marketing data for timely
+          actions.
       - title: Competitive Advantage
         description: Stay ahead by making informed decisions based on data-driven
           insights.
@@ -66,11 +72,12 @@ sections:
         description: Tailor marketing efforts with data insights for personalized
           targeting.
       - title: Informed Decision-making
-        description: Make critical decisions backed by the latest ad performance data.
+        description: Make critical decisions backed by the latest marketing performance
+          data.
       - title: Continuous Optimization
         description: Optimize campaigns continuously with dynamic data updates.
-      - title: Holistic Campaign View
-        description: Gain a comprehensive view of your ad landscape through real-time
+      - title: Comprehensive Campaign View
+        description: Gain a holistic view of your marketing campaigns through real-time
           integration.
     - title: What is Growth Nirvana?
       answer: Growth Nirvana is a no code analytics platform. Stop waiting for other

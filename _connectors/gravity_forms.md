@@ -1,9 +1,9 @@
 ---
 layout: connector
-title: GravityForms Connector - Growth Nirvana
-name: GravityForms
-description: Amplify your marketing automation strategies with GravityForms integration,
-  gaining actionable insights from campaign data analysis.
+title: Gorgias Connector - Growth Nirvana
+name: Gorgias
+description: Supercharge your customer support strategies with Gorgias integration,
+  unlocking real-time support updates and actionable insights.
 image: "/assets/images/seo_pages/body.webp"
 date: '2023-08-18'
 categories: connectors
@@ -11,66 +11,73 @@ permalink: connectors/gravity_forms
 icon_url: "/assets/images/seo_pages/connectors/gravity_forms"
 sections:
   overview:
-    title: GravityForms Data Connector
-    description: Enhance your marketing automation insights with GravityForms integration.
-      Seamlessly merge marketing data, unlocking insights that shape campaign strategies,
-      lead analysis, and operational excellence.
+    title: Gorgias Data Connector
+    description: Leverage Gorgias integration to optimize your customer support. Seamlessly
+      integrate support data for enhanced insights, informed decisions, and improved
+      support performance.
     image_url: "/assets/images/seo_pages/overview.webp"
   body:
-    title: Visualize Your GravityForms channel data with Growth Nirvana's GravityForms
-      Connector
-    description: Amplify your marketing automation strategies with GravityForms integration,
-      gaining actionable insights from campaign data analysis.
+    title: Visualize Your Gorgias channel data with Growth Nirvana's Gorgias Connector
+    description: Supercharge your customer support strategies with Gorgias integration,
+      unlocking real-time support updates and actionable insights.
     image_url: "/assets/images/seo_pages/body.webp"
   faq:
     title: FAQs
     questions:
-    - title: What are the most popular metrics in GravityForms to analyze?
+    - title: What are the most popular metrics in Gorgias to analyze?
       bullets:
-      - title: Lead Engagement
-        description: Assess lead interaction and engagement with marketing materials.
-      - title: Email Performance
-        description: Analyze email campaign success rates, open rates, and click-through
-          rates.
-      - title: Conversion Rates
-        description: Measure the percentage of leads that convert into customers.
-      - title: Segmentation Effectiveness
-        description: Evaluate the efficiency of audience segmentation strategies.
-      - title: Automation Workflow Analysis
-        description: Assess the effectiveness of marketing automation workflows.
-      - title: Landing Page Performance
-        description: Analyze landing page effectiveness and conversion rates.
-      - title: Social Media Engagement
-        description: Evaluate audience engagement and interactions on social media
-          platforms.
-      - title: Lead Scoring
-        description: Assess the accuracy and impact of lead scoring models.
-      - title: A/B Testing Insights
-        description: Gather insights from A/B testing experiments on campaigns.
-      - title: Customer Journey Analysis
-        description: Track and optimize the customer journey across marketing touchpoints.
-    - title: Why analyze GravityForms?
+      - title: Ticket Resolution Time
+        description: Analyze the average time taken to resolve customer support tickets.
+      - title: Response Time
+        description: Measure the average time taken to respond to customer support
+          inquiries.
+      - title: Customer Satisfaction
+        description: Evaluate customer satisfaction ratings to enhance support experience.
+      - title: Ticket Volume
+        description: Monitor the number of support tickets received over a given period.
+      - title: Agent Performance
+        description: Assess agent performance based on response time and customer
+          ratings.
+      - title: First Response Resolution
+        description: Track the percentage of support inquiries resolved with the initial
+          response.
+      - title: Support Channel Performance
+        description: Analyze the performance of different support channels (e.g.,
+          email, chat, phone).
+      - title: Issue Resolution Rate
+        description: Measure the percentage of support tickets resolved successfully.
+      - title: Customer Feedback
+        description: Gather and analyze customer feedback to improve support processes.
+      - title: Escalation Rate
+        description: Monitor the rate at which support tickets are escalated to higher
+          levels of support.
+    - title: Why analyze Gorgias?
       bullets:
-      - title: Enhance Campaign Strategies
-        description: Refine marketing campaigns based on data-driven insights.
-      - title: Lead Analysis
-        description: Gain deeper understanding of lead behavior and preferences.
-      - title: Improve Conversion Rates
-        description: Optimize strategies to increase lead-to-customer conversion rates.
-      - title: Effective Segmentation
-        description: Craft more targeted and personalized marketing campaigns.
-      - title: Workflow Optimization
-        description: Enhance marketing automation workflows for improved results.
-      - title: Landing Page Optimization
-        description: Optimize landing pages for better conversion rates.
-      - title: Social Media Strategy
-        description: Fine-tune social media marketing strategies for higher engagement.
-      - title: Refined Lead Scoring
-        description: Improve lead scoring models for more accurate lead prioritization.
-      - title: Effective A/B Testing
-        description: Enhance A/B testing strategies based on data insights.
-      - title: Customer Journey Enhancement
-        description: Optimize the customer journey for improved customer experiences.
+      - title: Efficient Support Workflow
+        description: Streamline your support workflow and automate repetitive tasks.
+      - title: Centralized Customer Data
+        description: Access and integrate customer data from various platforms for
+          a complete view.
+      - title: Personalized Customer Support
+        description: Provide personalized support experiences based on customer information.
+      - title: Integrated Ticket Management
+        description: Manage support tickets from multiple channels in one centralized
+          platform.
+      - title: Multi-channel Communication
+        description: Engage with customers across various channels seamlessly.
+      - title: Advanced Analytics
+        description: Utilize data-driven insights to optimize support strategies.
+      - title: Automated Responses
+        description: Automate repetitive responses to save time and improve efficiency.
+      - title: Collaborative Support
+        description: Enable team collaboration and knowledge sharing for efficient
+          support resolution.
+      - title: Integration Flexibility
+        description: Integrate Gorgias with other tools to streamline your support
+          ecosystem.
+      - title: Real-time Support Updates
+        description: Stay updated with real-time support ticket notifications and
+          updates.
     - title: What is Growth Nirvana?
       answer: Growth Nirvana is a no code analytics platform. Stop waiting for other
         departments to get you the data you need to make critical business decisions.

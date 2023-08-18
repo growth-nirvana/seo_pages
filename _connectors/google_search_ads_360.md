@@ -1,43 +1,43 @@
 ---
 layout: connector
-title: Fountain Connector - Growth Nirvana
-name: Fountain
-description: Supercharge your advertising strategies with Fountain integration, unlocking
-  real-time data updates and actionable insights.
+title: Google Search Ads 360 Connector - Growth Nirvana
+name: Google Search Ads 360
+description: Supercharge your advertising strategies with Google Search Ads 360 integration,
+  unlocking real-time data updates and actionable insights.
 image: "/assets/images/seo_pages/body.webp"
 date: '2023-08-18'
 categories: connectors
-permalink: connectors/franconnect
-icon_url: "/assets/images/seo_pages/connectors/franconnect"
+permalink: connectors/google_search_ads_360
+icon_url: "/assets/images/seo_pages/connectors/google_search_ads_360"
 sections:
   overview:
-    title: Fountain Data Connector
-    description: Leverage Fountain integration to optimize your advertising campaigns.
-      Seamlessly integrate ad data for enhanced insights, informed decisions, and
-      improved campaign performance.
+    title: Google Search Ads 360 Data Connector
+    description: Leverage Google Search Ads 360 integration to optimize your advertising
+      campaigns. Seamlessly integrate ad data for enhanced insights, informed decisions,
+      and improved campaign performance.
     image_url: "/assets/images/seo_pages/overview.webp"
   body:
-    title: Visualize Your Fountain channel data with Growth Nirvana's Fountain Connector
-    description: Supercharge your advertising strategies with Fountain integration,
-      unlocking real-time data updates and actionable insights.
+    title: Visualize Your Google Search Ads 360 channel data with Growth Nirvana's
+      Google Search Ads 360 Connector
+    description: Supercharge your advertising strategies with Google Search Ads 360
+      integration, unlocking real-time data updates and actionable insights.
     image_url: "/assets/images/seo_pages/body.webp"
   faq:
     title: FAQs
     questions:
-    - title: What are the most popular metrics in Fountain to analyze?
+    - title: What are the most popular metrics in Google Search Ads 360 to analyze?
       bullets:
       - title: Campaign Performance
-        description: Assess the effectiveness and ROI of your Fountain campaigns.
+        description: Assess the effectiveness and ROI of your Google Search Ads 360
+          campaigns.
       - title: Keyword Optimization
         description: Optimize keywords for better ad visibility and targeting.
-      - title: Product Placement
-        description: Monitor and enhance the placement of your products on Fountain.
+      - title: Ad Placement Strategy
+        description: Strategically place ads for maximum engagement and reach.
       - title: Conversion Rates
         description: Measure the percentage of ad clicks that lead to conversions.
       - title: Competitor Analysis
         description: Analyze and outperform competitors through data-driven insights.
-      - title: Ad Placement Strategy
-        description: Strategically place ads for maximum engagement and reach.
       - title: Audience Engagement
         description: Understand and engage your target audience through ad interactions.
       - title: Creative Performance
@@ -46,7 +46,7 @@ sections:
         description: Assess the regions where your ads perform the best.
       - title: A/B Testing
         description: Refine campaigns through A/B testing and data insights.
-    - title: Why analyze Fountain?
+    - title: Why analyze Google Search Ads 360?
       bullets:
       - title: Real-time Insights
         description: Access and analyze up-to-the-minute ad data for timely actions.
@@ -58,8 +58,7 @@ sections:
       - title: Responsive Performance
         description: Optimize performance based on real-time engagement metrics.
       - title: Strategic Positioning
-        description: Position your products effectively for increased visibility and
-          sales.
+        description: Position your ads effectively for increased visibility and reach.
       - title: Proactive Issue Resolution
         description: Identify and address issues in real time to mitigate risks.
       - title: Tailored Marketing

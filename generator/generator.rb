@@ -4,7 +4,7 @@ require "date"
 require "yaml"
 
 class Generator
-  attr_reader :name, :fivetran_id, :permalink, :destination_path,
+  attr_reader :name, :fivetran_id, :destination_path,
     :overview_description, :body_description, :bullets_for_metrics, :bullets_for_reasons
 
   # @param name [String] name of the connector to generate. i.e. Google Ads, Facebook Ads
@@ -19,26 +19,8 @@ class Generator
     @destination_path = "./_connectors/#{fivetran_id}.md"
     @overview_description = overview_description
     @body_description = body_description
-    @bullets_for_metrics = if bullets_for_metrics.nil?
-                             ""
-                           else
-                             bullets_for_metrics.to_yaml(line_width: -1) # Prevents YAML from adding line breaks on long lines
-                              .gsub("bullets:", "  bullets:").gsub(/^/,"      ") # Adds correct indentation for bullets array
-                              .gsub("description:", "    description:") # Adds correct indentation for description
-                              .gsub("---\n", "") # Removes initial ---\n
-                              .gsub("- title:", "    - title:") # Adds correct indentation for each bullet title
-                              .gsub("      title:", "- title:") # Adds correct indentation for first title
-                           end
-    @bullets_for_reasons = if bullets_for_reasons.nil?
-                              ""
-                          else
-                            bullets_for_reasons.to_yaml(line_width: -1) # Prevents YAML from adding line breaks on long lines
-                            .gsub("bullets:", "  bullets:").gsub(/^/,"      ") # Adds correct indentation for bullets array
-                            .gsub("description:", "    description:") # Adds correct indentation for description
-                            .gsub("---\n", "") # Removes initial ---\n
-                            .gsub("- title:", "    - title:") # Adds correct indentation for each bullet title
-                            .gsub("      title:", "- title:") # Adds correct indentation for first title
-                          end
+    @bullets_for_metrics = bullets_for_metrics.nil? ? "" : bullets_for_metrics
+    @bullets_for_reasons = bullets_for_reasons.nil? ? "" : bullets_for_reasons
   end
 
   # Generates a landing page for the connector
@@ -49,18 +31,63 @@ class Generator
       puts "File #{destination_path} already exists"
     else
       File.open(destination_path, 'w') do |f|
-        f.write(
-          ERB.new(File.read("./generator/template.md.erb"), trim_mode: '-').result_with_hash(
-            name: name,
-            date: Date.today,
-            permalink: fivetran_id,
-            overview_description: overview_description,
-            body_description: body_description,
-            bullets_for_metrics: bullets_for_metrics,
-            bullets_for_reasons: bullets_for_reasons
-          )
-        )
+        f.write(template.to_yaml + "---\n")
       end
     end
+  end
+
+  private
+
+  def template
+    {
+      "layout"=> "connector",
+      "title"=> "#{ name } Connector - Growth Nirvana",
+      "name"=> "#{ name }",
+      "description"=> "#{ body_description }",
+      "image"=> "/assets/images/seo_pages/body.webp",
+      "date"=> "#{ Date.today }",
+      "categories"=> "connectors",
+      "permalink"=> "connectors/#{ fivetran_id }",
+      "icon_url"=> "/assets/images/seo_pages/connectors/#{ fivetran_id }",
+      "sections"=> {
+        "overview"=> {
+          "title"=> "#{ name } Data Connector",
+          "description"=> "#{ overview_description }",
+          "image_url"=> "/assets/images/seo_pages/overview.webp"
+        },
+        "body"=> {
+          "title"=> "Visualize Your #{ name } channel data with Growth Nirvana's #{ name } Connector",
+          "description"=> "#{ body_description }",
+          "image_url"=> "/assets/images/seo_pages/body.webp"
+        },
+        "faq"=> {
+          "title"=> "FAQs",
+          "questions"=> [
+            bullets_for_metrics,
+            bullets_for_reasons,
+            {
+              "title"=> "What is Growth Nirvana?",
+              "answer"=> "Growth Nirvana is a no code analytics platform. Stop waiting for other departments to get you the data you need to make critical business decisions. Take control of the insights that will grow your business."
+            },
+            {
+              "title"=> "Can I export the data into a spreadsheet or my data warehouse?",
+              "answer"=> "Yes, all data can be exported into a spreadsheet or your data warehouse (Google BigQuery, AWS, Snowflake, Azure, etc)"
+            },
+            {
+              "title"=> "How customizable are Growth Nirvana reports?",
+              "answer"=> "Growth Nirvana reporting is 100% white labeled and customized to your specifications. Growth Nirvana can create the reports so you don’t have to or you can connect your visualization tools (Looker Data Studio/Google Data Studio, Tableau, PowerBI, etc) to Growth Nirvana."
+            },
+            {
+              "title"=> "How much does Growth Nirvana cost?",
+              "answer"=> "Plans start at $200/month. Schedule a demo to learn what plan is best for you."
+            },
+            {
+              "title"=> "How long does it take to setup?",
+              "answer"=> "Growth Nirvana data connectors are no code so setup only requires a few clicks."
+            }
+          ]
+        }
+      }
+    }
   end
 end

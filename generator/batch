@@ -8,9 +8,11 @@ connectors = JSON.parse(File.read("./generator/connectors.json"))
 connectors.keys.each do |connector|
   Generator.new(
     connector,
-    connectors[connector]["fivetran_id"],
+    connectors[connector]["schema_name"],
     connectors[connector]["overview"]["description"],
-    connectors[connector]["body"]["description"]
+    connectors[connector]["body"]["description"],
+    connectors[connector]["bullets_for_metrics"],
+    connectors[connector]["bullets_for_reasons"],
   ).generate(override)
   print "."
 end

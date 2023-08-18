@@ -1,36 +1,54 @@
 ---
 layout: connector
-title:  "Freshservice_lite Connector - Growth Nirvana"
-name: "Freshservice_lite"
-description: Harness the power of Freshservice Lite IT service insights integrated into Looker Studio for strategic IT management decisions.
-image: /assets/images/seo_pages/body.webp
-date: 2023-08-17
+title: Freshservice Lite Connector - Growth Nirvana
+name: Freshservice Lite
+description: Streamline your IT service management with Freshservice Lite. Simplify
+  your workflow, streamline ticket management, and improve collaboration. Enhance
+  the efficiency and effectiveness of your IT team with Freshservice Lite's comprehensive
+  set of features and advanced analytics.
+image: "/assets/images/seo_pages/body.webp"
+date: '2023-08-18'
 categories: connectors
 permalink: connectors/freshservice_lite
-icon_url: /assets/images/seo_pages/connectors/freshservice_lite
-
+icon_url: "/assets/images/seo_pages/connectors/freshservice_lite"
 sections:
   overview:
-    title: >-
-      Freshservice_lite Data Connector
-    description: Optimize your IT service insights with Freshservice Lite integration. Seamlessly merge IT service data from Freshservice Lite with Looker Studio's analytical capabilities, unlocking insights that drive service strategies, ticket resolution, and operational excellence.
-    image_url: /assets/images/seo_pages/overview.webp
-
+    title: Freshservice Lite Data Connector
+    description: Experience a new paradigm of IT service management with Freshservice
+      Lite. Seamlessly streamline your IT operations, automate repetitive tasks, and
+      enhance employee productivity. With Freshservice Lite's intuitive interface
+      and powerful features, you can easily manage your service requests, incidents,
+      assets, and more.
+    image_url: "/assets/images/seo_pages/overview.webp"
   body:
-    title: >-
-      Visualize Your Freshservice_lite channel data with Growth Nirvana's
-      Freshservice_lite Connector
-    description: Harness the power of Freshservice Lite IT service insights integrated into Looker Studio for strategic IT management decisions.
-    image_url: /assets/images/seo_pages/body.webp
+    title: Visualize Your Freshservice Lite channel data with Growth Nirvana's Freshservice
+      Lite Connector
+    description: Streamline your IT service management with Freshservice Lite. Simplify
+      your workflow, streamline ticket management, and improve collaboration. Enhance
+      the efficiency and effectiveness of your IT team with Freshservice Lite's comprehensive
+      set of features and advanced analytics.
+    image_url: "/assets/images/seo_pages/body.webp"
   faq:
     title: FAQs
     questions:
-      - title: How can I connect my Freshservice_lite data to Google Data Studio/Looker Studio?
-        answer: Growth Nirvana offers a straightforward no-code interface to connect to Freshservice_lite data sources.
-      - title: How can I generate Freshservice_lite data reports in Looker Studio?
-        answer: >-
-          With the help of Growth Nirvana, you can import live data from Freshservice_lite into Looker Studio. These data can be viewed in charts, tables, and dashboards to generate branded reports that can be shared instantly.
-      - title: What are the requirements for connecting Freshservice_lite and Looker Studio?
-        answer: >-
-          For connecting the two platforms, you should have: Growth Nirvana Account and Freshservice_lite Ads Account
+    - ''
+    - ''
+    - title: What is Growth Nirvana?
+      answer: Growth Nirvana is a no code analytics platform. Stop waiting for other
+        departments to get you the data you need to make critical business decisions.
+        Take control of the insights that will grow your business.
+    - title: Can I export the data into a spreadsheet or my data warehouse?
+      answer: Yes, all data can be exported into a spreadsheet or your data warehouse
+        (Google BigQuery, AWS, Snowflake, Azure, etc)
+    - title: How customizable are Growth Nirvana reports?
+      answer: Growth Nirvana reporting is 100% white labeled and customized to your
+        specifications. Growth Nirvana can create the reports so you don’t have to
+        or you can connect your visualization tools (Looker Data Studio/Google Data
+        Studio, Tableau, PowerBI, etc) to Growth Nirvana.
+    - title: How much does Growth Nirvana cost?
+      answer: Plans start at $200/month. Schedule a demo to learn what plan is best
+        for you.
+    - title: How long does it take to setup?
+      answer: Growth Nirvana data connectors are no code so setup only requires a
+        few clicks.
 ---

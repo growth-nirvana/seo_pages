@@ -1,36 +1,91 @@
 ---
 layout: connector
-title:  "Close Connector - Growth Nirvana"
-name: "Close"
-description: Integrate Close with Looker Studio for data-driven sales analytics that guide your revenue strategies.
-image: /assets/images/seo_pages/body.webp
-date: 2023-08-17
+title: Close Connector - Growth Nirvana
+name: Close
+description: Amplify your sales strategies with Close integration, gaining actionable
+  insights from sales data analysis.
+image: "/assets/images/seo_pages/body.webp"
+date: '2023-08-18'
 categories: connectors
 permalink: connectors/close
-icon_url: /assets/images/seo_pages/connectors/close
-
+icon_url: "/assets/images/seo_pages/connectors/close"
 sections:
   overview:
-    title: >-
-      Close Data Connector
-    description: Elevate your sales insights with Close integration. Seamlessly merge sales and communication data from Close with Looker Studio's analytical capabilities, unlocking insights that power sales strategies, customer interactions, and deal performance.
-    image_url: /assets/images/seo_pages/overview.webp
-
+    title: Close Data Connector
+    description: Enhance your sales insights with Close integration. Seamlessly merge
+      sales data, unlocking insights that shape sales strategies, lead analysis, and
+      operational excellence.
+    image_url: "/assets/images/seo_pages/overview.webp"
   body:
-    title: >-
-      Visualize Your Close channel data with Growth Nirvana's
-      Close Connector
-    description: Integrate Close with Looker Studio for data-driven sales analytics that guide your revenue strategies.
-    image_url: /assets/images/seo_pages/body.webp
+    title: Visualize Your Close channel data with Growth Nirvana's Close Connector
+    description: Amplify your sales strategies with Close integration, gaining actionable
+      insights from sales data analysis.
+    image_url: "/assets/images/seo_pages/body.webp"
   faq:
     title: FAQs
     questions:
-      - title: How can I connect my Close data to Google Data Studio/Looker Studio?
-        answer: Growth Nirvana offers a straightforward no-code interface to connect to Close data sources.
-      - title: How can I generate Close data reports in Looker Studio?
-        answer: >-
-          With the help of Growth Nirvana, you can import live data from Close into Looker Studio. These data can be viewed in charts, tables, and dashboards to generate branded reports that can be shared instantly.
-      - title: What are the requirements for connecting Close and Looker Studio?
-        answer: >-
-          For connecting the two platforms, you should have: Growth Nirvana Account and Close Ads Account
+    - title: What are the most popular metrics in Close to analyze?
+      bullets:
+      - title: Lead Engagement
+        description: Assess lead interaction and engagement with sales materials.
+      - title: Email Performance
+        description: Analyze email campaign success rates, open rates, and click-through
+          rates.
+      - title: Conversion Rates
+        description: Measure the percentage of leads that convert into customers.
+      - title: Segmentation Effectiveness
+        description: Evaluate the efficiency of audience segmentation strategies.
+      - title: Automation Workflow Analysis
+        description: Assess the effectiveness of sales automation workflows.
+      - title: Landing Page Performance
+        description: Analyze landing page effectiveness and conversion rates.
+      - title: Social Media Engagement
+        description: Evaluate audience engagement and interactions on social media
+          platforms.
+      - title: Lead Scoring
+        description: Assess the accuracy and impact of lead scoring models.
+      - title: A/B Testing Insights
+        description: Gather insights from A/B testing experiments on sales campaigns.
+      - title: Customer Journey Analysis
+        description: Track and optimize the customer journey across sales touchpoints.
+    - title: Why analyze Close?
+      bullets:
+      - title: Enhance Sales Strategies
+        description: Refine sales strategies based on data-driven insights.
+      - title: Lead Analysis
+        description: Gain deeper understanding of lead behavior and preferences.
+      - title: Improve Conversion Rates
+        description: Optimize strategies to increase lead-to-customer conversion rates.
+      - title: Effective Segmentation
+        description: Craft more targeted and personalized sales campaigns.
+      - title: Workflow Optimization
+        description: Enhance sales automation workflows for improved results.
+      - title: Landing Page Optimization
+        description: Optimize landing pages for better conversion rates.
+      - title: Social Media Strategy
+        description: Fine-tune social media marketing strategies for higher engagement.
+      - title: Refined Lead Scoring
+        description: Improve lead scoring models for more accurate lead prioritization.
+      - title: Effective A/B Testing
+        description: Enhance A/B testing strategies based on data insights.
+      - title: Customer Journey Enhancement
+        description: Optimize the customer journey for improved customer experiences.
+    - title: What is Growth Nirvana?
+      answer: Growth Nirvana is a no code analytics platform. Stop waiting for other
+        departments to get you the data you need to make critical business decisions.
+        Take control of the insights that will grow your business.
+    - title: Can I export the data into a spreadsheet or my data warehouse?
+      answer: Yes, all data can be exported into a spreadsheet or your data warehouse
+        (Google BigQuery, AWS, Snowflake, Azure, etc)
+    - title: How customizable are Growth Nirvana reports?
+      answer: Growth Nirvana reporting is 100% white labeled and customized to your
+        specifications. Growth Nirvana can create the reports so you don’t have to
+        or you can connect your visualization tools (Looker Data Studio/Google Data
+        Studio, Tableau, PowerBI, etc) to Growth Nirvana.
+    - title: How much does Growth Nirvana cost?
+      answer: Plans start at $200/month. Schedule a demo to learn what plan is best
+        for you.
+    - title: How long does it take to setup?
+      answer: Growth Nirvana data connectors are no code so setup only requires a
+        few clicks.
 ---

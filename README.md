@@ -20,6 +20,7 @@ require "csv"
 csv = CSV.read("downloaded-sources.csv", headers: true)
 
 csv.map do |row|
+  print "."
   ext = Pathname(row["icon_url"]).extname
   `curl '#{row["icon_url"]}' -o assets/images/seo_pages/connectors/#{row["schema_name"]}#{ext} -s`
 end

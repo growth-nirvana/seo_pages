@@ -1,9 +1,10 @@
 ---
 layout: connector
-title: Google Ads GCF Connector - Growth Nirvana
-name: Google Ads GCF
-description: Amplify your marketing strategies with Google Ads GCF integration, gaining
-  actionable insights from campaign data analysis.
+title: Google Ads Connector - Growth Nirvana
+name: Google Ads
+description: Amplify your digital advertising efforts with Google Ads integration.
+  Optimize campaign performance through data-driven insights and precise targeting
+  capabilities.
 image: "/assets/images/seo_pages/body.webp"
 date: '2023-08-18'
 categories: connectors
@@ -11,66 +12,73 @@ permalink: connectors/google_ads
 icon_url: "/assets/images/seo_pages/connectors/google_ads"
 sections:
   overview:
-    title: Google Ads GCF Data Connector
-    description: Enhance your marketing insights with Google Ads GCF integration.
-      Seamlessly merge marketing data, unlocking insights that shape campaign strategies,
-      lead analysis, and operational excellence.
+    title: Google Ads Data Connector
+    description: Enhance your digital advertising campaigns with Google Ads integration.
+      Gain actionable insights from campaign data analysis, allowing for more targeted
+      marketing strategies and improved ROI.
     image_url: "/assets/images/seo_pages/overview.webp"
   body:
-    title: Visualize Your Google Ads GCF channel data with Growth Nirvana's Google
-      Ads GCF Connector
-    description: Amplify your marketing strategies with Google Ads GCF integration,
-      gaining actionable insights from campaign data analysis.
+    title: Visualize Your Google Ads channel data with Growth Nirvana's Google Ads
+      Connector
+    description: Amplify your digital advertising efforts with Google Ads integration.
+      Optimize campaign performance through data-driven insights and precise targeting
+      capabilities.
     image_url: "/assets/images/seo_pages/body.webp"
   faq:
     title: FAQs
     questions:
-    - title: What are the most popular metrics in Google Ads GCF to analyze?
+    - title: What are the most popular metrics in Google Ads to analyze?
       bullets:
-      - title: Lead Engagement
-        description: Assess lead interaction and engagement with marketing materials.
-      - title: Ad Performance
-        description: Analyze ad campaign success rates, impressions, and click-through
-          rates.
-      - title: Conversion Rates
-        description: Measure the percentage of leads that convert into customers.
-      - title: Segmentation Effectiveness
-        description: Evaluate the efficiency of audience segmentation strategies.
-      - title: Automation Workflow Analysis
-        description: Assess the effectiveness of marketing automation workflows.
-      - title: Landing Page Performance
-        description: Analyze landing page effectiveness and conversion rates.
-      - title: Social Media Engagement
-        description: Evaluate audience engagement and interactions on social media
-          platforms.
-      - title: Lead Scoring
-        description: Assess the accuracy and impact of lead scoring models.
-      - title: A/B Testing Insights
-        description: Gather insights from A/B testing experiments on campaigns.
-      - title: Customer Journey Analysis
-        description: Track and optimize the customer journey across marketing touchpoints.
-    - title: Why analyze Google Ads GCF?
+      - title: Click-Through Rates
+        description: Analyze the effectiveness of ad creatives and their ability to
+          generate clicks.
+      - title: Conversion Tracking
+        description: Measure the number of users who completed a desired action after
+          interacting with your ads.
+      - title: Cost per Acquisition
+        description: Evaluate the cost of acquiring a new customer through your advertising
+          campaigns.
+      - title: Search Query Performance
+        description: Gain insights into the performance of specific keywords and search
+          queries.
+      - title: Ad Placement Analysis
+        description: Assess the effectiveness of ad placements on different websites
+          and networks.
+      - title: Audience Targeting
+        description: Evaluate the performance of ad campaigns targeted towards specific
+          audience segments.
+      - title: Ad Scheduling Optimization
+        description: Optimize the timing and frequency of ad placements for maximum
+          impact.
+      - title: Ad Budget Allocation
+        description: Analyze the effectiveness of budget allocation across different
+          ad campaigns.
+    - title: Why analyze Google Ads?
       bullets:
-      - title: Enhance Campaign Strategies
-        description: Refine marketing campaigns based on data-driven insights.
-      - title: Lead Analysis
-        description: Gain deeper understanding of lead behavior and preferences.
-      - title: Improve Conversion Rates
-        description: Optimize strategies to increase lead-to-customer conversion rates.
-      - title: Effective Segmentation
-        description: Craft more targeted and personalized marketing campaigns.
-      - title: Workflow Optimization
-        description: Enhance marketing automation workflows for improved results.
-      - title: Landing Page Optimization
-        description: Optimize landing pages for better conversion rates.
-      - title: Social Media Strategy
-        description: Fine-tune social media marketing strategies for higher engagement.
-      - title: Refined Lead Scoring
-        description: Improve lead scoring models for more accurate lead prioritization.
-      - title: Effective A/B Testing
-        description: Enhance A/B testing strategies based on data insights.
-      - title: Customer Journey Enhancement
-        description: Optimize the customer journey for improved customer experiences.
+      - title: Targeted Advertising
+        description: Deliver personalized ads to specific audience segments for higher
+          engagement.
+      - title: Improved Conversion Rates
+        description: Optimize ads to increase the percentage of users who complete
+          desired actions.
+      - title: Return on Investment (ROI)
+        description: Measure the effectiveness of ad campaigns in generating revenue
+          compared to their cost.
+      - title: Keyword Optimization
+        description: Refine keywords and search queries to improve ad relevancy and
+          performance.
+      - title: Strategic Ad Placements
+        description: Identify high-performing websites and networks for optimal ad
+          placement.
+      - title: Audience Segment Insights
+        description: Gain a deeper understanding of audience behavior and preferences
+          for more targeted campaigns.
+      - title: Ad Scheduling Efficiency
+        description: Optimize the timing and frequency of ad placements to reach the
+          right audience at the right time.
+      - title: Budget Optimization
+        description: Allocate ad budget strategically to maximize campaign performance
+          and ROI.
     - title: What is Growth Nirvana?
       answer: Growth Nirvana is a no code analytics platform. Stop waiting for other
         departments to get you the data you need to make critical business decisions.

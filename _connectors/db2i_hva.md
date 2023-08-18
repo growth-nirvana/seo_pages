@@ -33,8 +33,6 @@ sections:
   faq:
     title: FAQs
     questions:
-    - ''
-    - ''
     - title: What is Growth Nirvana?
       answer: Growth Nirvana is a no code analytics platform. Stop waiting for other
         departments to get you the data you need to make critical business decisions.

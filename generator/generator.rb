@@ -19,8 +19,8 @@ class Generator
     @destination_path = "./_connectors/#{schema_name}.md"
     @overview_description = overview_description
     @body_description = body_description
-    @bullets_for_metrics = bullets_for_metrics.nil? ? "" : bullets_for_metrics
-    @bullets_for_reasons = bullets_for_reasons.nil? ? "" : bullets_for_reasons
+    @bullets_for_metrics = bullets_for_metrics
+    @bullets_for_reasons = bullets_for_reasons
   end
 
   # Generates a landing page for the connector
@@ -85,7 +85,7 @@ class Generator
               "title"=> "How long does it take to setup?",
               "answer"=> "Growth Nirvana data connectors are no code so setup only requires a few clicks."
             }
-          ]
+          ].compact
         }
       }
     }

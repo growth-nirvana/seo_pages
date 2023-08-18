@@ -32,7 +32,8 @@ layout: default
     </div>
   </div>
   <ul role="list" class="grid grid-cols-1 gap-6 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 mx-auto max-w-7xl px-6 pt-5 pb-10 lg:px-8">
-    {% for connector in site.connectors %}
+    {% assign connectors_sorted = site.connectors | sort_natural: 'name' %}
+    {% for connector in connectors_sorted %}
       <a class="connector-card" href="{{ site.baseurl }}/{{ connector.permalink }}">
         <li class="col-span-1 flex flex-col divide-y divide-gray-200 rounded-lg bg-white text-center shadow hover:shadow-lg hover:border-primary hover:border h-full">
           <div class="flex flex-1 flex-col p-8">

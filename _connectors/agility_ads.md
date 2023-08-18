@@ -1,9 +1,9 @@
 ---
 layout: connector
-title: AdRoll Connector - Growth Nirvana
-name: AdRoll
-description: Supercharge your advertising strategies with AdRoll integration, unlocking
-  real-time data updates and actionable insights.
+title: AgilityAds Connector - Growth Nirvana
+name: AgilityAds
+description: Amplify your marketing strategies with AgilityAds integration, gaining
+  actionable insights from campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
 date: '2023-08-18'
 categories: connectors
@@ -11,49 +11,66 @@ permalink: connectors/agility_ads
 icon_url: "/assets/images/seo_pages/connectors/agility_ads"
 sections:
   overview:
-    title: AdRoll Data Connector
-    description: Leverage AdRoll integration to optimize your advertising campaigns.
-      Seamlessly integrate ad data for enhanced insights, informed decisions, and
-      improved campaign performance.
+    title: AgilityAds Data Connector
+    description: Enhance your marketing insights with AgilityAds integration. Seamlessly
+      merge marketing data, unlocking insights that shape campaign strategies, lead
+      analysis, and operational excellence.
     image_url: "/assets/images/seo_pages/overview.webp"
   body:
-    title: Visualize Your AdRoll channel data with Growth Nirvana's AdRoll Connector
-    description: Supercharge your advertising strategies with AdRoll integration,
-      unlocking real-time data updates and actionable insights.
+    title: Visualize Your AgilityAds channel data with Growth Nirvana's AgilityAds
+      Connector
+    description: Amplify your marketing strategies with AgilityAds integration, gaining
+      actionable insights from campaign data analysis.
     image_url: "/assets/images/seo_pages/body.webp"
   faq:
     title: FAQs
     questions:
-    - title: What are the most popular metrics in AdRoll to analyze?
+    - title: What are the most popular metrics in AgilityAds to analyze?
       bullets:
-      - title: Campaign Performance
-        description: Assess the effectiveness and ROI of your AdRoll campaigns.
-      - title: Audience Segmentation
-        description: Segment your audience for targeted ad delivery and personalized
-          experiences.
-      - title: Ad Engagement
-        description: Measure and optimize ad engagement metrics for improved campaign
-          performance.
-      - title: Conversions
-        description: Track and analyze conversions to assess ad effectiveness and
-          optimize strategies.
-      - title: Retargeting
-        description: Engage users who have previously interacted with your brand through
-          retargeting campaigns.
-    - title: Why analyze AdRoll?
+      - title: Lead Engagement
+        description: Assess lead interaction and engagement with marketing materials.
+      - title: Email Performance
+        description: Analyze email campaign success rates, open rates, and click-through
+          rates.
+      - title: Conversion Rates
+        description: Measure the percentage of leads that convert into customers.
+      - title: Segmentation Effectiveness
+        description: Evaluate the efficiency of audience segmentation strategies.
+      - title: Automation Workflow Analysis
+        description: Assess the effectiveness of marketing automation workflows.
+      - title: Landing Page Performance
+        description: Analyze landing page effectiveness and conversion rates.
+      - title: Social Media Engagement
+        description: Evaluate audience engagement and interactions on social media
+          platforms.
+      - title: Lead Scoring
+        description: Assess the accuracy and impact of lead scoring models.
+      - title: A/B Testing Insights
+        description: Gather insights from A/B testing experiments on campaigns.
+      - title: Customer Journey Analysis
+        description: Track and optimize the customer journey across marketing touchpoints.
+    - title: Why analyze AgilityAds?
       bullets:
-      - title: Advanced Targeting
-        description: Reach your ideal audience with advanced targeting capabilities.
-      - title: Cross-Device Advertising
-        description: Deliver consistent ad experiences across multiple devices for
-          better reach and engagement.
-      - title: Dynamic Ad Personalization
-        description: Deliver personalized ads based on user behavior and preferences.
-      - title: Campaign Optimization
-        description: Continuously optimize campaigns based on real-time data insights.
-      - title: Data-driven Decisions
-        description: Make informed decisions backed by data-driven insights for improved
-          campaign performance.
+      - title: Enhance Campaign Strategies
+        description: Refine marketing campaigns based on data-driven insights.
+      - title: Lead Analysis
+        description: Gain deeper understanding of lead behavior and preferences.
+      - title: Improve Conversion Rates
+        description: Optimize strategies to increase lead-to-customer conversion rates.
+      - title: Effective Segmentation
+        description: Craft more targeted and personalized marketing campaigns.
+      - title: Workflow Optimization
+        description: Enhance marketing automation workflows for improved results.
+      - title: Landing Page Optimization
+        description: Optimize landing pages for better conversion rates.
+      - title: Social Media Strategy
+        description: Fine-tune social media marketing strategies for higher engagement.
+      - title: Refined Lead Scoring
+        description: Improve lead scoring models for more accurate lead prioritization.
+      - title: Effective A/B Testing
+        description: Enhance A/B testing strategies based on data insights.
+      - title: Customer Journey Enhancement
+        description: Optimize the customer journey for improved customer experiences.
     - title: What is Growth Nirvana?
       answer: Growth Nirvana is a no code analytics platform. Stop waiting for other
         departments to get you the data you need to make critical business decisions.

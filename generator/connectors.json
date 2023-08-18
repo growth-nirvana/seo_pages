@@ -20176,106 +20176,106 @@
     },
     "name": "Webhooks"
   },
-  "Amazon Ads": {
-    "overview": {
-      "description": "Leverage Amazon Ads integration to optimize your advertising campaigns. Seamlessly integrate ad data for enhanced insights, informed decisions, and improved campaign performance."
-    },
-    "body": {
-      "description": "Supercharge your advertising strategies with Amazon Ads integration, unlocking real-time data updates and actionable insights."
-    },
-    "schema_name": "amazon_selling_partner",
-    "bullets_for_metrics": {
-      "title": "What are the most popular metrics in Amazon Ads to analyze?",
-      "bullets": [
-        {
-          "title": "Campaign Performance",
-          "description": "Assess the effectiveness and ROI of your Amazon Ads campaigns."
-        },
-        {
-          "title": "Keyword Optimization",
-          "description": "Optimize keywords for better ad visibility and targeting."
-        },
-        {
-          "title": "Product Placement",
-          "description": "Monitor and enhance the placement of your products on Amazon."
-        },
-        {
-          "title": "Conversion Rates",
-          "description": "Measure the percentage of ad clicks that lead to conversions."
-        },
-        {
-          "title": "Competitor Analysis",
-          "description": "Analyze and outperform competitors through data-driven insights."
-        },
-        {
-          "title": "Ad Placement Strategy",
-          "description": "Strategically place ads for maximum engagement and reach."
-        },
-        {
-          "title": "Audience Engagement",
-          "description": "Understand and engage your target audience through ad interactions."
-        },
-        {
-          "title": "Creative Performance",
-          "description": "Evaluate and optimize ad creatives based on user engagement."
-        },
-        {
-          "title": "Geographic Reach",
-          "description": "Assess the regions where your ads perform the best."
-        },
-        {
-          "title": "A/B Testing",
-          "description": "Refine campaigns through A/B testing and data insights."
-        }
-      ]
-    },
-    "bullets_for_reasons": {
-      "title": "Why analyze Amazon Ads?",
-      "bullets": [
-        {
-          "title": "Real-time Insights",
-          "description": "Access and analyze up-to-the-minute ad data for timely actions."
-        },
-        {
-          "title": "Competitive Advantage",
-          "description": "Stay ahead by making informed decisions based on data-driven insights."
-        },
-        {
-          "title": "Optimized Campaigns",
-          "description": "Enhance campaign strategies through continuous data updates."
-        },
-        {
-          "title": "Responsive Performance",
-          "description": "Optimize performance based on real-time engagement metrics."
-        },
-        {
-          "title": "Strategic Positioning",
-          "description": "Position your products effectively for increased visibility and sales."
-        },
-        {
-          "title": "Proactive Issue Resolution",
-          "description": "Identify and address issues in real time to mitigate risks."
-        },
-        {
-          "title": "Tailored Marketing",
-          "description": "Tailor marketing efforts with data insights for personalized targeting."
-        },
-        {
-          "title": "Informed Decision-making",
-          "description": "Make critical decisions backed by the latest ad performance data."
-        },
-        {
-          "title": "Continuous Optimization",
-          "description": "Optimize campaigns continuously with dynamic data updates."
-        },
-        {
-          "title": "Holistic Campaign View",
-          "description": "Gain a comprehensive view of your ad landscape through real-time integration."
-        }
-      ]
-    },
-    "name": "Amazon Ads"
+"Amazon Selling Partner": {
+  "overview": {
+    "description": "Amplify Your Amazon Selling Power with Data-Driven Insights. Seamlessly integrate your Amazon Selling Partner data for enhanced visibility, strategic decisions, and boosted selling performance."
   },
+  "body": {
+    "description": "Unleash the Potential of Your Amazon Selling Business.\nEmpower your selling strategy with Amazon Selling Partner integration, providing real-time data insights and actionable information."
+  },
+  "schema_name": "amazon_selling_partner",
+  "bullets_for_metrics": {
+    "title": "What are the Most Popular Metrics in Amazon Selling Partner to Analyze?",
+    "bullets": [
+      {
+        "title": "Sales Performance",
+        "description": "Monitor and optimize your sales performance on the Amazon marketplace to drive revenue growth."
+      },
+      {
+        "title": "Product Visibility",
+        "description": "Enhance your products' visibility and discoverability to attract and engage more customers."
+      },
+      {
+        "title": "Inventory Insights",
+        "description": "Gain valuable insights into inventory levels and trends for effective stock management."
+      },
+      {
+        "title": "Order Fulfillment Efficiency",
+        "description": "Evaluate and streamline order fulfillment processes to ensure timely and accurate deliveries."
+      },
+      {
+        "title": "Customer Engagement",
+        "description": "Understand customer behavior and engagement patterns to tailor your selling approach."
+      },
+      {
+        "title": "Competitive Analysis",
+        "description": "Analyze market trends and competitor performance to stay ahead in the Amazon ecosystem."
+      },
+      {
+        "title": "Advertising Impact",
+        "description": "Assess the effectiveness of your advertising campaigns and optimize ad spend."
+      },
+      {
+        "title": "Profit Margins",
+        "description": "Analyze profit margins to make informed pricing decisions and maximize profitability."
+      },
+      {
+        "title": "Return Management",
+        "description": "Efficiently manage returns to minimize their impact on operations and customer satisfaction."
+      },
+      {
+        "title": "Market Expansion Opportunities",
+        "description": "Identify new market segments and expansion possibilities for sustainable growth."
+      }
+    ]
+  },
+  "bullets_for_reasons": {
+    "title": "Why Analyze Amazon Selling Partner?",
+    "bullets": [
+      {
+        "title": "Data-Driven Success",
+        "description": "Achieve success by leveraging data insights to guide your Amazon selling strategy."
+      },
+      {
+        "title": "Informed Decision-Making",
+        "description": "Make well-informed decisions backed by real-time data from the Amazon marketplace."
+      },
+      {
+        "title": "Optimized Selling Strategy",
+        "description": "Refine your selling approach based on actionable insights for increased effectiveness."
+      },
+      {
+        "title": "Customer-Centric Approach",
+        "description": "Tailor your offerings to customer preferences and behavior for enhanced engagement."
+      },
+      {
+        "title": "Competitive Edge",
+        "description": "Gain a competitive advantage by staying ahead of market trends and competition."
+      },
+      {
+        "title": "Efficient Inventory Management",
+        "description": "Ensure efficient inventory levels and prevent stockouts through data-driven insights."
+      },
+      {
+        "title": "Enhanced Advertising ROI",
+        "description": "Maximize the return on investment of your advertising efforts with data-backed strategies."
+      },
+      {
+        "title": "Revenue Maximization",
+        "description": "Optimize pricing and profit margins to achieve maximum revenue potential."
+      },
+      {
+        "title": "Streamlined Operations",
+        "description": "Efficiently manage operations, from orders to fulfillment, for a seamless process."
+      },
+      {
+        "title": "Future-Proof Selling",
+        "description": "Prepare your Amazon selling business for future growth and changing market dynamics."
+      }
+    ]
+  },
+  "name": "Amazon Selling Partner"
+},
   "Azure Boards": {
     "overview": {
       "description": "Leverage Azure Boards integration to streamline your project management. Seamlessly track and manage tasks, issues, and progress for improved collaboration and project success."
@@ -20960,106 +20960,106 @@
     },
     "name": "Clari"
   },
-  "contrast_security": {
-    "overview": {
-      "description": "Leverage Confluent Cloud integration to optimize your marketing campaigns. Seamlessly integrate marketing data for enhanced insights, informed decisions, and improved campaign performance."
-    },
-    "body": {
-      "description": "Supercharge your marketing strategies with Confluent Cloud integration, unlocking real-time data updates and actionable insights."
-    },
-    "schema_name": "contrast_security",
-    "bullets_for_metrics": {
-      "title": "What are the most popular metrics in Confluent Cloud to analyze?",
-      "bullets": [
-        {
-          "title": "Campaign Performance",
-          "description": "Assess the effectiveness and ROI of your marketing campaigns."
-        },
-        {
-          "title": "Audience Segmentation",
-          "description": "Segment your audience for targeted marketing and better campaign performance."
-        },
-        {
-          "title": "Conversion Rates",
-          "description": "Measure the percentage of website visitors that convert into customers."
-        },
-        {
-          "title": "Funnel Analysis",
-          "description": "Analyze the user journey through the marketing funnel for optimization."
-        },
-        {
-          "title": "Channel Attribution",
-          "description": "Identify the most effective marketing channels for driving conversions."
-        },
-        {
-          "title": "Lifetime Value",
-          "description": "Calculate the lifetime value of your customers to inform marketing strategies."
-        },
-        {
-          "title": "Campaign ROI",
-          "description": "Calculate the return on investment for your marketing campaigns."
-        },
-        {
-          "title": "Engagement Metrics",
-          "description": "Track engagement metrics such as clicks, views, and time on page."
-        },
-        {
-          "title": "Acquisition Cost",
-          "description": "Determine the cost of acquiring new customers through marketing efforts."
-        },
-        {
-          "title": "Customer Churn",
-          "description": "Monitor customer churn rate to identify retention opportunities."
-        }
-      ]
-    },
-    "bullets_for_reasons": {
-      "title": "Why analyze Confluent Cloud?",
-      "bullets": [
-        {
-          "title": "Real-time Insights",
-          "description": "Access and analyze up-to-the-minute marketing data for timely actions."
-        },
-        {
-          "title": "Competitive Advantage",
-          "description": "Stay ahead by making informed decisions based on data-driven insights."
-        },
-        {
-          "title": "Optimized Campaigns",
-          "description": "Enhance campaign strategies through continuous data updates."
-        },
-        {
-          "title": "Responsive Performance",
-          "description": "Optimize performance based on real-time engagement metrics."
-        },
-        {
-          "title": "Strategic Positioning",
-          "description": "Position your products effectively for increased visibility and sales."
-        },
-        {
-          "title": "Proactive Issue Resolution",
-          "description": "Identify and address issues in real time to mitigate risks."
-        },
-        {
-          "title": "Tailored Marketing",
-          "description": "Tailor marketing efforts with data insights for personalized targeting."
-        },
-        {
-          "title": "Informed Decision-making",
-          "description": "Make critical decisions backed by the latest marketing performance data."
-        },
-        {
-          "title": "Continuous Optimization",
-          "description": "Optimize campaigns continuously with dynamic data updates."
-        },
-        {
-          "title": "Comprehensive Campaign View",
-          "description": "Gain a holistic view of your marketing campaigns through real-time integration."
-        }
-      ]
-    },
-    "name": "Confluent Cloud"
+"ContrastSecurity": {
+  "overview": {
+    "description": "Elevate Your Application Security with Contrast Security Integration. Seamlessly integrate Contrast Security data to enhance your security posture, identify vulnerabilities, and protect your applications."
   },
+  "body": {
+    "description": "Fortify Your Applications with Contrast Security Integration.\nEmpower your development and security teams with real-time insights and actionable data to ensure secure and robust software."
+  },
+  "schema_name": "contrast_security",
+  "bullets_for_metrics": {
+    "title": "What are the Most Popular Metrics in Contrast Security to Analyze?",
+    "bullets": [
+      {
+        "title": "Vulnerability Density",
+        "description": "Measure and track the density of vulnerabilities in your applications to prioritize remediation efforts."
+      },
+      {
+        "title": "Application Risk Score",
+        "description": "Assess the overall risk of your applications based on the severity and types of vulnerabilities detected."
+      },
+      {
+        "title": "Attack Surface",
+        "description": "Analyze the attack surface of your applications to identify potential points of vulnerability."
+      },
+      {
+        "title": "Remediation Velocity",
+        "description": "Monitor the speed at which vulnerabilities are addressed and resolved in your software."
+      },
+      {
+        "title": "Threat Trends",
+        "description": "Identify trends in emerging threats and attack vectors to proactively enhance your security measures."
+      },
+      {
+        "title": "Security Debt",
+        "description": "Evaluate and manage security debt to reduce accumulated vulnerabilities over time."
+      },
+      {
+        "title": "Attack Impact",
+        "description": "Assess the potential impact of detected vulnerabilities in terms of possible exploit scenarios."
+      },
+      {
+        "title": "Code Quality",
+        "description": "Analyze the quality of your application's code to identify areas for improvement and security enhancement."
+      },
+      {
+        "title": "Security Coverage",
+        "description": "Ensure comprehensive security coverage across your application landscape to minimize blind spots."
+      },
+      {
+        "title": "Compliance Status",
+        "description": "Track and validate compliance with relevant security standards and regulations."
+      }
+    ]
+  },
+  "bullets_for_reasons": {
+    "title": "Why Analyze Contrast Security?",
+    "bullets": [
+      {
+        "title": "Real-Time Security Insights",
+        "description": "Access up-to-the-minute insights into your application security to stay ahead of potential threats."
+      },
+      {
+        "title": "Proactive Vulnerability Management",
+        "description": "Proactively identify, assess, and remediate vulnerabilities to prevent security breaches."
+      },
+      {
+        "title": "Secure DevOps",
+        "description": "Promote a culture of secure development practices by integrating security seamlessly into your DevOps processes."
+      },
+      {
+        "title": "Continuous Security Improvement",
+        "description": "Enable continuous improvement of your application security posture based on data-driven insights."
+      },
+      {
+        "title": "Effective Remediation",
+        "description": "Prioritize and address vulnerabilities efficiently to minimize business risk and potential impact."
+      },
+      {
+        "title": "Reduced Attack Surface",
+        "description": "Minimize your application's attack surface by promptly addressing and mitigating vulnerabilities."
+      },
+      {
+        "title": "Enhanced Developer Collaboration",
+        "description": "Facilitate collaboration between development and security teams for more effective security measures."
+      },
+      {
+        "title": "Compliance Assurance",
+        "description": "Demonstrate compliance with security standards and regulations through comprehensive security practices."
+      },
+      {
+        "title": "Customer Trust",
+        "description": "Build and maintain trust with your customers by ensuring the security and integrity of your applications."
+      },
+      {
+        "title": "Future-Proof Security",
+        "description": "Equip your organization to adapt to evolving security threats and challenges with data-backed strategies."
+      }
+    ]
+  },
+  "name": "Contrast Security"
+},
   "Duoplane": {
     "overview": {
       "description": "Leverage Duoplane integration to streamline and optimize your ecommerce operations. Seamlessly connect your sales channels, automate workflows, and gain valuable insights for improved efficiency and customer satisfaction."
@@ -22468,106 +22468,206 @@
     },
     "name": "Helpshift"
   },
-  "Jira Align": {
-    "overview": {
-      "description": "Leverage Jira Align integration to optimize your marketing campaigns. Seamlessly integrate data for enhanced insights, informed decisions, and improved campaign performance."
-    },
-    "body": {
-      "description": "Supercharge your marketing strategies with Jira Align integration, unlocking real-time data updates and actionable insights."
-    },
-    "schema_name": "ironsource",
-    "bullets_for_metrics": {
-      "title": "What are the most popular metrics in Jira Align to analyze?",
-      "bullets": [
-        {
-          "title": "Campaign Performance",
-          "description": "Assess the effectiveness and ROI of your marketing campaigns."
-        },
-        {
-          "title": "Keyword Optimization",
-          "description": "Optimize keywords for better ad visibility and targeting."
-        },
-        {
-          "title": "Creative Performance",
-          "description": "Evaluate and optimize ad creatives based on user engagement."
-        },
-        {
-          "title": "Audience Engagement",
-          "description": "Understand and engage your target audience through ad interactions."
-        },
-        {
-          "title": "Conversion Rates",
-          "description": "Measure the percentage of ad clicks that lead to conversions."
-        },
-        {
-          "title": "Competitor Analysis",
-          "description": "Analyze and outperform competitors through data-driven insights."
-        },
-        {
-          "title": "Ad Placement Strategy",
-          "description": "Strategically place ads for maximum engagement and reach."
-        },
-        {
-          "title": "Geographic Reach",
-          "description": "Assess the regions where your ads perform the best."
-        },
-        {
-          "title": "A/B Testing",
-          "description": "Refine campaigns through A/B testing and data insights."
-        },
-        {
-          "title": "Customer Acquisition Cost",
-          "description": "Analyze the cost of acquiring new customers through ad campaigns."
-        }
-      ]
-    },
-    "bullets_for_reasons": {
-      "title": "Why analyze Jira Align?",
-      "bullets": [
-        {
-          "title": "Real-time Insights",
-          "description": "Access and analyze up-to-the-minute marketing data for timely actions."
-        },
-        {
-          "title": "Competitive Advantage",
-          "description": "Stay ahead by making informed decisions based on data-driven insights."
-        },
-        {
-          "title": "Optimized Campaigns",
-          "description": "Enhance campaign strategies through continuous data updates."
-        },
-        {
-          "title": "Responsive Performance",
-          "description": "Optimize performance based on real-time engagement metrics."
-        },
-        {
-          "title": "Strategic Positioning",
-          "description": "Position your products effectively for increased visibility and sales."
-        },
-        {
-          "title": "Proactive Issue Resolution",
-          "description": "Identify and address issues in real time to mitigate risks."
-        },
-        {
-          "title": "Tailored Marketing",
-          "description": "Tailor marketing efforts with data insights for personalized targeting."
-        },
-        {
-          "title": "Informed Decision-making",
-          "description": "Make critical decisions backed by the latest marketing performance data."
-        },
-        {
-          "title": "Continuous Optimization",
-          "description": "Optimize campaigns continuously with dynamic data updates."
-        },
-        {
-          "title": "Holistic Campaign View",
-          "description": "Gain a comprehensive view of your marketing landscape through real-time integration."
-        }
-      ]
-    },
-    "name": "Jira Align"
+"ironSource": {
+  "overview": {
+    "description": "Enhance Your Monetization Strategy with ironSource Integration. Seamlessly integrate ironSource data to optimize ad performance, increase revenue, and drive user engagement."
   },
+  "body": {
+    "description": "Maximize Your App Monetization with ironSource Integration. Empower your app's revenue generation and user engagement by leveraging real-time insights and data-driven decisions."
+  },
+  "schema_name": "iron_source",
+  "bullets_for_metrics": {
+    "title": "What are the Most Popular Metrics in ironSource to Analyze?",
+    "bullets": [
+      {
+        "title": "Ad Revenue",
+        "description": "Track and analyze revenue generated from in-app advertisements."
+      },
+      {
+        "title": "eCPM",
+        "description": "Monitor effective cost per mille (eCPM) to optimize ad monetization strategies."
+      },
+      {
+        "title": "Impressions",
+        "description": "Analyze the number of ad impressions to gauge user engagement."
+      },
+      {
+        "title": "Fill Rate",
+        "description": "Measure the percentage of ad requests that are successfully filled with ads."
+      },
+      {
+        "title": "Click-Through Rate (CTR)",
+        "description": "Assess the percentage of ad clicks compared to impressions for ad performance."
+      },
+      {
+        "title": "User Retention",
+        "description": "Track user retention rates to understand the effectiveness of ad-driven engagement strategies."
+      },
+      {
+        "title": "Ad Placement Performance",
+        "description": "Evaluate the performance of different ad placements within your app."
+      },
+      {
+        "title": "Revenue by Ad Type",
+        "description": "Break down revenue by different types of in-app advertisements."
+      },
+      {
+        "title": "User Segmentation",
+        "description": "Analyze ad performance and revenue across different user segments."
+      },
+      {
+        "title": "Ad Engagement",
+        "description": "Measure user interaction and engagement with in-app advertisements."
+      }
+    ]
+  },
+  "bullets_for_reasons": {
+    "title": "Why Analyze ironSource?",
+    "bullets": [
+      {
+        "title": "Optimized Monetization",
+        "description": "Maximize app revenue by fine-tuning ad strategies based on data-driven insights."
+      },
+      {
+        "title": "Enhanced User Engagement",
+        "description": "Drive user interaction and engagement through effective in-app ad placements."
+      },
+      {
+        "title": "Improved Ad Performance",
+        "description": "Optimize ad revenue and performance by analyzing key metrics and making informed adjustments."
+      },
+      {
+        "title": "Data-Driven Decision Making",
+        "description": "Make strategic decisions backed by real-time data and performance analytics."
+      },
+      {
+        "title": "Monetization Strategy Refinement",
+        "description": "Refine your app's monetization strategy based on continuous insights and ad performance trends."
+      },
+      {
+        "title": "Enhanced User Experience",
+        "description": "Deliver relevant and engaging ads to users, enhancing their overall app experience."
+      },
+      {
+        "title": "Competitive Advantage",
+        "description": "Stay ahead of the competition by leveraging data-driven ad monetization strategies."
+      },
+      {
+        "title": "Monetization Insights",
+        "description": "Gain deep insights into ad revenue patterns and user behavior for informed monetization."
+      },
+      {
+        "title": "Ad Placement Optimization",
+        "description": "Optimize the placement and delivery of in-app ads for maximum impact."
+      },
+      {
+        "title": "Continuous Performance Improvement",
+        "description": "Drive ongoing improvement of ad performance through iterative data analysis and adjustments."
+      }
+    ]
+  },
+  "name": "ironSource"
+},
+"Jira Align": {
+  "overview": {
+    "description": "Elevate Your Agile Project Management with Jira Align Integration. Seamlessly connect Jira Align with your project management tools to streamline workflows, enhance collaboration, and optimize project delivery."
+  },
+  "body": {
+    "description": "Enhance Your Project Management with Jira Align Integration. Unlock the power of agile methodologies and collaborative project management by seamlessly integrating Jira Align with your existing tools."
+  },
+  "schema_name": "atlassian_jira_align",
+  "bullets_for_metrics": {
+    "title": "What are the Most Popular Metrics in Jira Align to Analyze?",
+    "bullets": [
+      {
+        "title": "Cycle Time",
+        "description": "Analyze the time it takes for work items to move from start to completion."
+      },
+      {
+        "title": "Lead Time",
+        "description": "Measure the time from when a work item is requested to when it's delivered."
+      },
+      {
+        "title": "Velocity",
+        "description": "Track the rate at which work is completed during a sprint or iteration."
+      },
+      {
+        "title": "Release Burndown",
+        "description": "Visualize the progress of work items towards a release or milestone completion."
+      },
+      {
+        "title": "Sprint Burndown",
+        "description": "Monitor the progress of work items within a sprint or iteration."
+      },
+      {
+        "title": "Epic and Feature Progress",
+        "description": "Track the advancement of epics and features through various stages of development."
+      },
+      {
+        "title": "Backlog Health",
+        "description": "Assess the overall health and readiness of your backlog for upcoming work."
+      },
+      {
+        "title": "Team Efficiency",
+        "description": "Analyze team capacity, utilization, and efficiency for optimized resource allocation."
+      },
+      {
+        "title": "Defect Rate",
+        "description": "Measure the number of defects identified and resolved during development."
+      },
+      {
+        "title": "Flow Efficiency",
+        "description": "Evaluate the efficiency of work item flow through different stages of development."
+      }
+    ]
+  },
+  "bullets_for_reasons": {
+    "title": "Why Analyze Jira Align?",
+    "bullets": [
+      {
+        "title": "Optimized Project Delivery",
+        "description": "Enhance project delivery by gaining insights into cycle time, lead time, and velocity for continuous improvement."
+      },
+      {
+        "title": "Data-Driven Decision Making",
+        "description": "Make informed decisions based on real-time metrics and performance analytics."
+      },
+      {
+        "title": "Improved Team Collaboration",
+        "description": "Promote collaboration and alignment across teams for synchronized project execution."
+      },
+      {
+        "title": "Efficient Resource Allocation",
+        "description": "Allocate resources effectively by analyzing team efficiency and backlog health."
+      },
+      {
+        "title": "Agile Process Enhancement",
+        "description": "Refine agile practices and methodologies using actionable insights from Jira Align data."
+      },
+      {
+        "title": "Transparent Progress Tracking",
+        "description": "Keep stakeholders informed with clear visualizations of sprint and release progress."
+      },
+      {
+        "title": "Strategic Planning",
+        "description": "Support strategic planning and decision-making by analyzing epic and feature progress."
+      },
+      {
+        "title": "Continuous Improvement",
+        "description": "Drive ongoing process improvement by identifying bottlenecks and areas for optimization."
+      },
+      {
+        "title": "Defect Prevention",
+        "description": "Identify and address defects early in the development process to improve overall product quality."
+      },
+      {
+        "title": "Holistic View",
+        "description": "Gain a comprehensive view of project health, efficiency, and progress for effective management."
+      }
+    ]
+  },
+  "name": "Jira Align"
+},
   "assembled": {
     "overview": {
       "description": "Elevate your customer service operations with seamless integration of Assembled. Overcome operational challenges and inefficiencies, enabling your teams to provide exceptional support and bridge the gap between vision and execution."
@@ -24215,106 +24315,106 @@
       ]
     }
   },
-  "Vonage": {
-    "overview": {
-      "description": "Leverage Vonage integration to optimize your marketing campaigns. Seamlessly integrate data for enhanced insights, informed decisions, and improved campaign performance."
-    },
-    "body": {
-      "description": "Supercharge your marketing strategies with Vonage integration, unlocking real-time data updates and actionable insights."
-    },
-    "schema_name": "web_scraper",
-    "bullets_for_metrics": {
-      "title": "What are the most popular metrics in Vonage to analyze?",
-      "bullets": [
-        {
-          "title": "Campaign Performance",
-          "description": "Assess the effectiveness and ROI of your marketing campaigns."
-        },
-        {
-          "title": "Audience Engagement",
-          "description": "Understand and engage your target audience through data-driven insights."
-        },
-        {
-          "title": "Conversion Rates",
-          "description": "Measure the percentage of actions taken by the audience."
-        },
-        {
-          "title": "Customer Satisfaction",
-          "description": "Track and analyze customer satisfaction metrics for improved marketing strategies."
-        },
-        {
-          "title": "Brand Visibility",
-          "description": "Enhance brand visibility and awareness through strategic marketing initiatives."
-        },
-        {
-          "title": "Lead Generation",
-          "description": "Generate high-quality leads through targeted marketing campaigns."
-        },
-        {
-          "title": "Campaign Optimization",
-          "description": "Continuously optimize marketing campaigns based on data-driven insights."
-        },
-        {
-          "title": "Social Media Engagement",
-          "description": "Monitor and analyze engagement metrics on social media platforms."
-        },
-        {
-          "title": "Return on Investment",
-          "description": "Evaluate the effectiveness of your marketing efforts in terms of ROI."
-        },
-        {
-          "title": "Competitor Analysis",
-          "description": "Stay ahead of the competition by analyzing and outperforming competitors."
-        }
-      ]
-    },
-    "bullets_for_reasons": {
-      "title": "Why analyze Vonage?",
-      "bullets": [
-        {
-          "title": "Real-time Insights",
-          "description": "Access and analyze up-to-the-minute data for timely actions."
-        },
-        {
-          "title": "Competitive Advantage",
-          "description": "Stay ahead by making informed decisions based on data-driven insights."
-        },
-        {
-          "title": "Optimized Campaigns",
-          "description": "Enhance marketing campaign strategies through continuous data updates."
-        },
-        {
-          "title": "Responsive Performance",
-          "description": "Optimize performance based on real-time engagement metrics."
-        },
-        {
-          "title": "Strategic Positioning",
-          "description": "Position your brand effectively for increased visibility and sales."
-        },
-        {
-          "title": "Proactive Issue Resolution",
-          "description": "Identify and address issues in real-time to mitigate risks."
-        },
-        {
-          "title": "Tailored Marketing",
-          "description": "Tailor marketing efforts with data insights for personalized targeting."
-        },
-        {
-          "title": "Informed Decision-making",
-          "description": "Make critical marketing decisions backed by the latest performance data."
-        },
-        {
-          "title": "Continuous Optimization",
-          "description": "Optimize marketing campaigns continuously with dynamic data updates."
-        },
-        {
-          "title": "Holistic Campaign View",
-          "description": "Gain a comprehensive view of your marketing campaigns through real-time integration."
-        }
-      ]
-    },
-    "name": "Vonage"
+"Vonage": {
+  "overview": {
+    "description": "Enhance Your Communication Capabilities with Vonage Integration. Seamlessly connect Vonage with your business systems to enable real-time communication, streamline customer interactions, and enhance user engagement."
   },
+  "body": {
+    "description": "Elevate Your Communication Strategy with Vonage Integration. Unlock the power of seamless communication and personalized interactions by integrating Vonage with your existing platforms."
+  },
+  "schema_name": "vonage",
+  "bullets_for_metrics": {
+    "title": "What are the Most Popular Metrics in Vonage to Analyze?",
+    "bullets": [
+      {
+        "title": "Call Volume",
+        "description": "Analyze the volume of incoming and outgoing calls to measure communication activity."
+      },
+      {
+        "title": "Call Duration",
+        "description": "Track the duration of calls to assess engagement levels and communication effectiveness."
+      },
+      {
+        "title": "Response Time",
+        "description": "Measure the time taken to respond to customer inquiries or communication requests."
+      },
+      {
+        "title": "Conversion Rate",
+        "description": "Evaluate the percentage of communication interactions that result in desired outcomes."
+      },
+      {
+        "title": "User Engagement",
+        "description": "Analyze user interactions with communication channels for insights into engagement patterns."
+      },
+      {
+        "title": "Call Quality",
+        "description": "Assess call quality and audio performance to ensure seamless communication experiences."
+      },
+      {
+        "title": "Customer Satisfaction",
+        "description": "Gather feedback and ratings to gauge customer satisfaction with communication interactions."
+      },
+      {
+        "title": "Channel Performance",
+        "description": "Track the performance of different communication channels and identify trends."
+      },
+      {
+        "title": "Geographic Reach",
+        "description": "Assess the geographical distribution of communication interactions for targeted strategies."
+      },
+      {
+        "title": "Usage Patterns",
+        "description": "Analyze usage patterns to optimize communication strategies and resource allocation."
+      }
+    ]
+  },
+  "bullets_for_reasons": {
+    "title": "Why Analyze Vonage?",
+    "bullets": [
+      {
+        "title": "Enhanced Customer Engagement",
+        "description": "Improve customer interactions and engagement through personalized and timely communication."
+      },
+      {
+        "title": "Data-Driven Decision Making",
+        "description": "Make informed decisions based on real-time communication metrics and insights."
+      },
+      {
+        "title": "Improved Response Times",
+        "description": "Optimize response times and communication effectiveness for better customer experiences."
+      },
+      {
+        "title": "Higher Conversion Rates",
+        "description": "Increase conversion rates by analyzing and optimizing communication strategies."
+      },
+      {
+        "title": "User-Centric Experiences",
+        "description": "Deliver user-centric experiences by understanding engagement patterns and preferences."
+      },
+      {
+        "title": "Quality Assurance",
+        "description": "Ensure high call quality and audio performance to maintain communication excellence."
+      },
+      {
+        "title": "Customer Feedback",
+        "description": "Collect and analyze feedback to enhance customer satisfaction and loyalty."
+      },
+      {
+        "title": "Multi-Channel Insights",
+        "description": "Gain insights into the performance of various communication channels for effective channel management."
+      },
+      {
+        "title": "Targeted Strategies",
+        "description": "Tailor communication strategies based on geographic reach and usage patterns."
+      },
+      {
+        "title": "Optimized Resource Allocation",
+        "description": "Allocate resources effectively based on communication patterns and demands."
+      }
+    ]
+  },
+  "name": "Vonage"
+},
   "WordPress": {
     "overview": {
       "description": "Leverage WordPress integration to optimize your website for marketing campaigns. Seamlessly integrate data for enhanced insights, informed decisions, and improved website performance."
@@ -24815,86 +24915,106 @@
     },
     "name": "Yotpo"
   },
-  "Unbounce": {
-    "overview": {
-      "description": "Leverage Unbounce integration to optimize your landing page performance. Seamlessly integrate landing page data for enhanced insights, informed decisions, and improved conversion rates."
-    },
-    "body": {
-      "description": "Supercharge your marketing strategies with Unbounce integration, unlocking real-time data updates and actionable insights to optimize your landing pages."
-    },
-    "schema_name": "zingtree",
-    "bullets_for_metrics": {
-      "title": "What are the most popular metrics in Unbounce to analyze?",
-      "bullets": [
-        {
-          "title": "Conversion Rate",
-          "description": "Measure the percentage of visitors who complete your desired actions on the landing page."
-        },
-        {
-          "title": "Bounce Rate",
-          "description": "Track the percentage of visitors who leave your landing page without taking any further actions."
-        },
-        {
-          "title": "Average Time on Page",
-          "description": "Monitor the average time visitors spend on your landing page to gauge engagement."
-        },
-        {
-          "title": "Form Conversion Rate",
-          "description": "Evaluate the percentage of visitors who fill out and submit a form on your landing page."
-        },
-        {
-          "title": "Click-Through Rate (CTR)",
-          "description": "Measure the percentage of visitors who click on a specific element or call-to-action on your landing page."
-        }
-      ]
-    },
-    "bullets_for_reasons": {
-      "title": "Why analyze Unbounce?",
-      "bullets": [
-        {
-          "title": "Conversion Optimization",
-          "description": "Optimize your landing pages to drive higher conversion rates and achieve your marketing goals."
-        },
-        {
-          "title": "Improved User Experience",
-          "description": "Enhance the user experience on your landing pages by testing and optimizing design elements."
-        },
-        {
-          "title": "A/B Testing",
-          "description": "Refine your landing page designs and messaging through split testing to maximize conversions."
-        },
-        {
-          "title": "Data-Driven Decision Making",
-          "description": "Make data-informed decisions to continually improve your landing page performance and marketing campaigns."
-        },
-        {
-          "title": "Lead Generation",
-          "description": "Capture more leads and build your customer base through highly optimized and engaging landing pages."
-        },
-        {
-          "title": "Mobile Optimization",
-          "description": "Ensure your landing pages are optimized for mobile devices to reach and engage mobile users."
-        },
-        {
-          "title": "Customization and Personalization",
-          "description": "Tailor the content and design of your landing pages to match the preferences and interests of your target audience."
-        },
-        {
-          "title": "Integration with Marketing Tools",
-          "description": "Seamlessly integrate Unbounce with other marketing tools to enhance your overall marketing stack and workflow."
-        },
-        {
-          "title": "Campaign Performance Tracking",
-          "description": "Track and measure the performance of your marketing campaigns to make data-driven optimizations and improvements."
-        },
-        {
-          "title": "ROI Tracking",
-          "description": "Monitor and measure the return on investment (ROI) of your marketing efforts through accurate tracking and reporting."
-        }
-      ]
-    },
-    "name": "Unbounce"
+"Zingtree": {
+  "overview": {
+    "description": "Elevate Decision-Making with Zingtree Integration. Seamlessly integrate interactive decision trees to enhance customer support, streamline processes, and drive data-driven actions."
   },
+  "body": {
+    "description": "Enhance Decision-Making with Zingtree Integration. Empower your organization with interactive decision trees to optimize workflows, improve user guidance, and achieve efficient outcomes."
+  },
+  "schema_name": "zingtree",
+  "bullets_for_metrics": {
+    "title": "What are the Most Popular Metrics in Zingtree to Analyze?",
+    "bullets": [
+      {
+        "title": "User Interaction",
+        "description": "Analyze user engagement and interactions within the decision tree."
+      },
+      {
+        "title": "Path Analysis",
+        "description": "Evaluate the most common paths taken by users through the decision tree."
+      },
+      {
+        "title": "Completion Rates",
+        "description": "Measure the percentage of users who complete the decision tree process."
+      },
+      {
+        "title": "Drop-Off Points",
+        "description": "Identify specific steps where users tend to exit the decision tree."
+      },
+      {
+        "title": "Time-to-Completion",
+        "description": "Assess the average time users take to navigate and complete the decision tree."
+      },
+      {
+        "title": "User Segmentation",
+        "description": "Segment users based on their interactions to tailor experiences."
+      },
+      {
+        "title": "Content Engagement",
+        "description": "Analyze user engagement with different decision tree content elements."
+      },
+      {
+        "title": "Conversion Rates",
+        "description": "Measure the percentage of users who convert to desired outcomes."
+      },
+      {
+        "title": "Feedback Collection",
+        "description": "Collect user feedback to improve decision tree effectiveness."
+      },
+      {
+        "title": "Error Tracking",
+        "description": "Identify errors or issues encountered by users during the decision tree process."
+      }
+    ]
+  },
+  "bullets_for_reasons": {
+    "title": "Why Analyze Zingtree Data?",
+    "bullets": [
+      {
+        "title": "Enhanced User Experience",
+        "description": "Provide a seamless and guided user experience through interactive decision trees."
+      },
+      {
+        "title": "Process Optimization",
+        "description": "Streamline workflows and processes by directing users through efficient paths."
+      },
+      {
+        "title": "Improved Support",
+        "description": "Enhance customer support by providing accurate and relevant information."
+      },
+      {
+        "title": "Data-Driven Insights",
+        "description": "Gain actionable insights into user behavior and decision-making processes."
+      },
+      {
+        "title": "Higher Conversions",
+        "description": "Increase conversion rates by guiding users towards desired outcomes."
+      },
+      {
+        "title": "User Empowerment",
+        "description": "Empower users to make informed decisions with interactive guidance."
+      },
+      {
+        "title": "Error Mitigation",
+        "description": "Identify and address errors in decision trees to improve user satisfaction."
+      },
+      {
+        "title": "Personalized Experiences",
+        "description": "Tailor experiences based on user interactions and preferences."
+      },
+      {
+        "title": "Continuous Optimization",
+        "description": "Optimize decision trees based on data-driven insights for ongoing improvements."
+      },
+      {
+        "title": "Efficient Decision-Making",
+        "description": "Facilitate quicker and more informed decision-making processes."
+      }
+    ]
+  },
+  "name": "Zingtree"
+},
   "Apache Kafka": {
     "overview": {
       "description": "Leverage Apache Kafka integration to optimize your data streaming. Seamlessly integrate data for enhanced insights, informed decisions, and improved performance."
@@ -24902,7 +25022,7 @@
     "body": {
       "description": "Supercharge your data strategies with Apache Kafka integration, unlocking real-time data updates and actionable insights."
     },
-    "schema_name": "apollo",
+    "schema_name": "apache_kafka",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Apache Kafka to analyze?",
       "bullets": [
@@ -25002,7 +25122,7 @@
     "body": {
       "description": "Supercharge your advertising strategies with AdRoll integration, unlocking real-time data updates and actionable insights."
     },
-    "schema_name": "agility_ads",
+    "schema_name": "adroll",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in AdRoll to analyze?",
       "bullets": [
@@ -25062,7 +25182,7 @@
     "body": {
       "description": "Supercharge your advertising strategies with Fountain integration, unlocking real-time data updates and actionable insights."
     },
-    "schema_name": "franconnect",
+    "schema_name": "fountain",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Fountain to analyze?",
       "bullets": [
@@ -25162,7 +25282,7 @@
     "body": {
       "description": "Supercharge your customer support strategies with Gorgias integration, unlocking real-time support updates and actionable insights."
     },
-    "schema_name": "gravity_forms",
+    "schema_name": "gorgias",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Gorgias to analyze?",
       "bullets": [
@@ -25362,7 +25482,7 @@
     "body": {
       "description": "Supercharge your marketing strategies with Survicate integration, unlocking real-time survey responses and actionable insights."
     },
-    "schema_name": "synuma",
+    "schema_name": "survicate",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Survicate to analyze?",
       "bullets": [
@@ -25462,7 +25582,7 @@
     "body": {
       "description": "Supercharge your marketing strategies with Typeform integration, unlocking real-time data updates and actionable insights."
     },
-    "schema_name": "unbounce",
+    "schema_name": "typeform",
     "bullets_for_metrics": {
       "title": "What are the most popular metrics in Typeform to analyze?",
       "bullets": [
@@ -25554,5 +25674,105 @@
       ]
     },
     "name": "Typeform"
-  }
+  },
+"Web Scraper": {
+  "overview": {
+    "description": "Unleash the Power of Web Scraper Integration. Seamlessly gather and extract data from websites for analysis, insights, and informed decision-making."
+  },
+  "body": {
+    "description": "Harness the Potential of Web Scraper Integration. Empower your data collection and analysis efforts by seamlessly integrating web scraping capabilities into your workflow."
+  },
+  "schema_name": "web_scraper",
+  "bullets_for_metrics": {
+    "title": "What are the Most Popular Metrics in Web Scraper to Analyze?",
+    "bullets": [
+      {
+        "title": "Data Volume",
+        "description": "Analyze the volume of data collected through web scraping for insights into information availability."
+      },
+      {
+        "title": "Website Changes",
+        "description": "Monitor and track changes on target websites to stay updated with relevant content."
+      },
+      {
+        "title": "Extraction Accuracy",
+        "description": "Evaluate the accuracy and quality of data extracted from websites."
+      },
+      {
+        "title": "Scraping Speed",
+        "description": "Assess the speed and efficiency of web scraping processes for optimal data retrieval."
+      },
+      {
+        "title": "Content Trends",
+        "description": "Analyze content trends and patterns across multiple websites for market intelligence."
+      },
+      {
+        "title": "Data Enrichment",
+        "description": "Enrich collected data with additional information for comprehensive insights."
+      },
+      {
+        "title": "Error Analysis",
+        "description": "Identify and analyze errors encountered during the web scraping process."
+      },
+      {
+        "title": "Website Performance",
+        "description": "Assess website performance and response times to optimize scraping strategies."
+      },
+      {
+        "title": "Data Granularity",
+        "description": "Evaluate the level of detail and granularity of scraped data."
+      },
+      {
+        "title": "Data Source Diversity",
+        "description": "Analyze data collected from various sources to support diverse insights."
+      }
+    ]
+  },
+  "bullets_for_reasons": {
+    "title": "Why Analyze Web Scraper Data?",
+    "bullets": [
+      {
+        "title": "Actionable Insights",
+        "description": "Extract valuable insights from website data for informed decision-making."
+      },
+      {
+        "title": "Competitive Advantage",
+        "description": "Gain a competitive edge by staying updated with real-time website changes and trends."
+      },
+      {
+        "title": "Enhanced Data Accuracy",
+        "description": "Improve data accuracy and quality through web scraping and extraction processes."
+      },
+      {
+        "title": "Time and Effort Savings",
+        "description": "Save time and effort by automating data collection from multiple websites."
+      },
+      {
+        "title": "Market Intelligence",
+        "description": "Obtain market intelligence through content trend analysis and data enrichment."
+      },
+      {
+        "title": "Error Mitigation",
+        "description": "Identify and address errors in web scraping processes to ensure data reliability."
+      },
+      {
+        "title": "Optimized Website Interaction",
+        "description": "Enhance website interaction strategies based on performance insights."
+      },
+      {
+        "title": "In-depth Analysis",
+        "description": "Conduct in-depth analysis by collecting granular and diverse data from various sources."
+      },
+      {
+        "title": "Data-Driven Strategy",
+        "description": "Develop data-driven strategies based on comprehensive website data insights."
+      },
+      {
+        "title": "Data-Enriched Decisions",
+        "description": "Make well-informed decisions with enriched data from web scraping processes."
+      }
+    ]
+  },
+  "name": "Web Scraper"
+}
 }

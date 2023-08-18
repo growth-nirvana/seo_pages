@@ -2,8 +2,8 @@
 layout: connector
 title: Survicate Connector - Growth Nirvana
 name: Survicate
-description: Amplify your marketing strategies with Survicate integration. Gain actionable
-  insights from data analysis.
+description: Supercharge your marketing strategies with Survicate integration, unlocking
+  real-time survey responses and actionable insights.
 image: "/assets/images/seo_pages/body.webp"
 date: '2023-08-18'
 categories: connectors
@@ -12,64 +12,66 @@ icon_url: "/assets/images/seo_pages/connectors/survicate"
 sections:
   overview:
     title: Survicate Data Connector
-    description: Enhance your marketing insights with Survicate integration. Merge
-      marketing data to unlock valuable insights for campaign strategies and lead
-      analysis.
+    description: Leverage Survicate integration to optimize your marketing campaigns.
+      Seamlessly integrate survey data for enhanced insights, informed decisions,
+      and improved campaign performance.
     image_url: "/assets/images/seo_pages/overview.webp"
   body:
     title: Visualize Your Survicate channel data with Growth Nirvana's Survicate Connector
-    description: Amplify your marketing strategies with Survicate integration. Gain
-      actionable insights from data analysis.
+    description: Supercharge your marketing strategies with Survicate integration,
+      unlocking real-time survey responses and actionable insights.
     image_url: "/assets/images/seo_pages/body.webp"
   faq:
     title: FAQs
     questions:
     - title: What are the most popular metrics in Survicate to analyze?
       bullets:
-      - title: Lead Engagement
-        description: Assess lead interaction and engagement with marketing materials.
       - title: Survey Response Rate
-        description: Measure the percentage of survey responses.
+        description: Measure the rate at which your surveys are being responded to.
+      - title: Segmentation Accuracy
+        description: Evaluate the accuracy of your survey-based audience segmentation.
       - title: Conversion Rates
-        description: Measure the percentage of leads that convert into customers.
-      - title: Segmentation Effectiveness
-        description: Evaluate the efficiency of audience segmentation strategies.
-      - title: Feedback Analysis
-        description: Analyze feedback data for insights on customer satisfaction and
-          product improvement.
-      - title: Landing Page Performance
-        description: Analyze landing page effectiveness and conversion rates.
-      - title: Social Media Engagement
-        description: Evaluate audience engagement and interactions on social media
-          platforms.
-      - title: Lead Scoring
-        description: Assess the accuracy and impact of lead scoring models.
-      - title: A/B Testing Insights
-        description: Gather insights from A/B testing experiments on campaigns.
-      - title: Customer Journey Analysis
-        description: Track and optimize the customer journey across marketing touchpoints.
+        description: Measure the percentage of survey respondents that take desired
+          actions.
+      - title: Feedback Quality
+        description: Assess the quality and depth of feedback obtained through surveys.
+      - title: Survey Completion Time
+        description: Measure the average time it takes for respondents to complete
+          surveys.
+      - title: Question Response Rates
+        description: Analyze the response rates to specific questions in your surveys.
+      - title: Net Promoter Score (NPS)
+        description: Track your NPS score to measure customer satisfaction and loyalty.
+      - title: Customer Effort Score (CES)
+        description: Measure customer effort to identify areas for improvement.
+      - title: Survey Engagement
+        description: Evaluate overall engagement and interaction with your surveys.
+      - title: Survey Drop-off Rate
+        description: Analyze the rate at which respondents drop off during surveys.
     - title: Why analyze Survicate?
       bullets:
-      - title: Refine Campaign Strategies
-        description: Improve marketing campaigns based on data-driven insights.
-      - title: Lead Analysis
-        description: Gain deeper understanding of lead behavior and preferences.
-      - title: Increase Conversion Rates
-        description: Optimize strategies to increase lead-to-customer conversion rates.
-      - title: Effective Segmentation
-        description: Craft more targeted and personalized marketing campaigns.
-      - title: Workflow Optimization
-        description: Enhance marketing workflows for improved results.
-      - title: Landing Page Optimization
-        description: Optimize landing pages for better conversion rates.
-      - title: Social Media Strategy
-        description: Fine-tune social media marketing strategies for higher engagement.
-      - title: Refined Lead Scoring
-        description: Improve lead scoring models for more accurate lead prioritization.
-      - title: Effective A/B Testing
-        description: Enhance A/B testing strategies based on data insights.
-      - title: Customer Journey Enhancement
-        description: Optimize the customer journey for improved customer experiences.
+      - title: Actionable Insights
+        description: Access and analyze survey data for actionable insights and decision-making.
+      - title: Improved Targeting
+        description: Refine your targeting strategies based on survey responses and
+          segmentation.
+      - title: Enhanced Customer Understanding
+        description: Gain a deeper understanding of your customers through survey
+          feedback.
+      - title: Data-driven Decision-making
+        description: Make informed decisions backed by data obtained through surveys.
+      - title: Optimized Campaigns
+        description: Improve campaign performance through continuous survey data updates.
+      - title: Customer Satisfaction
+        description: Measure and improve customer satisfaction levels through surveys.
+      - title: Identifying Customer Pain Points
+        description: Identify and address customer pain points through survey feedback.
+      - title: Tailored User Experience
+        description: Personalize user experiences based on survey responses and preferences.
+      - title: Real-time Feedback
+        description: Access real-time feedback to respond promptly to customer needs.
+      - title: Comprehensive Data Analysis
+        description: Gain a comprehensive view of survey data through real-time integration.
     - title: What is Growth Nirvana?
       answer: Growth Nirvana is a no code analytics platform. Stop waiting for other
         departments to get you the data you need to make critical business decisions.

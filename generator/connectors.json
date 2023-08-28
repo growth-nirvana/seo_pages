@@ -2159,6 +2159,126 @@
     },
     "name": "Azure Service Bus"
   },
+  "basis": {
+    "overview": {
+      "description": "Elevate your advertising insights as we seamlessly integrate data from diverse sources, providing a comprehensive view of your Basis campaign performance. Make smarter decisions with robust analytics, all conveniently accessible within a centralized hub."
+    },
+    "body": {
+      "description": "Fuel your Basis campaigns with our Data Connector, effortlessly merging data sources to amplify data-driven strategies and campaign optimization."
+    },
+    "schema_name": "basis",
+    "bullets_for_metrics": {
+      "title": "What are the most popular metrics in Basis to analyze?",
+      "bullets": [
+        {
+          "title": "Impressions",
+          "description": "Gauge visibility and reach in your Basis campaigns."
+        },
+        {
+          "title": "Click-Through Rate (CTR)",
+          "description": "Measure engagement and ad effectiveness."
+        },
+        {
+          "title": "Conversion Rate",
+          "description": "Track user actions turning into valuable outcomes."
+        },
+        {
+          "title": "Cost per Click (CPC)",
+          "description": "Evaluate cost-effectiveness of your Basis campaigns."
+        },
+        {
+          "title": "Return on Ad Spend (ROAS)",
+          "description": "Assess revenue generated from ad spend in Basis."
+        }
+      ]
+    },
+    "bullets_for_reasons": {
+      "title": "Why analyze Basis?",
+      "bullets": [
+        {
+          "title": "Comprehensive Insights",
+          "description": "Attain a 360-degree understanding of your Basis campaign's success."
+        },
+        {
+          "title": "Optimized Strategies",
+          "description": "Fine-tune your Basis tactics with data-driven decisions."
+        },
+        {
+          "title": "Targeting Precision",
+          "description": "Identify and replicate top-performing tactics within Basis."
+        },
+        {
+          "title": "ROI Maximization",
+          "description": "Allocate resources efficiently for optimal Basis returns."
+        },
+        {
+          "title": "Real-time Tracking",
+          "description": "Stay agile with live updates on your Basis campaign dynamics."
+        }
+      ]
+    },
+    "name": "Basis"
+  },
+  "basis_centro": {
+    "overview": {
+      "description": "Elevate your advertising insights as we seamlessly integrate data from diverse sources, providing a comprehensive view of your Basis (formerly Centro) campaign performance. Make smarter decisions with robust analytics, all conveniently accessible within a centralized hub."
+    },
+    "body": {
+      "description": "Fuel your Basis (formerly Centro) campaigns with our Data Connector, effortlessly merging data sources to amplify data-driven strategies and campaign optimization."
+    },
+    "schema_name": "basis_centro",
+    "bullets_for_metrics": {
+      "title": "What are the most popular metrics in Basis (formerly Centro) to analyze?",
+      "bullets": [
+        {
+          "title": "Impressions",
+          "description": "Gauge visibility and reach in your Basis (formerly Centro) campaigns."
+        },
+        {
+          "title": "Click-Through Rate (CTR)",
+          "description": "Measure engagement and ad effectiveness."
+        },
+        {
+          "title": "Conversion Rate",
+          "description": "Track user actions turning into valuable outcomes."
+        },
+        {
+          "title": "Cost per Click (CPC)",
+          "description": "Evaluate cost-effectiveness of your Basis (formerly Centro) campaigns."
+        },
+        {
+          "title": "Return on Ad Spend (ROAS)",
+          "description": "Assess revenue generated from ad spend in Basis (formerly Centro)."
+        }
+      ]
+    },
+    "bullets_for_reasons": {
+      "title": "Why analyze Basis (formerly Centro)?",
+      "bullets": [
+        {
+          "title": "Comprehensive Insights",
+          "description": "Attain a 360-degree understanding of your Basis (formerly Centro) campaign's success."
+        },
+        {
+          "title": "Optimized Strategies",
+          "description": "Fine-tune your Basis (formerly Centro) tactics with data-driven decisions."
+        },
+        {
+          "title": "Targeting Precision",
+          "description": "Identify and replicate top-performing tactics within Basis (formerly Centro)."
+        },
+        {
+          "title": "ROI Maximization",
+          "description": "Allocate resources efficiently for optimal Basis (formerly Centro) returns."
+        },
+        {
+          "title": "Real-time Tracking",
+          "description": "Stay agile with live updates on your Basis (formerly Centro) campaign dynamics."
+        }
+      ]
+    },
+    "name": "Basis"
+  },
   "bamboohr": {
     "overview": {
       "description": "Enhance your HR processes with Bamboo HR integration. Streamline employee data management, automate workflows, and gain insights for effective HR strategies."

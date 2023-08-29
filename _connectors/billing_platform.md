@@ -5,10 +5,11 @@ name: BillingPlatform
 description: Optimize your billing strategies with BillingPlatform integration, unlocking
   real-time data updates and actionable insights.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/billing_platform
 icon_url: "/assets/images/seo_pages/connectors/billing_platform"
+usage: 0
 sections:
   overview:
     title: BillingPlatform Data Connector

@@ -5,10 +5,11 @@ name: Gladly
 description: Supercharge your customer support strategies with Gladly integration,
   unlocking real-time customer data updates and actionable insights.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/gladly
 icon_url: "/assets/images/seo_pages/connectors/gladly"
+usage: 0
 sections:
   overview:
     title: Gladly Data Connector

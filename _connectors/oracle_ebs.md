@@ -7,10 +7,11 @@ description: Optimize your business operations with the Oracle EBS connector. Un
   productivity, and drive growth. Gain a competitive edge by leveraging Oracle's powerful
   tools and capabilities.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/oracle_ebs
 icon_url: "/assets/images/seo_pages/connectors/oracle_ebs"
+usage: 0
 sections:
   overview:
     title: Oracle EBS Data Connector

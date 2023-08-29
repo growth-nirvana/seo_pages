@@ -6,10 +6,11 @@ description: Amplify your marketing analytics strategies with Google Analytics 4
   integration. Utilize data analysis to optimize campaign performance and make data-driven
   decisions.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/google_analytics_4_export
 icon_url: "/assets/images/seo_pages/connectors/google_analytics_4_export"
+usage: 0
 sections:
   overview:
     title: Google Analytics 4 Export Data Connector

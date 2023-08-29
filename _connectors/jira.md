@@ -5,10 +5,11 @@ name: Jira
 description: Enhance your project management capabilities with Jira - the ultimate
   tool for workflow management, issue tracking, and team collaboration.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/jira
 icon_url: "/assets/images/seo_pages/connectors/jira"
+usage: 0
 sections:
   overview:
     title: Jira Data Connector

@@ -5,10 +5,11 @@ name: SAP S/4HANA
 description: Amplify your marketing strategies with SAP S/4HANA integration, gaining
   actionable insights from campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/sap_s4hana
 icon_url: "/assets/images/seo_pages/connectors/sap_s4hana"
+usage: 0
 sections:
   overview:
     title: SAP S/4HANA Data Connector

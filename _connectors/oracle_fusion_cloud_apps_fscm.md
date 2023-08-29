@@ -5,10 +5,11 @@ name: Oracle Fusion Cloud Applications - FSCM(ERP & SCM)
 description: Amplify your marketing strategies with Oracle Fusion Cloud Applications
   - FSCM(ERP & SCM) integration, gaining actionable insights from campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/oracle_fusion_cloud_apps_fscm
 icon_url: "/assets/images/seo_pages/connectors/oracle_fusion_cloud_apps_fscm"
+usage: 0
 sections:
   overview:
     title: Oracle Fusion Cloud Applications - FSCM(ERP & SCM) Data Connector

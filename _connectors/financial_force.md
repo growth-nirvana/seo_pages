@@ -5,10 +5,11 @@ name: FinancialForce
 description: Amplify your marketing strategies with FinancialForce integration, gaining
   actionable insights from the analysis of financial and marketing data.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/financial_force
 icon_url: "/assets/images/seo_pages/connectors/financial_force"
+usage: 0
 sections:
   overview:
     title: FinancialForce Data Connector

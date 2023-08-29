@@ -6,10 +6,11 @@ description: Elevate your project management with Trello integration. Leverage i
   boards, lists, and cards to streamline task management, facilitate team collaboration,
   and drive successful project outcomes with visual clarity.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/trello
 icon_url: "/assets/images/seo_pages/connectors/trello"
+usage: 0
 sections:
   overview:
     title: Trello Data Connector

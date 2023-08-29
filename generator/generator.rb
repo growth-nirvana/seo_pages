@@ -2,6 +2,7 @@ require "json"
 require "erb"
 require "date"
 require "yaml"
+require "csv"
 
 class Generator
   attr_reader :name, :schema_name, :destination_path,
@@ -49,6 +50,7 @@ class Generator
       "categories"=> "connectors",
       "permalink"=> "connectors/#{ schema_name }",
       "icon_url"=> "/assets/images/seo_pages/connectors/#{ schema_name }",
+      "usage"=> usage.fetch(schema_name, 0).to_i,
       "sections"=> {
         "overview"=> {
           "title"=> "#{ name } Data Connector",
@@ -89,5 +91,9 @@ class Generator
         }
       }
     }
+  end
+
+  def usage
+    @usage ||= CSV.read("./generator/usage.csv").to_h
   end
 end

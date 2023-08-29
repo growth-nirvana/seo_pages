@@ -2,74 +2,78 @@
 layout: connector
 title: Google Campaign Manager 360 Connector - Growth Nirvana
 name: Google Campaign Manager 360
-description: Amplify your marketing strategies with Google Campaign Manager 360 integration,
-  gaining actionable insights from campaign data analysis.
+description: Supercharge your advertising strategies with Google Campaign Manager
+  360 integration, unlocking real-time data updates and actionable insights.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/double_click_campaign_manager
 icon_url: "/assets/images/seo_pages/connectors/double_click_campaign_manager"
+usage: 7
 sections:
   overview:
     title: Google Campaign Manager 360 Data Connector
-    description: Enhance your marketing insights with Google Campaign Manager 360
-      integration. Seamlessly merge marketing data, unlocking insights that shape
-      campaign strategies, lead analysis, and operational excellence.
+    description: Leverage Google Campaign Manager 360 integration to optimize your
+      advertising campaigns. Seamlessly integrate ad data for enhanced insights, informed
+      decisions, and improved campaign performance.
     image_url: "/assets/images/seo_pages/overview.webp"
   body:
     title: Visualize Your Google Campaign Manager 360 channel data with Growth Nirvana's
       Google Campaign Manager 360 Connector
-    description: Amplify your marketing strategies with Google Campaign Manager 360
-      integration, gaining actionable insights from campaign data analysis.
+    description: Supercharge your advertising strategies with Google Campaign Manager
+      360 integration, unlocking real-time data updates and actionable insights.
     image_url: "/assets/images/seo_pages/body.webp"
   faq:
     title: FAQs
     questions:
     - title: What are the most popular metrics in Google Campaign Manager 360 to analyze?
       bullets:
-      - title: Lead Engagement
-        description: Assess lead interaction and engagement with marketing materials.
-      - title: Impression Tracking
-        description: Track impressions and optimize campaign reach.
+      - title: Campaign Performance
+        description: Assess the effectiveness and ROI of your Google Campaign Manager
+          360 campaigns.
+      - title: Audience Reach
+        description: Measure the reach and demographics of your ad audience.
       - title: Conversion Rates
-        description: Measure the percentage of leads that convert into customers.
-      - title: Ad Performance
-        description: Analyze ad campaign success rates, click-through rates, and viewability.
-      - title: Audience Segmentation
-        description: Evaluate the efficiency of audience segmentation strategies.
-      - title: ROI Analysis
-        description: Measure the return on investment of marketing campaigns.
+        description: Track the percentage of ad clicks that lead to conversions.
+      - title: Impression Delivery
+        description: Evaluate the delivery and visibility of your ad impressions.
       - title: Creative Performance
-        description: Analyze the performance of creatives in marketing campaigns.
-      - title: Social Media Engagement
-        description: Evaluate audience engagement and interactions on social media
-          platforms.
-      - title: Attribution Modeling
-        description: Analyze and attribute conversions to marketing touchpoints.
-      - title: Customer Journey Analysis
-        description: Track and optimize the customer journey across marketing touchpoints.
+        description: Analyze and optimize ad creatives based on user engagement.
+      - title: Video Viewability
+        description: Assess the visibility and viewability of your video ads.
+      - title: Audience Engagement
+        description: Understand and engage your target audience through ad interactions.
+      - title: Geographic Performance
+        description: Evaluate the performance and effectiveness of your ads in different
+          regions.
+      - title: Frequency Capping
+        description: Analyze and set limits on ad frequency to optimize campaign impact.
+      - title: Attribution Analysis
+        description: Measure the influence of different channels and touchpoints on
+          conversions.
     - title: Why analyze Google Campaign Manager 360?
       bullets:
-      - title: Refine Campaign Strategies
-        description: Optimize marketing campaigns based on data-driven insights.
-      - title: Lead Analysis
-        description: Gain deeper understanding of lead behavior and preferences.
-      - title: Improve Conversion Rates
-        description: Optimize strategies to increase lead-to-customer conversion rates.
-      - title: Effective Segmentation
-        description: Craft more targeted and personalized marketing campaigns.
-      - title: ROI Maximization
-        description: Maximize return on investment from marketing campaigns.
-      - title: Creative Optimization
-        description: Optimize creative assets for better campaign performance.
-      - title: Social Media Strategy
-        description: Fine-tune social media marketing strategies for higher engagement.
-      - title: Attribution Insights
-        description: Gain insights into the impact of marketing touchpoints on conversions.
-      - title: Customer Journey Enhancement
-        description: Optimize the customer journey for improved customer experiences.
-      - title: Campaign Optimization
-        description: Continuously optimize campaigns based on data insights.
+      - title: Real-Time Insights
+        description: Access and analyze up-to-the-minute ad data for timely actions.
+      - title: Advanced Targeting
+        description: Leverage powerful targeting options to reach the right audience.
+      - title: Cross-Channel Analysis
+        description: Gain insights by analyzing ad performance across multiple channels.
+      - title: Optimized Ad Delivery
+        description: Maximize ad delivery based on real-time engagement metrics.
+      - title: Integrated Reporting
+        description: Generate comprehensive reports by combining data across platforms.
+      - title: Audience Segmentation
+        description: Segment and target audiences based on demographics and behavior.
+      - title: Data-Driven Decisions
+        description: Make informed decisions based on data-driven insights.
+      - title: Campaign Scalability
+        description: Scale campaigns and reach wider audiences with ease.
+      - title: Real-Time Measurement
+        description: Track ad performance in real time for proactive optimizations.
+      - title: Holistic Campaign View
+        description: Gain a comprehensive view of your ad landscape through real-time
+          integration.
     - title: What is Growth Nirvana?
       answer: Growth Nirvana is a no code analytics platform. Stop waiting for other
         departments to get you the data you need to make critical business decisions.

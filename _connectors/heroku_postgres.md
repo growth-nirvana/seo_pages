@@ -6,10 +6,11 @@ description: Effortlessly manage and scale your PostgreSQL database with Heroku 
   Leverage the advanced features and tools provided by Heroku to streamline your database
   operations and maximize productivity.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/heroku_postgres
 icon_url: "/assets/images/seo_pages/connectors/heroku_postgres"
+usage: 2
 sections:
   overview:
     title: Heroku Postgres Data Connector

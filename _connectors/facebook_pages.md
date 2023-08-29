@@ -5,10 +5,11 @@ name: Facebook Pages
 description: Amplify your marketing strategies with Facebook Pages integration, gaining
   actionable insights from campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/facebook_pages
 icon_url: "/assets/images/seo_pages/connectors/facebook_pages"
+usage: 22
 sections:
   overview:
     title: Facebook Pages Data Connector

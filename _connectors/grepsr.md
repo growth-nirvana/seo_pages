@@ -6,10 +6,11 @@ description: Enhance data-driven decision-making with Grepsr integration. Levera
   automated web data extraction to gather valuable information from online sources,
   enabling insightful analysis and informed strategies for your business.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/grepsr
 icon_url: "/assets/images/seo_pages/connectors/grepsr"
+usage: 0
 sections:
   overview:
     title: Grepsr Data Connector

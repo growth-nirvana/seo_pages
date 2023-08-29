@@ -7,10 +7,11 @@ description: Unlock the full potential of your data with SQL Server connector. S
   Leverage the rich features of SQL Server to ensure data integrity, scalability,
   and security for your organization.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/sql_server
 icon_url: "/assets/images/seo_pages/connectors/sql_server"
+usage: 0
 sections:
   overview:
     title: SQL Server Data Connector

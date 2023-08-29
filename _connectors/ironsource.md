@@ -6,10 +6,11 @@ description: Maximize Your App Monetization with ironSource Integration. Empower
   app's revenue generation and user engagement by leveraging real-time insights and
   data-driven decisions.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/ironsource
 icon_url: "/assets/images/seo_pages/connectors/ironsource"
+usage: 0
 sections:
   overview:
     title: ironSource Data Connector

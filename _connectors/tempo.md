@@ -6,10 +6,11 @@ description: Elevate time tracking and resource allocation with Tempo integratio
   Leverage comprehensive tools to streamline time entry, resource allocation, and
   project planning, enabling efficient workflows and optimal resource utilization.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/tempo
 icon_url: "/assets/images/seo_pages/connectors/tempo"
+usage: 0
 sections:
   overview:
     title: Tempo Data Connector

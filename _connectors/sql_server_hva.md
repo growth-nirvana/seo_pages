@@ -6,10 +6,11 @@ description: Unlock the potential of high-volume data processing with the High-V
   Agent SQL Server. Streamline your data management, integration, and processing needs
   using the power of SQL Server.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/sql_server_hva
 icon_url: "/assets/images/seo_pages/connectors/sql_server_hva"
+usage: 0
 sections:
   overview:
     title: High-Volume Agent SQL Server Data Connector

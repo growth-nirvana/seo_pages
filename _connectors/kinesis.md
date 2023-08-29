@@ -6,10 +6,11 @@ description: Effortlessly stream and load data into AWS with Amazon Kinesis Fire
   Automate the delivery of data from multiple sources for seamless processing and
   real-time analytics.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/kinesis
 icon_url: "/assets/images/seo_pages/connectors/kinesis"
+usage: 0
 sections:
   overview:
     title: Amazon Kinesis Firehose Data Connector

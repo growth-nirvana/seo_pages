@@ -5,10 +5,11 @@ name: ADP Workforce Now
 description: Amplify your HR and payroll strategies with ADP Workforce Now integration,
   gaining actionable insights from employee data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/adp_workforce_now
 icon_url: "/assets/images/seo_pages/connectors/adp_workforce_now"
+usage: 2
 sections:
   overview:
     title: ADP Workforce Now Data Connector

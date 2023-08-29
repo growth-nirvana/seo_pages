@@ -6,10 +6,11 @@ description: Amplify your digital advertising efforts with Google Ads integratio
   Optimize campaign performance through data-driven insights and precise targeting
   capabilities.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/google_ads
 icon_url: "/assets/images/seo_pages/connectors/google_ads"
+usage: 179
 sections:
   overview:
     title: Google Ads Data Connector

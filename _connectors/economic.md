@@ -5,10 +5,11 @@ name: e-conomic
 description: Supercharge your financial management strategies with e-conomic integration,
   enabling real-time updates and actionable insights.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/economic
 icon_url: "/assets/images/seo_pages/connectors/economic"
+usage: 0
 sections:
   overview:
     title: e-conomic Data Connector

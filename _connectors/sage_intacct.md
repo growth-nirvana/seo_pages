@@ -5,10 +5,11 @@ name: Sage Intacct
 description: Amplify your financial management strategies with Sage Intacct integration,
   gaining actionable insights from financial data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/sage_intacct
 icon_url: "/assets/images/seo_pages/connectors/sage_intacct"
+usage: 0
 sections:
   overview:
     title: Sage Intacct Data Connector

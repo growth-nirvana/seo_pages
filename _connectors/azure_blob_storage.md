@@ -7,10 +7,11 @@ description: Effortlessly manage and store unstructured data with Azure Blob Sto
   data from anywhere in the world. Leverage the power of Azure Blob Storage for seamless
   data storage and retrieval.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/azure_blob_storage
 icon_url: "/assets/images/seo_pages/connectors/azure_blob_storage"
+usage: 0
 sections:
   overview:
     title: Azure Blob Storage Data Connector

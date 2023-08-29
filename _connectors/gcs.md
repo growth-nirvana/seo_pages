@@ -6,10 +6,11 @@ description: Store and retrieve your data securely and efficiently with Google C
   Storage. Enjoy scalable and cost-effective storage solutions for your files, objects,
   and backups.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/gcs
 icon_url: "/assets/images/seo_pages/connectors/gcs"
+usage: 2
 sections:
   overview:
     title: Google Cloud Storage Data Connector

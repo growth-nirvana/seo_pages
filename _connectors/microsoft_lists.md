@@ -6,10 +6,11 @@ description: Maximize productivity and efficiency with Microsoft Lists. Simplify
   tracking, record management, and document organization, empowering your team to
   stay organized and focused on their work.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/microsoft_lists
 icon_url: "/assets/images/seo_pages/connectors/microsoft_lists"
+usage: 0
 sections:
   overview:
     title: Microsoft Lists Data Connector

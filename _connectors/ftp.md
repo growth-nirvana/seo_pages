@@ -5,10 +5,11 @@ name: FTP
 description: Streamline your workflow and transfer files seamlessly with the FTP connector
   – your gateway to efficient and secure file transfer across servers.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/ftp
 icon_url: "/assets/images/seo_pages/connectors/ftp"
+usage: 0
 sections:
   overview:
     title: FTP Data Connector

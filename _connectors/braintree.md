@@ -5,10 +5,11 @@ name: Braintree
 description: Amplify your payment processing strategies with Braintree integration,
   gaining actionable insights from transaction data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/braintree
 icon_url: "/assets/images/seo_pages/connectors/braintree"
+usage: 1
 sections:
   overview:
     title: Braintree Data Connector

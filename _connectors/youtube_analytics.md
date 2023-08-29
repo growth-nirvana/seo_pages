@@ -5,10 +5,11 @@ name: YouTube Analytics
 description: Leverage YouTube Analytics integration to analyze and optimize your YouTube
   marketing strategies.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/youtube_analytics
 icon_url: "/assets/images/seo_pages/connectors/youtube_analytics"
+usage: 17
 sections:
   overview:
     title: YouTube Analytics Data Connector

@@ -5,10 +5,11 @@ name: Big Commerce
 description: Amplify your ecommerce strategies with Big Commerce integration, gaining
   actionable insights from sales data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/big_commerce
 icon_url: "/assets/images/seo_pages/connectors/big_commerce"
+usage: 3
 sections:
   overview:
     title: Big Commerce Data Connector

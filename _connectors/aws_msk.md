@@ -5,10 +5,11 @@ name: AWS MSK
 description: Amplify your marketing strategies with AWS MSK integration, gaining actionable
   insights from data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/aws_msk
 icon_url: "/assets/images/seo_pages/connectors/aws_msk"
+usage: 0
 sections:
   overview:
     title: AWS MSK Data Connector

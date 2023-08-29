@@ -8,10 +8,11 @@ description: Unlock the full potential of your enterprise data with SAP HANA. Th
   analytics capabilities, SAP HANA empowers you to turn data into actionable insights
   and drive business growth.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/sap_hana
 icon_url: "/assets/images/seo_pages/connectors/sap_hana"
+usage: 0
 sections:
   overview:
     title: SAP HANA Data Connector

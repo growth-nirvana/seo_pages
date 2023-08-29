@@ -5,10 +5,11 @@ name: WooCommerce
 description: Amplify your e-commerce strategies with WooCommerce integration, gaining
   actionable insights from sales data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/woocommerce
 icon_url: "/assets/images/seo_pages/connectors/woocommerce"
+usage: 0
 sections:
   overview:
     title: WooCommerce Data Connector

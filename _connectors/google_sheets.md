@@ -6,10 +6,11 @@ description: Simplify your data management with Google Sheets – the ultimate t
   for creating, editing, and collaborating on spreadsheets. Share data with your team,
   automate tasks, and visualize information to drive productivity and insights.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/google_sheets
 icon_url: "/assets/images/seo_pages/connectors/google_sheets"
+usage: 183
 sections:
   overview:
     title: Google Sheets Data Connector

@@ -5,10 +5,11 @@ name: Shopify
 description: Amplify your ecommerce strategies with Shopify integration, gaining actionable
   insights from sales data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/shopify
 icon_url: "/assets/images/seo_pages/connectors/shopify"
+usage: 12
 sections:
   overview:
     title: Shopify Data Connector

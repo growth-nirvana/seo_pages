@@ -6,10 +6,11 @@ description: Simplify database management with Oracle RDS – your reliable solu
   for deploying and scaling Oracle databases in the cloud. Optimize performance, ensure
   high availability, and secure your data with ease.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/oracle_rds
 icon_url: "/assets/images/seo_pages/connectors/oracle_rds"
+usage: 0
 sections:
   overview:
     title: Oracle RDS Data Connector

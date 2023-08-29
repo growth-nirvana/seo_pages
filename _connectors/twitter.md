@@ -5,10 +5,11 @@ name: Twitter Organic
 description: Amplify your marketing strategies with Twitter Organic integration. Gain
   actionable insights from data analysis to optimize your campaigns.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/twitter
 icon_url: "/assets/images/seo_pages/connectors/twitter"
+usage: 10
 sections:
   overview:
     title: Twitter Organic Data Connector

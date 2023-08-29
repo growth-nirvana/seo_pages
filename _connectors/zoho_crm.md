@@ -5,10 +5,11 @@ name: Zoho CRM
 description: Amplify your marketing strategies with Zoho CRM integration, gaining
   actionable insights from campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/zoho_crm
 icon_url: "/assets/images/seo_pages/connectors/zoho_crm"
+usage: 4
 sections:
   overview:
     title: Zoho CRM Data Connector

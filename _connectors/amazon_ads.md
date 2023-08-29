@@ -5,10 +5,11 @@ name: Amazon Ads
 description: Amplify your marketing strategies with Amazon Ads integration, gaining
   actionable insights from campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/amazon_ads
 icon_url: "/assets/images/seo_pages/connectors/amazon_ads"
+usage: 5
 sections:
   overview:
     title: Amazon Ads Data Connector

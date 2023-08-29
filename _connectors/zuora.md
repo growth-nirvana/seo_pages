@@ -5,10 +5,11 @@ name: Zuora
 description: Amplify your subscription management strategies with Zuora integration,
   gaining actionable insights from customer data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/zuora
 icon_url: "/assets/images/seo_pages/connectors/zuora"
+usage: 0
 sections:
   overview:
     title: Zuora Data Connector

@@ -7,10 +7,11 @@ description: Streamline your IT service management with Freshservice Lite. Simpl
   the efficiency and effectiveness of your IT team with Freshservice Lite's comprehensive
   set of features and advanced analytics.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/freshservice_lite
 icon_url: "/assets/images/seo_pages/connectors/freshservice_lite"
+usage: 0
 sections:
   overview:
     title: Freshservice Lite Data Connector

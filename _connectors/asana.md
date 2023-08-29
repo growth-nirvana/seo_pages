@@ -5,10 +5,11 @@ name: Asana
 description: Amplify your project management strategies with Asana integration, gaining
   actionable insights from task and project analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/asana
 icon_url: "/assets/images/seo_pages/connectors/asana"
+usage: 0
 sections:
   overview:
     title: Asana Data Connector

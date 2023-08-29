@@ -6,10 +6,11 @@ description: Take advantage of Azure MySQL to effortlessly manage and optimize y
   MySQL databases. Leverage the power and flexibility of Azure's advanced features
   to streamline your database operations and enhance your application performance.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/mysql_azure
 icon_url: "/assets/images/seo_pages/connectors/mysql_azure"
+usage: 0
 sections:
   overview:
     title: Azure MySQL Data Connector

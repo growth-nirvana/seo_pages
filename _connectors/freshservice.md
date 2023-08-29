@@ -7,10 +7,11 @@ description: Transform your IT service management with Freshservice. Take contro
   deliver outstanding customer service. With Freshservice, you can effortlessly streamline
   your support processes and provide exceptional IT support.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/freshservice
 icon_url: "/assets/images/seo_pages/connectors/freshservice"
+usage: 0
 sections:
   overview:
     title: Freshservice Data Connector

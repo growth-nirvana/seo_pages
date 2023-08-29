@@ -7,10 +7,11 @@ description: Utilize DynamoDB to build highly scalable and reliable applications
   and fault tolerance. Store and retrieve any type of data with ease, and enjoy the
   benefits of a fully managed NoSQL database.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/dynamodb
 icon_url: "/assets/images/seo_pages/connectors/dynamodb"
+usage: 0
 sections:
   overview:
     title: DynamoDB Data Connector

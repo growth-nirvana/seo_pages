@@ -5,10 +5,11 @@ name: Alchemer
 description: Optimize your data collection efforts with Alchemer integration, leveraging
   powerful insights for improved marketing campaigns and customer engagement.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/alchemer
 icon_url: "/assets/images/seo_pages/connectors/alchemer"
+usage: 0
 sections:
   overview:
     title: Alchemer Data Connector

@@ -5,10 +5,11 @@ name: Mailchimp
 description: Amplify your email marketing strategies with Mailchimp integration, gaining
   actionable insights from email campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/mailchimp
 icon_url: "/assets/images/seo_pages/connectors/mailchimp"
+usage: 7
 sections:
   overview:
     title: Mailchimp Data Connector

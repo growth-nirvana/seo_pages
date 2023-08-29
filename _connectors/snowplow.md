@@ -5,10 +5,11 @@ name: Snowplow
 description: Amplify your marketing analytics strategies with Snowplow integration,
   unlocking actionable insights from campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/snowplow
 icon_url: "/assets/images/seo_pages/connectors/snowplow"
+usage: 0
 sections:
   overview:
     title: Snowplow Data Connector

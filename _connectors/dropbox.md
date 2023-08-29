@@ -7,10 +7,11 @@ description: Elevate your file management and collaboration with Dropbox – the
   Simplify your workflows, access your files on the go, and collaborate with ease
   using Dropbox.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/dropbox
 icon_url: "/assets/images/seo_pages/connectors/dropbox"
+usage: 0
 sections:
   overview:
     title: Dropbox Data Connector

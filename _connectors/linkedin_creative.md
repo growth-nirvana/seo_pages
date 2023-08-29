@@ -5,10 +5,11 @@ name: Linkedin Creative
 description: Amplify your marketing strategies with Linkedin Creative integration.
   Gain actionable insights from data analysis on Linkedin campaigns.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/linkedin_creative
 icon_url: "/assets/images/seo_pages/connectors/linkedin_creative"
+usage: 1
 sections:
   overview:
     title: Linkedin Creative Data Connector

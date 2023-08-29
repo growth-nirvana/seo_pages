@@ -5,10 +5,11 @@ name: Google Search Ads 360
 description: Supercharge your advertising strategies with Google Search Ads 360 integration,
   unlocking real-time data updates and actionable insights.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/google_search_ads_360
 icon_url: "/assets/images/seo_pages/connectors/google_search_ads_360"
+usage: 4
 sections:
   overview:
     title: Google Search Ads 360 Data Connector

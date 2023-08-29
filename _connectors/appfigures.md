@@ -6,10 +6,11 @@ description: Drive your app's success with Appfigures integration. Harness valua
   insights from app store data to enhance marketing efforts, boost user satisfaction,
   and ensure your app's visibility and competitiveness in the market.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/appfigures
 icon_url: "/assets/images/seo_pages/connectors/appfigures"
+usage: 0
 sections:
   overview:
     title: Appfigures Data Connector

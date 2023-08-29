@@ -5,10 +5,11 @@ name: Apple App Store
 description: Amplify your app marketing strategies with Apple App Store integration.
   Analyze app performance and user engagement to optimize your campaigns.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/itunes_connect
 icon_url: "/assets/images/seo_pages/connectors/itunes_connect"
+usage: 0
 sections:
   overview:
     title: Apple App Store Data Connector

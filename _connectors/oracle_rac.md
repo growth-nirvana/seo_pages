@@ -8,10 +8,11 @@ description: Achieve high availability and scalability with the Oracle RAC conne
   access to critical business data. Enhance application performance and minimize downtime
   with Oracle RAC.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/oracle_rac
 icon_url: "/assets/images/seo_pages/connectors/oracle_rac"
+usage: 0
 sections:
   overview:
     title: Oracle RAC Data Connector

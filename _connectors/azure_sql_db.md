@@ -6,10 +6,11 @@ description: Optimize your data management with Azure SQL Database. Unlock the p
   of advanced analytics and intelligent features. Scale up or down effortlessly, while
   ensuring data security and high availability across your applications.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/azure_sql_db
 icon_url: "/assets/images/seo_pages/connectors/azure_sql_db"
+usage: 0
 sections:
   overview:
     title: Azure SQL Database Data Connector

@@ -5,10 +5,11 @@ name: Intercom
 description: Amplify your customer communication strategies with Intercom integration,
   gaining actionable insights from customer data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/intercom
 icon_url: "/assets/images/seo_pages/connectors/intercom"
+usage: 2
 sections:
   overview:
     title: Intercom Data Connector

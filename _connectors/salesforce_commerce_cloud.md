@@ -5,10 +5,11 @@ name: Salesforce Commerce Cloud
 description: Amplify your e-commerce strategies with Salesforce Commerce Cloud integration,
   gaining actionable insights from customer data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/salesforce_commerce_cloud
 icon_url: "/assets/images/seo_pages/connectors/salesforce_commerce_cloud"
+usage: 1
 sections:
   overview:
     title: Salesforce Commerce Cloud Data Connector

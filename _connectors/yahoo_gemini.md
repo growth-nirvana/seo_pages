@@ -5,10 +5,11 @@ name: Verizon Media
 description: Amplify your marketing strategies with Verizon Media integration, gaining
   actionable insights from campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/yahoo_gemini
 icon_url: "/assets/images/seo_pages/connectors/yahoo_gemini"
+usage: 0
 sections:
   overview:
     title: Verizon Media Data Connector

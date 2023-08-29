@@ -6,10 +6,11 @@ description: Elevate Your Communication Strategy with Vonage Integration. Unlock
   power of seamless communication and personalized interactions by integrating Vonage
   with your existing platforms.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/vonage
 icon_url: "/assets/images/seo_pages/connectors/vonage"
+usage: 0
 sections:
   overview:
     title: Vonage Data Connector

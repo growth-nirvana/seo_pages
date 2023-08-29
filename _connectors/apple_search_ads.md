@@ -5,10 +5,11 @@ name: Apple Search Ads
 description: Amplify your marketing success with Apple Search Ads integration. Gain
   actionable insights from campaign data analysis to enhance your marketing strategies.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/apple_search_ads
 icon_url: "/assets/images/seo_pages/connectors/apple_search_ads"
+usage: 4
 sections:
   overview:
     title: Apple Search Ads Data Connector

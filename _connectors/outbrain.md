@@ -5,10 +5,11 @@ name: Outbrain
 description: Optimize your content marketing efforts with Outbrain integration, leveraging
   native advertising and personalized recommendations to engage and convert your audience.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/outbrain
 icon_url: "/assets/images/seo_pages/connectors/outbrain"
+usage: 3
 sections:
   overview:
     title: Outbrain Data Connector

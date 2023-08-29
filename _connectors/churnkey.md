@@ -5,10 +5,11 @@ name: Churnkey
 description: Supercharge your retention strategies with Churnkey integration, unlocking
   real-time data updates and actionable insights.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/churnkey
 icon_url: "/assets/images/seo_pages/connectors/churnkey"
+usage: 0
 sections:
   overview:
     title: Churnkey Data Connector

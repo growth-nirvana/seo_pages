@@ -5,10 +5,11 @@ name: Close
 description: Amplify your sales strategies with Close integration, gaining actionable
   insights from sales data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/close
 icon_url: "/assets/images/seo_pages/connectors/close"
+usage: 0
 sections:
   overview:
     title: Close Data Connector

@@ -5,10 +5,11 @@ name: Franconnect
 description: Amplify your marketing automation strategies with Franconnect integration,
   gaining actionable insights from campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/franconnect
 icon_url: "/assets/images/seo_pages/connectors/franconnect"
+usage: 21
 sections:
   overview:
     title: Franconnect Data Connector

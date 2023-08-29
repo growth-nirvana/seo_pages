@@ -6,10 +6,11 @@ description: Enhance Decision-Making with Zingtree Integration. Empower your org
   with interactive decision trees to optimize workflows, improve user guidance, and
   achieve efficient outcomes.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/zingtree
 icon_url: "/assets/images/seo_pages/connectors/zingtree"
+usage: 0
 sections:
   overview:
     title: Zingtree Data Connector

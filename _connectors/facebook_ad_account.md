@@ -5,10 +5,11 @@ name: Facebook Ad Account
 description: Amplify your campaign strategies with Facebook Ad Account integration,
   gaining actionable insights from campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/facebook_ad_account
 icon_url: "/assets/images/seo_pages/connectors/facebook_ad_account"
+usage: 1
 sections:
   overview:
     title: Facebook Ad Account Data Connector

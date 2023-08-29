@@ -6,10 +6,11 @@ description: Streamline your file management and collaboration processes with Bo
   Easily share, access, and collaborate on files and documents. Simplify workflows,
   improve productivity, and ensure data security with Box.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/box
 icon_url: "/assets/images/seo_pages/connectors/box"
+usage: 0
 sections:
   overview:
     title: Box Data Connector

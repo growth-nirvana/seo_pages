@@ -5,10 +5,11 @@ name: MariaDB RDS
 description: Simplify your relational database operations with MariaDB RDS – a fully
   managed, highly available, and scalable MariaDB database service in the cloud.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/maria_rds
 icon_url: "/assets/images/seo_pages/connectors/maria_rds"
+usage: 1
 sections:
   overview:
     title: MariaDB RDS Data Connector

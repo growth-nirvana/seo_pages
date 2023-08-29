@@ -5,10 +5,11 @@ name: Recharge
 description: Amplify your marketing strategies with Recharge integration, gaining
   actionable insights from campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/recharge
 icon_url: "/assets/images/seo_pages/connectors/recharge"
+usage: 1
 sections:
   overview:
     title: Recharge Data Connector

@@ -5,10 +5,11 @@ name: Pipedrive
 description: Amplify your sales strategies with Pipedrive integration, gaining actionable
   insights from deal data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/pipedrive
 icon_url: "/assets/images/seo_pages/connectors/pipedrive"
+usage: 3
 sections:
   overview:
     title: Pipedrive Data Connector

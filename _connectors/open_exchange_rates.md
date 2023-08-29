@@ -5,10 +5,11 @@ name: Open Exchange Rates
 description: Enhance your marketing data analysis with Open Exchange Rates integration,
   leveraging actionable insights to optimize currency conversion strategies.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/open_exchange_rates
 icon_url: "/assets/images/seo_pages/connectors/open_exchange_rates"
+usage: 0
 sections:
   overview:
     title: Open Exchange Rates Data Connector

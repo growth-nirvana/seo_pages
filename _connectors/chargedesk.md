@@ -5,10 +5,11 @@ name: ChargeDesk
 description: Supercharge your customer support strategies with ChargeDesk integration,
   unlocking real-time data updates and actionable insights.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/chargedesk
 icon_url: "/assets/images/seo_pages/connectors/chargedesk"
+usage: 0
 sections:
   overview:
     title: ChargeDesk Data Connector

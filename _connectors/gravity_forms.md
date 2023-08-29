@@ -5,10 +5,11 @@ name: GravityForms
 description: Amplify your marketing automation strategies with GravityForms integration,
   gaining actionable insights from campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/gravity_forms
 icon_url: "/assets/images/seo_pages/connectors/gravity_forms"
+usage: 16
 sections:
   overview:
     title: GravityForms Data Connector

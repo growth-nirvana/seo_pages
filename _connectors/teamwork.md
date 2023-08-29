@@ -6,10 +6,11 @@ description: Elevate project efficiency with Teamwork integration. Leverage intu
   tools for task management, project tracking, and team collaboration, enabling seamless
   coordination and successful project delivery across your organization.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/teamwork
 icon_url: "/assets/images/seo_pages/connectors/teamwork"
+usage: 0
 sections:
   overview:
     title: Teamwork Data Connector

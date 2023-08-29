@@ -6,10 +6,11 @@ description: |-
   Fortify Your Applications with Contrast Security Integration.
   Empower your development and security teams with real-time insights and actionable data to ensure secure and robust software.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/contrast_security
 icon_url: "/assets/images/seo_pages/connectors/contrast_security"
+usage: 0
 sections:
   overview:
     title: Contrast Security Data Connector

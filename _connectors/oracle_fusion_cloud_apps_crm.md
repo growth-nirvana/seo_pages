@@ -5,10 +5,11 @@ name: Oracle Fusion Cloud Applications - CRM
 description: Amplify your marketing strategies with Oracle Fusion Cloud Applications
   - CRM integration, gaining actionable insights from campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/oracle_fusion_cloud_apps_crm
 icon_url: "/assets/images/seo_pages/connectors/oracle_fusion_cloud_apps_crm"
+usage: 0
 sections:
   overview:
     title: Oracle Fusion Cloud Applications - CRM Data Connector

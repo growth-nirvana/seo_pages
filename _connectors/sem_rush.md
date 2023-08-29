@@ -5,10 +5,11 @@ name: Sem Rush
 description: Amplify your marketing strategies with Sem Rush integration, gaining
   actionable insights from campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/sem_rush
 icon_url: "/assets/images/seo_pages/connectors/sem_rush"
+usage: 3
 sections:
   overview:
     title: Sem Rush Data Connector

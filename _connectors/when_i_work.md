@@ -5,10 +5,11 @@ name: When I Work
 description: Streamline your scheduling and workforce management with When I Work
   integration, gaining actionable insights from data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/when_i_work
 icon_url: "/assets/images/seo_pages/connectors/when_i_work"
+usage: 0
 sections:
   overview:
     title: When I Work Data Connector

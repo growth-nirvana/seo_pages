@@ -5,10 +5,11 @@ name: Google Business Profile
 description: Amplify your marketing strategies with Google Business Profile integration,
   gaining actionable insights from data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/business_profile
 icon_url: "/assets/images/seo_pages/connectors/business_profile"
+usage: 9
 sections:
   overview:
     title: Google Business Profile Data Connector

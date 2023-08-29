@@ -5,10 +5,11 @@ name: Google Play
 description: Amplify your marketing strategies with Google Play integration, gaining
   actionable insights from campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/google_play
 icon_url: "/assets/images/seo_pages/connectors/google_play"
+usage: 0
 sections:
   overview:
     title: Google Play Data Connector
@@ -49,7 +50,7 @@ sections:
       - title: User Feedback Analysis
         description: Gather insights from user reviews and feedback.
     - title: Why analyze Google Play?
-      bullets: 
+      bullets:
     - title: What is Growth Nirvana?
       answer: Growth Nirvana is a no code analytics platform. Stop waiting for other
         departments to get you the data you need to make critical business decisions.

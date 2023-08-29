@@ -5,10 +5,11 @@ name: Reply.io
 description: Supercharge your outreach strategies with Reply.io integration, unlocking
   real-time data updates and actionable insights.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/replyio
 icon_url: "/assets/images/seo_pages/connectors/replyio"
+usage: 0
 sections:
   overview:
     title: Reply.io Data Connector

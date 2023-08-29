@@ -6,10 +6,11 @@ description: Take control of your eCommerce database with ease using the Magento
   RDS connector. Experience seamless management of your Magento store's data, ensuring
   reliability, and scalability for your online business.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/magento_mysql_rds
 icon_url: "/assets/images/seo_pages/connectors/magento_mysql_rds"
+usage: 0
 sections:
   overview:
     title: Magento MySQL RDS Data Connector

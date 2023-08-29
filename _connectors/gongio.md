@@ -5,10 +5,11 @@ name: Gong
 description: Amplify your marketing strategies with Gong integration. Analyze campaign
   data and gather insights to optimize marketing performance.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/gongio
 icon_url: "/assets/images/seo_pages/connectors/gongio"
+usage: 0
 sections:
   overview:
     title: Gong Data Connector

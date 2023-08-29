@@ -6,10 +6,11 @@ description: Elevate your marketing and sales performance with 6sense integratio
   Leverage real-time buyer intent data to optimize your strategies and engage prospects
   at the right time with highly relevant content and offers.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/6sense
 icon_url: "/assets/images/seo_pages/connectors/6sense"
+usage: 0
 sections:
   overview:
     title: 6sense Data Connector

@@ -7,10 +7,11 @@ description: AWS Lambda allows you to build and run applications without the nee
   scaling and pay-per-use pricing, Lambda provides a cost-effective and scalable solution
   for your serverless applications.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/aws_lambda
 icon_url: "/assets/images/seo_pages/connectors/aws_lambda"
+usage: 0
 sections:
   overview:
     title: AWS Lambda Data Connector

@@ -5,10 +5,11 @@ name: Coupa
 description: Amplify your procurement strategies with Coupa integration, gaining actionable
   insights from data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/coupa
 icon_url: "/assets/images/seo_pages/connectors/coupa"
+usage: 0
 sections:
   overview:
     title: Coupa Data Connector

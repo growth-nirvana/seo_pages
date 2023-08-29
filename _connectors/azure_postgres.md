@@ -6,10 +6,11 @@ description: Harness the capabilities of Azure PostgreSQL Database connector to 
   your database management experience. Boost performance, ensure secure data storage,
   and optimize application development with ease.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/azure_postgres
 icon_url: "/assets/images/seo_pages/connectors/azure_postgres"
+usage: 0
 sections:
   overview:
     title: Azure PostgreSQL Database Data Connector

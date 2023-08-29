@@ -1,23 +1,25 @@
 ---
 layout: connector
-title: " Connector - Growth Nirvana"
-name: 'Upland Software'
+title: Upland Software Connector - Growth Nirvana
+name: Upland Software
 description: Supercharge your marketing strategies with Upland Software integration,
   unlocking real-time data updates and actionable insights.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/upland
 icon_url: "/assets/images/seo_pages/connectors/upland"
+usage: 0
 sections:
   overview:
-    title: " Data Connector"
+    title: Upland Software Data Connector
     description: Leverage Upland Software integration to optimize your marketing campaigns.
       Seamlessly integrate marketing data for enhanced insights, informed decisions,
       and improved campaign performance.
     image_url: "/assets/images/seo_pages/overview.webp"
   body:
-    title: Visualize Your  channel data with Growth Nirvana's  Connector
+    title: Visualize Your Upland Software channel data with Growth Nirvana's Upland
+      Software Connector
     description: Supercharge your marketing strategies with Upland Software integration,
       unlocking real-time data updates and actionable insights.
     image_url: "/assets/images/seo_pages/body.webp"

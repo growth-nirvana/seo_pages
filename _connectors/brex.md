@@ -5,10 +5,11 @@ name: Brex
 description: Amplify your marketing strategies with Brex integration, gaining actionable
   insights from campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/brex
 icon_url: "/assets/images/seo_pages/connectors/brex"
+usage: 0
 sections:
   overview:
     title: Brex Data Connector

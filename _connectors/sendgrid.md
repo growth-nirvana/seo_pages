@@ -5,10 +5,11 @@ name: SendGrid
 description: Amplify your email marketing strategies with SendGrid integration, gaining
   actionable insights from campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/sendgrid
 icon_url: "/assets/images/seo_pages/connectors/sendgrid"
+usage: 0
 sections:
   overview:
     title: SendGrid Data Connector

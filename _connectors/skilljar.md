@@ -5,10 +5,11 @@ name: Skilljar
 description: Supercharge your training strategies with Skilljar integration, unlocking
   real-time data updates and actionable insights.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/skilljar
 icon_url: "/assets/images/seo_pages/connectors/skilljar"
+usage: 0
 sections:
   overview:
     title: Skilljar Data Connector

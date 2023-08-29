@@ -5,10 +5,11 @@ name: Cin7
 description: Amplify your marketing strategies with Cin7 integration, gaining actionable
   insights from campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/cin7
 icon_url: "/assets/images/seo_pages/connectors/cin7"
+usage: 0
 sections:
   overview:
     title: Cin7 Data Connector

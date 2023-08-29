@@ -5,10 +5,11 @@ name: FreshTeam
 description: Supercharge your marketing strategies with FreshTeam integration, unlocking
   real-time data updates and actionable insights.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/freshteam
 icon_url: "/assets/images/seo_pages/connectors/freshteam"
+usage: 0
 sections:
   overview:
     title: FreshTeam Data Connector

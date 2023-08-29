@@ -6,10 +6,11 @@ description: Empower your applications with the power of Azure Functions. Build 
   architectures, automate workflows, and integrate with various services. Unlock scalability,
   flexibility, and productivity with Azure Functions.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/azure_function
 icon_url: "/assets/images/seo_pages/connectors/azure_function"
+usage: 0
 sections:
   overview:
     title: Azure Functions Data Connector

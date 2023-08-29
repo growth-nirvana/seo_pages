@@ -5,10 +5,11 @@ name: Gorgias
 description: Supercharge your customer support strategies with Gorgias integration,
   unlocking real-time support updates and actionable insights.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/gorgias
 icon_url: "/assets/images/seo_pages/connectors/gorgias"
+usage: 0
 sections:
   overview:
     title: Gorgias Data Connector

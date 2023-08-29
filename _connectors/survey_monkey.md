@@ -5,10 +5,11 @@ name: SurveyMonkey
 description: Amplify your survey research strategies with SurveyMonkey integration,
   gaining actionable insights from survey data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/survey_monkey
 icon_url: "/assets/images/seo_pages/connectors/survey_monkey"
+usage: 0
 sections:
   overview:
     title: SurveyMonkey Data Connector

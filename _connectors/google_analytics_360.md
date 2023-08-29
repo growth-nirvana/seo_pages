@@ -5,10 +5,11 @@ name: Google Analytics 360
 description: Amplify marketing strategies with Google Analytics 360 integration, unlocking
   valuable insights for campaign optimization and data-driven decision-making.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/google_analytics_360
 icon_url: "/assets/images/seo_pages/connectors/google_analytics_360"
+usage: 2
 sections:
   overview:
     title: Google Analytics 360 Data Connector

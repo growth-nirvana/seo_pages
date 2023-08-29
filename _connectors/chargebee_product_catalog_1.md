@@ -5,10 +5,11 @@ name: Chargebee Product Catalog 1.0
 description: Supercharge your marketing automation with Chargebee Product Catalog
   1.0 integration. Gain valuable insights from campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/chargebee_product_catalog_1
 icon_url: "/assets/images/seo_pages/connectors/chargebee_product_catalog_1"
+usage: 0
 sections:
   overview:
     title: Chargebee Product Catalog 1.0 Data Connector

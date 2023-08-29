@@ -5,10 +5,11 @@ name: Synuma
 description: Amplify your marketing automation strategies with Synuma integration,
   gaining actionable insights from campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/synuma
 icon_url: "/assets/images/seo_pages/connectors/synuma"
+usage: 1
 sections:
   overview:
     title: Synuma Data Connector

@@ -5,10 +5,11 @@ name: Pardot
 description: Amplify your marketing automation strategies with Pardot integration,
   gaining actionable insights from campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/pardot
 icon_url: "/assets/images/seo_pages/connectors/pardot"
+usage: 2
 sections:
   overview:
     title: Pardot Data Connector

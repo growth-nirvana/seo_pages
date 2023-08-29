@@ -4,10 +4,11 @@ title: Aurora Postgres Connector - Growth Nirvana
 name: Aurora Postgres
 description: Body of Aurora Postgres
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/aurora_postgres
 icon_url: "/assets/images/seo_pages/connectors/aurora_postgres"
+usage: 0
 sections:
   overview:
     title: Aurora Postgres Data Connector

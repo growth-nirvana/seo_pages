@@ -5,10 +5,11 @@ name: WordPress
 description: Supercharge your marketing strategies with WordPress integration, unlocking
   real-time data updates and actionable insights for your website.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/wordpress
 icon_url: "/assets/images/seo_pages/connectors/wordpress"
+usage: 0
 sections:
   overview:
     title: WordPress Data Connector

@@ -5,10 +5,11 @@ name: Microsoft Teams
 description: Enhance your team's performance with Microsoft Teams integration, enabling
   real-time data updates and seamless collaboration.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/microsoft_teams
 icon_url: "/assets/images/seo_pages/connectors/microsoft_teams"
+usage: 0
 sections:
   overview:
     title: Microsoft Teams Data Connector

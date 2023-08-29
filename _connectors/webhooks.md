@@ -5,10 +5,11 @@ name: Webhooks
 description: Empower your data insights with real-time data updates through the Webhooks
   connector.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/webhooks
 icon_url: "/assets/images/seo_pages/connectors/webhooks"
+usage: 23
 sections:
   overview:
     title: Webhooks Data Connector

@@ -5,10 +5,11 @@ name: Workday HCM
 description: Amplify your HR management strategies with Workday HCM integration, gaining
   actionable insights from workforce data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-18'
+date: '2023-08-29'
 categories: connectors
 permalink: connectors/workday_hcm
 icon_url: "/assets/images/seo_pages/connectors/workday_hcm"
+usage: 0
 sections:
   overview:
     title: Workday HCM Data Connector

@@ -5,11 +5,12 @@ name: Adjust
 description: Amplify your marketing data strategies with Adjust integration, gaining
   actionable insights from campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/adjust
 icon_url: "/assets/images/seo_pages/connectors/adjust"
 usage: 0
+schema_name: adjust
 sections:
   overview:
     title: Adjust Data Connector

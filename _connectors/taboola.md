@@ -5,11 +5,12 @@ name: Taboola
 description: Amplify your marketing strategies with Taboola integration, gaining valuable
   insights from data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/taboola
 icon_url: "/assets/images/seo_pages/connectors/taboola"
 usage: 5
+schema_name: taboola
 sections:
   overview:
     title: Taboola Data Connector

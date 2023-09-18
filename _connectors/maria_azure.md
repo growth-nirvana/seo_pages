@@ -6,11 +6,12 @@ description: Achieve unparalleled database management with Azure MariaDB. Harnes
   the full potential of your MariaDB-powered application with seamless integration,
   advanced features, and global availability on the Azure platform.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/maria_azure
 icon_url: "/assets/images/seo_pages/connectors/maria_azure"
 usage: 0
+schema_name: maria_azure
 sections:
   overview:
     title: Azure MariaDB Data Connector

@@ -6,11 +6,12 @@ description: Optimize Incident Response with Incident.io Integration. Empower yo
   teams with real-time insights and streamlined workflows, enabling faster incident
   resolution and proactive incident management.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/incidentio
 icon_url: "/assets/images/seo_pages/connectors/incidentio"
 usage: 0
+schema_name: incidentio
 sections:
   overview:
     title: Incident.io Data Connector

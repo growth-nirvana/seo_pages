@@ -5,11 +5,12 @@ name: Customer.io
 description: Elevate Customer Engagement with Customer.io Integration. Unlock the
   power of personalized communication, data-driven campaigns, and enhanced user experiences.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/customerio
 icon_url: "/assets/images/seo_pages/connectors/customerio"
 usage: 0
+schema_name: customerio
 sections:
   overview:
     title: Customer.io Data Connector

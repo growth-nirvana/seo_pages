@@ -5,11 +5,12 @@ name: Apache Kafka
 description: Supercharge your data strategies with Apache Kafka integration, unlocking
   real-time data updates and actionable insights.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/apache_kafka
 icon_url: "/assets/images/seo_pages/connectors/apache_kafka"
 usage: 0
+schema_name: apache_kafka
 sections:
   overview:
     title: Apache Kafka Data Connector

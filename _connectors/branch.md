@@ -5,11 +5,12 @@ name: Branch
 description: Amplify your marketing analytics strategies with Branch integration,
   gaining actionable insights from campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/branch
 icon_url: "/assets/images/seo_pages/connectors/branch"
 usage: 0
+schema_name: branch
 sections:
   overview:
     title: Branch Data Connector

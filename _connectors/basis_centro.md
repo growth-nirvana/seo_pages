@@ -6,11 +6,12 @@ description: Fuel your Basis (formerly Centro) campaigns with our Data Connector
   effortlessly merging data sources to amplify data-driven strategies and campaign
   optimization.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/basis_centro
 icon_url: "/assets/images/seo_pages/connectors/basis_centro"
 usage: 0
+schema_name: basis_centro
 sections:
   overview:
     title: Basis Data Connector

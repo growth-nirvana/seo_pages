@@ -5,11 +5,12 @@ name: Impact
 description: Amplify your marketing strategies with Impact integration, gaining actionable
   insights from campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/impact
 icon_url: "/assets/images/seo_pages/connectors/impact"
 usage: 2
+schema_name: impact
 sections:
   overview:
     title: Impact Data Connector

@@ -7,11 +7,12 @@ description: Unlock the potential of your MongoDB-compatible workloads with Amaz
   achieve high availability, and simplify administration. Explore advanced functionalities
   and ensure seamless data operations with ease.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/documentdb
 icon_url: "/assets/images/seo_pages/connectors/documentdb"
 usage: 0
+schema_name: documentdb
 sections:
   overview:
     title: Amazon DocumentDB Data Connector

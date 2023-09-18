@@ -7,11 +7,12 @@ description: Unlock the full potential of Magento with the Magento MySQL connect
   your MySQL database. Seamlessly retrieve and update product information, customer
   data, orders, and more to optimize your Magento store.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/magento_mysql
 icon_url: "/assets/images/seo_pages/connectors/magento_mysql"
 usage: 0
+schema_name: magento_mysql
 sections:
   overview:
     title: Magento MySQL Data Connector

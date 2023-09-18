@@ -6,11 +6,12 @@ description: Enhance data governance and stewardship with Collibra integration. 
   a unified platform to effectively manage and govern data, fostering collaboration,
   compliance, and data-driven decision-making throughout your enterprise.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/collibra
 icon_url: "/assets/images/seo_pages/connectors/collibra"
 usage: 0
+schema_name: collibra
 sections:
   overview:
     title: Collibra Data Connector

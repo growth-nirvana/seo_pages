@@ -5,11 +5,12 @@ name: Google Drive
 description: Simplify file management and collaboration with Google Drive. Store,
   organize, and access files easily, collaborate in real-time, and enhance productivity
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/google_drive
 icon_url: "/assets/images/seo_pages/connectors/google_drive"
 usage: 54
+schema_name: google_drive
 sections:
   overview:
     title: Google Drive Data Connector

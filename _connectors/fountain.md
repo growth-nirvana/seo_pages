@@ -5,11 +5,12 @@ name: Fountain
 description: Supercharge your advertising strategies with Fountain integration, unlocking
   real-time data updates and actionable insights.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/fountain
 icon_url: "/assets/images/seo_pages/connectors/fountain"
 usage: 0
+schema_name: fountain
 sections:
   overview:
     title: Fountain Data Connector

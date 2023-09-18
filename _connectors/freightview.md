@@ -5,11 +5,12 @@ name: Freightview
 description: Optimize your freight management strategies with Freightview integration,
   enabling seamless tracking and analysis of shipping data.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/freightview
 icon_url: "/assets/images/seo_pages/connectors/freightview"
 usage: 0
+schema_name: freightview
 sections:
   overview:
     title: Freightview Data Connector

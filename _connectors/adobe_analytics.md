@@ -5,11 +5,12 @@ name: Adobe Analytics
 description: Amplify your marketing analytics strategies with Adobe Analytics integration,
   gaining actionable insights from campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/adobe_analytics
 icon_url: "/assets/images/seo_pages/connectors/adobe_analytics"
 usage: 7
+schema_name: adobe_analytics
 sections:
   overview:
     title: Adobe Analytics Data Connector

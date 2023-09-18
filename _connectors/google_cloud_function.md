@@ -7,11 +7,12 @@ description: Create serverless functions with Google Cloud Functions for event-d
   about managing infrastructure. Benefit from autoscaling, pay-per-use pricing, and
   seamless integration with other Google Cloud services.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/google_cloud_function
 icon_url: "/assets/images/seo_pages/connectors/google_cloud_function"
 usage: 0
+schema_name: google_cloud_function
 sections:
   overview:
     title: Google Cloud Functions Data Connector

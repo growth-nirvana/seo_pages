@@ -5,11 +5,12 @@ name: Ironclad
 description: Amplify your marketing strategies with Ironclad integration, leveraging
   data analysis to optimize campaign performance.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/ironclad
 icon_url: "/assets/images/seo_pages/connectors/ironclad"
 usage: 0
+schema_name: ironclad
 sections:
   overview:
     title: Ironclad Data Connector

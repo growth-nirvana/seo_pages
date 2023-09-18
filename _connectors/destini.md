@@ -6,11 +6,12 @@ description: Elevate Your Business with Destini Integration. Harness the power o
   integrated data to enhance decision-making, fuel growth, and achieve better business
   outcomes.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/destini
 icon_url: "/assets/images/seo_pages/connectors/destini"
 usage: 0
+schema_name: destini
 sections:
   overview:
     title: Destini Data Connector

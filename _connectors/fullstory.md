@@ -6,11 +6,12 @@ description: Elevate user experience optimization with FullStory integration. Le
   user session recordings and analytics to gain valuable insights, improve usability,
   and enhance your digital products to meet user needs and expectations.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/fullstory
 icon_url: "/assets/images/seo_pages/connectors/fullstory"
 usage: 0
+schema_name: fullstory
 sections:
   overview:
     title: FullStory Data Connector

@@ -5,11 +5,12 @@ name: Airtable
 description: Amplify your marketing data strategies with Airtable integration, gaining
   actionable insights from campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/airtable
 icon_url: "/assets/images/seo_pages/connectors/airtable"
 usage: 0
+schema_name: airtable
 sections:
   overview:
     title: Airtable Data Connector

@@ -6,11 +6,12 @@ description: Take control of your financial and operational processes with Micro
   Dynamics 365 F/O. Streamline your business operations, reduce manual tasks, and
   drive growth through intelligent insights and powerful analytics.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/dynamics_365_fo
 icon_url: "/assets/images/seo_pages/connectors/dynamics_365_fo"
 usage: 0
+schema_name: dynamics_365_fo
 sections:
   overview:
     title: Microsoft Dynamics 365 F/O Data Connector

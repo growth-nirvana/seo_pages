@@ -6,11 +6,12 @@ description: Streamline your development workflow, automate testing, and deploy 
   applications with confidence using Buildkite – the ultimate continuous integration
   and delivery platform.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/buildkite
 icon_url: "/assets/images/seo_pages/connectors/buildkite"
 usage: 0
+schema_name: buildkite
 sections:
   overview:
     title: Buildkite Data Connector

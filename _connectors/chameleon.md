@@ -5,11 +5,12 @@ name: Chameleon
 description: Elevate engagement and conversions with Chameleon – your gateway to personalized
   messaging and dynamic content for impactful marketing campaigns.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/chameleon
 icon_url: "/assets/images/seo_pages/connectors/chameleon"
 usage: 0
+schema_name: chameleon
 sections:
   overview:
     title: Chameleon Data Connector

@@ -5,11 +5,12 @@ name: Chorus
 description: Amplify your marketing strategies with Chorus integration, gaining actionable
   insights from data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/chorusai
 icon_url: "/assets/images/seo_pages/connectors/chorusai"
 usage: 0
+schema_name: chorusai
 sections:
   overview:
     title: Chorus Data Connector

@@ -5,11 +5,12 @@ name: Pendo
 description: Amplify your marketing strategies with Pendo integration. Gain valuable
   insights from data analysis to improve your campaign performance.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/pendo
 icon_url: "/assets/images/seo_pages/connectors/pendo"
 usage: 0
+schema_name: pendo
 sections:
   overview:
     title: Pendo Data Connector

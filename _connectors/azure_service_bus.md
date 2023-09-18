@@ -5,11 +5,12 @@ name: Azure Service Bus
 description: Amplify your messaging and event-driven strategies with Azure Service
   Bus integration, gaining scalability and reliability in your communication architecture.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/azure_service_bus
 icon_url: "/assets/images/seo_pages/connectors/azure_service_bus"
 usage: 0
+schema_name: azure_service_bus
 sections:
   overview:
     title: Azure Service Bus Data Connector

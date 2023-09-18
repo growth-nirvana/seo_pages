@@ -6,11 +6,12 @@ description: Amplify your marketing communications strategies with RingCentral i
   gaining a comprehensive view of customer interactions and driving better campaign
   results.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/ringcentral
 icon_url: "/assets/images/seo_pages/connectors/ringcentral"
 usage: 0
+schema_name: ringcentral
 sections:
   overview:
     title: RingCentral Data Connector

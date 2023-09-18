@@ -5,11 +5,12 @@ name: Everhour
 description: Supercharge your project management strategies with Everhour integration,
   unlocking real-time time tracking updates and actionable insights.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/everhour
 icon_url: "/assets/images/seo_pages/connectors/everhour"
 usage: 0
+schema_name: everhour
 sections:
   overview:
     title: Everhour Data Connector

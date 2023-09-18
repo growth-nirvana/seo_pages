@@ -5,11 +5,12 @@ name: SAP Business ByDesign
 description: Amplify your marketing strategies with SAP Business ByDesign integration,
   gaining actionable insights from data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/sap_business_by_design
 icon_url: "/assets/images/seo_pages/connectors/sap_business_by_design"
 usage: 0
+schema_name: sap_business_by_design
 sections:
   overview:
     title: SAP Business ByDesign Data Connector

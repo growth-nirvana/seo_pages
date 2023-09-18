@@ -5,11 +5,12 @@ name: Greenhouse
 description: Amplify your recruitment strategies with Greenhouse integration, gaining
   actionable insights from candidate data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/greenhouse
 icon_url: "/assets/images/seo_pages/connectors/greenhouse"
 usage: 0
+schema_name: greenhouse
 sections:
   overview:
     title: Greenhouse Data Connector

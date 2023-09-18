@@ -6,11 +6,12 @@ description: Take your data analytics to the next level with Snowflake. Seamless
   store, analyze, and share your data across your organization using Snowflake's cloud
   data platform.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/snowflake_db
 icon_url: "/assets/images/seo_pages/connectors/snowflake_db"
 usage: 0
+schema_name: snowflake_db
 sections:
   overview:
     title: Snowflake Data Connector

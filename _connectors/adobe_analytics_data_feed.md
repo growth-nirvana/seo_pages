@@ -5,11 +5,12 @@ name: Adobe Analytics Data Feed
 description: Amplify your marketing data strategies with Adobe Analytics Data Feed
   integration, gaining actionable insights from campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/adobe_analytics_data_feed
 icon_url: "/assets/images/seo_pages/connectors/adobe_analytics_data_feed"
 usage: 0
+schema_name: adobe_analytics_data_feed
 sections:
   overview:
     title: Adobe Analytics Data Feed Data Connector

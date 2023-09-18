@@ -6,11 +6,12 @@ description: Elevate product optimization with PostHog integration. Leverage use
   behavior analysis and insights to prioritize feature development, refine user experiences,
   and shape your product roadmap for sustained growth and success.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/posthog
 icon_url: "/assets/images/seo_pages/connectors/posthog"
 usage: 0
+schema_name: posthog
 sections:
   overview:
     title: PostHog Data Connector

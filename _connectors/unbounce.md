@@ -5,11 +5,12 @@ name: Unbounce
 description: Amplify your marketing strategies with Unbounce integration, gaining
   actionable insights from campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/unbounce
 icon_url: "/assets/images/seo_pages/connectors/unbounce"
 usage: 2
+schema_name: unbounce
 sections:
   overview:
     title: Unbounce Data Connector

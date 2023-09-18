@@ -4,11 +4,12 @@ title: Guru Connector - Growth Nirvana
 name: Guru
 description: Streamline data connections and management with Guru.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/guru
 icon_url: "/assets/images/seo_pages/connectors/guru"
 usage: 0
+schema_name: guru
 sections:
   overview:
     title: Guru Data Connector

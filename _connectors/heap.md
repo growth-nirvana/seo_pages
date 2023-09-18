@@ -5,11 +5,12 @@ name: Heap
 description: Amplify your marketing analytics strategies with Heap integration, gaining
   actionable insights from campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/heap
 icon_url: "/assets/images/seo_pages/connectors/heap"
 usage: 1
+schema_name: heap
 sections:
   overview:
     title: Heap Data Connector

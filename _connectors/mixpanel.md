@@ -5,11 +5,12 @@ name: Mixpanel
 description: Amplify your marketing analytics with Mixpanel integration to unlock
   actionable insights from data analysis and optimize marketing performance.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/mixpanel
 icon_url: "/assets/images/seo_pages/connectors/mixpanel"
 usage: 4
+schema_name: mixpanel
 sections:
   overview:
     title: Mixpanel Data Connector

@@ -6,11 +6,12 @@ description: Unlock the potential of your data with Elastic Cloud. Leverage Elas
   and Kibana to drive impactful insights, enhance search capabilities, and empower
   your business to make data-driven decisions.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/elastic_cloud
 icon_url: "/assets/images/seo_pages/connectors/elastic_cloud"
 usage: 0
+schema_name: elastic_cloud
 sections:
   overview:
     title: Elastic Cloud Data Connector

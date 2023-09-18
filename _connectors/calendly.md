@@ -5,11 +5,12 @@ name: Calendly
 description: Optimize your scheduling and appointment setting strategies with Calendly
   integration, ensuring seamless and efficient meeting arrangements.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/calendly
 icon_url: "/assets/images/seo_pages/connectors/calendly"
 usage: 0
+schema_name: calendly
 sections:
   overview:
     title: Calendly Data Connector

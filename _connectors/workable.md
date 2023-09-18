@@ -5,11 +5,12 @@ name: Workable
 description: Supercharge your recruiting strategies with Workable integration, unlocking
   real-time updates and actionable insights on candidates.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/workable
 icon_url: "/assets/images/seo_pages/connectors/workable"
 usage: 0
+schema_name: workable
 sections:
   overview:
     title: Workable Data Connector

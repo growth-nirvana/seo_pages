@@ -5,11 +5,12 @@ name: Freshsuccess
 description: Supercharge your marketing strategies with Freshsuccess integration,
   unlocking real-time data updates and actionable insights.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/freshsuccess
 icon_url: "/assets/images/seo_pages/connectors/freshsuccess"
 usage: 0
+schema_name: freshsuccess
 sections:
   overview:
     title: Freshsuccess Data Connector

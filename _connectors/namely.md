@@ -5,11 +5,12 @@ name: Namely
 description: Elevate your HR practices with Namely integration, unlocking a comprehensive
   platform that empowers you to manage talent, time, benefits, and payroll with ease.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/namely
 icon_url: "/assets/images/seo_pages/connectors/namely"
 usage: 0
+schema_name: namely
 sections:
   overview:
     title: Namely Data Connector

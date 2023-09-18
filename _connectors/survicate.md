@@ -5,11 +5,12 @@ name: Survicate
 description: Supercharge your marketing strategies with Survicate integration, unlocking
   real-time survey responses and actionable insights.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/survicate
 icon_url: "/assets/images/seo_pages/connectors/survicate"
 usage: 0
+schema_name: survicate
 sections:
   overview:
     title: Survicate Data Connector

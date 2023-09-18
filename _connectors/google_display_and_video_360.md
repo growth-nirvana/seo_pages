@@ -5,11 +5,12 @@ name: Google Display & Video 360
 description: Amplify your marketing strategies with Google Display & Video 360 integration,
   gaining actionable insights from campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/google_display_and_video_360
 icon_url: "/assets/images/seo_pages/connectors/google_display_and_video_360"
 usage: 0
+schema_name: google_display_and_video_360
 sections:
   overview:
     title: Google Display & Video 360 Data Connector

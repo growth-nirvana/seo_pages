@@ -5,11 +5,12 @@ name: Zendesk Support
 description: Amplify your customer support strategies with Zendesk Support integration,
   gaining actionable insights from ticket data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/zendesk
 icon_url: "/assets/images/seo_pages/connectors/zendesk"
 usage: 0
+schema_name: zendesk
 sections:
   overview:
     title: Zendesk Support Data Connector

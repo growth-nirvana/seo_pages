@@ -7,11 +7,12 @@ description: Unlock the potential of your machine-generated data with Splunk –
   identify patterns, and detect anomalies to gain a comprehensive understanding of
   your systems, applications, and security.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/splunk
 icon_url: "/assets/images/seo_pages/connectors/splunk"
 usage: 0
+schema_name: splunk
 sections:
   overview:
     title: Splunk Data Connector

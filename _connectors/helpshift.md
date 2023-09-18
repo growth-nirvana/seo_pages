@@ -5,11 +5,12 @@ name: Helpshift
 description: Enhance your customer support strategies with Helpshift integration,
   unlocking real-time data updates and actionable insights.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/helpshift
 icon_url: "/assets/images/seo_pages/connectors/helpshift"
 usage: 0
+schema_name: helpshift
 sections:
   overview:
     title: Helpshift Data Connector

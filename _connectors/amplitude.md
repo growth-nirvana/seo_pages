@@ -5,11 +5,12 @@ name: Amplitude
 description: Amplify your marketing analytics strategies with Amplitude integration
   and gain valuable insights from data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/amplitude
 icon_url: "/assets/images/seo_pages/connectors/amplitude"
 usage: 8
+schema_name: amplitude
 sections:
   overview:
     title: Amplitude Data Connector

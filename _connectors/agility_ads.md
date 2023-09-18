@@ -5,11 +5,12 @@ name: AgilityAds
 description: Amplify your marketing strategies with AgilityAds integration, gaining
   actionable insights from campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/agility_ads
 icon_url: "/assets/images/seo_pages/connectors/agility_ads"
 usage: 1
+schema_name: agility_ads
 sections:
   overview:
     title: AgilityAds Data Connector

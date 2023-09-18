@@ -5,11 +5,12 @@ name: Zendesk Chat
 description: Amplify customer support strategies with Zendesk Chat integration, gaining
   actionable insights from chat data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/zendesk_chat
 icon_url: "/assets/images/seo_pages/connectors/zendesk_chat"
 usage: 0
+schema_name: zendesk_chat
 sections:
   overview:
     title: Zendesk Chat Data Connector

@@ -6,11 +6,12 @@ description: Optimize project management and team collaboration with Monday.com,
   go-to solution for tracking tasks, managing deadlines, sharing files, and staying
   organized.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/monday
 icon_url: "/assets/images/seo_pages/connectors/monday"
 usage: 0
+schema_name: monday
 sections:
   overview:
     title: Monday.com Data Connector

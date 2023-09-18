@@ -7,11 +7,12 @@ description: Enhance your applications with Firebase - the leading backend-as-a-
   real-time database, authentication, and hosting features to streamline development
   and deliver exceptional user experiences.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/firebase
 icon_url: "/assets/images/seo_pages/connectors/firebase"
 usage: 0
+schema_name: firebase
 sections:
   overview:
     title: Firebase Data Connector

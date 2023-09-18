@@ -5,11 +5,12 @@ name: SkuVault
 description: Optimize your inventory management strategies with SkuVault integration,
   gaining actionable insights from inventory data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/skuvault
 icon_url: "/assets/images/seo_pages/connectors/skuvault"
 usage: 0
+schema_name: skuvault
 sections:
   overview:
     title: SkuVault Data Connector

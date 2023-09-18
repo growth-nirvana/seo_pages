@@ -8,11 +8,12 @@ description: Unlock the potential of high-volume data processing on IBM Db2 for 
   of high-volume transaction processing and advanced analytics with the High Volume
   Agent Db2 for i connector.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/db2i_hva
 icon_url: "/assets/images/seo_pages/connectors/db2i_hva"
 usage: 0
+schema_name: db2i_hva
 sections:
   overview:
     title: High Volume Agent Db2 for i Data Connector

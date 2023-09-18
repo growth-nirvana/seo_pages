@@ -5,11 +5,12 @@ name: Google Play
 description: Amplify your marketing strategies with Google Play integration, gaining
   actionable insights from campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/google_play
 icon_url: "/assets/images/seo_pages/connectors/google_play"
 usage: 0
+schema_name: google_play
 sections:
   overview:
     title: Google Play Data Connector

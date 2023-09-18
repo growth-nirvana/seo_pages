@@ -6,11 +6,12 @@ description: Unlock the true potential of your data with the BigQuery connector.
   visualize, and share large datasets with ease, while benefiting from the speed and
   reliability of Google's world-class infrastructure.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/bigquery_db
 icon_url: "/assets/images/seo_pages/connectors/bigquery_db"
 usage: 0
+schema_name: bigquery_db
 sections:
   overview:
     title: BigQuery Data Connector

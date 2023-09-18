@@ -5,11 +5,12 @@ name: Braintree Sandbox
 description: Amplify your payment processing strategies with Braintree Sandbox integration,
   gaining actionable insights from transaction data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/braintree_sandbox
 icon_url: "/assets/images/seo_pages/connectors/braintree_sandbox"
 usage: 0
+schema_name: braintree_sandbox
 sections:
   overview:
     title: Braintree Sandbox Data Connector

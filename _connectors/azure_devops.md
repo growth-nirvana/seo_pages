@@ -6,11 +6,12 @@ description: Empower Collaboration and Development with Azure DevOps Integration
   Streamline software development, automate workflows, and achieve seamless deployment
   and monitoring.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/azure_devops
 icon_url: "/assets/images/seo_pages/connectors/azure_devops"
 usage: 0
+schema_name: azure_devops
 sections:
   overview:
     title: Azure DevOps Data Connector

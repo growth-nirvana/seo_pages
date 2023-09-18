@@ -6,11 +6,12 @@ description: Elevate Brand Intelligence with Mention Integration. Harness real-t
   data on brand mentions to refine marketing campaigns, engage with your audience,
   and drive impactful brand strategies.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/mention
 icon_url: "/assets/images/seo_pages/connectors/mention"
 usage: 0
+schema_name: mention
 sections:
   overview:
     title: Mention Data Connector

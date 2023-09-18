@@ -5,11 +5,12 @@ name: QuickBooks
 description: Supercharge your advertising strategies with QuickBooks integration,
   unlocking real-time financial updates and actionable insights.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/quora_ads
 icon_url: "/assets/images/seo_pages/connectors/quora_ads"
 usage: 3
+schema_name: quora_ads
 sections:
   overview:
     title: QuickBooks Data Connector

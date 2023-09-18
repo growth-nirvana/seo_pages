@@ -5,11 +5,12 @@ name: LinkedIn Company Pages
 description: Amplify your marketing strategies with LinkedIn Company Pages integration,
   gaining actionable insights from campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/linkedin_company_pages
 icon_url: "/assets/images/seo_pages/connectors/linkedin_company_pages"
 usage: 19
+schema_name: linkedin_company_pages
 sections:
   overview:
     title: LinkedIn Company Pages Data Connector

@@ -5,11 +5,12 @@ name: Help Scout
 description: Amplify your customer support strategies with Help Scout integration,
   gaining actionable insights from ticket data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/helpscout
 icon_url: "/assets/images/seo_pages/connectors/helpscout"
 usage: 0
+schema_name: helpscout
 sections:
   overview:
     title: Help Scout Data Connector

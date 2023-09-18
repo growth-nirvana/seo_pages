@@ -5,11 +5,12 @@ name: Google Search Console
 description: Amplify your search engine optimization strategies with Google Search
   Console integration, gaining actionable insights from search data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/google_search_console
 icon_url: "/assets/images/seo_pages/connectors/google_search_console"
 usage: 22
+schema_name: google_search_console
 sections:
   overview:
     title: Google Search Console Data Connector

@@ -6,11 +6,12 @@ description: Optimize incident response with Opsgenie integration. Leverage cent
   alerts and incident management to ensure swift resolution, efficient team collaboration,
   and minimized service disruptions for enhanced customer satisfaction.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/atlassian_ops_genie
 icon_url: "/assets/images/seo_pages/connectors/atlassian_ops_genie"
 usage: 0
+schema_name: atlassian_ops_genie
 sections:
   overview:
     title: Opsgenie Data Connector

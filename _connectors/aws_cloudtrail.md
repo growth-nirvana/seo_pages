@@ -6,11 +6,12 @@ description: Gain visibility and control over your AWS account activities with A
   CloudTrail. Analyze user behavior, track API activity, and detect and respond to
   security threats with ease.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/aws_cloudtrail
 icon_url: "/assets/images/seo_pages/connectors/aws_cloudtrail"
 usage: 0
+schema_name: aws_cloudtrail
 sections:
   overview:
     title: AWS CloudTrail Data Connector

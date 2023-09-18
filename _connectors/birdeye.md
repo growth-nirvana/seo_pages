@@ -5,11 +5,12 @@ name: Birdeye
 description: Supercharge your reputation management strategies with Birdeye integration,
   unlocking real-time customer feedback updates and actionable insights.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/birdeye
 icon_url: "/assets/images/seo_pages/connectors/birdeye"
 usage: 0
+schema_name: birdeye
 sections:
   overview:
     title: Birdeye Data Connector

@@ -5,11 +5,12 @@ name: Lever
 description: Amplify your recruiting strategies with Lever integration, gaining actionable
   insights from candidate data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/lever
 icon_url: "/assets/images/seo_pages/connectors/lever"
 usage: 0
+schema_name: lever
 sections:
   overview:
     title: Lever Data Connector

@@ -7,11 +7,12 @@ description: Take advantage of Twilio's powerful features to streamline your com
   or building interactive voice response systems, Twilio provides the tools you need
   to enhance your customer experience.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/twilio
 icon_url: "/assets/images/seo_pages/connectors/twilio"
 usage: 0
+schema_name: twilio
 sections:
   overview:
     title: Twilio Data Connector

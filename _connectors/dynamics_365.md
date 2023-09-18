@@ -5,11 +5,12 @@ name: Microsoft Dynamics 365 CRM
 description: Amplify your marketing strategies with Microsoft Dynamics 365 CRM integration,
   unlocking actionable insights from campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/dynamics_365
 icon_url: "/assets/images/seo_pages/connectors/dynamics_365"
 usage: 0
+schema_name: dynamics_365
 sections:
   overview:
     title: Microsoft Dynamics 365 CRM Data Connector

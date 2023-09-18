@@ -5,11 +5,12 @@ name: Google Ad Manager
 description: Amplify your marketing strategies with Google Ad Manager integration.
   Gain actionable insights from campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/double_click_publishers
 icon_url: "/assets/images/seo_pages/connectors/double_click_publishers"
 usage: 0
+schema_name: double_click_publishers
 sections:
   overview:
     title: Google Ad Manager Data Connector

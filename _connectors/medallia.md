@@ -5,11 +5,12 @@ name: Medallia
 description: Amplify your customer experience strategies with Medallia integration,
   gaining actionable insights from customer feedback analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/medallia
 icon_url: "/assets/images/seo_pages/connectors/medallia"
 usage: 0
+schema_name: medallia
 sections:
   overview:
     title: Medallia Data Connector

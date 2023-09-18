@@ -6,11 +6,12 @@ description: Elevate website reliability with Pingdom integration. Leverage cont
   monitoring of website performance metrics to proactively detect and resolve issues,
   ensuring consistent uptime and optimal user experiences.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/pingdom
 icon_url: "/assets/images/seo_pages/connectors/pingdom"
 usage: 0
+schema_name: pingdom
 sections:
   overview:
     title: Pingdom Data Connector

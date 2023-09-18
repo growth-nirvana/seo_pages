@@ -6,11 +6,12 @@ description: Optimize HR Operations with HiBob Integration. Empower your HR team
   comprehensive insights and data-driven decision-making, transforming employee management
   and engagement.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/hibob
 icon_url: "/assets/images/seo_pages/connectors/hibob"
 usage: 0
+schema_name: hibob
 sections:
   overview:
     title: HiBob Data Connector

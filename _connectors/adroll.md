@@ -5,11 +5,12 @@ name: AdRoll
 description: Supercharge your advertising strategies with AdRoll integration, unlocking
   real-time data updates and actionable insights.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/adroll
 icon_url: "/assets/images/seo_pages/connectors/adroll"
 usage: 10
+schema_name: adroll
 sections:
   overview:
     title: AdRoll Data Connector

@@ -5,11 +5,12 @@ name: Eloqua
 description: Amplify your marketing automation strategies with Eloqua integration,
   gaining actionable insights from campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/eloqua
 icon_url: "/assets/images/seo_pages/connectors/eloqua"
 usage: 1
+schema_name: eloqua
 sections:
   overview:
     title: Eloqua Data Connector

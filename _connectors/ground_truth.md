@@ -5,11 +5,12 @@ name: Ground Truth
 description: Amplify your marketing automation strategies with Ground Truth integration,
   gaining actionable insights from campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/ground_truth
 icon_url: "/assets/images/seo_pages/connectors/ground_truth"
 usage: 1
+schema_name: ground_truth
 sections:
   overview:
     title: Ground Truth Data Connector

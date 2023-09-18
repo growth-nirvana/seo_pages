@@ -5,11 +5,12 @@ name: Google Tasks
 description: Supercharge your task management strategies with Google Tasks integration,
   unlocking real-time updates and seamless collaboration across teams.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/google_tasks
 icon_url: "/assets/images/seo_pages/connectors/google_tasks"
 usage: 0
+schema_name: google_tasks
 sections:
   overview:
     title: Google Tasks Data Connector

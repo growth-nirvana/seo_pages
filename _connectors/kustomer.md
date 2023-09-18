@@ -5,11 +5,12 @@ name: Kustomer
 description: Amplify your customer support strategies with Kustomer integration, gaining
   actionable insights from customer data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/kustomer
 icon_url: "/assets/images/seo_pages/connectors/kustomer"
 usage: 0
+schema_name: kustomer
 sections:
   overview:
     title: Kustomer Data Connector

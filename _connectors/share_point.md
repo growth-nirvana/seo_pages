@@ -6,11 +6,12 @@ description: Enhance productivity and streamline information sharing with the Sh
   connector. Share and collaborate on documents, manage workflows, and organize content
   effortlessly using SharePoint's comprehensive suite of tools.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/share_point
 icon_url: "/assets/images/seo_pages/connectors/share_point"
 usage: 0
+schema_name: share_point
 sections:
   overview:
     title: SharePoint Data Connector

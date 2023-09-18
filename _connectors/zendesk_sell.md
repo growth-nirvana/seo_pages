@@ -5,11 +5,12 @@ name: Zendesk Sell
 description: Amplify your sales strategies with Zendesk Sell integration, gaining
   actionable insights from sales data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/zendesk_sell
 icon_url: "/assets/images/seo_pages/connectors/zendesk_sell"
 usage: 0
+schema_name: zendesk_sell
 sections:
   overview:
     title: Zendesk Sell Data Connector

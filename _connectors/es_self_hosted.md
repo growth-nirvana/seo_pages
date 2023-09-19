@@ -8,6 +8,8 @@ date: 2023-08-17
 categories: connectors
 permalink: connectors/es_self_hosted
 icon_url: /assets/images/seo_pages/connectors/es_self_hosted
+usage: 0
+schema_name: es_self_hosted
 
 sections:
   overview:

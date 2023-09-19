@@ -7522,6 +7522,16 @@
     },
     "name": "Heap"
   },
+  "height": {
+    "overview": {
+      "description": "Elevate your supply chain insights with Height integration. Seamlessly merge supply chain data from Height with analytical capabilities, unlocking insights that drive inventory strategies, logistics performance, and operational excellence."
+    },
+    "body": {
+      "description": "Integrate Height insights into comprehensive supply chain analytics that guide your operational strategies."
+    },
+    "schema_name": "height",
+    "name": "Height"
+  },
   "helpscout": {
     "overview": {
       "description": "Enhance your customer support insights with Help Scout integration. Seamlessly merge support data, unlocking insights that shape support strategies, ticket analysis, and operational excellence."
@@ -19626,6 +19636,16 @@
     "schema_name": "elastic_cloud",
     "name": "Elastic Cloud"
   },
+  "es_self_hosted": {
+    "overview": {
+      "description": "Optimize your Elasticsearch insights with Self Hosted Elasticsearch integration. Seamlessly merge Elasticsearch data with Looker Studio's analytical capabilities, unlocking insights that drive search performance strategies, data indexing, and operational excellence."
+    },
+    "body": {
+      "description": "Harness the power of Self Hosted Elasticsearch insights integrated into Looker Studio for strategic search optimization decisions."
+    },
+    "schema_name": "es_self_hosted",
+    "name": "Self Hosted Elasticsearch"
+  },
   "email": {
     "overview": {
       "description": "Integrate your Email data to supercharge your analytics. Seamlessly merge Email engagement data with Looker Studio for comprehensive insights and data-driven decisions."
@@ -19835,6 +19855,16 @@
     },
     "schema_name": "maria_rds",
     "name": "MariaDB RDS"
+  },
+  "maria_db": {
+    "overview": {
+      "description": "Experience seamless database management with the MariaDB connector. Simplify your relational database operations, optimize performance, and ensure data integrity with MariaDB."
+    },
+    "body": {
+      "description": "Simplify your relational database operations with the MariaDB connector."
+    },
+    "schema_name": "maria",
+    "name": "MariaDB"
   },
   "dynamics_365_fo": {
     "overview": {

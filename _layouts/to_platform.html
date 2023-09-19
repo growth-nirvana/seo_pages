@@ -2,6 +2,31 @@
 layout: default
 ---
 
+<div class="bg-neutral-100">
+  <div class="py-8 lg:py-16 px-8 container mx-auto">
+    <div class="flex flex-row justify-center">
+      {% assign platform_id = page.platform_id %}
+      {% assign platform = site.data["platforms"][platform_id] %}
+
+      <img src="{{ page.icon_url }}.svg"
+           loading="lazy"
+           class="mx-8 h-32 w-32 flex-shrink-0 rounded-md"
+           alt="{{ page.name }}"
+           onerror="this.onerror=null; this.src='{{ page.icon_url }}.png'" />
+
+      <div class="flex flex-col justify-center">
+        {% include_cached icons/chevron-right.svg %}
+      </div>
+
+      <img src="{{ platform.icon_url }}.svg"
+           loading="lazy"
+           class="mx-8 h-32 flex-shrink-0 rounded-md"
+           alt="{{ platform.name }}"
+           onerror="this.onerror=null; this.src='{{ platform.icon_url }}.png'" />
+    </div>
+  </div>
+</div>
+
 <div class="bg-white">
   <div class="py-8 lg:py-16 px-8 container mx-auto">
     <div class="grid grid-cols-1 md:grid-cols-2 gap-12 max-w-7xl mx-auto">

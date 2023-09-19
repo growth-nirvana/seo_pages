@@ -30,7 +30,7 @@ module Jekyll
       self.data['name'] = "Sync #{connector.data['name']} to #{site.data['platforms'][platform_id]['name']}"
       self.data['title'] = "Sync #{connector.data['name']} to #{site.data['platforms'][platform_id]['name']}"
       self.data['platform_id'] = platform_id
-      self.data['permalink'] = "sync/#{connector.data['schema_name']}/to/#{platform_id}/"
+      self.data['permalink'] = "connect/sync_#{connector.data['schema_name']}_to_#{platform_id}/"
       self.data['sections']['overview']['title'] = "Sync #{connector.data['name']} to #{site.data['platforms'][platform_id]['name']}"
 
       self.process(@name)

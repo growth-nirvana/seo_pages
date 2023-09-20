@@ -5,11 +5,12 @@ name: Mavenlink
 description: Amplify your project management strategies with Mavenlink integration,
   gaining actionable insights from project data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/mavenlink
 icon_url: "/assets/images/seo_pages/connectors/mavenlink"
 usage: 0
+schema_name: mavenlink
 sections:
   overview:
     title: Mavenlink Data Connector

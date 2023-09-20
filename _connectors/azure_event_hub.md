@@ -5,11 +5,12 @@ name: Azure Event Hubs
 description: Amplify your event streaming strategies with Azure Event Hubs integration,
   gaining actionable insights from event data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/azure_event_hub
 icon_url: "/assets/images/seo_pages/connectors/azure_event_hub"
 usage: 0
+schema_name: azure_event_hub
 sections:
   overview:
     title: Azure Event Hubs Data Connector

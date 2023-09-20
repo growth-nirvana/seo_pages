@@ -5,11 +5,12 @@ name: Paypal Sandbox
 description: Amplify your marketing strategies with Paypal Sandbox integration, gaining
   actionable insights from data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/paypal_sandbox
 icon_url: "/assets/images/seo_pages/connectors/paypal_sandbox"
 usage: 0
+schema_name: paypal_sandbox
 sections:
   overview:
     title: Paypal Sandbox Data Connector

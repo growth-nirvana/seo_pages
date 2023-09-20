@@ -5,11 +5,12 @@ name: Samsara
 description: Amplify your marketing strategies with Samsara integration. Gain actionable
   insights from data analysis to optimize campaign performance.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/samsara
 icon_url: "/assets/images/seo_pages/connectors/samsara"
 usage: 0
+schema_name: samsara
 sections:
   overview:
     title: Samsara Data Connector

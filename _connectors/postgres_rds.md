@@ -5,11 +5,12 @@ name: Postgres RDS
 description: Experience unparalleled reliability and scalability with Postgres RDS
   – your trusted solution for managing and accessing relational databases in the cloud.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/postgres_rds
 icon_url: "/assets/images/seo_pages/connectors/postgres_rds"
 usage: 2
+schema_name: postgres_rds
 sections:
   overview:
     title: Postgres RDS Data Connector

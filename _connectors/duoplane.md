@@ -6,11 +6,12 @@ description: Supercharge your ecommerce strategies with Duoplane integration, un
   real-time data updates and streamlining your operations for increased sales and
   productivity.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/duoplane
 icon_url: "/assets/images/seo_pages/connectors/duoplane"
 usage: 0
+schema_name: duoplane
 sections:
   overview:
     title: Duoplane Data Connector

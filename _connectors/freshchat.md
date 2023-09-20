@@ -6,11 +6,12 @@ description: Supercharge your customer support strategies with Freshchat integra
   unlocking real-time chat and messaging data updates for enhanced customer interactions
   and support resolution.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/freshchat
 icon_url: "/assets/images/seo_pages/connectors/freshchat"
 usage: 0
+schema_name: freshchat
 sections:
   overview:
     title: Freshchat Data Connector

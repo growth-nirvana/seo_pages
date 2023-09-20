@@ -1,25 +1,20 @@
 <head>
-  {% include gtm.html %}
+  {% include_cached gtm.html %}
 
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   {% seo title=false %}
 
+  <!-- {{ page.name }}-->
+
   <title>
-      {% if page.tag or page.title %}
-        {% if page.tag %}
-          {{ page.tag | escape }}
-        {% else %}
-          {{ page.title | escape }}
-        {% endif %}
-      {% else %}
-        {{ site.title | escape }}
-      {% endif %}
-      {% if paginator and paginator.page and paginator.total_pages > 1 and paginator.page > 1 %}
-        - Page {{ paginator.page }} of {{ paginator.total_pages }} -
-      {% endif %}
-    </title>
+    {% if page.title %}
+      {{ page.title | escape }}
+    {% else %}
+      {{ site.title | escape }}
+    {% endif %}
+  </title>
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

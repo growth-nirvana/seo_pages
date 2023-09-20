@@ -5,11 +5,12 @@ name: Stripe
 description: Amplify your marketing strategies with Stripe integration, gaining actionable
   insights from campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/stripe
 icon_url: "/assets/images/seo_pages/connectors/stripe"
 usage: 3
+schema_name: stripe
 sections:
   overview:
     title: Stripe Data Connector

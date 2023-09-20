@@ -6,11 +6,12 @@ description: Empower your ecommerce business with Pipe17 integration, unlocking 
   synchronization of orders and inventory, enabling efficient order management, and
   optimizing fulfillment workflows.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/pipe17
 icon_url: "/assets/images/seo_pages/connectors/pipe17"
 usage: 0
+schema_name: pipe17
 sections:
   overview:
     title: Pipe17 Data Connector

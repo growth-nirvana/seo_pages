@@ -5,11 +5,12 @@ name: Spotify Ads
 description: Supercharge your advertising strategies with Spotify Ads integration,
   unlocking real-time data updates and actionable insights.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/spotify_ads
 icon_url: "/assets/images/seo_pages/connectors/spotify_ads"
 usage: 0
+schema_name: spotify_ads
 sections:
   overview:
     title: Spotify Ads Data Connector

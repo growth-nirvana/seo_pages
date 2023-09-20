@@ -6,11 +6,12 @@ description: Boost your development workflow with CircleCI integration. Leverage
   CI/CD processes to streamline software delivery, increase code quality, and enable
   efficient collaboration among your development teams.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/circleci
 icon_url: "/assets/images/seo_pages/connectors/circleci"
 usage: 0
+schema_name: circleci
 sections:
   overview:
     title: CircleCI Data Connector

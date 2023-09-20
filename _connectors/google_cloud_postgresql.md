@@ -8,11 +8,12 @@ description: Unlock the full potential of your data with Google Cloud PostgreSQL
   workloads. Increase productivity, reduce costs, and accelerate innovation with Google
   Cloud PostgreSQL.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/google_cloud_postgresql
 icon_url: "/assets/images/seo_pages/connectors/google_cloud_postgresql"
 usage: 0
+schema_name: google_cloud_postgresql
 sections:
   overview:
     title: Google Cloud PostgreSQL Data Connector

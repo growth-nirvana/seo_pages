@@ -6,11 +6,12 @@ description: Harness the Potential of Web Scraper Integration. Empower your data
   and analysis efforts by seamlessly integrating web scraping capabilities into your
   workflow.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/web_scraper
 icon_url: "/assets/images/seo_pages/connectors/web_scraper"
 usage: 0
+schema_name: web_scraper
 sections:
   overview:
     title: Web Scraper Data Connector

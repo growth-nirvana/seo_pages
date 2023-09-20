@@ -34,6 +34,9 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
+feed:
+  disable_in_development: false
+
 # jekyll-seo-tag settings (https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md)
 logo: assets/images/seo_pages/logo-dark.png
 

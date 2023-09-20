@@ -5,11 +5,12 @@ name: Zuora Sandbox
 description: Amplify your marketing data strategies with Zuora Sandbox integration,
   gaining actionable insights from data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/zuora_sandbox
 icon_url: "/assets/images/seo_pages/connectors/zuora_sandbox"
 usage: 0
+schema_name: zuora_sandbox
 sections:
   overview:
     title: Zuora Sandbox Data Connector

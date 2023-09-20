@@ -7,11 +7,12 @@ description: SFTP is widely used for secure file transfers between systems. It o
   integrity of data during transit. With SFTP, you can securely exchange files with
   remote systems in a seamless and reliable manner.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/sftp
 icon_url: "/assets/images/seo_pages/connectors/sftp"
 usage: 0
+schema_name: sftp
 sections:
   overview:
     title: SFTP Data Connector

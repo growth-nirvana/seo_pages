@@ -51,6 +51,7 @@ class Generator
       "permalink"=> "connectors/#{ schema_name }",
       "icon_url"=> "/assets/images/seo_pages/connectors/#{ schema_name }",
       "usage"=> usage.fetch(schema_name, 0).to_i,
+      "schema_name"=> schema_name,
       "sections"=> {
         "overview"=> {
           "title"=> "#{ name } Data Connector",

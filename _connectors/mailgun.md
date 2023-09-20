@@ -5,11 +5,12 @@ name: Mailgun
 description: Amplify your email marketing strategies with Mailgun integration, gaining
   actionable insights from email campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/mailgun
 icon_url: "/assets/images/seo_pages/connectors/mailgun"
 usage: 0
+schema_name: mailgun
 sections:
   overview:
     title: Mailgun Data Connector

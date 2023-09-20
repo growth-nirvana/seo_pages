@@ -5,11 +5,12 @@ name: Docebo
 description: Empower Your Learning Initiatives with Docebo Integration. Leverage the
   power of integrated data to deliver impactful training and foster continuous learning.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/docebo
 icon_url: "/assets/images/seo_pages/connectors/docebo"
 usage: 0
+schema_name: docebo
 sections:
   overview:
     title: Docebo Data Connector

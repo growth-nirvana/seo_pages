@@ -6,11 +6,12 @@ description: Optimize Operations with DEAR Integration. Unlock the power of stre
   inventory management, data-driven order processing, and improved overall business
   efficiency.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/dear
 icon_url: "/assets/images/seo_pages/connectors/dear"
 usage: 0
+schema_name: dear
 sections:
   overview:
     title: DEAR Data Connector

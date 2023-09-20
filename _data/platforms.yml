@@ -1,0 +1,24 @@
+tableau:
+  name: Tableau
+  icon_url: "/assets/images/seo_pages/platforms/tableau"
+domo:
+  name: Domo
+  icon_url: "/assets/images/seo_pages/platforms/domo"
+looker:
+  name: Looker Studio
+  icon_url: "/assets/images/seo_pages/platforms/looker"
+spreadsheets:
+  name: Spreadsheets
+  icon_url: "/assets/images/seo_pages/platforms/spreadsheets"
+bigquery:
+  name: BigQuery
+  icon_url: "/assets/images/seo_pages/platforms/bigquery"
+snowflake:
+  name: Snowflake
+  icon_url: "/assets/images/seo_pages/platforms/snowflake"
+redash:
+  name: Redash
+  icon_url: "/assets/images/seo_pages/platforms/redash"
+metabase:
+  name: Metabase
+  icon_url: "/assets/images/seo_pages/platforms/metabase"

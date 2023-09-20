@@ -7,11 +7,12 @@ description: Unlock the potential of your applications with Azure Cosmos DB - No
   the benefits of a fully managed, multi-model database service that supports schema-free
   data and provides global distribution across Azure regions.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/cosmos
 icon_url: "/assets/images/seo_pages/connectors/cosmos"
 usage: 0
+schema_name: cosmos
 sections:
   overview:
     title: Azure Cosmos DB - NoSQL API Data Connector

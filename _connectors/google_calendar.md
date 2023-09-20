@@ -5,11 +5,12 @@ name: Google Calendar
 description: Optimize Your Scheduling and Time Management with Google Calendar Integration.
   Unlock the power of synchronized calendars to efficiently manage your time and activities.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/google_calendar
 icon_url: "/assets/images/seo_pages/connectors/google_calendar"
 usage: 0
+schema_name: google_calendar
 sections:
   overview:
     title: Google Calendar Data Connector

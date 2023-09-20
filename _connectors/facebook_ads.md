@@ -5,11 +5,12 @@ name: Facebook Ads
 description: Amplify your Facebook ad performance with Facebook Ads integration. Unlock
   actionable insights to drive better results from your campaigns.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/facebook_ads
 icon_url: "/assets/images/seo_pages/connectors/facebook_ads"
 usage: 194
+schema_name: facebook_ads
 sections:
   overview:
     title: Facebook Ads Data Connector

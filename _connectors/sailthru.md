@@ -5,11 +5,12 @@ name: Sailthru
 description: Amplify your marketing automation strategies with Sailthru integration,
   gaining actionable insights from campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/sailthru
 icon_url: "/assets/images/seo_pages/connectors/sailthru"
 usage: 1
+schema_name: sailthru
 sections:
   overview:
     title: Sailthru Data Connector

@@ -5,11 +5,12 @@ name: Gainsight Customer Success
 description: Amplify your customer success strategies with Gainsight integration,
   gaining actionable insights from customer data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/gainsight_customer_success
 icon_url: "/assets/images/seo_pages/connectors/gainsight_customer_success"
 usage: 0
+schema_name: gainsight_customer_success
 sections:
   overview:
     title: Gainsight Customer Success Data Connector

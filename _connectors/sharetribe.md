@@ -6,11 +6,12 @@ description: Elevate your online marketplace with Sharetribe integration. Harnes
   powerful tools to easily build and manage your marketplace, enabling seamless transactions,
   engaging user experiences, and thriving online communities.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/sharetribe
 icon_url: "/assets/images/seo_pages/connectors/sharetribe"
 usage: 0
+schema_name: sharetribe
 sections:
   overview:
     title: Sharetribe Data Connector

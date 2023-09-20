@@ -5,11 +5,12 @@ name: Talkdesk
 description: Amplify your customer service strategies with Talkdesk integration, gaining
   actionable insights from support data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/talkdesk
 icon_url: "/assets/images/seo_pages/connectors/talkdesk"
 usage: 0
+schema_name: talkdesk
 sections:
   overview:
     title: Talkdesk Data Connector

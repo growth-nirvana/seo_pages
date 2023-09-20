@@ -5,11 +5,12 @@ name: Subscript
 description: Amplify your marketing automation strategies with Subscript integration,
   gaining actionable insights from campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/subscript
 icon_url: "/assets/images/seo_pages/connectors/subscript"
 usage: 0
+schema_name: subscript
 sections:
   overview:
     title: Subscript Data Connector

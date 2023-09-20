@@ -7,11 +7,12 @@ description: Simplify your database management with Google Cloud MySQL. Store, q
   power of the fully-managed MySQL service to scale your applications and ensure high
   availability.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/google_cloud_mysql
 icon_url: "/assets/images/seo_pages/connectors/google_cloud_mysql"
 usage: 1
+schema_name: google_cloud_mysql
 sections:
   overview:
     title: Google Cloud MySQL Data Connector

@@ -5,11 +5,12 @@ name: Google Campaign Manager 360
 description: Supercharge your advertising strategies with Google Campaign Manager
   360 integration, unlocking real-time data updates and actionable insights.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/double_click_campaign_manager
 icon_url: "/assets/images/seo_pages/connectors/double_click_campaign_manager"
 usage: 7
+schema_name: double_click_campaign_manager
 sections:
   overview:
     title: Google Campaign Manager 360 Data Connector

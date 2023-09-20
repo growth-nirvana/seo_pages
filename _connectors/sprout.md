@@ -5,11 +5,12 @@ name: Sprout Social
 description: Amplify your social media strategies with Sprout Social integration,
   gaining actionable insights from social media data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/sprout
 icon_url: "/assets/images/seo_pages/connectors/sprout"
 usage: 4
+schema_name: sprout
 sections:
   overview:
     title: Sprout Social Data Connector

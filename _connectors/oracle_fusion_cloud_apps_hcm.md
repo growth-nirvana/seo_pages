@@ -5,11 +5,12 @@ name: Oracle Fusion Cloud Applications - HCM
 description: Amplify your marketing automation strategies with Oracle Fusion Cloud
   Applications - HCM integration, gaining actionable insights from campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/oracle_fusion_cloud_apps_hcm
 icon_url: "/assets/images/seo_pages/connectors/oracle_fusion_cloud_apps_hcm"
 usage: 0
+schema_name: oracle_fusion_cloud_apps_hcm
 sections:
   overview:
     title: Oracle Fusion Cloud Applications - HCM Data Connector

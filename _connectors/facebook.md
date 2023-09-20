@@ -5,11 +5,12 @@ name: Facebook Ad Insights
 description: Amplify your marketing strategies with Facebook Ad Insights integration.
   Analyze ad performance and optimize campaigns based on data-driven insights.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/facebook
 icon_url: "/assets/images/seo_pages/connectors/facebook"
 usage: 0
+schema_name: facebook
 sections:
   overview:
     title: Facebook Ad Insights Data Connector

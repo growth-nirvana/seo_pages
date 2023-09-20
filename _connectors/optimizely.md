@@ -5,11 +5,12 @@ name: Optimizely
 description: Amplify your marketing strategies with Optimizely integration, leveraging
   actionable insights from campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/optimizely
 icon_url: "/assets/images/seo_pages/connectors/optimizely"
 usage: 0
+schema_name: optimizely
 sections:
   overview:
     title: Optimizely Data Connector

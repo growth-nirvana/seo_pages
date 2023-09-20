@@ -5,11 +5,12 @@ name: Reddit Ads
 description: Improve your marketing strategies with Reddit Ads integration. Gain actionable
   insights from campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/reddit_ads
 icon_url: "/assets/images/seo_pages/connectors/reddit_ads"
 usage: 3
+schema_name: reddit_ads
 sections:
   overview:
     title: Reddit Ads Data Connector

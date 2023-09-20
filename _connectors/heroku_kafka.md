@@ -5,11 +5,12 @@ name: Heroku Kafka
 description: Boost your application's data processing capabilities with Heroku Kafka
   integration, enabling real-time streaming and analysis of data.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/heroku_kafka
 icon_url: "/assets/images/seo_pages/connectors/heroku_kafka"
 usage: 0
+schema_name: heroku_kafka
 sections:
   overview:
     title: Heroku Kafka Data Connector

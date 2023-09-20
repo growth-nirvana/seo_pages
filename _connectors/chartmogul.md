@@ -6,11 +6,12 @@ description: Maximize the power of your subscription analytics with ChartMogul i
   Analyze subscription performance, identify growth opportunities, and make data-driven
   decisions.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/chartmogul
 icon_url: "/assets/images/seo_pages/connectors/chartmogul"
 usage: 0
+schema_name: chartmogul
 sections:
   overview:
     title: ChartMogul Data Connector

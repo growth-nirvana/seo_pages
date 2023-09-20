@@ -1,18 +1,14 @@
----
-layout: compress
----
-
 <!DOCTYPE html>
 <html lang="en" class="">
   {% include head.html %}
   <body class="">
-    {% include gtm_noscript.html %}
+    {% include_cached gtm_noscript.html %}
     <main role="main" class="z-10 min-h-screen flex flex-col justify-between">
-      {% include header.html %}
+      {% include_cached header.html %}
       <div class="grow">
         {{ content }}
       </div>
-      {% include footer.html %}
+      {% include_cached footer.html %}
     </main>
   </body>
 </html>

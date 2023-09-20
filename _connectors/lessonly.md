@@ -5,11 +5,12 @@ name: Lessonly
 description: Amplify your marketing strategies with Lessonly integration, gaining
   actionable insights from data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/lessonly
 icon_url: "/assets/images/seo_pages/connectors/lessonly"
 usage: 0
+schema_name: lessonly
 sections:
   overview:
     title: Lessonly Data Connector

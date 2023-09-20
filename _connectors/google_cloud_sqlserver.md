@@ -6,11 +6,12 @@ description: Drive your business forward with Google Cloud SQL - SQL Server. Eas
   manage and optimize your SQL Server databases on the scalable and secure Google
   Cloud Platform.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/google_cloud_sqlserver
 icon_url: "/assets/images/seo_pages/connectors/google_cloud_sqlserver"
 usage: 0
+schema_name: google_cloud_sqlserver
 sections:
   overview:
     title: Google Cloud SQL - SQL Server Data Connector

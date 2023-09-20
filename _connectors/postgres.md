@@ -8,6 +8,7 @@ date: 2023-08-17
 categories: connectors
 permalink: connectors/postgres
 icon_url: /assets/images/seo_pages/connectors/postgres
+schema_name: postgres
 
 sections:
   overview:

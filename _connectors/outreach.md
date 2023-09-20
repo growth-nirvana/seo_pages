@@ -4,11 +4,12 @@ title: Outreach Connector - Growth Nirvana
 name: Outreach
 description: Amplify your outreach strategies with the Outreach connector.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/outreach
 icon_url: "/assets/images/seo_pages/connectors/outreach"
 usage: 0
+schema_name: outreach
 sections:
   overview:
     title: Outreach Data Connector

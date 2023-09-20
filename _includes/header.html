@@ -26,7 +26,7 @@
           </div>
         {% endfor %}
 
-        {% include calendly_link.html class="btn btn-primary text-base hidden lg:flex" utm_content=page.permalink %}
+        {% include_cached calendly_link.html class="btn btn-primary text-base hidden lg:flex" utm_content=page.permalink %}
       </div>
     </div>
 
@@ -73,7 +73,7 @@
                 {% endfor %}
               </div>
               <div class="py-6">
-                {% include calendly_link.html class="btn btn-primary flex justify-center text-base" utm_content=page.permalink %}
+                {% include_cached calendly_link.html class="btn btn-primary flex justify-center text-base" utm_content=page.permalink %}
               </div>
             </div>
           </div>

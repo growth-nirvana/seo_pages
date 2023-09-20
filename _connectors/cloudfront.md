@@ -5,11 +5,12 @@ name: Amazon CloudFront
 description: Elevate engagement and performance worldwide with Amazon CloudFront –
   your gateway to global content delivery for data, videos, applications, and APIs.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/cloudfront
 icon_url: "/assets/images/seo_pages/connectors/cloudfront"
 usage: 0
+schema_name: cloudfront
 sections:
   overview:
     title: Amazon CloudFront Data Connector

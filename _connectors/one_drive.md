@@ -5,11 +5,12 @@ name: OneDrive
 description: Experience seamless file management and collaboration with OneDrive -
   the leading cloud storage and file hosting service by Microsoft.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/one_drive
 icon_url: "/assets/images/seo_pages/connectors/one_drive"
 usage: 0
+schema_name: one_drive
 sections:
   overview:
     title: OneDrive Data Connector

@@ -5,11 +5,12 @@ name: Drift
 description: Amplify your conversational marketing strategies with Drift integration,
   gaining actionable insights from messaging data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/drift
 icon_url: "/assets/images/seo_pages/connectors/drift"
 usage: 0
+schema_name: drift
 sections:
   overview:
     title: Drift Data Connector

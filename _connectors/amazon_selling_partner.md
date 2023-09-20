@@ -6,11 +6,12 @@ description: |-
   Unleash the Potential of Your Amazon Selling Business.
   Empower your selling strategy with Amazon Selling Partner integration, providing real-time data insights and actionable information.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/amazon_selling_partner
 icon_url: "/assets/images/seo_pages/connectors/amazon_selling_partner"
 usage: 0
+schema_name: amazon_selling_partner
 sections:
   overview:
     title: Amazon Selling Partner Data Connector

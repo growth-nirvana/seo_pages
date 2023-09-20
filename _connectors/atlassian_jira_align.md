@@ -6,11 +6,12 @@ description: Enhance Your Project Management with Jira Align Integration. Unlock
   power of agile methodologies and collaborative project management by seamlessly
   integrating Jira Align with your existing tools.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/atlassian_jira_align
 icon_url: "/assets/images/seo_pages/connectors/atlassian_jira_align"
 usage: 0
+schema_name: atlassian_jira_align
 sections:
   overview:
     title: Jira Align Data Connector

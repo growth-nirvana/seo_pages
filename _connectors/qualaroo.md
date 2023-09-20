@@ -5,11 +5,12 @@ name: Qualaroo
 description: Supercharge your marketing strategies with Qualaroo integration, unlocking
   real-time customer feedback updates and actionable insights.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/qualaroo
 icon_url: "/assets/images/seo_pages/connectors/qualaroo"
 usage: 0
+schema_name: qualaroo
 sections:
   overview:
     title: Qualaroo Data Connector

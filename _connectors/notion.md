@@ -8,6 +8,7 @@ date: 2023-08-17
 categories: connectors
 permalink: connectors/notion
 icon_url: /assets/images/seo_pages/connectors/notion
+schema_name: notion
 
 sections:
   overview:

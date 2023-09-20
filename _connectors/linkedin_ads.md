@@ -6,11 +6,12 @@ description: Unlock the full potential of your LinkedIn ad campaigns with Linked
   Ad Analytics integration. Analyze ad performance, audience engagement, and conversion
   rates for data-driven decision-making.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/linkedin_ads
 icon_url: "/assets/images/seo_pages/connectors/linkedin_ads"
 usage: 55
+schema_name: linkedin_ads
 sections:
   overview:
     title: LinkedIn Ad Analytics Data Connector

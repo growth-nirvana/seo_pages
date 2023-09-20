@@ -5,11 +5,12 @@ name: Lightspeed Retail
 description: Amplify your retail strategies with Lightspeed Retail integration, gaining
   actionable insights from sales data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/light_speed_retail
 icon_url: "/assets/images/seo_pages/connectors/light_speed_retail"
 usage: 0
+schema_name: light_speed_retail
 sections:
   overview:
     title: Lightspeed Retail Data Connector

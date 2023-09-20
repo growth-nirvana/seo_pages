@@ -4,11 +4,12 @@ title: Azure SQL Managed Instance Connector - Growth Nirvana
 name: Azure SQL Managed Instance
 description: Description of body for Azure SQL Managed Instance connector.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/azure_sql_managed_db
 icon_url: "/assets/images/seo_pages/connectors/azure_sql_managed_db"
 usage: 0
+schema_name: azure_sql_managed_db
 sections:
   overview:
     title: Azure SQL Managed Instance Data Connector

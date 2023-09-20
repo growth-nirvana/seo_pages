@@ -5,11 +5,12 @@ name: ChurnZero
 description: Supercharge your customer retention efforts with ChurnZero integration,
   unlocking real-time data updates and actionable insights.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/churnzero
 icon_url: "/assets/images/seo_pages/connectors/churnzero"
 usage: 0
+schema_name: churnzero
 sections:
   overview:
     title: ChurnZero Data Connector

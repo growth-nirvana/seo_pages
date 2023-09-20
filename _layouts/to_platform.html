@@ -1,0 +1,114 @@
+---
+layout: default
+---
+
+<div class="bg-neutral-100">
+  <div class="py-8 lg:py-16 px-8 container mx-auto">
+    <div class="flex flex-row justify-center">
+      {% assign platform_id = page.platform_id %}
+      {% assign platform = site.data["platforms"][platform_id] %}
+
+      <img src="{{ page.icon_url }}.svg"
+           loading="lazy"
+           class="mx-8 h-32 w-32 flex-shrink-0 rounded-md"
+           alt="{{ page.name }}"
+           onerror="this.onerror=null; this.src='{{ page.icon_url }}.png'" />
+
+      <div class="flex flex-col justify-center">
+        {% include_cached icons/chevron-right.svg %}
+      </div>
+
+      <img src="{{ platform.icon_url }}.svg"
+           loading="lazy"
+           class="mx-8 h-32 flex-shrink-0 rounded-md"
+           alt="{{ platform.name }}"
+           onerror="this.onerror=null; this.src='{{ platform.icon_url }}.png'" />
+    </div>
+  </div>
+</div>
+
+<div class="bg-white">
+  <div class="py-8 lg:py-16 px-8 container mx-auto">
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-12 max-w-7xl mx-auto">
+      <div class="flex flex-col justify-center">
+        <h1 class="font-semibold text-4xl lg:text-6xl text-gray-800 tracking-tight">
+          {{ page.sections.overview.title | newline_to_br }}
+        </h1>
+
+        <p class="mt-6 text-base lg:text-lg">
+          {{ page.sections.overview.description | newline_to_br }}
+        </p>
+
+        <p class="mt-10 flex justify-center lg:justify-normal">
+          {% include_cached calendly_link.html class="btn btn-primary" utm_content=page.permalink %}
+        </p>
+      </div>
+      <div class="md:ml-0 my-auto">
+        <img src="{{ page.sections.overview.image_url }}" alt="Overview" class="w-72 mx-auto md:w-10/12 md:ml-0 md:mr-auto">
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="bg-neutral-100">
+  <div class="py-8 lg:py-16 px-8 container mx-auto">
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-12 max-w-7xl mx-auto">
+      <div class="md:mr-0 my-auto">
+        <img src="{{ page.sections.body.image_url }}" alt="Body" class="w-72 mx-auto md:w-10/12 md:ml-auto md:mr-0">
+      </div>
+      <div class="flex flex-col justify-center">
+        <h1 class="font-semibold text-3xl lg:text-5xl text-gray-800">
+          {{ page.sections.body.title | newline_to_br }}
+        </h1>
+
+        <p class="mt-6 text-base lg:text-lg">
+          {{ page.sections.body.description | newline_to_br }}
+        </p>
+
+        <p class="mt-10 flex justify-center lg:justify-normal">
+          {% capture cta_html %}
+            Start Your 30-day Free Trial {% include_cached icons/chevron-right.svg class="inline" %}
+          {% endcapture %}
+          {% include_cached calendly_link.html class="btn-underline btn-underline-primary" utm_content=page.permalink text=cta_html %}
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="bg-white">
+  <div class="pt-8 lg:pt-16 pb-8 px-8 container mx-auto">
+    <div class="max-w-4xl mx-auto">
+      <div class="flex justify-center">
+        <h1 class="font-semibold text-3xl lg:text-5xl text-gray-800">
+          {{ page.sections.faq.title | newline_to_br }}
+        </h1>
+      </div>
+      <div class="flex flex-col justify-center mt-3">
+        <div class="mt-6 space-y-3">
+          {% for question in page.sections.faq.questions %}
+          <div class="flex flex-col">
+            <h4 class="text-lg lg:text-xl font-semibold p-4 bg-gray-100">{{ question.title }}</h4>
+            {% if question.bullets %}
+              <div class="py-4">
+                {% for bullet in question.bullets %}
+                  <div class="flex flex-row flex-wrap items-center">
+                    <p class="pl-6">
+                      <span class="text-gray-800 font-semibold text-base lg:text-lg">{{ bullet.title }}:</span> <span class="text-gray-500 text-base lg:text-lg">{{ bullet.description }}</span>
+                    </p>
+                  </div>
+                {% endfor %}
+              </div>
+            {% else %}
+              <span class="text-gray-500 text-base lg:text-lg py-4 px-6">{{ question.answer }}</span>
+            {% endif %}
+          </div>
+          {% endfor %}
+        </div>
+        <p class="mt-5 flex justify-center">
+          {% include_cached calendly_link.html class="btn btn-primary" utm_content=page.permalink %}
+        </p>
+      </div>
+    </div>
+  </div>
+</div>

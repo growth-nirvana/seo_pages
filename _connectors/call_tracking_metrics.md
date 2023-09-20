@@ -5,11 +5,12 @@ name: Call Tracking Metrics
 description: Amplify your call tracking strategies with Call Tracking Metrics integration,
   gaining actionable insights from call data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/call_tracking_metrics
 icon_url: "/assets/images/seo_pages/connectors/call_tracking_metrics"
 usage: 4
+schema_name: call_tracking_metrics
 sections:
   overview:
     title: Call Tracking Metrics Data Connector

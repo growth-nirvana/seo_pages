@@ -8,6 +8,7 @@ date: 2023-08-17
 categories: connectors
 permalink: connectors/mongo_sharded
 icon_url: /assets/images/seo_pages/connectors/mongo_sharded
+schema_name: mongo_sharded
 
 sections:
   overview:

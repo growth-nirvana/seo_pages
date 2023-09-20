@@ -5,11 +5,12 @@ name: Iterable
 description: Amplify your marketing automation strategies with Iterable integration,
   gaining actionable insights from campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/iterable
 icon_url: "/assets/images/seo_pages/connectors/iterable"
 usage: 2
+schema_name: iterable
 sections:
   overview:
     title: Iterable Data Connector

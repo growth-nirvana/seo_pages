@@ -5,11 +5,12 @@ name: Yahoo DSP
 description: Supercharge your advertising strategies with Yahoo DSP integration, unlocking
   real-time data updates and actionable insights.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/yahoo_dsp
 icon_url: "/assets/images/seo_pages/connectors/yahoo_dsp"
 usage: 0
+schema_name: yahoo_dsp
 sections:
   overview:
     title: Yahoo DSP Data Connector

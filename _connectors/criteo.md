@@ -5,11 +5,12 @@ name: Criteo
 description: Amplify your advertising strategies with Criteo integration, gaining
   actionable insights from data analysis to drive effective ad campaigns.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/criteo
 icon_url: "/assets/images/seo_pages/connectors/criteo"
 usage: 0
+schema_name: criteo
 sections:
   overview:
     title: Criteo Data Connector

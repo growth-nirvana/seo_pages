@@ -5,11 +5,12 @@ name: Kissmetrics
 description: Supercharge your marketing strategies with Kissmetrics integration, unlocking
   real-time data updates and actionable insights.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/kissmetrics
 icon_url: "/assets/images/seo_pages/connectors/kissmetrics"
 usage: 0
+schema_name: kissmetrics
 sections:
   overview:
     title: Kissmetrics Data Connector

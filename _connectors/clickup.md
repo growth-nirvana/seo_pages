@@ -5,11 +5,12 @@ name: ClickUp
 description: Enhance productivity and streamline workflows with ClickUp. Simplify
   project management, automate processes, and optimize team collaboration.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/clickup
 icon_url: "/assets/images/seo_pages/connectors/clickup"
 usage: 0
+schema_name: clickup
 sections:
   overview:
     title: ClickUp Data Connector

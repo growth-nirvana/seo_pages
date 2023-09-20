@@ -5,11 +5,12 @@ name: Freshdesk
 description: Amplify your customer support strategies with Freshdesk integration,
   gaining actionable insights from ticket data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/freshdesk
 icon_url: "/assets/images/seo_pages/connectors/freshdesk"
 usage: 0
+schema_name: freshdesk
 sections:
   overview:
     title: Freshdesk Data Connector

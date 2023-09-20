@@ -5,11 +5,12 @@ name: Ada
 description: Amplify your marketing automation strategies with Ada integration, gaining
   actionable insights from campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/ada
 icon_url: "/assets/images/seo_pages/connectors/ada"
 usage: 0
+schema_name: ada
 sections:
   overview:
     title: Ada Data Connector

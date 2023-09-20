@@ -6,11 +6,12 @@ description: Optimize your inventory management processes with AWS Inventory. Mo
   stock levels, track inventory movements, and streamline operations to minimize stockouts
   and reduce carrying costs.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/aws_inventory
 icon_url: "/assets/images/seo_pages/connectors/aws_inventory"
 usage: 0
+schema_name: aws_inventory
 sections:
   overview:
     title: AWS Inventory Data Connector

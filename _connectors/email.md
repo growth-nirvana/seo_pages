@@ -4,11 +4,12 @@ title: Email Connector - Growth Nirvana
 name: Email
 description: Enhance your analytics with integrated Email engagement data.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/email
 icon_url: "/assets/images/seo_pages/connectors/email"
 usage: 39
+schema_name: email
 sections:
   overview:
     title: Email Data Connector

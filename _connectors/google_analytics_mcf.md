@@ -5,11 +5,12 @@ name: Google Analytics (MCF)
 description: Maximize the power of your marketing analytics with Google Analytics
   (MCF) integration. Gain actionable insights from comprehensive campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/google_analytics_mcf
 icon_url: "/assets/images/seo_pages/connectors/google_analytics_mcf"
 usage: 2
+schema_name: google_analytics_mcf
 sections:
   overview:
     title: Google Analytics (MCF) Data Connector

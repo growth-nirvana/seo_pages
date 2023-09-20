@@ -8,6 +8,7 @@ date: 2023-08-17
 categories: connectors
 permalink: connectors/statsig
 icon_url: /assets/images/seo_pages/connectors/statsig
+schema_name: statsig
 
 sections:
   overview:

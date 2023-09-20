@@ -5,11 +5,12 @@ name: EasyPost
 description: Optimize your shipping strategies with EasyPost integration, gaining
   valuable insights from shipping data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/easypost
 icon_url: "/assets/images/seo_pages/connectors/easypost"
 usage: 0
+schema_name: easypost
 sections:
   overview:
     title: EasyPost Data Connector

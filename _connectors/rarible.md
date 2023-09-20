@@ -7,11 +7,12 @@ description: Unlock new opportunities in the decentralized art space with Raribl
   Join a thriving community of creators, collectors, and enthusiasts, and embrace
   a new era of digital ownership with Rarible.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/rarible
 icon_url: "/assets/images/seo_pages/connectors/rarible"
 usage: 0
+schema_name: rarible
 sections:
   overview:
     title: Rarible Data Connector

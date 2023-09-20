@@ -6,11 +6,12 @@ description: Transform your customer service capabilities through Assembled inte
   empowering your teams to make informed decisions, exercise judgment, and enhance
   the quality of critical products and services.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/assembled
 icon_url: "/assets/images/seo_pages/connectors/assembled"
 usage: 0
+schema_name: assembled
 sections:
   overview:
     title: Assembled Data Connector

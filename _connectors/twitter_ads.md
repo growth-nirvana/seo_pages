@@ -5,11 +5,12 @@ name: Twitter Ads
 description: Amplify your advertising strategies with Twitter Ads integration, gaining
   actionable insights from ad data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/twitter_ads
 icon_url: "/assets/images/seo_pages/connectors/twitter_ads"
 usage: 14
+schema_name: twitter_ads
 sections:
   overview:
     title: Twitter Ads Data Connector

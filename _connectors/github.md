@@ -7,11 +7,12 @@ description: Unlock the full potential of collaborative software development wit
   team collaboration, GitHub provides the tools you need to build high-quality software
   faster and more efficiently than ever before.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/github
 icon_url: "/assets/images/seo_pages/connectors/github"
 usage: 0
+schema_name: github
 sections:
   overview:
     title: GitHub Data Connector

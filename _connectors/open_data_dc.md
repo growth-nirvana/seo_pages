@@ -5,11 +5,12 @@ name: Open Data DC
 description: Amplify your marketing efforts and gain actionable insights from Open
   Data DC integration.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/open_data_dc
 icon_url: "/assets/images/seo_pages/connectors/open_data_dc"
 usage: 0
+schema_name: open_data_dc
 sections:
   overview:
     title: Open Data DC Data Connector

@@ -7,11 +7,12 @@ description: Effortlessly manage your SQL Server databases with the SQL Server R
   scale, and maintain your databases. Streamline your database management process
   and ensure high performance and reliability for your applications.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/sql_server_rds
 icon_url: "/assets/images/seo_pages/connectors/sql_server_rds"
 usage: 0
+schema_name: sql_server_rds
 sections:
   overview:
     title: SQL Server RDS Data Connector

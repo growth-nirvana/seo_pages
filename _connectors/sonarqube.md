@@ -5,11 +5,12 @@ name: SonarQube
 description: Amplify your code quality and security strategies by integrating SonarQube.
   Analyze code metrics and drive continuous improvement.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/sonarqube
 icon_url: "/assets/images/seo_pages/connectors/sonarqube"
 usage: 0
+schema_name: sonarqube
 sections:
   overview:
     title: SonarQube Data Connector

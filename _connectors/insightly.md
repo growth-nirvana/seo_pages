@@ -6,11 +6,12 @@ description: Optimize Customer Relationships with Insightly Integration. Unlock 
   comprehensive view of customer interactions, streamline workflows, and make data-driven
   decisions for improved CRM strategies.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/insightly
 icon_url: "/assets/images/seo_pages/connectors/insightly"
 usage: 0
+schema_name: insightly
 sections:
   overview:
     title: Insightly Data Connector

@@ -5,11 +5,12 @@ name: Salesforce Sandbox
 description: Amplify your marketing strategies with Salesforce Sandbox integration,
   gaining actionable insights from data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/salesforce_sandbox
 icon_url: "/assets/images/seo_pages/connectors/salesforce_sandbox"
 usage: 0
+schema_name: salesforce_sandbox
 sections:
   overview:
     title: Salesforce Sandbox Data Connector

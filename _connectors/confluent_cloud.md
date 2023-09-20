@@ -5,11 +5,12 @@ name: Confluent Cloud
 description: Amplify your marketing automation strategies with Confluent Cloud integration,
   gaining actionable insights from campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/confluent_cloud
 icon_url: "/assets/images/seo_pages/connectors/confluent_cloud"
 usage: 0
+schema_name: confluent_cloud
 sections:
   overview:
     title: Confluent Cloud Data Connector

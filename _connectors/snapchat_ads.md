@@ -5,11 +5,12 @@ name: Snapchat Ads
 description: Amplify your marketing efforts with Snapchat Ads integration. Gain valuable
   insights from campaign data analysis and drive high-quality traffic to your business.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/snapchat_ads
 icon_url: "/assets/images/seo_pages/connectors/snapchat_ads"
 usage: 12
+schema_name: snapchat_ads
 sections:
   overview:
     title: Snapchat Ads Data Connector

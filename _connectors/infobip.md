@@ -6,11 +6,12 @@ description: Optimize Communication with Infobip Integration. Empower your busin
   with real-time messaging insights and automated workflows, enabling effective communication
   and improved engagement.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/infobip
 icon_url: "/assets/images/seo_pages/connectors/infobip"
 usage: 0
+schema_name: infobip
 sections:
   overview:
     title: Infobip Data Connector

@@ -5,11 +5,12 @@ name: Google Analytics 4
 description: Amplify your marketing analytics strategies with Google Analytics 4 integration,
   gaining actionable insights from campaign data analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/google_analytics_4
 icon_url: "/assets/images/seo_pages/connectors/google_analytics_4"
 usage: 154
+schema_name: google_analytics_4
 sections:
   overview:
     title: Google Analytics 4 Data Connector

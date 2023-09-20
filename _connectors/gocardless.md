@@ -5,11 +5,12 @@ name: GoCardless
 description: Streamline your payment processes with GoCardless integration, simplifying
   payment collection and improving cash flow.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-08-29'
+date: '2023-09-18'
 categories: connectors
 permalink: connectors/gocardless
 icon_url: "/assets/images/seo_pages/connectors/gocardless"
 usage: 0
+schema_name: gocardless
 sections:
   overview:
     title: GoCardless Data Connector

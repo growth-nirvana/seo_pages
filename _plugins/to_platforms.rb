@@ -24,11 +24,14 @@ module Jekyll
       @dir = File.join('sync', connector.data['schema_name'], 'to', platform_id)
       @name = 'index.html'
 
-      self.read_yaml(File.join(@base, '_layouts'), 'to_platform.html')
       data = JSON.parse(JSON.generate(connector.data))
-      self.data.merge!(data.slice('schema_name', 'description', 'image', 'date', 'icon_url', 'usage', 'sections'))
-      self.data['name'] = "Sync #{connector.data['name']} to #{site.data['platforms'][platform_id]['name']}"
-      self.data['title'] = "Sync #{connector.data['name']} to #{site.data['platforms'][platform_id]['name']}"
+      title = "Sync #{connector.data['name']} to #{site.data['platforms'][platform_id]['name']}"
+
+      self.read_yaml(File.join(@base, '_layouts'), 'to_platform.html')
+      self.data.merge!(data.slice('schema_name', 'image', 'date', 'icon_url', 'usage', 'sections'))
+      self.data['name'] = title
+      self.data['title'] = title
+      self.data['description'] = "#{title}. #{connector.data['description']}"
       self.data['platform_id'] = platform_id
       self.data['permalink'] = "connect/sync_#{connector.data['schema_name']}_to_#{platform_id}/"
       self.data['sections']['overview']['title'] = "Sync #{connector.data['name']} to #{site.data['platforms'][platform_id]['name']}"

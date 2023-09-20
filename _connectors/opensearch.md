@@ -8,6 +8,7 @@ date: 2023-08-17
 categories: connectors
 permalink: connectors/opensearch
 icon_url: /assets/images/seo_pages/connectors/opensearch
+schema_name: opensearch
 
 sections:
   overview:

@@ -8,6 +8,7 @@ date: 2023-08-17
 categories: connectors
 permalink: connectors/mysql_rds
 icon_url: /assets/images/seo_pages/connectors/mysql_rds
+schema_name: myqsl_rds
 
 sections:
   overview:

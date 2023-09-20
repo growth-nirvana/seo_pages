@@ -31,7 +31,7 @@ module Jekyll
       self.data.merge!(data.slice('schema_name', 'image', 'date', 'icon_url', 'usage', 'sections'))
       self.data['name'] = title
       self.data['title'] = title
-      self.data['description'] = "Sync #{connector.data['name']} to #{site.data['platforms'][platform_id]['name']}. #{connector.data['description']}"
+      self.data['description'] = "#{title}. #{connector.data['description']}"
       self.data['platform_id'] = platform_id
       self.data['permalink'] = "connect/sync_#{connector.data['schema_name']}_to_#{platform_id}/"
       self.data['sections']['overview']['title'] = "Sync #{connector.data['name']} to #{site.data['platforms'][platform_id]['name']}"

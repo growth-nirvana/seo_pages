@@ -18,4 +18,8 @@
   .btn-underline-primary {
     @apply border-primary text-primary;
   }
+
+  .link {
+    @apply underline hover:text-primary transition;
+  }
 }

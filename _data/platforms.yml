@@ -22,3 +22,6 @@ redash:
 metabase:
   name: Metabase
   icon_url: "/assets/images/seo_pages/platforms/metabase"
+power_bi:
+  name: Power BI
+  icon_url: "/assets/images/seo_pages/platforms/power_bi"

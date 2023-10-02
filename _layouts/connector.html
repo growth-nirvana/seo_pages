@@ -97,9 +97,15 @@ layout: default
             <h4 class="text-lg lg:text-xl font-semibold p-4 bg-gray-100">Can I connect {{page.name}} to my data visualization tool?</h4>
             <span class="text-gray-500 text-base lg:text-lg py-4 px-6">
               We support many data visualization tools like
-              {% for platform in site.data.platforms %}
-                <a class="link" href="/connect/sync_{{page.schema_name}}_to_{{platform[0]}}">{{platform[1].name}}</a>{%- if forloop.last %}.{% else %},{% endif %}
-              {% endfor %}
+              <a class="link" href="/connect/sync_{{page.schema_name}}_to_tableau">Tableau</a>,
+              <a class="link" href="/connect/sync_{{page.schema_name}}_to_domo">Domo</a>,
+              <a class="link" href="/connect/sync_{{page.schema_name}}_to_looker">Looker Studio</a>,
+              <a class="link" href="/connect/sync_{{page.schema_name}}_to_spreadsheets">Spreadsheets</a>,
+              <a class="link" href="/connect/sync_{{page.schema_name}}_to_bigquery">Bigquery</a>,
+              <a class="link" href="/connect/sync_{{page.schema_name}}_to_snowflake">Snowflake</a>,
+              <a class="link" href="/connect/sync_{{page.schema_name}}_to_redash">Redash</a>,
+              <a class="link" href="/connect/sync_{{page.schema_name}}_to_metabase">Metabase</a> and
+              <a class="link" href="/connect/sync_{{page.schema_name}}_to_power_bi">Power BI</a>.
             </span>
           </div>
         </div>

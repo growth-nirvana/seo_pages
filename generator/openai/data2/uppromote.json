@@ -1,0 +1,56 @@
+{
+  "name": "UpPromote",
+  "schema_name": "uppromote",
+  "overview": "The UpPromote Data Connector is a powerful tool that allows you to seamlessly integrate your affiliate and referral marketing campaigns with other popular marketing platforms. With this connector, you can easily sync and analyze data to optimize your marketing efforts for maximum conversions and revenue.",
+  "body": "Our UpPromote Data Connector offers a comprehensive solution for consolidating and analyzing your affiliate and referral marketing data. By connecting your UpPromote account with other marketing platforms, such as Google Ads, Facebook Ads, and MailChimp, you can gain deeper insights into your campaigns' performance and make data-driven decisions. With real-time data synchronization and advanced analytics, you can track key metrics, identify trends, and optimize your marketing strategies for better results.",
+  "metrics": {
+    "title": "What are the most popular metrics in UpPromote to analyze?",
+    "bullets": [
+      {
+        "title": "Click-Through Rates",
+        "description": "Analyze the effectiveness of ad creatives and their ability to generate clicks"
+      },
+      {
+        "title": "Conversion Rates",
+        "description": "Measure the percentage of visitors who take the desired action, such as making a purchase or signing up"
+      },
+      {
+        "title": "ROI (Return on Investment)",
+        "description": "Calculate the profitability of your affiliate and referral marketing campaigns"
+      },
+      {
+        "title": "Referral Traffic Source",
+        "description": "Identify the top sources of referral traffic for your campaigns"
+      },
+      {
+        "title": "Average Order Value",
+        "description": "Track the average value of orders generated through your affiliate and referral programs"
+      }
+    ]
+  },
+  "reasons": {
+    "title": "Why analyze UpPromote?",
+    "bullets": [
+      {
+        "title": "Targeted Advertising",
+        "description": "Deliver personalized ads to specific audience segments for higher engagement"
+      },
+      {
+        "title": "Optimize Campaign Performance",
+        "description": "Identify underperforming campaigns and make data-driven optimizations to boost conversions"
+      },
+      {
+        "title": "Maximize Revenue",
+        "description": "Leverage insights from key metrics to optimize your marketing strategies and drive more revenue"
+      },
+      {
+        "title": "Improve Customer Acquisition",
+        "description": "Identify the most effective referral sources and optimize your acquisition channels"
+      },
+      {
+        "title": "Enhance ROI",
+        "description": "Analyze your campaigns' return on investment to ensure optimal allocation of marketing budgets"
+      }
+    ]
+  }
+}

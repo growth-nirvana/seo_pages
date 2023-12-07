@@ -1,0 +1,23 @@
+enum_id,schema_name,name,type,description,icon_url
+10,tiktok_ads,TikTok Ads,Marketing,Provides a wide range of metrics data from the Reporting API by TikTok Ads,https://storage.googleapis.com/custom_connectors_display_images/tiktok_ads.svg
+20,franconnect,Franconnect,Marketing,Provides information about Leads from the Sales module in Franconnect.,https://storage.googleapis.com/custom_connectors_display_images/franconnect.svg
+30,stack_adapt,StackAdapt,Marketing,"Provides information about advertisers, campaigns, campaign groups, and stats from StackAdapt.",https://storage.googleapis.com/custom_connectors_display_images/stack_adapt.svg
+40,impact,Impact,Marketing,Provides information about Actions based on campaigns from Impact.,https://storage.googleapis.com/custom_connectors_display_images/impact_radius.svg
+50,linkedin_creative,Linkedin Creative,Marketing,Provides a wide range of metrics data from Linkedin's Creative API,https://storage.googleapis.com/custom_connectors_display_images/linkedin_ads.svg
+60,unbounce,Unbounce,Marketing,Provides information about leads from Unbounce.,https://storage.googleapis.com/custom_connectors_display_images/unbounce.svg
+70,gravity_forms,GravityForms,Marketing,Provides information about entries from GravityForms.,https://storage.googleapis.com/custom_connectors_display_images/gravity_forms.svg
+80,simplifi,Simplifi,Marketing,Provides stats for campaigns from Simplifi.,https://storage.googleapis.com/custom_connectors_display_images/simplifi.svg
+90,agility_ads,AgilityAds,Marketing,Provides campaign metrics from AgilityAds,https://storage.googleapis.com/custom_connectors_display_images/agility_ads.svg
+100,quora_ads,Quora Ads,Marketing,Provides a wide range of metrics data from Quora Ads Reporting API,https://storage.googleapis.com/custom_connectors_display_images/quora_ads.svg
+110,business_profile,Google Business Profile,Marketing,Fetches performance insights about business listing on Google,https://storage.googleapis.com/custom_connectors_display_images/google_business_profile.svg
+120,call_tracking_metrics,Call Tracking Metrics,Marketing,"Cloud-based software that enables businesses to track, manage and optimize their phone calls, providing valuable insights into marketing and sales performance.",https://storage.googleapis.com/custom_connectors_display_images/call_tracking_metrics.svg
+130,ground_truth,Ground Truth,Marketing,"Provides metrics from Ground Truth. Includes the main resources: Accounts, Campaigns, AdGroups and Creatives. Also includes stats from creatives at a daily level, demographic and location at campaign level by date.",https://storage.googleapis.com/custom_connectors_display_images/ground_truth.svg
+140,localiq,Localiq,Marketing,Provides information about the different advertisers and their campaigns. Includes Campaign Metrics and Keyword reports.,https://storage.googleapis.com/custom_connectors_display_images/localiq.svg
+150,google_ads,Google Ads GCF,Marketing,Get comprehensive reporting data from Google Ads API.,https://storage.googleapis.com/custom_connectors_display_images/google_ads.png
+160,apollo,Apollo,Marketing,Retrieves detailed contact information for individuals from the Apollo API,https://storage.googleapis.com/custom_connectors_display_images/apollo.svg
+170,sem_rush,Sem Rush,Marketing,"",https://storage.googleapis.com/custom_connectors_display_images/sem_rush.svg
+180,synuma,Synuma,Marketing,"Easily fetch comprehensive lead data from Synuma, including ID, source, status, contact details, tasks, and more.",https://storage.googleapis.com/custom_connectors_display_images/synuma.svg
+190,choozle,Choozle,Marketing,"",https://storage.googleapis.com/custom_connectors_display_images/choozle.svg
+200,zeta_global,Zeta Global,Marketing,Provides reporting information for campaigns,https://storage.googleapis.com/custom_connectors_display_images/zeta_global.svg
+210,real_strategies,Real Strategies,Marketing,"",https://storage.googleapis.com/custom_connectors_display_images/real_strategies.svg
+220,active_campaign,Active Campaign,Marketing,Fetches all campaigns,https://storage.googleapis.com/custom_connectors_display_images/active_campaign.svg

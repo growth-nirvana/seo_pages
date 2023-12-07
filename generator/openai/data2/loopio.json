@@ -1,0 +1,52 @@
+{
+  "name": "Loopio",
+  "schema_name": "loopio",
+  "overview": "The Loopio Data Connector is a powerful tool that seamlessly integrates with the Loopio cloud-based request for proposal (RFP) solution. This connector allows users to efficiently access and analyze data from Loopio, enabling a greater level of productivity and informed decision-making.",
+  "body": "With the Loopio Data Connector, users can dive deep into the data generated within Loopio, gaining valuable insights and optimizing their RFP processes. This connector provides a comprehensive set of features, allowing users to track key metrics, generate custom reports, and analyze trends to streamline their RFP workflows. By leveraging the power of data, Loopio users can save time, improve collaboration, and win more RFPs.",
+  "metrics": {
+    "title": "What are the most popular metrics in Loopio to analyze?",
+    "bullets": [
+      {
+        "title": "Request Completion Rate",
+        "description": "Analyze the percentage of completed requests, identifying areas for improvement and increasing overall efficiency."
+      },
+      {
+        "title": "Response Time",
+        "description": "Track the average time taken to respond to requests, ensuring timely and effective communication with clients."
+      },
+      {
+        "title": "Content Accuracy",
+        "description": "Evaluate the accuracy of RFP content, minimizing errors and enhancing the quality of responses."
+      },
+      {
+        "title": "Win Rate",
+        "description": "Measure the success rate of winning RFPs, enabling businesses to identify winning strategies and replicate them in future proposals."
+      },
+      {
+        "title": "Team Performance",
+        "description": "Assess individual and team performance metrics, enabling insights into productivity and areas for development in the RFP process."
+      }
+    ]
+  },
+  "reasons": {
+    "title": "Why analyze Loopio?",
+    "bullets": [
+      {
+        "title": "Enhanced Efficiency",
+        "description": "By analyzing key metrics, businesses can identify bottlenecks, optimize processes, and streamline RFP workflows, resulting in increased efficiency."
+      },
+      {
+        "title": "Data-Driven Decision-Making",
+        "description": "The Loopio Data Connector empowers users to leverage data-driven insights to make informed decisions, enhancing the quality of responses and increasing the likelihood of winning RFPs."
+      },
+      {
+        "title": "Competitive Advantage",
+        "description": "By tracking and analyzing key metrics, businesses can gain a competitive edge by understanding their strengths and areas for improvement, allowing them to continuously optimize their RFP strategies."
+      },
+      {
+        "title": "Continuous Improvement",
+        "description": "Regularly analyzing metrics enables businesses to identify trends, spot patterns, and constantly improve their RFP processes, driving long-term success."
+      }
+    ]
+  }
+}

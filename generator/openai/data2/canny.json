@@ -1,0 +1,52 @@
+{
+  "name": "Canny",
+  "schema_name": "canny",
+  "overview": "The Canny Data Connector is a powerful tool that allows you to seamlessly integrate customer feedback data with other engineering applications. By connecting Canny with your existing engineering systems, you can easily gather and analyze feedback to make informed decisions and drive product improvements.",
+  "body": "With the Canny Data Connector, you can streamline your customer feedback management process. It provides a centralized hub for collecting, organizing, and analyzing valuable customer insights. Seamlessly integrate Canny with your engineering tools and leverage its advanced features to enhance your decision-making capabilities. Whether you want to prioritize feature requests, track bug reports, or gather general feedback, the Canny Data Connector ensures you have access to the most up-to-date and relevant information.",
+  "metrics": {
+    "title": "What are the most popular metrics in Canny to analyze?",
+    "bullets": [
+      {
+        "title": "Integration Efficiency",
+        "description": "Measure how efficiently customer feedback is integrated into your engineering workflow."
+      },
+      {
+        "title": "Bug Resolution Time",
+        "description": "Track the time taken to resolve reported bugs and measure your team's efficiency."
+      },
+      {
+        "title": "Feature Popularity",
+        "description": "Understand which features are most requested by customers and prioritize their development."
+      },
+      {
+        "title": "Feedback Response Rate",
+        "description": "Monitor the rate at which customer feedback is responded to and take action accordingly."
+      },
+      {
+        "title": "User Satisfaction",
+        "description": "Gauge overall user satisfaction with your product by analyzing feedback sentiment and ratings."
+      }
+    ]
+  },
+  "reasons": {
+    "title": "Why analyze Canny?",
+    "bullets": [
+      {
+        "title": "Improved Product Development",
+        "description": "By analyzing customer feedback, you can gain valuable insights to help guide your product development decisions. Identify pain points, understand customer needs, and deliver a product that exceeds expectations."
+      },
+      {
+        "title": "Enhanced User Experience",
+        "description": "Analyzing metrics such as bug resolution time, feedback response rate, and user satisfaction allows you to proactively address issues and improve the overall user experience. Deliver a seamless and enjoyable experience for your customers."
+      },
+      {
+        "title": "Informed Decision-Making",
+        "description": "Make data-driven decisions by utilizing insights derived from the analysis of customer feedback. Identify trends, uncover hidden patterns, and drive informed decision-making within your engineering team."
+      },
+      {
+        "title": "Increased Customer Engagement",
+        "description": "Actively analyzing customer feedback ensures that you can respond to their needs and preferences. By delivering personalized experiences and tailored solutions, you can increase customer engagement and loyalty."
+      }
+    ]
+  }
+}

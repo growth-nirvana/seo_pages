@@ -1,0 +1,60 @@
+{
+  "name": "Toggl Track",
+  "schema_name": "toggl_track",
+  "overview": "The Toggl Track data connector is the ultimate tool for optimizing your productivity. This online time tracking and management software seamlessly integrates with various platforms, enabling you to efficiently track and analyze your time spent on different tasks and projects.",
+  "body": "With the Toggl Track data connector, you have access to comprehensive insights and reports on your time usage. Capture every moment of your workday, track billable hours, and identify areas for improvement. Gain visibility into your workflow, streamline processes, and make data-driven decisions for enhanced productivity.",
+  "metrics": {
+    "title": "What are the most popular metrics in Toggl Track to analyze?",
+    "bullets": [
+      {
+        "title": "Time Allocation",
+        "description": "Analyze how your time is distributed across various tasks and projects."
+      },
+      {
+        "title": "Efficiency Patterns",
+        "description": "Identify patterns and trends in your productivity to optimize your workflow."
+      },
+      {
+        "title": "Project Time Management",
+        "description": "Track the time spent on each project to ensure accurate invoicing and resource allocation."
+      },
+      {
+        "title": "Task Performance",
+        "description": "Evaluate the time taken to complete individual tasks and identify areas for improvement."
+      },
+      {
+        "title": "Team Productivity",
+        "description": "Monitor the productivity of your team members and identify opportunities for collaboration and support."
+      },
+      {
+        "title": "Client Billing",
+        "description": "Effortlessly generate accurate time reports for seamless client billing and invoicing."
+      }
+    ]
+  },
+  "reasons": {
+    "title": "Why analyze Toggl Track?",
+    "bullets": [
+      {
+        "title": "Achieve Optimal Productivity",
+        "description": "By analyzing your time usage, you can identify inefficiencies and implement strategies to maximize productivity."
+      },
+      {
+        "title": "Accurate Invoicing and Resource Allocation",
+        "description": "Gain deep insights into project time and resource utilization to ensure accurate billing and optimal resource allocation."
+      },
+      {
+        "title": "Identify Improvement Opportunities",
+        "description": "By understanding your time allocation and task performance, you can identify areas for improvement and optimize your workflow."
+      },
+      {
+        "title": "Enhance Team Collaboration",
+        "description": "Monitor and compare team members' productivity to drive collaboration, productivity, and support within your team."
+      },
+      {
+        "title": "Streamline Billing Processes",
+        "description": "Efficiently generate accurate time reports for seamless billing and invoicing, ensuring transparency and reliability for your clients."
+      }
+    ]
+  }
+}

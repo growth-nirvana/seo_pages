@@ -1,0 +1,44 @@
+{
+  "name": "Afterpay",
+  "schema_name": "afterpay",
+  "overview": "The Afterpay data connector is a powerful tool that allows you to integrate your Afterpay transaction data with other analytics platforms. By connecting Afterpay to your analytics platform, you can gain valuable insights into your customer behavior and optimize your marketing strategies.",
+  "body": "With the Afterpay data connector, you can seamlessly transfer your transaction data from Afterpay to your analytics platform of choice. This enables you to analyze customer purchase patterns, understand the effectiveness of your marketing campaigns, and identify opportunities to improve customer satisfaction and loyalty. By having a holistic view of your sales data across different channels, you can make data-driven decisions to drive business growth.",
+  "metrics": {
+    "title": "What are the most popular metrics in Afterpay to analyze?",
+    "bullets": [
+      {
+        "title": "Transaction Volume",
+        "description": "Track the total value of transactions processed through Afterpay"
+      },
+      {
+        "title": "Conversion Rate",
+        "description": "Measure the percentage of visitors who complete a purchase using Afterpay"
+      },
+      {
+        "title": "Average Order Value",
+        "description": "Analyze the average value of orders made through Afterpay"
+      },
+      {
+        "title": "Repeat Customer Rate",
+        "description": "Identify the percentage of customers who make multiple purchases using Afterpay"
+      }
+    ]
+  },
+  "reasons": {
+    "title": "Why analyze Afterpay?",
+    "bullets": [
+      {
+        "title": "Business Growth Insights",
+        "description": "By analyzing Afterpay data, you can gain valuable insights into your customer behavior. This helps you identify trends, preferences, and patterns that can be used to drive business growth."
+      },
+      {
+        "title": "Optimize Marketing Strategies",
+        "description": "Understanding the effectiveness of your marketing campaigns becomes easier when you have access to Afterpay data. Analyzing this data helps you identify which campaigns are driving the most conversions through Afterpay and allows you to allocate your marketing budget more effectively."
+      },
+      {
+        "title": "Improve Customer Satisfaction",
+        "description": "Analyzing Afterpay data helps you identify areas where you can improve the customer experience. By gaining insights into customer preferences and purchase behavior, you can tailor your product offerings and marketing efforts to better meet their needs, ultimately leading to higher customer satisfaction and loyalty."
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Integral Ad Science",
+  "schema_name": "integral_ad_science",
+  "overview": "The Integral Ad Science data connector is a powerful tool that provides digital marketers with in-depth insights and analysis of their advertising campaigns. It offers a comprehensive ad verification platform to help optimize performance and drive better results.",
+  "body": "With the Integral Ad Science data connector, marketers can dive deeper into their campaign analytics to gain a more detailed understanding of their ad performance. It allows you to measure viewability, brand safety, and ad fraud, ensuring that your ads are reaching the right audience in the right environment. With real-time reporting and actionable insights, you can make data-driven decisions to maximize your ROI and enhance your ad campaign effectiveness.",
+  "metrics": {
+    "title": "What are the most popular metrics in Integral Ad Science to analyze?",
+    "bullets": [
+      {
+        "title": "Viewability Measurement",
+        "description": "Track how many impressions are viewable by users and optimize your ad placements accordingly."
+      },
+      {
+        "title": "Brand Safety Analysis",
+        "description": "Monitor ad placements and ensure your brand appears in safe and appropriate contexts."
+      },
+      {
+        "title": "Ad Fraud Detection",
+        "description": "Identify and prevent fraudulent activities such as non-human traffic and invalid impressions, protecting your budget and ad campaign integrity."
+      }
+    ]
+  },
+  "reasons": {
+    "title": "Why analyze Integral Ad Science?",
+    "bullets": [
+      {
+        "title": "Improved Targeting",
+        "description": "By analyzing the performance metrics, you can identify areas for improvement and refine your targeting strategies to reach the right audience at the right time."
+      },
+      {
+        "title": "Enhanced ROI",
+        "description": "By optimizing viewability, brand safety, and detecting ad fraud, you can increase the effectiveness of your ad campaigns, ultimately leading to a higher return on investment."
+      },
+      {
+        "title": "Brand Reputation Management",
+        "description": "Ensuring brand safety and avoiding associations with inappropriate content or fraudulent activities helps protect and maintain your brand's reputation."
+      }
+    ]
+  }
+}

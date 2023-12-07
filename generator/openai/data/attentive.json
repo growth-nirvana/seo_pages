@@ -1,0 +1,20 @@
+{
+  "name": "Attentive",
+  "schema_name": "attentive",
+  "overview": "The Attentive Data Connector is a powerful tool that seamlessly integrates your SMS marketing campaigns with your existing marketing data. It allows you to leverage valuable customer insights and effectively measure the success of your SMS marketing efforts.",
+  "body": "With the Attentive Data Connector, you can easily synchronize your SMS marketing data with your customer relationship management (CRM) system, ecommerce platform, or any other marketing data source. This gives you a holistic view of your marketing performance and enables you to make data-driven decisions to optimize your campaigns. Whether you want to track conversions, customer engagement, or segment your audience for more targeted messaging, the Attentive Data Connector has you covered.",
+  "metrics": {
+    "Click-Through Rates": "Measure the effectiveness of your SMS campaigns in generating clicks and engagement.",
+    "Conversion Rates": "Track the percentage of recipients who complete a desired action, such as making a purchase or filling out a form.",
+    "Subscriber Growth": "Monitor the rate at which your SMS subscriber base is growing, allowing you to assess the success of your acquisition strategies.",
+    "Revenue Attribution": "Understand how your SMS marketing efforts contribute to your overall revenue, enabling you to optimize your marketing budget and resources.",
+    "Message Delivery Rates": "Ensure your messages are reaching your audience by monitoring the delivery rates, helping you identify and address any potential issues."
+  },
+  "analyzeWhy": {
+    "Targeted Messaging": "Analyze your SMS campaign results to better understand your audience and create more targeted and personalized messages.",
+    "Campaign Optimization": "By analyzing the performance metrics of your SMS campaigns, you can identify areas for improvement and optimize your marketing efforts for better ROI.",
+    "Data-Driven Decisions": "Make informed decisions backed by data insights, allowing you to allocate resources more effectively and adjust your messaging strategy.",
+    "Audience Segmentation": "Analyze your SMS marketing data to segment your audience into distinct groups based on their preferences, behaviors, or demographics, enabling you to deliver tailored content and improve engagement.",
+    "Performance Tracking": "Benchmark and track the success of your SMS marketing campaigns over time, identifying trends and patterns that can be used to refine your strategy."
+  }
+}

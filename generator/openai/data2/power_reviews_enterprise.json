@@ -1,0 +1,48 @@
+{
+  "name": "PowerReviews Enterprise",
+  "schema_name": "power_reviews_enterprise",
+  "overview": "The PowerReviews Enterprise data connector is a powerful tool that allows you to seamlessly integrate and analyze customer product reviews and ratings. By connecting your PowerReviews data to your existing marketing stack, you can gain valuable insights into your customers' feedback and make data-driven decisions to enhance your product offering and drive more sales.",
+  "body": "With the PowerReviews Enterprise data connector, you can access a comprehensive overview of your customer reviews and ratings in one centralized platform. Easily extract and analyze data on reviewer demographics, sentiment analysis, and product performance. By leveraging this data, you can identify trends, uncover potential issues, and make informed decisions to optimize your product offerings and improve the overall customer experience.",
+  "metrics": {
+    "title": "What are the most popular metrics in PowerReviews Enterprise to analyze?",
+    "bullets": [
+      {
+        "title": "Review Volume",
+        "description": "Track the number of reviews received over a specific time period to gauge customer engagement."
+      },
+      {
+        "title": "Average Rating",
+        "description": "Monitor the average overall rating of your products to identify areas for improvement or highlight top-performing products."
+      },
+      {
+        "title": "Sentiment Analysis",
+        "description": "Analyze customer sentiment to gain insights into how customers perceive your products and identify opportunities for improvement."
+      },
+      {
+        "title": "Product Performance Metrics",
+        "description": "Measure various product performance metrics, such as product page conversion rates and product page engagement, to identify areas where optimizations can be made to increase sales and customer satisfaction."
+      }
+    ]
+  },
+  "reasons": {
+    "title": "Why analyze PowerReviews Enterprise?",
+    "bullets": [
+      {
+        "title": "Actionable Insights",
+        "description": "By analyzing customer reviews and ratings, you can gain valuable insights into customer preferences, pain points, and satisfaction levels, allowing you to make data-driven decisions to improve your product offerings."
+      },
+      {
+        "title": "Enhanced Customer Experience",
+        "description": "Understanding customer feedback provides an opportunity to enhance the overall customer experience. By identifying areas for improvement and addressing customer concerns, you can increase customer satisfaction and loyalty."
+      },
+      {
+        "title": "Competitive Advantage",
+        "description": "Leveraging data from customer reviews and ratings allows you to benchmark your performance against competitors, identify areas of differentiation, and stay ahead in the market."
+      },
+      {
+        "title": "Improved SEO",
+        "description": "Customer reviews and ratings play a crucial role in search engine optimization (SEO). By integrating PowerReviews Enterprise and analyzing review content, you can optimize website content, improve search rankings, and drive more organic traffic to your products."
+      }
+    ]
+  }
+}

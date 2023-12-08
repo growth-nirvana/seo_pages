@@ -1,0 +1,72 @@
+{
+  "name": "Brevo",
+  "schema_name": "brevo",
+  "overview": "Brevo's data connector allows businesses to seamlessly integrate and analyze their marketing data from various platforms in one centralized dashboard.",
+  "body": "With Brevo's data connector, you can effortlessly connect your marketing data from platforms like Google Ads, Facebook Ads, and more. This allows you to gain deeper insights by visualizing and analyzing your marketing performance metrics in a holistic manner. By consolidating your data, you can save time and make more informed decisions to drive your business forward.",
+  "metrics": {
+    "title": "What are the most popular metrics in Brevo to analyze?",
+    "bullets": [
+      {
+        "title": "Click-Through Rates",
+        "description": "Analyze the effectiveness of ad creatives and their ability to generate clicks."
+      },
+      {
+        "title": "Conversion Rates",
+        "description": "Evaluate the success of your ad campaigns by measuring the percentage of conversions out of total clicks."
+      },
+      {
+        "title": "Cost per Acquisition",
+        "description": "Determine how much it costs to acquire a new customer or lead through your marketing channels."
+      },
+      {
+        "title": "Return on Ad Spend",
+        "description": "Measure the profitability of your ad campaigns by comparing the generated revenue to the cost of advertising."
+      },
+      {
+        "title": "Engagement Rates",
+        "description": "Assess the level of interaction and engagement your ads receive from your target audience."
+      },
+      {
+        "title": "Impressions",
+        "description": "Analyze the number of times your ads are displayed on various platforms."
+      },
+      {
+        "title": "Cost per Click",
+        "description": "Understand the average cost you pay for each click on your ads."
+      },
+      {
+        "title": "Keyword Performance",
+        "description": "Track the performance of keywords in your ads to optimize your targeting strategy."
+      },
+      {
+        "title": "Audience Reach",
+        "description": "Measure how effectively your ads reach and engage with your intended audience."
+      },
+      {
+        "title": "Ad Placement Performance",
+        "description": "Evaluate the performance of different ad placements and determine the most effective ones for your campaign."
+      }
+    ]
+  },
+  "reasons": {
+    "title": "Why analyze Brevo?",
+    "bullets": [
+      {
+        "title": "Targeted Advertising",
+        "description": "Deliver personalized ads to specific audience segments for higher engagement."
+      },
+      {
+        "title": "Optimize Ad Campaigns",
+        "description": "Identify areas of improvement and make data-driven adjustments to maximize your campaign's performance."
+      },
+      {
+        "title": "Budget Allocation",
+        "description": "Allocate your budget more effectively by analyzing which marketing channels and campaigns have the highest return on investment."
+      },
+      {
+        "title": "Identify Trends",
+        "description": "Spot patterns and trends in your marketing data to stay ahead of the competition and adapt your strategies accordingly."
+      }
+    ]
+  }
+}

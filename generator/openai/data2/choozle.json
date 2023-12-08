@@ -1,0 +1,56 @@
+{
+  "name": "Choozle",
+  "schema_name": "choozle",
+  "overview": "The Choozle data connector is a powerful app that allows marketers to seamlessly integrate their marketing data and gain valuable insights and analytics. With this connector, you can connect and analyze data from multiple marketing platforms in one centralized location, saving you time and effort.",
+  "body": "With the Choozle data connector, you can easily access and analyze all your marketing data in a single platform. This connector supports integration with various marketing platforms such as Google Ads, Facebook Ads, Instagram Ads, and more. Gain a comprehensive view of your marketing performance and make data-driven decisions to optimize your campaigns. The intuitive interface and user-friendly features of the Choozle data connector empower marketers to take control of their data analysis and improve marketing strategies.",
+  "metrics": {
+    "title": "What are the most popular metrics in Choozle to analyze?",
+    "bullets": [
+      {
+        "title": "Click-Through Rates",
+        "description": "Analyze the effectiveness of ad creatives and their ability to generate clicks."
+      },
+      {
+        "title": "Conversion Rates",
+        "description": "Measure the percentage of visitors who take a desired action on your website."
+      },
+      {
+        "title": "Impressions",
+        "description": "Evaluate the visibility of your ads and assess the reach of your campaigns."
+      },
+      {
+        "title": "Cost per Acquisition",
+        "description": "Track the cost incurred to acquire a new customer or lead."
+      },
+      {
+        "title": "Return on Ad Spend",
+        "description": "Calculate the revenue generated for every dollar spent on advertising."
+      }
+    ]
+  },
+  "reasons": {
+    "title": "Why analyze Choozle?",
+    "bullets": [
+      {
+        "title": "Improved Campaign Performance",
+        "description": "Identify underperforming campaigns and make data-driven optimizations to drive better results."
+      },
+      {
+        "title": "Audience Segmentation",
+        "description": "Leverage your marketing data to create audience segments for targeted advertising and personalized messaging."
+      },
+      {
+        "title": "ROI Optimization",
+        "description": "Measure the effectiveness of your marketing efforts and allocate budget where it delivers the highest return on investment."
+      },
+      {
+        "title": "Data Centralization",
+        "description": "Consolidate data from multiple marketing platforms to gain a holistic view of your marketing performance and make informed decisions."
+      },
+      {
+        "title": "Time and Effort Savings",
+        "description": "Access all your marketing data in one place, eliminating the need to manually gather and analyze data from different sources."
+      }
+    ]
+  }
+}

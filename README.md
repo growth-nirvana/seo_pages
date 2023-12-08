@@ -10,18 +10,25 @@ Run `./bin/dev` to start jekyll.
 
 ## How to download connector icons
 
-1. Download the CSV for all the sources: https://docs.google.com/spreadsheets/d/1MC28CSdgBk8nKcvwQ_put-3QI7P0mZxB9kKtyP5guWA/edit#gid=526148982
+1. Download the CSV for all the sources: https://admin.growthnirvana.com/admin/blazer/queries/185-source-all and https://admin.growthnirvana.com/admin/blazer/queries/333-customconnector-all-custom-connector-sources
 2. Remove the current images within `assets/images/seo_pages/connectors/`
 3. Open an IRB session and run:
 
 ```ruby
+require "pathname"
 require "csv"
 
-csv = CSV.read("downloaded-sources.csv", headers: true)
-
-csv.map do |row|
-  print "."
-  ext = Pathname(row["icon_url"]).extname
-  `curl '#{row["icon_url"]}' -o assets/images/seo_pages/connectors/#{row["schema_name"]}#{ext} -s`
+def extract_images(csv)
+  csv.map do |row|
+    print "."
+    ext = Pathname(row["icon_url"]).extname
+    `curl '#{row["icon_url"]}' -o assets/images/seo_pages/connectors/#{row["schema_name"]}#{ext} -s`
+  end
 end
+
+csv = CSV.read("generator/openai/20231207-sources.csv", headers: true)
+extract_images(csv)
+
+csv = CSV.read("generator/openai/20231207-custom-connector-sources.csv", headers: true)
+extract_images(csv)
 ```

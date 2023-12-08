@@ -1,0 +1,56 @@
+{
+  "name": "GlobalMeet",
+  "schema_name": "globalmeet",
+  "overview": "The GlobalMeet Data Connector is a powerful tool that allows you to seamlessly integrate and analyze data from various sources within the GlobalMeet virtual events management platform. By connecting your key event metrics and performance data, this connector provides valuable insights and actionable intelligence to help you optimize your events and drive productivity.",
+  "body": "With the GlobalMeet Data Connector, you gain in-depth visibility into the performance of your virtual events. This connector enables you to aggregate and analyze data from multiple sources, including attendee engagement, registration metrics, session popularity, and more. By integrating these key metrics into one centralized dashboard, you can easily track and measure the success of your events, identify trends, and make data-driven decisions to improve future event strategies.",
+  "metrics": {
+    "title": "What are the most popular metrics in GlobalMeet to analyze?",
+    "bullets": [
+      {
+        "title": "Attendee Engagement",
+        "description": "Measure attendee participation and interaction levels to gauge event success."
+      },
+      {
+        "title": "Registration Metrics",
+        "description": "Analyze registration rates, conversions, and drop-offs to optimize your marketing efforts."
+      },
+      {
+        "title": "Session Popularity",
+        "description": "Identify the most popular sessions or presentations to effectively allocate resources and tailor content."
+      },
+      {
+        "title": "Audience Reach",
+        "description": "Track the number of unique attendees and evaluate event visibility to expand your reach."
+      },
+      {
+        "title": "Lead Generation",
+        "description": "Analyze lead conversion rates and identify high-value prospects for better ROI."
+      },
+      {
+        "title": "Poll and Survey Responses",
+        "description": "Gather feedback from attendees to improve future events and enhance audience satisfaction."
+      }
+    ]
+  },
+  "reasons": {
+    "title": "Why analyze GlobalMeet?",
+    "bullets": [
+      {
+        "title": "Data-Driven Decision Making",
+        "description": "By analyzing these metrics, you can make informed decisions that drive productivity and result in more successful virtual events."
+      },
+      {
+        "title": "Optimized Event Planning",
+        "description": "Gain insights into attendee preferences and behaviors to tailor your event strategy for maximum impact."
+      },
+      {
+        "title": "Improved Engagement and Experience",
+        "description": "Identify the sessions and content that resonate the most with your audience, leading to higher engagement and satisfaction."
+      },
+      {
+        "title": "Maximized ROI",
+        "description": "By tracking lead generation and registration metrics, you can optimize your marketing efforts and generate higher returns on your virtual events investment."
+      }
+    ]
+  }
+}

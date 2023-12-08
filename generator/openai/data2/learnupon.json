@@ -1,0 +1,56 @@
+{
+  "name": "Learnupon",
+  "schema_name": "learnupon",
+  "overview": "The Learnupon data connector is a powerful tool that integrates seamlessly with Engineering apps. It enables you to effortlessly analyze and interpret data for enhanced decision-making and optimization.",
+  "body": "With the Learnupon data connector, you can dive deeper into your Engineering app's data to gain valuable insights. By connecting and consolidating various data sources, you can uncover patterns and trends that help you identify opportunities and challenges. This comprehensive analysis allows you to make informed decisions and take actions that lead to improved performance and growth.",
+  "metrics": {
+    "title": "What are the most popular metrics in Learnupon to analyze?",
+    "bullets": [
+      {
+        "title": "User Engagement",
+        "description": "Track user interactions and behavior to understand how they engage with the app."
+      },
+      {
+        "title": "Feature Adoption",
+        "description": "Monitor the adoption rate of different app features to optimize their usage."
+      },
+      {
+        "title": "Performance Metrics",
+        "description": "Measure the app's speed, reliability, and overall performance."
+      },
+      {
+        "title": "Error Analysis",
+        "description": "Identify and investigate any errors or issues in the app for prompt resolution."
+      },
+      {
+        "title": "Usage Patterns",
+        "description": "Analyze user behavior and usage patterns to optimize the app's design and functionality."
+      }
+    ]
+  },
+  "reasons": {
+    "title": "Why analyze Learnupon?",
+    "bullets": [
+      {
+        "title": "Improved User Experience",
+        "description": "By analyzing user engagement and usage patterns, you can enhance the app's user experience and deliver personalized features."
+      },
+      {
+        "title": "Optimized Performance",
+        "description": "Identifying performance metrics and potential errors helps you optimize the app's speed, reliability, and stability."
+      },
+      {
+        "title": "Data-Driven Decision Making",
+        "description": "In-depth data analysis enables data-driven decision making, leading to informed strategies and improved outcomes."
+      },
+      {
+        "title": "Enhanced Feature Adoption",
+        "description": "Understanding feature adoption rates allows you to optimize features and drive increased usage and adoption."
+      },
+      {
+        "title": "Proactive Issue Resolution",
+        "description": "Detecting and resolving errors promptly ensures a smooth experience for app users and minimizes disruptions."
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Fivetran Platform",
+  "schema_name": "fivetran_log",
+  "overview": "The Fivetran Log Connector is a free data connector that generates structured log events from connectors, dashboard user actions, and Fivetran API calls. It allows you to easily collect and analyze your logs and account metadata in your desired destination.",
+  "body": "With the Fivetran Log Connector, you can seamlessly integrate your log events into your existing data infrastructure. It automatically delivers your logs and account metadata to a schema in your destination, ensuring that you have easy access to all the necessary data for analysis and monitoring. Whether you want to keep track of connector performance, analyze user actions on your Fivetran dashboard, or gain insights from Fivetran API calls, the Log Connector has got you covered.",
+  "metrics": {
+    "title": "What are the most popular metrics in Fivetran Platform to analyze?",
+    "bullets": [
+      {
+        "title": "Connector Performance",
+        "description": "Monitor the performance of your connectors and identify any issues or bottlenecks."
+      },
+      {
+        "title": "User Activity Analysis",
+        "description": "Analyze dashboard user actions to understand usage patterns and improve user experience."
+      },
+      {
+        "title": "API Call Analytics",
+        "description": "Gain insights from Fivetran API calls to optimize your data integration workflows."
+      }
+    ]
+  },
+  "reasons": {
+    "title": "Why analyze Fivetran Platform?",
+    "bullets": [
+      {
+        "title": "Enhanced Data Integration",
+        "description": "By analyzing log events and account metadata, you can identify areas for improvement in your data integration process and ensure data accuracy and reliability."
+      },
+      {
+        "title": "Troubleshooting and Monitoring",
+        "description": "Monitoring connector performance and analyzing user actions can help you troubleshoot issues and ensure smooth data synchronization."
+      },
+      {
+        "title": "Optimized Workflows",
+        "description": "Analyzing Fivetran API calls allows you to fine-tune your data integration workflows and optimize resource allocation."
+      }
+    ]
+  }
+}

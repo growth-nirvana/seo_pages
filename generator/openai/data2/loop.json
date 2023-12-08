@@ -1,0 +1,44 @@
+{
+  "name": "loop",
+  "schema_name": "loop",
+  "overview": "The loop data connector is a powerful tool that allows seamless integration between loop, a sales app, and loop, a return management platform. It enables businesses to streamline their return processes and improve customer satisfaction.",
+  "body": "With the loop data connector, businesses can easily transfer sales data between the sales app and return management platform. This integration automates the return process, reducing manual work and ensuring accurate data synchronization. The connector also provides real-time insights into returns, allowing businesses to make data-driven decisions and optimize their return management strategies.",
+  "metrics": {
+    "title": "What are the most popular metrics in loop to analyze?",
+    "bullets": [
+      {
+        "title": "Return Rate",
+        "description": "Track the percentage of returns compared to the total number of sales to identify trends and patterns."
+      },
+      {
+        "title": "Return Time",
+        "description": "Monitor the average time it takes for returns to be processed and refunded, ensuring efficient and timely returns for customers."
+      },
+      {
+        "title": "Reason for Return",
+        "description": "Gain insights into the most common reasons for returns, helping businesses address potential product or service issues."
+      },
+      {
+        "title": "Return Cost",
+        "description": "Analyze the total cost associated with returns, including shipping, restocking, and refund expenses to optimize return processes and minimize costs."
+      }
+    ]
+  },
+  "reasons": {
+    "title": "Why analyze loop?",
+    "bullets": [
+      {
+        "title": "Efficient Return Management",
+        "description": "By analyzing return metrics, businesses can identify bottlenecks in the return process, implement improvements, and provide a seamless return experience for customers."
+      },
+      {
+        "title": "Customer Satisfaction",
+        "description": "Understanding the reasons for returns allows businesses to address product or service issues, ultimately enhancing customer satisfaction and loyalty."
+      },
+      {
+        "title": "Cost Optimization",
+        "description": "Analyzing return costs helps businesses optimize their return processes, minimize expenses, and improve overall profitability."
+      }
+    ]
+  }
+}

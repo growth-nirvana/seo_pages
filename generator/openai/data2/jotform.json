@@ -1,0 +1,48 @@
+{
+  "name": "Jotform",
+  "schema_name": "jotform",
+  "overview": "Jotform Data Connector is a powerful tool that seamlessly integrates with your Jotform account, allowing you to collect and analyze data from your website forms. It enables you to effortlessly gather valuable insights, streamline your workflows, and make data-driven decisions with ease.",
+  "body": "With Jotform Data Connector, you can dig deeper into the data collected through your website forms. It provides you with a comprehensive view of crucial information, such as user responses, submission timestamps, and form completion rates. This allows you to identify trends, spot areas for improvement, and optimize your form strategies to enhance user experience and maximize conversions. The user-friendly interface and intuitive data visualization capabilities make it easy to navigate through your form data, transforming raw data into actionable insights.",
+  "metrics": {
+    "title": "What are the most popular metrics in Jotform to analyze?",
+    "bullets": [
+      {
+        "title": "Form Completion Rates",
+        "description": "Analyze the percentage of users who complete your forms, helping you optimize the user experience and increase conversions."
+      },
+      {
+        "title": "User Responses",
+        "description": "Gain a better understanding of user preferences, behavior, and feedback by analyzing the responses received through your forms."
+      },
+      {
+        "title": "Submission Timestamps",
+        "description": "Track and analyze the timing of form submissions, enabling you to identify peak activity periods and optimize your response times."
+      },
+      {
+        "title": "Conversion Rates",
+        "description": "Measure the effectiveness of your forms in terms of converting visitors into leads or customers, guiding you to refine your form strategies for better results."
+      }
+    ]
+  },
+  "reasons": {
+    "title": "Why analyze Jotform?",
+    "bullets": [
+      {
+        "title": "Data-Driven Decisions",
+        "description": "By utilizing Jotform Data Connector, you can harness the power of data analysis to inform your business decisions, ensuring that your strategies are backed by accurate, reliable information."
+      },
+      {
+        "title": "Streamlined Workflows",
+        "description": "Dive into your form data effortlessly and efficiently, saving time and effort on manual data extraction and analysis."
+      },
+      {
+        "title": "Optimized User Experience",
+        "description": "Gain insights from user responses and completion rates, allowing you to optimize your forms and enhance the user experience, resulting in increased engagement and conversions."
+      },
+      {
+        "title": "Improved Conversion Rates",
+        "description": "Analyzing metrics such as form completion rates and conversion rates enables you to identify areas for improvement, leading to higher conversion rates and improved overall performance."
+      }
+    ]
+  }
+}

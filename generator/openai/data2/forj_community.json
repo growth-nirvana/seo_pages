@@ -1,0 +1,56 @@
+{
+  "name": "Forj Community",
+  "schema_name": "forj_community",
+  "overview": "The Forj Community data connector is a powerful tool that integrates seamlessly with your existing community management platform, allowing you to gather valuable insights and analyze key metrics about your community.",
+  "body": "With the Forj Community data connector, you can dive deeper into the performance of your community and gain a comprehensive understanding of its dynamics. Track user engagement, identify trends, and uncover opportunities for growth. Our connector provides you with real-time data, customizable reports, and in-depth analysis tools to ensure you make data-driven decisions and optimize your community's performance.",
+  "metrics": {
+    "title": "What are the most popular metrics in Forj Community to analyze?",
+    "bullets": [
+      {
+        "title": "User Engagement",
+        "description": "Measure the level of user activity, including signups, logins, and interactions within your community."
+      },
+      {
+        "title": "Retention Rate",
+        "description": "Track how well your community is retaining users over time, helping you identify strategies to improve engagement and reduce churn."
+      },
+      {
+        "title": "Top Contributors",
+        "description": "Identify the most active and influential members of your community, allowing you to nurture relationships and encourage participation."
+      },
+      {
+        "title": "Content Performance",
+        "description": "Analyze the performance of different types of content within your community, ensuring you create impactful and engaging posts."
+      },
+      {
+        "title": "Community Growth",
+        "description": "Track the growth of your community over time, identifying successful strategies to attract and onboard new members."
+      }
+    ]
+  },
+  "reasons": {
+    "title": "Why analyze Forj Community?",
+    "bullets": [
+      {
+        "title": "Data-Driven Decision Making",
+        "description": "By analyzing the performance of your community, you can make informed decisions based on real insights rather than assumptions."
+      },
+      {
+        "title": "Optimize Engagement",
+        "description": "Understanding the metrics allows you to identify areas for improvement and implement strategies to enhance user engagement."
+      },
+      {
+        "title": "Measure Impact",
+        "description": "Monitoring key metrics helps you gauge the effectiveness of your community management efforts and measure their impact on your overall goals."
+      },
+      {
+        "title": "Identify Trends",
+        "description": "By analyzing trends and patterns in user behavior, you can adapt your community strategy to stay ahead of the curve."
+      },
+      {
+        "title": "Enhanced Decision Making",
+        "description": "Analyzing data empowers you to make smarter decisions, enabling you to allocate resources more effectively and drive better results."
+      }
+    ]
+  }
+}

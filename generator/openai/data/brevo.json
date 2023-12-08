@@ -1,0 +1,24 @@
+{
+  "name": "Brevo",
+  "schema_name": "brevo",
+  "overview": "Brevo's data connector allows businesses to seamlessly integrate and analyze their marketing data from various platforms in one centralized dashboard.",
+  "body": "With Brevo's data connector, you can effortlessly connect your marketing data from platforms like Google Ads, Facebook Ads, and more. This allows you to gain deeper insights by visualizing and analyzing your marketing performance metrics in a holistic manner. By consolidating your data, you can save time and make more informed decisions to drive your business forward.",
+  "metrics": {
+    "Click-Through Rates": "Analyze the effectiveness of ad creatives and their ability to generate clicks.",
+    "Conversion Rates": "Evaluate the success of your ad campaigns by measuring the percentage of conversions out of total clicks.",
+    "Cost per Acquisition": "Determine how much it costs to acquire a new customer or lead through your marketing channels.",
+    "Return on Ad Spend": "Measure the profitability of your ad campaigns by comparing the generated revenue to the cost of advertising.",
+    "Engagement Rates": "Assess the level of interaction and engagement your ads receive from your target audience.",
+    "Impressions": "Analyze the number of times your ads are displayed on various platforms.",
+    "Cost per Click": "Understand the average cost you pay for each click on your ads.",
+    "Keyword Performance": "Track the performance of keywords in your ads to optimize your targeting strategy.",
+    "Audience Reach": "Measure how effectively your ads reach and engage with your intended audience.",
+    "Ad Placement Performance": "Evaluate the performance of different ad placements and determine the most effective ones for your campaign."
+  },
+  "analyzeWhy": {
+    "Targeted Advertising": "Deliver personalized ads to specific audience segments for higher engagement.",
+    "Optimize Ad Campaigns": "Identify areas of improvement and make data-driven adjustments to maximize your campaign's performance.",
+    "Budget Allocation": "Allocate your budget more effectively by analyzing which marketing channels and campaigns have the highest return on investment.",
+    "Identify Trends": "Spot patterns and trends in your marketing data to stay ahead of the competition and adapt your strategies accordingly."
+  }
+}

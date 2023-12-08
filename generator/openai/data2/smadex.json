@@ -1,0 +1,60 @@
+{
+  "name": "Smadex",
+  "schema_name": "smadex",
+  "overview": "The Smadex Data Connector is a powerful tool that allows marketers to seamlessly connect their data and gain valuable insights for user acquisition, retargeting, and branding campaigns.",
+  "body": "With the Smadex Data Connector, marketers can tap into a wealth of data to optimize their advertising strategies. This connector enables the integration of various data sources, such as web analytics, CRM systems, and third-party platforms, providing a holistic view of the customer journey. By leveraging this comprehensive data, marketers can make data-driven decisions to drive better campaign performance and achieve their marketing goals.",
+  "metrics": {
+    "title": "What are the most popular metrics in Smadex to analyze?",
+    "bullets": [
+      {
+        "title": "Click-Through Rates",
+        "description": "Analyze the effectiveness of ad creatives and their ability to generate clicks"
+      },
+      {
+        "title": "Conversion Rates",
+        "description": "Measure the success of campaigns in terms of converting users into desired actions"
+      },
+      {
+        "title": "Cost per Acquisition",
+        "description": "Track the cost associated with acquiring new customers through advertising efforts"
+      },
+      {
+        "title": "ROI (Return on Investment)",
+        "description": "Calculate the return on investment for advertising campaigns"
+      },
+      {
+        "title": "Retention Rates",
+        "description": "Evaluate the percentage of users who continue to engage with the brand over time"
+      },
+      {
+        "title": "Engagement Metrics",
+        "description": "Monitor user engagement metrics, such as time spent, page views, and interactions"
+      }
+    ]
+  },
+  "reasons": {
+    "title": "Why analyze Smadex?",
+    "bullets": [
+      {
+        "title": "Targeted Advertising",
+        "description": "Deliver personalized ads to specific audience segments for higher engagement"
+      },
+      {
+        "title": "Optimized Campaign Performance",
+        "description": "Make data-driven decisions to optimize campaigns and maximize results"
+      },
+      {
+        "title": "Improved Customer Acquisition",
+        "description": "Identify and target high-value customers to increase acquisition rates"
+      },
+      {
+        "title": "Enhanced Retargeting",
+        "description": "Retarget users based on their previous interactions to increase conversions"
+      },
+      {
+        "title": "Better Branding Strategies",
+        "description": "Craft compelling brand messaging based on data insights for effective branding campaigns"
+      }
+    ]
+  }
+}

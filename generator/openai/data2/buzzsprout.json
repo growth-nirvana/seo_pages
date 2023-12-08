@@ -1,0 +1,40 @@
+{
+  "name": "Buzzsprout",
+  "schema_name": "buzzsprout",
+  "overview": "The Buzzsprout Data Connector is a powerful tool that allows podcasters to seamlessly integrate their podcast data into their preferred analytics or marketing platforms. With this connector, podcasters can analyze key metrics, track performance, and make data-driven decisions to enhance their podcasting strategy.",
+  "body": "The Buzzsprout Data Connector goes beyond traditional podcast hosting platforms by providing podcasters with in-depth data and analytics. It allows users to extract and transfer important podcast data, such as downloads, subscribers, and episode performance, to other platforms. This seamless integration enables podcasters to dive deep into their data and gain valuable insights into audience metrics, marketing performance, and overall podcast growth.",
+  "metrics": {
+    "title": "What are the most popular metrics in Buzzsprout to analyze?",
+    "bullets": [
+      {
+        "title": "Downloads",
+        "description": "Track the number of times episodes are downloaded by listeners."
+      },
+      {
+        "title": "Subscribers",
+        "description": "Monitor the growth and retention of podcast subscribers."
+      },
+      {
+        "title": "Episode Performance",
+        "description": "Analyze the performance of each episode, including play rates, duration, and listener engagement."
+      }
+    ]
+  },
+  "reasons": {
+    "title": "Why analyze Buzzsprout?",
+    "bullets": [
+      {
+        "title": "Audience Insights",
+        "description": "Understand your listeners better by analyzing their preferences, behavior, and engagement patterns."
+      },
+      {
+        "title": "Marketing Optimization",
+        "description": "Identify which marketing channels or strategies are driving the most downloads and subscribers."
+      },
+      {
+        "title": "Content Strategy",
+        "description": "Leverage episode performance data to refine your content strategy and create episodes that resonate with your target audience."
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "name": "dbt Cloud",
+  "schema_name": "dbt_cloud",
+  "overview": "dbt Cloud is a cloud-based platform designed for managing dbt data transformation projects. With its intuitive interface and powerful features, it provides a streamlined way to transform, analyze, and visualize data for businesses of all sizes.",
+  "body": "dbt Cloud is a powerful and user-friendly platform that simplifies the process of managing dbt data transformation projects. It offers a comprehensive set of tools and features that enable data engineers and analysts to easily build, test, and deploy data models. With dbt Cloud, you can centralize your entire data transformation workflow, collaborate with your team in real-time, and automate the entire process. Whether you are a small startup or a large enterprise, dbt Cloud empowers you to unlock the full potential of your data and make informed business decisions.",
+  "metrics": {
+    "title": "What are the most popular metrics in dbt Cloud to analyze?",
+    "bullets": [
+      {
+        "title": {
+          "Metric": "Data Transformation Efficiency",
+          "Description": "Measure the speed and efficiency of your data transformation pipelines to optimize performance."
+        },
+        "description": null
+      },
+      {
+        "title": {
+          "Metric": "Data Quality",
+          "Description": "Monitor the accuracy, completeness, and consistency of your transformed data to ensure its reliability."
+        },
+        "description": null
+      },
+      {
+        "title": {
+          "Metric": "Data Pipeline Monitoring",
+          "Description": "Track the progress and health of your data transformation pipelines in real-time, identify bottlenecks, and take proactive actions."
+        },
+        "description": null
+      },
+      {
+        "title": {
+          "Metric": "Data Lineage",
+          "Description": "Visualize the lineage of your transformed data to understand its origin, dependencies, and transformations applied."
+        },
+        "description": null
+      }
+    ]
+  },
+  "reasons": {
+    "title": "Why analyze dbt Cloud?",
+    "bullets": [
+      {
+        "title": {
+          "Reason": "Improve Data-Driven Decision Making",
+          "Description": "By analyzing your data transformation workflows, you can gain valuable insights that drive informed and data-driven decision making."
+        },
+        "description": null
+      },
+      {
+        "title": {
+          "Reason": "Optimize Performance",
+          "Description": "Analyzing your data transformation efficiency and data pipeline health helps you identify areas for optimization and improve overall performance."
+        },
+        "description": null
+      },
+      {
+        "title": {
+          "Reason": "Ensure Data Quality",
+          "Description": "Regular analysis of data quality metrics ensures that your transformed data is accurate, complete, and reliable, enabling better decision making."
+        },
+        "description": null
+      },
+      {
+        "title": {
+          "Reason": "Enhance Data Governance",
+          "Description": "Understanding data lineage and dependencies allows you to create a robust data governance framework and trace data changes over time."
+        },
+        "description": null
+      }
+    ]
+  }
+}

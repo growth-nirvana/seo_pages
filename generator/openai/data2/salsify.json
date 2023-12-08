@@ -1,0 +1,48 @@
+{
+  "name": "Salsify",
+  "schema_name": "salsify",
+  "overview": "Salsify's data connector is a powerful tool that seamlessly integrates your engineering systems with Salsify's product experience management platform. It allows you to easily transfer and synchronize data between your engineering apps and Salsify, enabling you to centralize and manage all your product information in one place.",
+  "body": "With Salsify's data connector, you can streamline your workflow by automating the transfer of data from your engineering tools to Salsify. Whether you use CAD software, BOM management systems, or any other engineering applications, the connector ensures that your product data is always up to date and consistent. By eliminating manual data entry and enabling real-time synchronization, you can save valuable time and avoid errors or discrepancies in your product information.",
+  "metrics": {
+    "title": "What are the most popular metrics in Salsify to analyze?",
+    "bullets": [
+      {
+        "title": "Integration Efficiency",
+        "description": "Measure the speed and accuracy of data transfer between your engineering apps and Salsify."
+      },
+      {
+        "title": "Data Consistency",
+        "description": "Evaluate the consistency and integrity of your product data across different systems."
+      },
+      {
+        "title": "Workflow Optimization",
+        "description": "Analyze the impact of the data connector on your engineering workflow efficiency."
+      },
+      {
+        "title": "Time Savings",
+        "description": "Quantify the amount of time saved by automating data transfer and synchronization."
+      }
+    ]
+  },
+  "reasons": {
+    "title": "Why analyze Salsify?",
+    "bullets": [
+      {
+        "title": "Centralized Product Information Management",
+        "description": "By integrating your engineering apps with Salsify, you can efficiently manage all your product information in a centralized platform, ensuring consistency and accuracy."
+      },
+      {
+        "title": "Improved Collaboration",
+        "description": "With real-time data synchronization, your engineering and product teams can collaborate seamlessly, eliminating bottlenecks and enhancing efficiency."
+      },
+      {
+        "title": "Streamlined Product Launches",
+        "description": "By automating data transfer, you can accelerate product launches and reduce time-to-market, giving you a competitive edge."
+      },
+      {
+        "title": "Eliminate Data Entry Errors",
+        "description": "Manual data entry can lead to costly errors. With the data connector, you can minimize human mistakes by automating the transfer of accurate and up-to-date data."
+      }
+    ]
+  }
+}

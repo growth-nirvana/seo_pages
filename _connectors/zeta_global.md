@@ -2,7 +2,7 @@
 layout: connector
 title: Zeta Global Connector - Growth Nirvana
 name: Zeta Global
-description: The Zeta_Global Data Connector offers a seamless integration with your
+description: The Zeta Global Data Connector offers a seamless integration with your
   marketing platforms, consolidating all your campaign data in one place. It enables
   you to track and measure the performance of your marketing efforts, providing valuable
   insights into customer engagement, conversion rates, and ROI. With its user-friendly
@@ -18,7 +18,7 @@ schema_name: zeta_global
 sections:
   overview:
     title: Zeta Global Data Connector
-    description: The Zeta_Global Data Connector is a powerful tool that provides comprehensive
+    description: The Zeta Global Data Connector is a powerful tool that provides comprehensive
       reporting information for marketing campaigns. With this connector, you can
       easily access and analyze campaign data from various sources, allowing you to
       make data-driven decisions and optimize your marketing strategies.
@@ -26,7 +26,7 @@ sections:
   body:
     title: Visualize Your Zeta Global channel data with Growth Nirvana's Zeta Global
       Connector
-    description: The Zeta_Global Data Connector offers a seamless integration with
+    description: The Zeta Global Data Connector offers a seamless integration with
       your marketing platforms, consolidating all your campaign data in one place.
       It enables you to track and measure the performance of your marketing efforts,
       providing valuable insights into customer engagement, conversion rates, and

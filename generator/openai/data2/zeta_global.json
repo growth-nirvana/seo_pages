@@ -1,8 +1,8 @@
 {
   "name": "Zeta Global",
   "schema_name": "zeta_global",
-  "overview": "The Zeta_Global Data Connector is a powerful tool that provides comprehensive reporting information for marketing campaigns. With this connector, you can easily access and analyze campaign data from various sources, allowing you to make data-driven decisions and optimize your marketing strategies.",
-  "body": "The Zeta_Global Data Connector offers a seamless integration with your marketing platforms, consolidating all your campaign data in one place. It enables you to track and measure the performance of your marketing efforts, providing valuable insights into customer engagement, conversion rates, and ROI. With its user-friendly interface and customizable reporting features, you can quickly identify trends, spot areas for improvement, and take actionable steps to enhance your campaigns.",
+  "overview": "The Zeta Global Data Connector is a powerful tool that provides comprehensive reporting information for marketing campaigns. With this connector, you can easily access and analyze campaign data from various sources, allowing you to make data-driven decisions and optimize your marketing strategies.",
+  "body": "The Zeta Global Data Connector offers a seamless integration with your marketing platforms, consolidating all your campaign data in one place. It enables you to track and measure the performance of your marketing efforts, providing valuable insights into customer engagement, conversion rates, and ROI. With its user-friendly interface and customizable reporting features, you can quickly identify trends, spot areas for improvement, and take actionable steps to enhance your campaigns.",
   "metrics": {
     "title": "What are the most popular metrics in Zeta Global to analyze?",
     "bullets": [

@@ -43,7 +43,7 @@ layout: default
               onerror="this.onerror=null; this.src='{{ connector.icon_url }}.png'" />
             <h3 class="card-title mt-6 text-sm font-medium text-gray-900">{{ connector.name }}</h3>
             <dl class="mt-1 flex flex-grow flex-col justify-between">
-              <dd class="text-sm text-gray-500">{{ connector.sections.body.description }}</dd>
+              <dd class="text-sm text-gray-500">{{ connector.sections.body.description | truncate: 200 }}</dd>
             </dl>
           </div>
         </li>

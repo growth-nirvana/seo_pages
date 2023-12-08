@@ -7,7 +7,7 @@ description: With the Playvox data connector, support teams can easily access an
   app. This connector provides real-time insights and enables efficient decision-making,
   helping support teams optimize their performance and enhance customer satisfaction.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/playvox
 icon_url: "/assets/images/seo_pages/connectors/playvox"

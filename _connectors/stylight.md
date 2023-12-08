@@ -9,7 +9,7 @@ description: With the Stylight Data Connector, you can easily import and analyze
   campaigns, identify trends, or monitor the performance of specific products, the
   Stylight Data Connector has you covered.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/stylight
 icon_url: "/assets/images/seo_pages/connectors/stylight"

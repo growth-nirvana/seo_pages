@@ -10,7 +10,7 @@ description: With the Canny Data Connector, you can streamline your customer fee
   feedback, the Canny Data Connector ensures you have access to the most up-to-date
   and relevant information.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/canny
 icon_url: "/assets/images/seo_pages/connectors/canny"

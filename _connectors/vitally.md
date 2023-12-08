@@ -10,7 +10,7 @@ description: With the Vitally data connector, you can effortlessly connect and s
   and effort by automatically merging, cleaning, and organizing all data points, leaving
   you with accurate and actionable insights.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/vitally
 icon_url: "/assets/images/seo_pages/connectors/vitally"

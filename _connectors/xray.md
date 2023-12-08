@@ -10,7 +10,7 @@ description: Designed specifically for engineers, the Xray connector offers a ro
   control of your testing process and ensure high-quality software delivery with the
   Xray connector.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/xray
 icon_url: "/assets/images/seo_pages/connectors/xray"

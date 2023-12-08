@@ -11,7 +11,7 @@ description: With the Swoogo Data Connector, you can streamline your event manag
   attendee behavior, identify trends, and make data-driven decisions to optimize event
   performance.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/swoogo
 icon_url: "/assets/images/seo_pages/connectors/swoogo"

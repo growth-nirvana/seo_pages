@@ -10,7 +10,7 @@ description: Our UpPromote Data Connector offers a comprehensive solution for co
   key metrics, identify trends, and optimize your marketing strategies for better
   results.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/uppromote
 icon_url: "/assets/images/seo_pages/connectors/uppromote"

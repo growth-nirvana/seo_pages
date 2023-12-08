@@ -9,7 +9,7 @@ description: With the Google Ads Account connector, you can dive deeper into the
   new opportunities to maximize your advertising budget. The Google Ads Account connector
   empowers you to take your marketing efforts to the next level.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/google_ads_account
 icon_url: "/assets/images/seo_pages/connectors/google_ads_account"

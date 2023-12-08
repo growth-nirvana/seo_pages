@@ -7,7 +7,7 @@ description: With the Toggl Track data connector, you have access to comprehensi
   billable hours, and identify areas for improvement. Gain visibility into your workflow,
   streamline processes, and make data-driven decisions for enhanced productivity.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/toggl_track
 icon_url: "/assets/images/seo_pages/connectors/toggl_track"

@@ -7,7 +7,7 @@ description: With the Wherefour data connector, you can effortlessly connect you
   forecasting, and efficient data analysis. This connector eliminates the need for
   manual data entry and ensures data integrity across all your systems.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/wherefour
 icon_url: "/assets/images/seo_pages/connectors/wherefour"

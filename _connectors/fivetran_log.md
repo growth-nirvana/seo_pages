@@ -9,7 +9,7 @@ description: With the Fivetran Log Connector, you can seamlessly integrate your 
   keep track of connector performance, analyze user actions on your Fivetran dashboard,
   or gain insights from Fivetran API calls, the Log Connector has got you covered.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/fivetran_log
 icon_url: "/assets/images/seo_pages/connectors/fivetran_log"

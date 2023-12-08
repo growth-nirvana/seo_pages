@@ -8,7 +8,7 @@ description: With the Rippling Data Connector, you can easily sync and consolida
   data stored in spreadsheets, the connector ensures real-time data synchronization
   and updates, keeping your employee data accurate and up to date.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/rippling
 icon_url: "/assets/images/seo_pages/connectors/rippling"

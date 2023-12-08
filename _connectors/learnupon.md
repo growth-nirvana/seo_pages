@@ -2,13 +2,13 @@
 layout: connector
 title: Learnupon Connector - Growth Nirvana
 name: Learnupon
-description: With the learnupon data connector, you can dive deeper into your Engineering
+description: With the Learnupon data connector, you can dive deeper into your Engineering
   app's data to gain valuable insights. By connecting and consolidating various data
   sources, you can uncover patterns and trends that help you identify opportunities
   and challenges. This comprehensive analysis allows you to make informed decisions
   and take actions that lead to improved performance and growth.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/learnupon
 icon_url: "/assets/images/seo_pages/connectors/learnupon"
@@ -17,13 +17,13 @@ schema_name: learnupon
 sections:
   overview:
     title: Learnupon Data Connector
-    description: The learnupon data connector is a powerful tool that integrates seamlessly
+    description: The Learnupon data connector is a powerful tool that integrates seamlessly
       with Engineering apps. It enables you to effortlessly analyze and interpret
       data for enhanced decision-making and optimization.
     image_url: "/assets/images/seo_pages/overview.webp"
   body:
     title: Visualize Your Learnupon channel data with Growth Nirvana's Learnupon Connector
-    description: With the learnupon data connector, you can dive deeper into your
+    description: With the Learnupon data connector, you can dive deeper into your
       Engineering app's data to gain valuable insights. By connecting and consolidating
       various data sources, you can uncover patterns and trends that help you identify
       opportunities and challenges. This comprehensive analysis allows you to make

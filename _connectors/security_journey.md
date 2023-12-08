@@ -12,7 +12,7 @@ description: Our data connector simplifies the process of managing and deliverin
   systems are automatically reflected in our platform, guaranteeing that training
   remains accurate and up-to-date at all times.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/security_journey
 icon_url: "/assets/images/seo_pages/connectors/security_journey"

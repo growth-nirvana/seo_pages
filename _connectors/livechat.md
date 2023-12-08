@@ -11,7 +11,7 @@ description: With the LiveChat data connector, you can easily manage and handle 
   app, making it easier to provide exceptional customer support and deliver personalized
   experiences.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/livechat
 icon_url: "/assets/images/seo_pages/connectors/livechat"

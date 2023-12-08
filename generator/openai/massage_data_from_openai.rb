@@ -33,8 +33,8 @@ files.each do |file|
   output = {
     "name": values[0],
     "schema_name": values[1],
-    "overview": values[2],
-    "body": values[3],
+    "overview": values[2].gsub(values[1], values[0]),
+    "body": values[3].gsub(values[1], values[0]),
     "metrics": {
       "title": "What are the most popular metrics in #{values[0]} to analyze?",
       "bullets": metrics

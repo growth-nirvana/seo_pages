@@ -10,7 +10,7 @@ description: Experience the power of LaunchDarkly's software feature management 
   your deployment process. With LaunchDarkly's data connector, you can accelerate
   your development cycle and ensure optimal product quality.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/launchdarkly
 icon_url: "/assets/images/seo_pages/connectors/launchdarkly"

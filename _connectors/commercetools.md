@@ -9,7 +9,7 @@ description: This data connector provides a comprehensive solution for connectin
   By integrating commercetools with your marketing ecosystem, you can streamline your
   operations, improve data accuracy, and enhance your overall marketing performance.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/commercetools
 icon_url: "/assets/images/seo_pages/connectors/commercetools"

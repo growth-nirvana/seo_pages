@@ -8,7 +8,7 @@ description: Our Float data connector is designed to provide you with a detailed
   By visualizing this data through informative charts and reports, you can identify
   bottlenecks, optimize resource allocation, and ensure efficient project planning.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/float
 icon_url: "/assets/images/seo_pages/connectors/float"

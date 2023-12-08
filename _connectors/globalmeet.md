@@ -9,7 +9,7 @@ description: With the GlobalMeet Data Connector, you gain in-depth visibility in
   centralized dashboard, you can easily track and measure the success of your events,
   identify trends, and make data-driven decisions to improve future event strategies.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/globalmeet
 icon_url: "/assets/images/seo_pages/connectors/globalmeet"

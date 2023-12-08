@@ -9,7 +9,7 @@ description: The Buzzsprout Data Connector goes beyond traditional podcast hosti
   to dive deep into their data and gain valuable insights into audience metrics, marketing
   performance, and overall podcast growth.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/buzzsprout
 icon_url: "/assets/images/seo_pages/connectors/buzzsprout"

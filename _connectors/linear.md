@@ -9,7 +9,7 @@ description: With the Linear Data Connector, you can synchronize data between Li
   By eliminating manual data entry and minimizing the risk of data inconsistencies,
   the Linear Data Connector saves you time, reduces errors, and improves overall efficiency.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/linear
 icon_url: "/assets/images/seo_pages/connectors/linear"

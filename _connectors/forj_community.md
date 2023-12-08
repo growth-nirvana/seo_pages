@@ -8,7 +8,7 @@ description: With the Forj Community data connector, you can dive deeper into th
   connector provides you with real-time data, customizable reports, and in-depth analysis
   tools to ensure you make data-driven decisions and optimize your community's performance.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/forj_community
 icon_url: "/assets/images/seo_pages/connectors/forj_community"

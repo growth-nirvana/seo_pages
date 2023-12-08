@@ -11,7 +11,7 @@ description: Built specifically for Finance apps, Maxio_chargify offers a compre
   complexity out of billing and subscription management, allowing you to focus on
   growing your business.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/maxio_chargify
 icon_url: "/assets/images/seo_pages/connectors/maxio_chargify"

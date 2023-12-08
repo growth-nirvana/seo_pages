@@ -10,7 +10,7 @@ description: With the Employment Hero data connector, you can easily integrate y
   unlocks powerful analytics capabilities, enabling you to gain valuable insights
   from your HR data and make informed decisions that drive your business forward.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/employment_hero
 icon_url: "/assets/images/seo_pages/connectors/employment_hero"

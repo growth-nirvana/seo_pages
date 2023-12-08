@@ -9,7 +9,7 @@ description: Katana's data connector takes marketing analytics to the next level
   your marketing data, you can easily identify trends, discover valuable insights,
   and take informed actions to boost your marketing efforts.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/katana
 icon_url: "/assets/images/seo_pages/connectors/katana"

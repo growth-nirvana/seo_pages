@@ -11,7 +11,7 @@ description: With the Personio data connector, you can delve deeper into the dat
   to recruitment and talent management, the Personio data connector provides a holistic
   approach to HR analytics.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/personio
 icon_url: "/assets/images/seo_pages/connectors/personio"

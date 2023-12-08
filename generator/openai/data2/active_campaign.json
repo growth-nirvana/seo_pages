@@ -1,8 +1,8 @@
 {
   "name": "Active Campaign",
   "schema_name": "active_campaign",
-  "overview": "The active_campaign data connector is designed to seamlessly integrate your marketing campaigns into a single platform, providing you with a holistic view of your marketing efforts. By fetching all campaigns, this connector empowers you to analyze data, measure performance, and make data-driven decisions to optimize your marketing strategy.",
-  "body": "With the active_campaign data connector, you can effortlessly gather data from all your marketing campaigns. This comprehensive tool allows you to easily monitor and analyze metrics such as click-through rates, conversions, engagement, and more. By centralizing your campaign data, you can identify patterns, pinpoint areas of improvement, and refine your marketing tactics for maximum effectiveness. Whether you rely on email marketing, social media, or other channels, this connector ensures that you have a complete picture of your campaigns at your fingertips.",
+  "overview": "The Active Campaign data connector is designed to seamlessly integrate your marketing campaigns into a single platform, providing you with a holistic view of your marketing efforts. By fetching all campaigns, this connector empowers you to analyze data, measure performance, and make data-driven decisions to optimize your marketing strategy.",
+  "body": "With the Active Campaign data connector, you can effortlessly gather data from all your marketing campaigns. This comprehensive tool allows you to easily monitor and analyze metrics such as click-through rates, conversions, engagement, and more. By centralizing your campaign data, you can identify patterns, pinpoint areas of improvement, and refine your marketing tactics for maximum effectiveness. Whether you rely on email marketing, social media, or other channels, this connector ensures that you have a complete picture of your campaigns at your fingertips.",
   "metrics": {
     "title": "What are the most popular metrics in Active Campaign to analyze?",
     "bullets": [

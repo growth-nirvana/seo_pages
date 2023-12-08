@@ -8,7 +8,7 @@ description: With the Simplesat data connector, you can easily collect, analyze,
   and platforms, you can streamline your feedback management and gain valuable insights
   into customer satisfaction in real-time.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/simplesat
 icon_url: "/assets/images/seo_pages/connectors/simplesat"

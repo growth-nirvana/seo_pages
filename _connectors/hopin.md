@@ -9,7 +9,7 @@ description: With the Hopin Data Connector, you can effortlessly transfer event 
   decisions for future events. Say goodbye to data silos and experience the full potential
   of your event marketing strategies with the Hopin Data Connector.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/hopin
 icon_url: "/assets/images/seo_pages/connectors/hopin"

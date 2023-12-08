@@ -8,7 +8,7 @@ description: With the Kandji Data Connector, you can gain granular insights into
   Data Connector enables you to automate tasks and workflows, saving you valuable
   time and resources.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/kandji
 icon_url: "/assets/images/seo_pages/connectors/kandji"

@@ -10,7 +10,7 @@ description: With the Calabrio data connector, businesses can gain deep insights
   trends, track key performance indicators, and optimize their workforce for maximum
   productivity and efficiency.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/calabrio
 icon_url: "/assets/images/seo_pages/connectors/calabrio"

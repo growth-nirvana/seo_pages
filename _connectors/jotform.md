@@ -10,7 +10,7 @@ description: With Jotform Data Connector, you can dig deeper into the data colle
   interface and intuitive data visualization capabilities make it easy to navigate
   through your form data, transforming raw data into actionable insights.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/jotform
 icon_url: "/assets/images/seo_pages/connectors/jotform"

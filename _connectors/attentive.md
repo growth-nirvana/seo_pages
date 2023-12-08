@@ -10,7 +10,7 @@ description: With the Attentive Data Connector, you can easily synchronize your 
   your audience for more targeted messaging, the Attentive Data Connector has you
   covered.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/attentive
 icon_url: "/assets/images/seo_pages/connectors/attentive"

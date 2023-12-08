@@ -4,12 +4,12 @@ title: Persona Connector - Growth Nirvana
 name: Persona
 description: Our data connector provides a robust and reliable solution for integrating
   your HumanResources app with Persona. By leveraging our advanced API, you can easily
-  transfer employee data, including personal information, job details, and organizational
+  transfer employee data, including Personal information, job details, and organizational
   structure. The connector ensures a bi-directional sync, enabling real-time updates
   and eliminating the need for manual data entry. With our secure and scalable platform,
   you can streamline workflows, improve data accuracy, and enhance overall HR operations.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/persona
 icon_url: "/assets/images/seo_pages/connectors/persona"
@@ -28,7 +28,7 @@ sections:
     title: Visualize Your Persona channel data with Growth Nirvana's Persona Connector
     description: Our data connector provides a robust and reliable solution for integrating
       your HumanResources app with Persona. By leveraging our advanced API, you can
-      easily transfer employee data, including personal information, job details,
+      easily transfer employee data, including Personal information, job details,
       and organizational structure. The connector ensures a bi-directional sync, enabling
       real-time updates and eliminating the need for manual data entry. With our secure
       and scalable platform, you can streamline workflows, improve data accuracy,

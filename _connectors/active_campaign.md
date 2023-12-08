@@ -2,7 +2,7 @@
 layout: connector
 title: Active Campaign Connector - Growth Nirvana
 name: Active Campaign
-description: With the active_campaign data connector, you can effortlessly gather
+description: With the Active Campaign data connector, you can effortlessly gather
   data from all your marketing campaigns. This comprehensive tool allows you to easily
   monitor and analyze metrics such as click-through rates, conversions, engagement,
   and more. By centralizing your campaign data, you can identify patterns, pinpoint
@@ -10,7 +10,7 @@ description: With the active_campaign data connector, you can effortlessly gathe
   Whether you rely on email marketing, social media, or other channels, this connector
   ensures that you have a complete picture of your campaigns at your fingertips.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/active_campaign
 icon_url: "/assets/images/seo_pages/connectors/active_campaign"
@@ -19,7 +19,7 @@ schema_name: active_campaign
 sections:
   overview:
     title: Active Campaign Data Connector
-    description: The active_campaign data connector is designed to seamlessly integrate
+    description: The Active Campaign data connector is designed to seamlessly integrate
       your marketing campaigns into a single platform, providing you with a holistic
       view of your marketing efforts. By fetching all campaigns, this connector empowers
       you to analyze data, measure performance, and make data-driven decisions to
@@ -28,7 +28,7 @@ sections:
   body:
     title: Visualize Your Active Campaign channel data with Growth Nirvana's Active
       Campaign Connector
-    description: With the active_campaign data connector, you can effortlessly gather
+    description: With the Active Campaign data connector, you can effortlessly gather
       data from all your marketing campaigns. This comprehensive tool allows you to
       easily monitor and analyze metrics such as click-through rates, conversions,
       engagement, and more. By centralizing your campaign data, you can identify patterns,

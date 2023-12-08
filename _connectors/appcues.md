@@ -9,7 +9,7 @@ description: By connecting your engineering app to the Appcues platform, you unl
   decisions to improve user experience, increase engagement, and drive overall app
   success.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/appcues
 icon_url: "/assets/images/seo_pages/connectors/appcues"

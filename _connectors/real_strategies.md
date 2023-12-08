@@ -8,7 +8,7 @@ description: Designed to streamline marketing analytics, the Real Strategies dat
   interface, you can effortlessly view and analyze data, track key performance indicators,
   and discover trends and patterns, all in one place.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/real_strategies
 icon_url: "/assets/images/seo_pages/connectors/real_strategies"

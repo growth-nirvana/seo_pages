@@ -10,7 +10,7 @@ description: With the 15Five Data Connector, you can easily transfer data betwee
   reviews, or managing ongoing feedback, the 15Five Data Connector is designed to
   simplify your HR operations.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/15five
 icon_url: "/assets/images/seo_pages/connectors/15five"

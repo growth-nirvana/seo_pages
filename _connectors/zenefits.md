@@ -9,7 +9,7 @@ description: With the Zenefits data connector, you can easily connect your human
   with other platforms, you can access comprehensive insights and make data-driven
   decisions with ease.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/zenefits
 icon_url: "/assets/images/seo_pages/connectors/zenefits"

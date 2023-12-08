@@ -2,7 +2,7 @@
   "name": "Persona",
   "schema_name": "persona",
   "overview": "The Persona Data Connector is a seamless integration that allows HumanResources type applications to securely access and utilize the power of our identity management platform. With this connector, HR professionals can effortlessly synchronize data between their existing HR systems and Persona, ensuring accurate and up-to-date employee information across all platforms.",
-  "body": "Our data connector provides a robust and reliable solution for integrating your HumanResources app with Persona. By leveraging our advanced API, you can easily transfer employee data, including personal information, job details, and organizational structure. The connector ensures a bi-directional sync, enabling real-time updates and eliminating the need for manual data entry. With our secure and scalable platform, you can streamline workflows, improve data accuracy, and enhance overall HR operations.",
+  "body": "Our data connector provides a robust and reliable solution for integrating your HumanResources app with Persona. By leveraging our advanced API, you can easily transfer employee data, including Personal information, job details, and organizational structure. The connector ensures a bi-directional sync, enabling real-time updates and eliminating the need for manual data entry. With our secure and scalable platform, you can streamline workflows, improve data accuracy, and enhance overall HR operations.",
   "metrics": {
     "title": "What are the most popular metrics in Persona to analyze?",
     "bullets": [

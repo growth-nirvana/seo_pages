@@ -8,7 +8,7 @@ description: With the loop data connector, businesses can easily transfer sales 
   The connector also provides real-time insights into returns, allowing businesses
   to make data-driven decisions and optimize their return management strategies.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/loop
 icon_url: "/assets/images/seo_pages/connectors/loop"

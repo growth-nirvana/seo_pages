@@ -9,7 +9,7 @@ description: With the Integral Ad Science data connector, marketers can dive dee
   reporting and actionable insights, you can make data-driven decisions to maximize
   your ROI and enhance your ad campaign effectiveness.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/integral_ad_science
 icon_url: "/assets/images/seo_pages/connectors/integral_ad_science"

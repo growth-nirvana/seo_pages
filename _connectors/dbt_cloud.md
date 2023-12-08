@@ -11,7 +11,7 @@ description: dbt Cloud is a powerful and user-friendly platform that simplifies 
   empowers you to unlock the full potential of your data and make informed business
   decisions.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/dbt_cloud
 icon_url: "/assets/images/seo_pages/connectors/dbt_cloud"

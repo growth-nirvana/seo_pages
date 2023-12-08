@@ -11,7 +11,7 @@ description: This powerful data connector offers a range of features to enhance 
   your payroll software. With real-time data synchronization, you can ensure that
   your HR and workforce management processes are always in alignment.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/deputy
 icon_url: "/assets/images/seo_pages/connectors/deputy"

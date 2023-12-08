@@ -9,7 +9,7 @@ description: The Luma data connector takes event management to the next level by
   this detailed information at your fingertips, you can identify trends, spot areas
   for improvement, and make informed decisions to drive the success of your events.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/luma
 icon_url: "/assets/images/seo_pages/connectors/luma"

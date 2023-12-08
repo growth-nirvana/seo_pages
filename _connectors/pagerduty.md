@@ -11,7 +11,7 @@ description: With the PagerDuty data connector, you can effortlessly connect Pag
   can improve efficiency, reduce downtime, and enhance the overall reliability of
   your services.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/pagerduty
 icon_url: "/assets/images/seo_pages/connectors/pagerduty"

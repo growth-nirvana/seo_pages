@@ -9,7 +9,7 @@ description: With Navan's Data Connector, you can effortlessly connect your fina
   within the platform, eliminating the need for manual data entry and reducing the
   risk of errors.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/navan
 icon_url: "/assets/images/seo_pages/connectors/navan"

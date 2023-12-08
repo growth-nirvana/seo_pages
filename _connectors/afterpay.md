@@ -9,7 +9,7 @@ description: With the Afterpay data connector, you can seamlessly transfer your 
   a holistic view of your sales data across different channels, you can make data-driven
   decisions to drive business growth.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/afterpay
 icon_url: "/assets/images/seo_pages/connectors/afterpay"

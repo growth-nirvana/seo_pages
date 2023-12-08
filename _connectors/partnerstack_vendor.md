@@ -10,7 +10,7 @@ description: PartnerStack offers a user-friendly platform and software solution 
   or analyze the performance of your marketing campaigns, this connector is the perfect
   solution for streamlining your partner and affiliate efforts.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/partnerstack_vendor
 icon_url: "/assets/images/seo_pages/connectors/partnerstack_vendor"

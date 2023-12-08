@@ -1,8 +1,8 @@
 {
   "name": "Choozle",
   "schema_name": "choozle",
-  "overview": "The choozle data connector is a powerful app that allows marketers to seamlessly integrate their marketing data and gain valuable insights and analytics. With this connector, you can connect and analyze data from multiple marketing platforms in one centralized location, saving you time and effort.",
-  "body": "With the choozle data connector, you can easily access and analyze all your marketing data in a single platform. This connector supports integration with various marketing platforms such as Google Ads, Facebook Ads, Instagram Ads, and more. Gain a comprehensive view of your marketing performance and make data-driven decisions to optimize your campaigns. The intuitive interface and user-friendly features of the choozle data connector empower marketers to take control of their data analysis and improve marketing strategies.",
+  "overview": "The Choozle data connector is a powerful app that allows marketers to seamlessly integrate their marketing data and gain valuable insights and analytics. With this connector, you can connect and analyze data from multiple marketing platforms in one centralized location, saving you time and effort.",
+  "body": "With the Choozle data connector, you can easily access and analyze all your marketing data in a single platform. This connector supports integration with various marketing platforms such as Google Ads, Facebook Ads, Instagram Ads, and more. Gain a comprehensive view of your marketing performance and make data-driven decisions to optimize your campaigns. The intuitive interface and user-friendly features of the Choozle data connector empower marketers to take control of their data analysis and improve marketing strategies.",
   "metrics": {
     "title": "What are the most popular metrics in Choozle to analyze?",
     "bullets": [

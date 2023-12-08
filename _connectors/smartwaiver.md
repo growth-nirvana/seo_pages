@@ -7,7 +7,7 @@ description: By connecting Smartwaiver with your favorite productivity apps, you
   Say goodbye to time-consuming paperwork and hello to a more streamlined waiver management
   process.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/smartwaiver
 icon_url: "/assets/images/seo_pages/connectors/smartwaiver"

@@ -8,7 +8,7 @@ description: With the GetFeedback data connector, you can easily retrieve and co
   business decisions and improve your overall customer experience. You can easily
   view and analyze this data with customizable dashboards and reports.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/getfeedback
 icon_url: "/assets/images/seo_pages/connectors/getfeedback"

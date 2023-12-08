@@ -10,7 +10,7 @@ description: With Trisolute Data Connector, you can effortlessly consolidate you
   patterns, track campaign performance, and make data-driven decisions to optimize
   your marketing efforts.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/trisolute
 icon_url: "/assets/images/seo_pages/connectors/trisolute"

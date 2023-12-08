@@ -8,7 +8,7 @@ description: With JustCall's data connector, you can extract detailed insights f
   in-depth analysis empowers you to make data-driven decisions and enhance your marketing
   performance.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/justcall
 icon_url: "/assets/images/seo_pages/connectors/justcall"

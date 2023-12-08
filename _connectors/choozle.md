@@ -2,15 +2,15 @@
 layout: connector
 title: Choozle Connector - Growth Nirvana
 name: Choozle
-description: With the choozle data connector, you can easily access and analyze all
+description: With the Choozle data connector, you can easily access and analyze all
   your marketing data in a single platform. This connector supports integration with
   various marketing platforms such as Google Ads, Facebook Ads, Instagram Ads, and
   more. Gain a comprehensive view of your marketing performance and make data-driven
   decisions to optimize your campaigns. The intuitive interface and user-friendly
-  features of the choozle data connector empower marketers to take control of their
+  features of the Choozle data connector empower marketers to take control of their
   data analysis and improve marketing strategies.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/choozle
 icon_url: "/assets/images/seo_pages/connectors/choozle"
@@ -19,19 +19,19 @@ schema_name: choozle
 sections:
   overview:
     title: Choozle Data Connector
-    description: The choozle data connector is a powerful app that allows marketers
+    description: The Choozle data connector is a powerful app that allows marketers
       to seamlessly integrate their marketing data and gain valuable insights and
       analytics. With this connector, you can connect and analyze data from multiple
       marketing platforms in one centralized location, saving you time and effort.
     image_url: "/assets/images/seo_pages/overview.webp"
   body:
     title: Visualize Your Choozle channel data with Growth Nirvana's Choozle Connector
-    description: With the choozle data connector, you can easily access and analyze
+    description: With the Choozle data connector, you can easily access and analyze
       all your marketing data in a single platform. This connector supports integration
       with various marketing platforms such as Google Ads, Facebook Ads, Instagram
       Ads, and more. Gain a comprehensive view of your marketing performance and make
       data-driven decisions to optimize your campaigns. The intuitive interface and
-      user-friendly features of the choozle data connector empower marketers to take
+      user-friendly features of the Choozle data connector empower marketers to take
       control of their data analysis and improve marketing strategies.
     image_url: "/assets/images/seo_pages/body.webp"
   faq:

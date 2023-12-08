@@ -10,7 +10,7 @@ description: Designed for businesses of all sizes, the ShipHero data connector p
   finance app has up-to-date inventory and order information, allowing for accurate
   financial reporting and analysis.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/shiphero
 icon_url: "/assets/images/seo_pages/connectors/shiphero"

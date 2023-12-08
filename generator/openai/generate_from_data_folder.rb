@@ -1,4 +1,4 @@
-require_relative "generator"
+require_relative "../generator"
 
 connectors = Dir["#{__dir__}/data2/*.json"]
 

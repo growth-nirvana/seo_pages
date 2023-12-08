@@ -9,7 +9,7 @@ description: The Zeta_Global Data Connector offers a seamless integration with y
   interface and customizable reporting features, you can quickly identify trends,
   spot areas for improvement, and take actionable steps to enhance your campaigns.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/zeta_global
 icon_url: "/assets/images/seo_pages/connectors/zeta_global"

@@ -9,7 +9,7 @@ description: With the Gem data connector, you can effortlessly extract recruitme
   advanced analytics and reporting capabilities, allowing you to gain valuable insights
   into your recruitment efforts and make data-driven decisions.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/gem
 icon_url: "/assets/images/seo_pages/connectors/gem"

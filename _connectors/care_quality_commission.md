@@ -9,7 +9,7 @@ description: The CQC Data Connector goes beyond a simple data integration. It pr
   with regulatory standards, and make data-driven decisions to enhance the quality
   of care you provide.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/care_quality_commission
 icon_url: "/assets/images/seo_pages/connectors/care_quality_commission"

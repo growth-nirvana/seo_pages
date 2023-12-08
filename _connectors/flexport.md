@@ -7,7 +7,7 @@ description: Our data connector allows your finance app to directly connect with
   data. With real-time data syncing, you can access accurate and up-to-date information
   to make informed financial decisions.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/flexport
 icon_url: "/assets/images/seo_pages/connectors/flexport"

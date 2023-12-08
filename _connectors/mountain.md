@@ -9,7 +9,7 @@ description: Designed specifically for MNTN users, the Data Connector provides a
   your marketing performance. This deeper level of insight enables you to make informed
   decisions, optimize your campaigns, and maximize your return on investment.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/mountain
 icon_url: "/assets/images/seo_pages/connectors/mountain"

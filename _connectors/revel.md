@@ -9,7 +9,7 @@ description: With the Revel Systems data connector, businesses can easily connec
   view of their financial performance. By leveraging this data connector, businesses
   can streamline their financial processes, enhance decision-making, and drive growth.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/revel
 icon_url: "/assets/images/seo_pages/connectors/revel"

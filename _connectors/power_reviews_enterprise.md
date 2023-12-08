@@ -9,7 +9,7 @@ description: With the PowerReviews Enterprise data connector, you can access a c
   issues, and make informed decisions to optimize your product offerings and improve
   the overall customer experience.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/power_reviews_enterprise
 icon_url: "/assets/images/seo_pages/connectors/power_reviews_enterprise"

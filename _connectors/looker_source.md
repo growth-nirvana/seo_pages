@@ -10,7 +10,7 @@ description: With the Looker Source data connector, you can easily connect Looke
   view of your engineering operations and make data-driven decisions to improve efficiency
   and productivity.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/looker_source
 icon_url: "/assets/images/seo_pages/connectors/looker_source"

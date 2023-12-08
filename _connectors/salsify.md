@@ -9,7 +9,7 @@ description: With Salsify's data connector, you can streamline your workflow by 
   manual data entry and enabling real-time synchronization, you can save valuable
   time and avoid errors or discrepancies in your product information.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-07'
+date: '2023-12-08'
 categories: connectors
 permalink: connectors/salsify
 icon_url: "/assets/images/seo_pages/connectors/salsify"

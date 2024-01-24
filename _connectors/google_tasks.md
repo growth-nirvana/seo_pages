@@ -1,4 +1,5 @@
 ---
+published: false
 layout: connector
 title: Google Tasks Connector - Growth Nirvana
 name: Google Tasks

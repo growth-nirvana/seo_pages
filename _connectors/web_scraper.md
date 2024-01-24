@@ -1,4 +1,5 @@
 ---
+published: false
 layout: connector
 title: Web Scraper Connector - Growth Nirvana
 name: Web Scraper

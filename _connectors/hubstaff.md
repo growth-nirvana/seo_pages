@@ -1,4 +1,5 @@
 ---
+published: false
 layout: connector
 title: Hubstaff Connector - Growth Nirvana
 name: Hubstaff

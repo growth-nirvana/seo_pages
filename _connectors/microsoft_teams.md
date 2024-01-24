@@ -1,4 +1,5 @@
 ---
+published: false
 layout: connector
 title: Microsoft Teams Connector - Growth Nirvana
 name: Microsoft Teams

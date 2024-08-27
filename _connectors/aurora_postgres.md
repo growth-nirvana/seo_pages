@@ -9,7 +9,7 @@ description: With Aurora PostgreSQL, you can take advantage of the advanced feat
   performance, automatic backups, continuous monitoring, and seamless scaling to accommodate
   the needs of your growing business.
 image: "/assets/images/seo_pages/body.webp"
-date: '2023-12-08'
+date: '2024-08-27'
 categories: connectors
 permalink: connectors/aurora_postgres
 icon_url: "/assets/images/seo_pages/connectors/aurora_postgres"

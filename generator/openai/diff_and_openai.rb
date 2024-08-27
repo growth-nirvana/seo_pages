@@ -4,7 +4,7 @@ require "json"
 current_connectors = Dir["#{__dir__}/../../_connectors/*.md"]
 current_connectors.map! { |c| File.basename(c, '.md') }
 
-from_app = CSV.read("#{__dir__}/20231207-sources.csv", headers: true)
+from_app = CSV.read("#{__dir__}/20240827-sources.csv", headers: true)
 custom_from_app = CSV.read("#{__dir__}/20231207-custom-connector-sources.csv", headers: true)
 connectors_from_app = from_app.map { |row| row["schema_name"] }
 custom_connectors_from_app = custom_from_app.map { |row| row["schema_name"] }
@@ -53,6 +53,7 @@ result = to_add.map do |schema_name|
   result = `#{command}`
 
   data = JSON.parse(result)
+
   content = JSON.parse(data["choices"].first["message"]["content"])
 
   output = {

@@ -19,39 +19,27 @@ schema_name: trisolute
 sections:
   overview:
     title: Trisolute Data Connector
-    description: Trisolute Data Connector is a powerful tool that allows you to seamlessly
-      connect and integrate your marketing data from various sources into a single,
-      comprehensive news dashboard. With this connector, you can easily analyze and
-      visualize your data, gaining valuable insights to optimize your marketing strategies
-      and drive better results.
+    description: Trisolute Data Connector is a powerful news SEO tool that allows you to seamlessly connect and integrate your newsroom’s Google visibility data from the SERPs and Discover into a single, comprehensive news dashboard. With this connector, you can easily analyze and visualize your data, gaining valuable insights to optimize your newsroom SEO strategies, and drive better results.
     image_url: "/assets/images/seo_pages/overview.webp"
   body:
     title: Visualize Your Trisolute channel data with Growth Nirvana's Trisolute Connector
-    description: With Trisolute Data Connector, you can effortlessly consolidate your
-      marketing data from multiple platforms and sources such as Google Ads, Facebook
-      Ads, Google Analytics, and more. This comprehensive solution eliminates the
-      need for manual data gathering and tedious spreadsheet management, saving you
-      time and effort. By bringing all your data together in one place, you can uncover
-      hidden patterns, track campaign performance, and make data-driven decisions
-      to optimize your marketing efforts.
+    description: With Trisolute Data Connector, you can effortlessly consolidate your newsroom’s Google SERP visibility data. This comprehensive solution eliminates the need for manual data gathering and tedious spreadsheet management, saving you time and effort. By bringing all your SERP visibility data together in one place, you can analyze performance via custom keywords, uncover topic authority, and make data-driven decisions to optimize your newsroom’s search efforts.
     image_url: "/assets/images/seo_pages/body.webp"
   faq:
     title: FAQs
     questions:
     - title: What are the most popular metrics in Trisolute to analyze?
       bullets:
-      - title: Click-Through Rates
-        description: Analyze the effectiveness of ad creatives and their ability to
-          generate clicks
-      - title: Conversion Rate
-        description: Measure the percentage of visitors who take a desired action
-          on your website
-      - title: Cost per Acquisition
-        description: Calculate the average cost of acquiring a customer
-      - title: Return on Ad Spend
-        description: Determine the profitability of your advertising campaigns
-      - title: Website Traffic
-        description: Monitor the volume and quality of traffic coming to your website
+      - title: Google News
+        description: Track which articles perform best, for both your newsroom and your competitors.
+      - title: Mobile visibility overall
+        description: Monitor your newsroom’s current and historical Google visibility performance on mobile, along with competitor performance.
+      - title: Desktop visibility overall
+        description: Monitor your newsroom’s current and historical Google visibility performance on desktop, along with competitor performance.
+      - title: Real-time rankings
+        description: Track breaking news and live blog performance in real time with the Action View 2.0 report.
+      - title: Google Discover
+        description: Uncover topic authority patterns by analyzing Discover performance data, cross-referenced with SERP performance.
     - title: Why analyze Trisolute?
       bullets:
       - title: Targeted Advertising
